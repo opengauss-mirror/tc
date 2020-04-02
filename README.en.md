@@ -1,8 +1,8 @@
-# tsc
+# tc
 
 #### Description
 
-openGauss Technical Steering Committee which provides technical guidance for openGauss community development.
+openGauss Technical Committee which provides technical guidance for openGauss community development.
 
 #### Members
 
