@@ -1,0 +1,52 @@
+community: "opengauss"
+repositories:
+- name: openGauss-server
+  description: "openGauss kernel"
+  protected_branches:
+  - master
+  type: private
+- name: openGauss-third_party
+  description: "openGauss third party libraries"
+  protected_branches:
+  - master
+  type: private
+- name: openGauss-connector-jdbc
+  description: "openGauss jdbc connector"
+  protected_branches:
+  - master
+  type: private
+- name: openGauss-connector-odbc
+  description: "openGauss odbc connector"
+  protected_branches:
+  - master
+  type: private
+- name: infra
+  description: "openGauss infrastructure"
+  protected_branches:
+  - master
+  type: public
+- name: website
+  description: "openGauss official website"
+  protected_branches:
+  - master
+  type: public
+- name: blog
+  description: "openGauss official blog"
+  protected_branches:
+  - master
+  type: public
+- name: community
+  description: "openGauss community"
+  protected_branches:
+  - master
+  type: public
+- name: sc
+  description: "openGauss security committee"
+  protected_branches:
+  - master
+  type: public
+- name: tc
+  description: "openGauss technical committee"
+  protected_branches:
+  - master
+  type: public
