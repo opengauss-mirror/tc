@@ -1,0 +1,33 @@
+sigs:
+- name: SQLEngine
+  repositories:
+  - openGauss-server
+  - openGauss-third_party
+- name: StorageEngine
+  repositories:
+  - openGauss-server
+  - openGauss-third_party
+- name: Connectors
+  repositories:
+  - openGauss-server
+  - openGauss-third_party
+  - openGauss-connector-jdbc
+  - openGauss-connector-odbc
+- name: Tools
+  repositories:
+  - openGauss-server
+  - openGauss-third_party
+- name: Infa
+  repositories:
+  - infra
+  - website
+  - blog
+  - community
+- name: Docs
+  repositories:
+  - docs
+  - community
+- name: SC
+  repositories:
+  - sc
+
