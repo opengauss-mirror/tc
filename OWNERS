@@ -1,9 +1,9 @@
 maintainers:
   - pikeTWG
 committers:
-  - wn952000
-  - jeffee
-  - lishifu_db
-  - jinyu_opengauss
-  - stanleyren
   - guoliang_li
+  - lishifu_db
+  - jeffee
+  - stanleyren
+  - wn952000
+  - jinyu_opengauss
