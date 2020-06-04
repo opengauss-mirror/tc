@@ -27,6 +27,6 @@ sigs:
   repositories:
   - docs
   - community
-- name: SC
+- name: Security
   repositories:
-  - sc
+  - security

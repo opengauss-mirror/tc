@@ -40,8 +40,8 @@ repositories:
   protected_branches:
   - master
   type: public
-- name: sc
-  description: "openGauss security committee"
+- name: security
+  description: "openGauss security"
   protected_branches:
   - master
   type: public
