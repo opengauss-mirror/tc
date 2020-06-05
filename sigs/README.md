@@ -12,3 +12,4 @@
     | Tools | 负责openGauss社区工具的开发和维护。 |
     | Docs | 负责openGauss社区文档的开发和维护。 |
     | Infra | 负责openGauss社区基础设施的开发和维护。 |
+    | Security | 负责openGauss社区安全的开发和维护。 |

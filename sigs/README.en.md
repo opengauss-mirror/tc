@@ -12,3 +12,4 @@
     | Tools | Develop and maintain the tools of the openGauss community. |
     | Docs | Develop and maintain the documents of the openGauss community. |
     | Infra | Develop and maintain the infrastructure of the openGauss community. |
+    | Security | Develop and maintain the security of the openGauss community. |
