@@ -2,11 +2,15 @@
 
 开发：
 - https://gitee.com/opengauss
+
 CI构建：
 - https://jenkins.opengauss.org
+
 门户：
 - https://opengauss.org
-邮箱：https://mailweb.opengauss.org
+
+邮箱：
+- https://mailweb.opengauss.org
 
 # 组织会议
 
