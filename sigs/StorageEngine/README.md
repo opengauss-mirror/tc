@@ -29,8 +29,8 @@ CI构建：
 
 # 联系方式
 - [开发邮箱](community@opengauss.org)
-- [邮件列表]
-- [IRC公开会议]
+- 邮件列表
+- IRC公开会议
 - 视频会议
 
 
