@@ -1,16 +1,5 @@
 # SQLEngine
-
-开发：
-- https://gitee.com/opengauss
-
-CI构建：
-- https://jenkins.opengauss.org
-
-门户：
-- https://opengauss.org
-
-邮箱：
-- https://mailweb.opengauss.org
+SQLEngine TC致力于提升openGauss的SQL支持能力、执行效率，为用户提供丰富语法支持，满足用户多方面业务需求。
 
 # 组织会议
 
@@ -24,11 +13,9 @@ CI构建：
 
 ### Committer列表
 
-- 
-
 
 # 联系方式
-- [开发邮箱](community@opengauss.org)
+- [开发邮箱](sqlengine@opengauss.org)
 - 邮件列表
 - IRC公开会议
 - 视频会议
