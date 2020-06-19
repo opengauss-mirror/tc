@@ -2,28 +2,25 @@
 
 # Tools
 
-*<必选，请在此描述SIG的范围、工作职责>*
+openGauss周边工具的长期发展和演进
 
 
 # 组织会议
 
-- 公开的会议时间：北京时间，每周X 下午，XX点~XX点
-
-*<可选，请在此给出SIG会议的时间，如SIG的公开会议时间还未确定，可以放到确定以后刷新>*
+- 公开的会议时间：北京时间，每周四下午，16点30~17点30
 
 
 # 成员
 
-*<必选，请在此给出团队成员的列表>*
 
 ### Maintainer列表
 
-- name[@giteeID](giteeID链接)，*邮箱地址*
+muting@jeffee，muting@huawei.com
 
 
 ### Committer列表
 
-- name[@giteeID](giteeID链接)，*邮箱地址*
+zhoubin@justbk，249396768@qq.com
 
 
 # 联系方式
@@ -41,7 +38,5 @@
 
 仓库地址：
 
-- https://gitee.com/opengauss/yourrepository1
-
-- https://gitee.com/opengauss/yourrepository2
+https://gitee.com/opengauss/openGauss-server
 
