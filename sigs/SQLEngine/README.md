@@ -1,5 +1,5 @@
 # SQLEngine
-SQLEngine TC致力于提升openGauss的SQL支持能力、执行效率，为用户提供丰富语法支持，满足用户多方面业务需求。
+SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用户提供丰富语法支持，满足用户多方面业务需求。
 
 # 组织会议
 
