@@ -24,7 +24,7 @@ CI构建：
 
 ### Committer列表
 
-- lishifu[@lishifu_db](https://gitee.com/lishifu_db)，*lishifu@huawei.com*
+- 
 
 
 # 联系方式
