@@ -25,7 +25,7 @@
 
 # 联系方式
 
-- [邮件列表](connectors@opengauss.org)
+- [邮件列表](https://mailweb.opengauss.org/postorius/lists/connectors.opengauss.org/)
 
 
 
