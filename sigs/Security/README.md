@@ -1,47 +1,40 @@
-***注意：本文档所有的斜体内容，请在完成时删除***
-
 # Security
-
-*<必选，请在此描述SIG的范围、工作职责和目标>*
-
+Security SIG负责接受和响应openGauss产品安全问题报告，提供社区安全指导，开展安全治理的组织，致力于为openGauss用户提供最安全的产品和开发环境。主要工作职责包括：
+制定完善的安全流程：确保社区有一套完善可靠的安全处理流程
+响应安全问题：响应上报的安全问题，跟踪安全问题的处理进展，并遵循安全问题批露策略对安全问题在社区内进行披露和公告
+漏洞修复：确保及时修复openGauss社区已知漏洞
+安全能力演进：推动产品安全能力持续演进，提供完善的安全机制
+参与代码审核：通过代码审核帮助团队提前发现代码中的漏洞
 
 # 组织会议
 
-- 公开的会议时间：北京时间，每周X 下午，XX点~XX点
-
-*<可选，请在此给出SIG会议的时间，如SIG的公开会议时间还未确定，可以放到确定以后刷新>*
-
+- 公开的会议时间：北京时间，每周三下午，17点00~18点00
 
 # 成员
-
-*<必选，请在此给出团队成员的列表>*
-
 ### Maintainer列表
 
-- name[@giteeID](giteeID链接)，*邮箱地址*
+- zhujinwei[@zhu_jinwei](https://gitee.com/zhu_jinwei)，*zhujinwei@huawei.com*
 
 
 ### Committer列表
 
-- name[@giteeID](giteeID链接)，*邮箱地址*
+- zhangyaozhong[@buter](https://gitee.com/buter), *zhangyaozhong1@huawei.com*
 
+- lijianfeng[@bufee](https://gitee.com/bufee), *bigtimer@qq.com*
+
+- guoliang[@blueloveki](https://gitee.com/blueloveki), *liang4358@163.com*
 
 # 联系方式
-
-*<如果需要单独申请邮件列表，请在此补充邮箱名称：yousigname@opengauss.org。如果不需要，请写上开发邮箱名称：community@opengauss.org>*
-
-- [邮件列表](yoursigname@opengauss.org)
-- [IRC公开会议]()
-- 视频会议
-
+- [邮件列表](security@opengauss.org)
+- 邮件列表
+- IRC公开会议
 
 # 仓库清单
 
-*<可选，如果在申请SIG的时候，就有新仓库，请完善此处内容。仓库名称和申请表格一致，仓库地址和repos.yaml内的申请地址一致>*
-
 仓库地址：
 
-- https://gitee.com/opengauss/yourrepository1
+- https://gitee.com/opengauss/openGauss-server
 
-- https://gitee.com/opengauss/yourrepository2
+- https://gitee.com/opengauss/openGauss-third_party
 
+- https://gitee.com/opengauss/security
