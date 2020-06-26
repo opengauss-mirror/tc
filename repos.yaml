@@ -35,6 +35,11 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: docs
+  description: "openGauss documentation"
+  protected_branches:
+  - master
+  type: public
 - name: community
   description: "openGauss community"
   protected_branches:
