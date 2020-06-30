@@ -4,22 +4,22 @@ repositories:
   description: "openGauss kernel"
   protected_branches:
   - master
-  type: private
+  type: public
 - name: openGauss-third_party
   description: "openGauss third party libraries"
   protected_branches:
   - master
-  type: private
+  type: public
 - name: openGauss-connector-jdbc
   description: "openGauss jdbc connector"
   protected_branches:
   - master
-  type: private
+  type: public
 - name: openGauss-connector-odbc
   description: "openGauss odbc connector"
   protected_branches:
   - master
-  type: private
+  type: public
 - name: infra
   description: "openGauss infrastructure"
   protected_branches:
