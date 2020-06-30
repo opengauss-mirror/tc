@@ -10,12 +10,13 @@
 
 # 成员
 ### Maintainer列表
-- stanley[@stanleyren](https://gitee.com/stanleyren)，*stanleyren_china@outlook.com*
-- zhangjinyu[@jinyu_opengauss](https://gitee.com/jinyu_opengauss)，*Jinyu_gaussdb@163.com*
+- Stanley[@stanleyren](https://gitee.com/stanleyren)，*stanleyren_china@outlook.com*
+- Zhangjinyu[@jinyu_opengauss](https://gitee.com/jinyu_opengauss)，*Jinyu_gaussdb@163.com*
 
 ### Committer列表
 - Pufuan[@xixicat](https://gitee.com/xixicat),*pu.fuan@139.com*
 - Vinoth[@vinothv](https://gitee.com/vinothv),*vinoth.veeraraghavan@hotmail.com*
+- Lishuaituan[@lishuaituan](https://gitee.com/lishuaituan),*hw.lishuaituan@huawei.com*
 
 
 # 联系方式
