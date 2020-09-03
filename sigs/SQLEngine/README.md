@@ -13,10 +13,11 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 
 ### Committer列表
 
+- 刘伟[@llzx373](https://gitee.com/llzx373)，*llzx373@hotmail.com*
+- 李宏达[@lee1002](https://gitee.com/lee1002)，*hongda.li@enmotech.com*
 
 # 联系方式
-- [开发邮箱](sqlengine@opengauss.org)
-- 邮件列表
+- [邮件列表](sqlengine@opengauss.org)
 - IRC公开会议
 - 视频会议
 
