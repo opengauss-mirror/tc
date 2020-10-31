@@ -24,7 +24,7 @@ openGauss开源社区技术委员会（Technical Committee，简称TC）是openG
 * 穆廷[[@jeffee](https://gitee.com/jeffee)]
 * 任阳[[@stanleyren](https://gitee.com/stanleyren)]
 * 罗琪[[@eric-hw-luo](https://gitee.com/eric-hw-luo)]
-* 张金玉[[@jinyu_opengauss](https://gitee.com/jinyu_opengauss)]
+* 周平高[[@zankyfun4](https://gitee.com/zankyfun4)]
 
 TC成员任期一年，任期结束前一个月，由openGauss发起方重新任命。TC成员因个人原因申请离任的，应通知全体TC成员；经TC例会决策，可强制离任社区投入不足的TC成员；
 
