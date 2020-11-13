@@ -30,3 +30,6 @@ sigs:
 - name: Security
   repositories:
   - security
+- name: OM
+  repositories:
+  - openGauss-OM
