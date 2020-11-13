@@ -55,3 +55,8 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: openGauss-OM
+  description: "openGauss operation and maintenance"
+  protected_branches:
+  - master
+  type: public
