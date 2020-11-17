@@ -16,8 +16,8 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 
 - 刘伟[@llzx373](https://gitee.com/llzx373)，*llzx373@hotmail.com*
 - 李宏达[@lee1002](https://gitee.com/lee1002)，*hongda.li@enmotech.com*
-- scarbor_fair[@scarbor_fair](https://gitee.com/scarbor_fair)�?*yupeng@vastdata.com.cn*
-- ������[@hemny](https://gitee.com/hemny)�?*liaomd@vastdata.com.cn*
+- scarbor_fair[@scarbor_fair](https://gitee.com/scarbor_fair)，*yupeng@vastdata.com.cn*
+- 廖美东[@hemny](https://gitee.com/hemny)，*liaomd@vastdata.com.cn*
 
 # 联系方式
 - [邮件列表](sqlengine@opengauss.org)
@@ -33,4 +33,3 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 - https://gitee.com/opengauss/openGauss-server
 
 - https://gitee.com/opengauss/openGauss-third_party
-
