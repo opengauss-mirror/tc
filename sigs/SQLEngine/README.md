@@ -9,12 +9,15 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 ### Maintainer列表
 
 - lishifu[@lishifu_db](https://gitee.com/lishifu_db)，*lishifu@huawei.com*
+- zankyfun4[@zankyfun4](https://gitee.com/zankyfun4)，*zhoupinggao@huawei.com*
 
 
 ### Committer列表
 
 - 刘伟[@llzx373](https://gitee.com/llzx373)，*llzx373@hotmail.com*
 - 李宏达[@lee1002](https://gitee.com/lee1002)，*hongda.li@enmotech.com*
+- scarbor_fair[@scarbor_fair](https://gitee.com/scarbor_fair)�?*yupeng@vastdata.com.cn*
+- ������[@hemny](https://gitee.com/hemny)�?*liaomd@vastdata.com.cn*
 
 # 联系方式
 - [邮件列表](sqlengine@opengauss.org)
