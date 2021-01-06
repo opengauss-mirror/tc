@@ -31,7 +31,7 @@
 ### Committer列表
 
 - xiangxinyong [@xiangxinyong](https://gitee.com/xiangxinyong), *xiangxingyong@qq.com*
-
+- zhangxubo [@zhang_xubo](https://gitee.com/zhang_xubo), *zhangxubo1@huawei.com*
 
 # 联系方式
 
