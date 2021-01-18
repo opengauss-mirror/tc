@@ -22,6 +22,7 @@ SIG DOCS致力于提供openGauss各类技术文档、教程等形式的完整内
 
 - liyang[@liyang0608](https://gitee.com/liyang0608)，*554903772@qq.com*
 - lijun[@li-jun056](https://gitee.com/li-jun056)，*1255728208@qq.com*
+- Info[infomation1](https://gitee.com/infomation1)，*docs66@outlook.com*
 
 
 # 联系方式
