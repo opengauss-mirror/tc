@@ -8,11 +8,12 @@ OM SIG 致力于openGauss的安装、维护。
 # 成员
 ### Maintainer列表
 
-- lishifu[@lishifu_db](https://gitee.com/lishifu_db)，*lishifu@huawei.com*
+- lishifu[@lishifu_db](https://gitee.com/lishifu_db), *lishifu@huawei.com*
 
 
 ### Committer列表
 
+- hangjin[@hangjin2020](https://gitee.com/hangjin2020), *850894759@qq.com*
 
 # 联系方式
 - [邮件列表](om@opengauss.org)

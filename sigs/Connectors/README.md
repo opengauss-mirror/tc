@@ -15,10 +15,12 @@
 
 ### Maintainer列表
 
-- tianwengang [@pikeTWG](https://gitee.com/pikeTWG), *tianwengang@huawei.com*
+- tianwengang[@pikeTWG](https://gitee.com/pikeTWG), *tianwengang@huawei.com*
 
 
 ### Committer列表
+
+- yanghao[@yanghaos](https://gitee.com/yanghaos), *yanghao37@huawei.com*
 
 
 
