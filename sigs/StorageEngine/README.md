@@ -14,7 +14,6 @@
 - Zhangjinyu[@jinyu_opengauss](https://gitee.com/jinyu_opengauss)，*Jinyu_gaussdb@163.com*
 
 ### Committer列表
-- Pufuan[@xixicat](https://gitee.com/xixicat),*pu.fuan@139.com*
 - Vinoth[@vinothv](https://gitee.com/vinothv),*vinoth.veeraraghavan@hotmail.com*
 - Lishuaituan[@lishuaituan](https://gitee.com/lishuaituan),*hw.lishuaituan@huawei.com*
 
