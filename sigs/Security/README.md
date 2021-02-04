@@ -20,7 +20,7 @@ Security SIG负责接受和响应openGauss产品安全问题报告，提供社�
 
 - zhangyaozhong[@buter](https://gitee.com/buter), *zhangyaozhong1@huawei.com*
 
-- lijianfeng[@bufee](https://gitee.com/bufee), *bigtimer@qq.com*
+- lijianfeng[@jianfenglee](https://gitee.com/jianfenglee), *bigtimer@qq.com*
 
 - guoliang[@blueloveki](https://gitee.com/blueloveki), *liang4358@163.com*
 
