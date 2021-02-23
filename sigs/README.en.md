@@ -15,3 +15,4 @@
     | Security | Develop and maintain the security of the openGauss community. |
     | OM | operation and maintenance of the openGauss community. |
     | IoT | Develop and maintain the IoT capability of openGauss community. |
+    | In-place Update | Develop and maintain the in-place update engine of the openGauss community. |
