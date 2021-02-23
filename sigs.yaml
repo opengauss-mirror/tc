@@ -33,3 +33,7 @@ sigs:
 - name: OM
   repositories:
   - openGauss-OM
+- name: IoT
+  repositories:
+  - openGauss-server
+  - openGauss-third_party
