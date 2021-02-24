@@ -37,3 +37,7 @@ sigs:
   repositories:
   - openGauss-server
   - openGauss-third_party
+- name: In-place-Update
+  repositories:
+  - openGauss-server
+  - openGauss-third_party
