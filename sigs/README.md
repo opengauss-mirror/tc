@@ -14,5 +14,6 @@
     | Infra | 负责openGauss社区基础设施的开发和维护。 |
     | Security | 负责openGauss社区安全的开发和维护。 |
     | OM | 负责openGauss社区部署和维护。 |
+    | AI | 负责openGauss社区AI的开发和维护。 |
     | IoT | 负责openGauss社区IoT能力的开发和维护。 |
     | In-place Update | 负责openGauss社区in-place update的开发和维护。 |
