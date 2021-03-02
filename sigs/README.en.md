@@ -14,5 +14,6 @@
     | Infra | Develop and maintain the infrastructure of the openGauss community. |
     | Security | Develop and maintain the security of the openGauss community. |
     | OM | operation and maintenance of the openGauss community. |
+    | AI | Develop and maintain the AI capability of the openGauss community. |
     | IoT | Develop and maintain the IoT capability of openGauss community. |
     | In-place Update | Develop and maintain the in-place update engine of the openGauss community. |
