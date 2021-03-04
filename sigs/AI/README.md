@@ -13,14 +13,14 @@ AI SIG 致力于openGauss的能力的开发和维护，包括AI4DB数据库智�
 
 ### Committer列表
 
-- wangtianqing[@wangg-tq](https://gitee.com/wang-tq), *wangtianqing2@huawei.com*
+- wangtianqing[@wang-tq](https://gitee.com/wang-tq), *wangtianqing2@huawei.com*
 - 孙佶[@greatji](https://gitee.com/greatji), *sun-j16@mails.tsinghua.edu.cn*
 - 周煊赫[@xuanhe](https://gitee.com/xuanhe), *zhouxuan19@mails.tsinghua.edu.cn*
 - 余翔[@yxfish13](https://gitee.com/yxfish13), *yxfish13@mails.tsinghua.edu.cn*
 - 夏康[@excaliburxk](https://gitee.com/excaliburxk), *excaliburxk@qq.com*
 
 # 联系方式
-- [邮件列表](om@opengauss.org)
+- [邮件列表](ai@opengauss.org)
 - IRC公开会议
 - 视频会议
 
