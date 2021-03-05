@@ -25,7 +25,7 @@ Security SIG负责接受和响应openGauss产品安全问题报告，提供社�
 - guoliang[@blueloveki](https://gitee.com/blueloveki), *liang4358@163.com*
 
 # 联系方式
-- [邮件列表](security@opengauss.org)
+- [邮件列表](https://mailweb.opengauss.org/postorius/lists/securityannounce.opengauss.org/)
 - 邮件列表
 - IRC公开会议
 

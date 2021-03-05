@@ -20,7 +20,7 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 - 廖美东[@hemny](https://gitee.com/hemny)，*liaomd@vastdata.com.cn*
 
 # 联系方式
-- [邮件列表](sqlengine@opengauss.org)
+- [邮件列表](https://mailweb.opengauss.org/postorius/lists/sqlengine.opengauss.org/)
 - IRC公开会议
 - 视频会议
 

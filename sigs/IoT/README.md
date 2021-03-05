@@ -18,7 +18,7 @@ IoT SIG 致力于openGauss IoT能力拓展，及相关技术的引入、开发�
 - 赵波[@bzhaoop](https://gitee.com/bzhaoop), *270162781@qq.com*
 
 # 联系方式
-- [邮件列表](iot@opengauss.org)
+- [邮件列表](https://mailweb.opengauss.org/postorius/lists/iot.opengauss.org/)
 - IRC公开会议
 - 视频会议
 
