@@ -32,11 +32,12 @@
 
 - xiangxinyong [@xiangxinyong](https://gitee.com/xiangxinyong), *xiangxingyong@qq.com*
 - zhangxubo [@zhang_xubo](https://gitee.com/zhang_xubo), *zhangxubo1@huawei.com*
+- zhengyuhang [@zhengyuhanghans](https://gitee.com/zhengyuhanghans), *zhengyuhang@huawei.com*
 
 # 联系方式
 
 
-- [邮件列表](https://mailweb.opengauss.org/postorius/lists/infra.opengauss.org)
+- [邮件列表](https://mailweb.opengauss.org/postorius/lists/infra.opengauss.org/)
 - [IRC公开会议](https://webchat.freenode.net/#opengauss-infra)
 - 视频会议
 

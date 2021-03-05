@@ -20,7 +20,7 @@ AI SIG 致力于openGauss的能力的开发和维护，包括AI4DB数据库智�
 - 夏康[@excaliburxk](https://gitee.com/excaliburxk), *excaliburxk@qq.com*
 
 # 联系方式
-- [邮件列表](ai@opengauss.org)
+- [邮件列表](https://mailweb.opengauss.org/postorius/lists/ai.opengauss.org/)
 - IRC公开会议
 - 视频会议
 

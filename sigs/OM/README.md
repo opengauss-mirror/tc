@@ -16,7 +16,7 @@ OM SIG 致力于openGauss的安装、维护。
 - hangjin[@hangjin2020](https://gitee.com/hangjin2020), *850894759@qq.com*
 
 # 联系方式
-- [邮件列表](om@opengauss.org)
+- [邮件列表](https://mailweb.opengauss.org/postorius/lists/om.opengauss.org/)
 - IRC公开会议
 - 视频会议
 
