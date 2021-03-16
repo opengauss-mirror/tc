@@ -22,6 +22,7 @@ openGauss工具生态的长期规划，发展和演进。
 - zhoubin[@justbk](https://gitee.com/justbk)，*249396768@qq.com*
 - xiongxiaojun[@xiong_xjun](https://gitee.com/xiong_xjun)，*xiong_xiaojun@yeah.net*
 - zhaowenhao[@yang558](https://gitee.com/yang558)，*545612025@qq.com*
+- pengjiong[@totaj](https://gitee.com/totaj) *pengjiong1@huawei.com*
 
 # 联系方式
 
