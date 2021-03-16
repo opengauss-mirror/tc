@@ -21,7 +21,7 @@
 ### Committer列表
 
 - yanghao[@yanghaos](https://gitee.com/yanghaos), *yanghao37@huawei.com*
-
+- liubin[@travelliu](https://gitee.com/travelliu), *travel.liu@outlook.com*
 
 
 
@@ -40,4 +40,5 @@
 - https://gitee.com/opengauss/openGauss-third_party
 - https://gitee.com/opengauss/openGauss-connector-jdbc
 - https://gitee.com/opengauss/openGauss-connector-odbc
+- https://gitee.com/opengauss/openGauss-connector-go-pq
 

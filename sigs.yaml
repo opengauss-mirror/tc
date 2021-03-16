@@ -13,6 +13,7 @@ sigs:
   - openGauss-third_party
   - openGauss-connector-jdbc
   - openGauss-connector-odbc
+  - openGauss-connector-go-pq
 - name: Tools
   repositories:
   - openGauss-server
