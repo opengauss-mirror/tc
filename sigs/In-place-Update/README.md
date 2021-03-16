@@ -22,6 +22,8 @@ In-place Update引擎旨在通过原地更新解决数据和索引膨胀问题, 
 - 周伟[@pascal_zhou](https://gitee.com/pascal_zhou)，*pascal_zhou@cmbchina.com*
 - 吴斯亮[@wu-siliang](https://gitee.com/wu-siliang)，*wusiliang@cmbchina.com*
 - 林科旭[@kexulin](https://gitee.com/kexulin)，*linkexu66@outlook.com*
+- Sherman Lau[@ming_opengauss](https://gitee.com/ming_opengauss) *sherman.lau@huawei.com*
+- Ronen Grosman[@roneng](https://gitee.com/roneng) *ronen.grosman@huawei.com*
 
 
 # 联系方式
