@@ -60,3 +60,9 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: openGauss-connector-go-pq
+  description: "openGauss go pq connector"
+  protected_branches:
+  - master
+  type: public
+
