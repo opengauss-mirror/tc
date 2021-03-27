@@ -23,7 +23,7 @@ TC consists of a chair and multiple members. The total number of TC members, inc
 * tianwengang[[@pikeTWG](https://gitee.com/pikeTWG)]    # Chair
 * liguoliang[[@guoliang_li](https://gitee.com/guoliang_li)]
 * lishifu[[@lishifu_db](https://gitee.com/lishifu_db)]
-* muting[[@jeffee](https://gitee.com/jeffee)]
+* huzhengce[[@huzhengce](https://gitee.com/huzhengce)]
 * renyang[[@stanleyren](https://gitee.com/stanleyren)]
 * luoqi[[@eric-hw-luo](https://gitee.com/eric-hw-luo)]
 * zhoupinggao[[@zankyfun4](https://gitee.com/zankyfun4)]

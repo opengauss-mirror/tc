@@ -21,7 +21,7 @@ openGauss开源社区技术委员会（Technical Committee，简称TC）是openG
 * 田文罡[[@pikeTWG](https://gitee.com/pikeTWG)]    # 主席
 * 李国良[[@guoliang_li](https://gitee.com/guoliang_li)]
 * 李士福[[@lishifu_db](https://gitee.com/lishifu_db)]
-* 穆廷[[@jeffee](https://gitee.com/jeffee)]
+* 胡正策[[@huzhengce](https://gitee.com/huzhengce)]
 * 任阳[[@stanleyren](https://gitee.com/stanleyren)]
 * 罗琪[[@eric-hw-luo](https://gitee.com/eric-hw-luo)]
 * 周平高[[@zankyfun4](https://gitee.com/zankyfun4)]
