@@ -7,27 +7,27 @@ SIG DOCS致力于提供openGauss各类技术文档、教程等形式的完整内
 
 # 组织会议
 
-公开的会议时间：北京时间，每双周一下午，16:00点~17:30点
+公开的会议时间：北京时间 每双周三 17:00-18:00
 
 # 成员
 
 
 ### Maintainer列表
 
-- kangyang[@ylfan96](https://gitee.com/ylfan96)，*kangyang@huawei.com*
-- gongsiyi[@gongsiyi150](https://gitee.com/gongsiyi150)，*gongsiyi@qq.com*
+- 康阳[@ylfan96](https://gitee.com/ylfan96)，*kangyang@huawei.com*
+- 龚思夷[@gongsiyi150](https://gitee.com/gongsiyi150)，*gongsiyi@qq.com*
 
 
 ### Committer列表
 
-- liyang[@liyang0608](https://gitee.com/liyang0608)，*554903772@qq.com*
-- lijun[@li-jun056](https://gitee.com/li-jun056)，*1255728208@qq.com*
-- Info[infomation1](https://gitee.com/infomation1)，*docs66@outlook.com*
+- 李杨[@liyang0608](https://gitee.com/liyang0608)，*554903772@qq.com*
+- 李君[@li-jun056](https://gitee.com/li-jun056)，*1255728208@qq.com*
+- 姜楠[infomation1](https://gitee.com/infomation1)，*docs66@outlook.com*
 
 
 # 联系方式
 
-[邮件列表](https://mailweb.opengauss.org/postorius/lists/docs.opengauss.org/)
+- [邮件列表](https://mailweb.opengauss.org/postorius/lists/docs.opengauss.org/)
 
 
 # 仓库清单

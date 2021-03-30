@@ -5,24 +5,29 @@
 
 
 # 组织会议
-- 公开的会议时间：北京时间，每周四下午，16点30~17点30
+
+- 公开的会议时间：北京时间 每双周四 17:00-18:00
 
 
 # 成员
+
 ### Maintainer列表
-- Stanley[@stanleyren](https://gitee.com/stanleyren)，*stanleyren_china@outlook.com*
-- Zhangjinyu[@jinyu_opengauss](https://gitee.com/jinyu_opengauss)，*Jinyu_gaussdb@163.com*
+- 王磊[@nonolili527](https://gitee.com/nonolili527)，*wanglei110@huawei.com*
+- 李恒[@liheng188](https://gitee.com/nonolili527)，*liheng37@huawei.com*
+- 张金玉[@jinyu_opengauss](https://gitee.com/jinyu_opengauss)，*Jinyu_gaussdb@163.com*
 
 ### Committer列表
 - Vinoth[@vinothv](https://gitee.com/vinothv),*vinoth.veeraraghavan@hotmail.com*
-- Lishuaituan[@lishuaituan](https://gitee.com/lishuaituan),*hw.lishuaituan@huawei.com*
-
+- 李帅团[@lishuaituan](https://gitee.com/lishuaituan),*hw.lishuaituan@huawei.com*
+- 熊小军[@xiong_xjun](https://gitee.com/xiong_xjun),*xiong_xiaojun@yeah.net*
+- 徐春阳[@garyxu2014](https://gitee.com/garyxu2014),*springsun.xu@126.com*
 
 # 联系方式
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/storageengine.opengauss.org/)
 
 
 # 仓库清单
+
 仓库地址：
 - https://gitee.com/opengauss/openGauss-server
 - https://gitee.com/opengauss/openGauss-third_party
