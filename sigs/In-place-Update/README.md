@@ -7,9 +7,11 @@ In-place Update存储模式提供“原地更新”能力，主要思路是将�
 
 
 # 组织会议
-- 公开的会议时间：北京时间，每周四下午，16点30~17点30
+
+- 公开的会议时间：北京时间 每双周二 17:00-18:00
 
 # 成员
+
 ### Maintainer列表
 - 王江[@wang-jingle](https://gitee.com/wang-jingle)，*wangjiang16@huawei.com*
 - 李强[@powerqy](https://gitee.com/powerqy)，*powerqy@gmail.com*
@@ -26,10 +28,12 @@ In-place Update存储模式提供“原地更新”能力，主要思路是将�
 
 
 # 联系方式
+
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/inplaceupdate.opengauss.org/)
 
 
 # 仓库清单
+
 仓库地址：
 - https://gitee.com/opengauss/openGauss-server
 - https://gitee.com/opengauss/openGauss-third_party

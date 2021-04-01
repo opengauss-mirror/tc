@@ -8,26 +8,26 @@ Security SIG负责接受和响应openGauss产品安全问题报告，提供社�
 
 # 组织会议
 
-- 公开的会议时间：北京时间，每周三下午，17点00~18点00
+- 公开的会议时间：北京时间 每双周三 17:00-18:00
 
 # 成员
+
 ### Maintainer列表
 
-- zhujinwei[@zhu_jinwei](https://gitee.com/zhu_jinwei)，*zhujinwei@huawei.com*
+- 朱金伟[@zhu_jinwei](https://gitee.com/zhu_jinwei)，*zhujinwei@huawei.com*
 
 
 ### Committer列表
 
-- zhangyaozhong[@buter](https://gitee.com/buter), *zhangyaozhong1@huawei.com*
+- 张耀中[@buter](https://gitee.com/buter), *zhangyaozhong1@huawei.com*
 
-- lijianfeng[@jianfenglee](https://gitee.com/jianfenglee), *bigtimer@qq.com*
+- 李建峰[@jianfenglee](https://gitee.com/jianfenglee), *bigtimer@qq.com*
 
-- guoliang[@blueloveki](https://gitee.com/blueloveki), *liang4358@163.com*
+- 郭亮[@blueloveki](https://gitee.com/blueloveki), *liang4358@163.com*
 
 # 联系方式
+
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/securityannounce.opengauss.org/)
-- 邮件列表
-- IRC公开会议
 
 # 仓库清单
 

@@ -7,32 +7,25 @@
 
 # 组织会议
 
-- 公开的会议时间：北京时间，每周五下午，16点~17点
+- 公开的会议时间：北京时间 每双周二 16:00-17:00
 
 # 成员
 
-
-
 ### Maintainer列表
 
-- tianwengang[@pikeTWG](https://gitee.com/pikeTWG), *tianwengang@huawei.com*
-
+- 田文罡[@pikeTWG](https://gitee.com/pikeTWG), *tianwengang@huawei.com*
 
 ### Committer列表
 
-- yanghao[@yanghaos](https://gitee.com/yanghaos), *yanghao37@huawei.com*
-- liubin[@travelliu](https://gitee.com/travelliu), *travel.liu@outlook.com*
-
-
+- 刘斌[@travelliu](https://gitee.com/travelliu), *travel.liu@outlook.com*
+- 韦晓月[@aaronwell](https://gitee.com/aaronwell), *aaronwell@qq.com*
 
 # 联系方式
 
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/connectors.opengauss.org/)
 
 
-
 # 仓库清单
-
 
 仓库地址：
 
