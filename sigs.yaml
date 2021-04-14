@@ -46,3 +46,6 @@ sigs:
   repositories:
   - openGauss-server
   - openGauss-third_party
+- name: GIS
+  repositories:
+  - Yukon
