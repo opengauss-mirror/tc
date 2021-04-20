@@ -65,4 +65,8 @@ repositories:
   protected_branches:
   - master
   type: public
-
+- name: Yukon
+  description: "GIS extension"
+  protected_branches:
+  - master
+  type: public

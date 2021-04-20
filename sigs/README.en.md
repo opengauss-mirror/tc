@@ -17,3 +17,4 @@
     | AI | Develop and maintain the AI capability of the openGauss community. |
     | IoT | Develop and maintain the IoT capability of openGauss community. |
     | In-place Update | Develop and maintain the in-place update engine of the openGauss community. |
+    | GIS | Develop and maintain the Geographic Information System of the openGauss community. |
