@@ -49,3 +49,7 @@ sigs:
 - name: GIS
   repositories:
   - Yukon
+- name: CloudNative
+  repositories:
+  - openGauss-server
+  - openGauss-third_party

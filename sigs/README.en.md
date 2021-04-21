@@ -18,3 +18,4 @@
     | IoT | Develop and maintain the IoT capability of openGauss community. |
     | In-place Update | Develop and maintain the in-place update engine of the openGauss community. |
     | GIS | Develop and maintain the Geographic Information System of the openGauss community. |
+    | CloudNative | Develop and maintain the Cloud Native of the openGauss community. |
