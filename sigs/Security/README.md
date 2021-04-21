@@ -25,6 +25,8 @@ Security SIG负责接受和响应openGauss产品安全问题报告，提供社�
 
 - 郭亮[@blueloveki](https://gitee.com/blueloveki), *liang4358@163.com*
 
+- 刘哲理[@liuzheli](https://gitee.com/liuzheli), *liuzheli@nankai.edu.cn*
+
 # 联系方式
 
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/securityannounce.opengauss.org/)
