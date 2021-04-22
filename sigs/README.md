@@ -19,3 +19,4 @@
     | In-place Update | 负责openGauss社区in-place update的开发和维护。 |
     | GIS | 负责openGauss社区地理信息系统的开发和维护。 |
     | CloudNative | 负责openGauss社区云原生方向的开发和维护。 |
+    | Compression | 负责openGauss社区数据压缩的开发和维护。 |

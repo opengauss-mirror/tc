@@ -53,3 +53,7 @@ sigs:
   repositories:
   - openGauss-server
   - openGauss-third_party
+- name: Compression
+  repositories:
+  - openGauss-server
+  - openGauss-third_party
