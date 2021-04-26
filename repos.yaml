@@ -75,3 +75,8 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: openGauss-operator
+  description: "openGauss kubernetes operator"
+  protected_branches:
+  - master
+  type: public
