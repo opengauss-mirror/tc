@@ -70,3 +70,8 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: openGauss-housekeeper
+  description: "openGauss house keeper"
+  protected_branches:
+  - master
+  type: public
