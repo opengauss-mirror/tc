@@ -22,6 +22,7 @@ openGauss工具生态的长期规划，发展和演进。
 - 周斌[@justbk](https://gitee.com/justbk)，*249396768@qq.com*
 - 赵文浩[@yang558](https://gitee.com/yang558)，*545612025@qq.com*
 - 彭炯[@totaj](https://gitee.com/totaj) *pengjiong1@huawei.com*
+- 李臻峰[@lizhenfeng123](https://gitee.com/lizhenfeng123) *lizhenfeng001@chinasofti.com*
 
 # 联系方式
 
@@ -31,3 +32,5 @@ openGauss工具生态的长期规划，发展和演进。
 
 仓库地址：
 - https://gitee.com/opengauss/openGauss-server
+- https://gitee.com/opengauss/openGauss-third_party
+- https://gitee.com/opengauss/openGauss-housekeeper

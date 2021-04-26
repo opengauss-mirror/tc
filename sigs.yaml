@@ -18,6 +18,7 @@ sigs:
   repositories:
   - openGauss-server
   - openGauss-third_party
+  - openGauss-housekeeper
 - name: Infra
   repositories:
   - infra
