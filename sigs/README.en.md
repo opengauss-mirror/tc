@@ -20,3 +20,4 @@
     | GIS | Develop and maintain the Geographic Information System of the openGauss community. |
     | CloudNative | Develop and maintain the Cloud Native of the openGauss community. |
     | Compression | Develop and maintain the data compression of the openGauss community. |
+    | SecurityTechnology | Develop and maintain the database security technology of the openGauss community. |
