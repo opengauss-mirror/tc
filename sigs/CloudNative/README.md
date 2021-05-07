@@ -35,3 +35,4 @@ CloudNative SIG致力于openGauss社区云原生方向的开发和维护。
 
 - https://gitee.com/opengauss/openGauss-server
 - https://gitee.com/opengauss/openGauss-third_party
+- https://gitee.com/opengauss/openGauss-operator

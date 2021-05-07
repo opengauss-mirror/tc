@@ -54,7 +54,12 @@ sigs:
   repositories:
   - openGauss-server
   - openGauss-third_party
+  - openGauss-operator
 - name: Compression
+  repositories:
+  - openGauss-server
+  - openGauss-third_party
+- name: SecurityTechnology
   repositories:
   - openGauss-server
   - openGauss-third_party
