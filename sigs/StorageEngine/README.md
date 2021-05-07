@@ -21,6 +21,10 @@
 - 李帅团[@lishuaituan](https://gitee.com/lishuaituan),*hw.lishuaituan@huawei.com*
 - 熊小军[@xiong_xjun](https://gitee.com/xiong_xjun),*xiong_xiaojun@yeah.net*
 - 徐春阳[@garyxu2014](https://gitee.com/garyxu2014),*springsun.xu@126.com*
+- 张乐奕[@kamusis](https://gitee.com/kamusis), *kamusis@gmail.com*
+- 张程伟[@jarekzhang](https://gitee.com/jarekzhang), *flashspy@hotmail.com*
+- 林科旭[@kexulin](https://gitee.com/kexulin), *linkexu66@outlook.com*
+- 张皖川[@dbcrafter](https://gitee.com/dbcrafter), *wanchuan_zhang@163.com*
 
 # 联系方式
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/storageengine.opengauss.org/)
