@@ -15,6 +15,7 @@ sigs:
   - openGauss-connector-odbc
   - openGauss-connector-python-psycopg2
   - openGauss-connector-go-pq
+  - openGauss-connector-python-pyog
 - name: Tools
   repositories:
   - openGauss-server

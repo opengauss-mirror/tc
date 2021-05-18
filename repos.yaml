@@ -105,3 +105,8 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: openGauss-connector-python-pyog
+  description: "openGauss pure python connector"
+  protected_branches:
+  - master
+  type: public
