@@ -75,6 +75,16 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: openGauss-tools-loader
+  description: "Data loading tool for openGauss"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-tools-chameleon
+  description: "MySQL to openGauss replica system"
+  protected_branches:
+  - master
+  type: public
 - name: openGauss-operator
   description: "openGauss kubernetes operator"
   protected_branches:
