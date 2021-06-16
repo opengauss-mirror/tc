@@ -21,6 +21,7 @@ sigs:
   - openGauss-housekeeper
   - openGauss-tools-loader
   - openGauss-tools-chameleon
+  - openGauss-tools-datachecker
 - name: Infra
   repositories:
   - infra
