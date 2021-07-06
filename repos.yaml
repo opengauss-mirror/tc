@@ -100,3 +100,13 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: distribution-certification-testcase
+  description: "distribution certification testcase"
+  protected_branches:
+  - master
+  type: public  
+- name: distribution-certification
+  description: "distribution certification"
+  protected_branches:
+  - master
+  type: public  

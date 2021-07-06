@@ -63,3 +63,7 @@ sigs:
   repositories:
   - openGauss-server
   - openGauss-third_party
+- name: DistributionCertification
+  repositories:
+  - distribution-certification-testcase
+  - distribution-certification
