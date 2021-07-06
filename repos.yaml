@@ -95,6 +95,11 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: openGauss-tools-ora2og
+  description: "Oracle to openGauss migration tool"
+  protected_branches:
+  - master
+  type: public
 - name: openGauss-operator
   description: "openGauss kubernetes operator"
   protected_branches:
@@ -110,3 +115,8 @@ repositories:
   protected_branches:
   - master
   type: public  
+- name: openGauss-connector-python-pyog
+  description: "openGauss pure python connector"
+  protected_branches:
+  - master
+  type: public

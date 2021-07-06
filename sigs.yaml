@@ -15,6 +15,7 @@ sigs:
   - openGauss-connector-odbc
   - openGauss-connector-python-psycopg2
   - openGauss-connector-go-pq
+  - openGauss-connector-python-pyog
 - name: Tools
   repositories:
   - openGauss-server
@@ -23,6 +24,7 @@ sigs:
   - openGauss-tools-loader
   - openGauss-tools-chameleon
   - openGauss-tools-datachecker
+  - openGauss-tools-ora2og
 - name: Infra
   repositories:
   - infra
