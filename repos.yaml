@@ -65,6 +65,11 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: openGauss-connector-python-psycopg2
+  description: "openGauss python psycopg2 connector"
+  protected_branches:
+  - master
+  type: public
 - name: Yukon
   description: "GIS extension"
   protected_branches:
