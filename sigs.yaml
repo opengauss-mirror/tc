@@ -23,6 +23,7 @@ sigs:
   - openGauss-tools-loader
   - openGauss-tools-chameleon
   - openGauss-tools-datachecker
+  - openGauss-tools-ora2og
 - name: Infra
   repositories:
   - infra
