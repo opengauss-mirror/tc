@@ -20,3 +20,4 @@
     | GIS | 负责openGauss社区地理信息系统的开发和维护。 |
     | CloudNative | 负责openGauss社区云原生方向的开发和维护。 |
     | SecurityTechnology | 负责openGauss社区数据库安全技术的开发和维护。 |
+    | DistributionCertification | 负责openGauss发行版认证流程、测试套件的定义和开发。 | 	
