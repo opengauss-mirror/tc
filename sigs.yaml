@@ -69,3 +69,6 @@ sigs:
   repositories:
   - distribution-certification-testcase
   - distribution-certification
+- name: Plugin
+  repositories:
+  - Plugin

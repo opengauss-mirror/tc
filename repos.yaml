@@ -120,3 +120,8 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: Plugin
+  description: "openGauss Plugin portal"
+  protected_branches:
+  - master
+  type: public  
