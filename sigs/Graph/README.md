@@ -12,6 +12,7 @@ Graph SIG 致力于构建统一存储和查询的知识图谱数据管理功能�
 - 宋子辉[@szhmvp](https://gitee.com/szhmvp), *szhmvp@163.com*
 
 ### Committer列表
+- 王林[@linwang-tf](https://gitee.com/linwang-tf), *linwang@techfantasy.com.cn*
 - 张晨[@chenzhang_cl](http://gitee.com/chenzhang_cl), *zhangchen@chuanglintech.com*
 - 李博涵[@bohanlinuaa](https://gitee.com/bohanlinuaa), *bhli@nuaa.edu.cn*
 - 聂铁铮[@nietiezheng](http://gitee.com/nietiezheng), *nietiezheng@mail.neu.edu.cn*
