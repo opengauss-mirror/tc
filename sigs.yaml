@@ -25,6 +25,7 @@ sigs:
   - openGauss-tools-chameleon
   - openGauss-tools-datachecker
   - openGauss-tools-ora2og
+  - openGauss-tools-onlineMigration
 - name: Infra
   repositories:
   - infra

@@ -100,6 +100,11 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: openGauss-tools-onlineMigration
+  description: "Online migration tool between heterogeneous database"
+  protected_branches:
+  - master
+  type: public
 - name: openGauss-operator
   description: "openGauss kubernetes operator"
   protected_branches:
