@@ -19,7 +19,7 @@
 
 - 刘斌[@travelliu](https://gitee.com/travelliu), *travel.liu@outlook.com*
 - 韦晓月[@aaronwell](https://gitee.com/aaronwell), *aaronwell@qq.com*
-- 张文龙@[@willlong](https://gitee.com/willloong), zhangwl@vastdata.com.cn
+- 张文龙[@willlong](https://gitee.com/willloong), zhangwl@vastdata.com.cn
 
 # 联系方式
 
