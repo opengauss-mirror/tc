@@ -26,6 +26,7 @@ sigs:
   - openGauss-tools-datachecker
   - openGauss-tools-migrationAssessmentReport
   - openGauss-tools-ora2og
+  - openGauss-tools-onlineMigration
 - name: Infra
   repositories:
   - infra
