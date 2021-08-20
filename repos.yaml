@@ -100,6 +100,11 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: openGauss-tools-migrationAssessmentReport
+  description: "Generate a assessment report before really migrate your database to openGauss"
+  protected_branches:
+  - master
+  type: public
 - name: openGauss-tools-ora2og
   description: "Oracle to openGauss migration tool"
   protected_branches:
