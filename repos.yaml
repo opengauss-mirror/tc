@@ -140,3 +140,8 @@ repositories:
   protected_branches:
   - master
   type: public  
+- name: openGauss-graph
+  description: "openGauss graph"
+  protected_branches:
+  - master
+  type: public  
