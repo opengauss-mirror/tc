@@ -75,3 +75,6 @@ sigs:
 - name: Plugin
   repositories:
   - Plugin
+- name: Graph
+  repositories:
+  - openGauss-graph
