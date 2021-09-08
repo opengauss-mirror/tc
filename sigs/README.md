@@ -22,3 +22,4 @@
     | SecurityTechnology | 负责openGauss社区数据库安全技术的开发和维护。 |
     | DistributionCertification | 负责openGauss发行版认证流程、测试套件的定义和开发。 |
     | Plugin | 负责openGauss插件机制的规划、管理、开发等。 |
+    | Blockchain | 探讨区块链的业务场景，研究区块链的核心技术问题。 |
