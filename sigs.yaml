@@ -78,3 +78,6 @@ sigs:
 - name: Graph
   repositories:
   - openGauss-graph
+- name: Blockchain
+  repositories:
+  - Blockchain

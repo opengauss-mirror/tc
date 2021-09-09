@@ -145,3 +145,8 @@ repositories:
   protected_branches:
   - master
   type: public  
+- name: Blockchain
+  description: "openGauss Blockchain"
+  protected_branches:
+  - master
+  type: public

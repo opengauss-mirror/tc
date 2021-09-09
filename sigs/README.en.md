@@ -22,3 +22,4 @@
     | SecurityTechnology | Develop and maintain the database security technology of the openGauss community. |
     | DistributionCertification | Define and develop openGuass distribution certification specification, test suite and process. |    
     | Plugin | build, manage and develop the plugin framework. |
+    | Blockchain | explore the blockchain use case, Study the core technical issues of blockchain  |
