@@ -1,5 +1,5 @@
 
-# Testing
+# QA
 
 - 执行版本测试任务：开发并执行测试计划以及测试用例，来系统的测试重要功能，通常与多个测试人员合作
 - 看护关键软件包质量
@@ -31,11 +31,11 @@
 
 # 联系方式
 
-- [邮件列表](https://mailweb.opengauss.org/postorius/lists/testing.opengauss.org/)
+- [邮件列表](https://mailweb.opengauss.org/postorius/lists/qa.opengauss.org/)
 
 # 仓库清单
 
 仓库地址：
 - https://gitee.com/opengauss/openGauss-server
 - https://gitee.com/opengauss/openGauss-third_party
-- https://gitee.com/opengauss/openGauss-housekeeper
+- https://gitee.com/opengauss/openGauss-QA
