@@ -23,9 +23,9 @@ TC consists of a chair and multiple members. The total number of TC members, inc
 * tianwengang[[@pikeTWG](https://gitee.com/pikeTWG)]    # Chair
 * liguoliang[[@guoliang_li](https://gitee.com/guoliang_li)]
 * lishifu[[@lishifu_db](https://gitee.com/lishifu_db)]
-* huzhengce[[@huzhengce](https://gitee.com/huzhengce)]
+* caiyajie[[@cyj10727](https://gitee.com/cyj10727)]
 * renyang[[@stanleyren](https://gitee.com/stanleyren)]
-* luoqi[[@eric-hw-luo](https://gitee.com/eric-hw-luo)]
+* huangkaiyao[[@huangkaiyao](https://gitee.com/huangkaiyao)]
 * zhoupinggao[[@zankyfun4](https://gitee.com/zankyfun4)]
 
 The term of a TC member is one year. One month before the term expires, the TC member is re-appointed by the openGauss initiator. If a TC member applies for leaving the post due to personal reasons, notify all TC members. According to the decision made at the regular TC meeting, TC members who fail to fulfill the commitment to the community can be forced to leave.
