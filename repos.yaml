@@ -150,3 +150,8 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: DCF
+  description: "openGauss DCF"
+  protected_branches:
+  - master
+  type: public

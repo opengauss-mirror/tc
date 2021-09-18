@@ -23,3 +23,4 @@
     | DistributionCertification | Define and develop openGuass distribution certification specification, test suite and process. |    
     | Plugin | build, manage and develop the plugin framework. |
     | Blockchain | explore the blockchain use case, Study the core technical issues of blockchain  |
+    | DCF | Develop and maintain Distributed Consensus Framework of the openGauss community. |
