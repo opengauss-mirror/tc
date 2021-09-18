@@ -1,7 +1,7 @@
 # DCF
-DCF，中文意思为： 
+DCF，中文意思为： 分布式一致性框架
 
-DCF提供
+DCF提供分布式一致性框架，使能openGauss DN数据复制和仲裁，实现高可用；
 
 # 组织会议
 
@@ -16,9 +16,9 @@ DCF提供
 ### Committer列表
 - 杨维强[@yangweiqiang](https://gitee.com/yangweiqiang)，*wqyang@cmbchina.com*
 - 孙腾腾[@tengtengsun](https://gitee.com/tengtengsun)，*suntengteng@cmbchina.com*
-- 胡习林@huxilin，huxilin@huawei.com
-- 袁怡轮@yuan-yilun yuanyilun@huawei.com
-- 赵文浩@yang558，545612025@qq.com
+- 胡习林@huxilin()，*huxilin@huawei.com*
+- 袁怡轮@yuan-yilun()，*yuanyilun@huawei.com*
+- 赵文浩@yang558()，*545612025@qq.com*
 
 # 联系方式
 
