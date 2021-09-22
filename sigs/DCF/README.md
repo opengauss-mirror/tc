@@ -10,15 +10,15 @@ DCF提供分布式一致性框架，使能openGauss DN数据复制和仲裁，�
 # 成员
 
 ### Maintainer列表
-- 王焕卓[@wanghuanzhuo](https://gitee.com/wang-jingle)，wanghuanzhuo@huawei.com
+- 王焕卓[@wanghuanzhuo](https://gitee.com/wanghuanzhuo)，*wanghuanzhuo@huawei.com*
 - 王江[@wang-jingle](https://gitee.com/wang-jingle)，*wangjiang16@huawei.com*
 
 ### Committer列表
 - 杨维强[@yangweiqiang](https://gitee.com/yangweiqiang)，*wqyang@cmbchina.com*
 - 孙腾腾[@tengtengsun](https://gitee.com/tengtengsun)，*suntengteng@cmbchina.com*
-- 胡习林@huxilin，*huxilin@huawei.com*
-- 袁怡轮@yuan-yilun，*yuanyilun@huawei.com*
-- 赵文浩@yang558，*545612025@qq.com*
+- 胡习林@huxilin(https://gitee.com/huxilin)，*huxilin@huawei.com*
+- 袁怡轮@yuan-yilun(https://gitee.com/yuan-yilun)，*yuanyilun@huawei.com*
+- 赵文浩@yang558(https://gitee.com/yang558)，*545612025@qq.com*
 
 # 联系方式
 
