@@ -15,22 +15,22 @@ Plugin SIG 致力于打造多层级、多方法的插件化架构，使能社区
 
 ### Maintainer列表
 
-- 黄凯耀[@huangkaiyao](https://gitee.com/huangkaiyao), *[kaiyao.huang@qq.com](mailto:kaiyao.huang@qq.com)*
-- 周平高[@zankyfun4](https://gitee.com/zankyfun4)，*[zhoupinggao@huawei.com](mailto:zhoupinggao@huawei.com)*
+- 黄凯耀[@huangkaiyao](https://gitee.com/huangkaiyao), *huangkaiyao@huawei.com*
+- 周平高[@zankyfun4](https://gitee.com/zankyfun4)，*zhoupinggao@huawei.com*
 
 
 ### Committer列表
 
-- 胡英豪[@husan1024](https://gitee.com/husan1024/), *[huyinghao@shengtongdata.com](huyinghao@shengtongdata.com)*
-- 李传成@[movead](https://gitee.com/movead), *[chuancheng.li@enmotech.com](chuancheng.li@enmotech.com)*
-- 苏章艳[@siven](https://gitee.com/siven/), *[suzy1030@qq.com](mailto:suzy1030@qq.com)*
-- 吴生勇[@sc_wushy](https://gitee.com/sc_wushy), *[wushy@xugudb.com](wushy@xugudb.com)*
-- 赵晓晖[@zhaoxh_kingbase](https://gitee.com/zhaoxh_kingbase), *[zhaoxiaohui@kingbase.com.cn](mailto:zhaoxiaohui@kingbase.com.cn)*
-- 陈晓滨[@chenxiaobin19](https://gitee.com/chenxiaobin19), *[chenxiaobin19@huawei.com](mailto:chenxiaobin19@huawei.com)*
-- 彭炯[@totaj](https://gitee.com/totaj) *[pengjiong1@huawei.com](mailto:pengjiong1@huawei.com)*
-- 苏梓鑫 [@su-zixin](https://gitee.com/su-zixin/) *[adahsuzixin@gmail.com](mailto:adahsuzixin@gmail.com)*
-- 吴岳川[@wuyuechuan](https://gitee.com/wuyuechuan)，*[wuych9@mail2.sysu.edu.cn](mailto:wuych9@mail2.sysu.edu.cn)*
-- 熊小军[@xiong_xjun](https://gitee.com/xiong_xjun)，*[xiong_xiaojun@yeah.net](mailto:xiong_xiaojun@yeah.net)*
+- 胡英豪[@husan1024](https://gitee.com/husan1024), *huyinghao@shentongdata.com*
+- 李传成[@movead](https://gitee.com/movead), *chuancheng.li@enmotech.com*
+- 苏章艳[@siven_dev](https://gitee.com/siven_dev), *suzy1030@qq.com*
+- 吴生勇[@sc_wushy](https://gitee.com/sc_wushy), *wushy@xugudb.com*
+- 赵晓晖[@zhaoxh_kingbase](https://gitee.com/zhaoxh_kingbase), *zhaoxiaohui@kingbase.com.cn*
+- 陈晓滨[@chenxiaobin19](https://gitee.com/chenxiaobin19), *chenxiaobin19@huawei.com*
+- 彭炯[@totaj](https://gitee.com/totaj), *pengjiong1@huawei.com*
+- 苏梓鑫[@su-zixin](https://gitee.com/su-zixin), *adahsuzixin@gmail.com*
+- 吴岳川[@wuyuechuan](https://gitee.com/wuyuechuan)，*wuych9@mail2.sysu.edu.cn*
+- 熊小军[@xiong_xjun](https://gitee.com/xiong_xjun)，*xiong_xiaojun@yeah.net*
 
 # 联系方式
 
@@ -40,4 +40,4 @@ Plugin SIG 致力于打造多层级、多方法的插件化架构，使能社区
 
 仓库地址：
 
-- https://gitee.com/opengauss/plugin
+- https://gitee.com/opengauss/Plugin
