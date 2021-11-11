@@ -19,7 +19,6 @@
 - 杨倩[@muyi-422](https://gitee.com/muyi-422), *995404729@qq.com*
 - 缪春亮[@Miao_Chunliang](https://gitee.com/Miao_Chunliang), *mcl2000@sina.com*
 - 郝庆运[@haoqingyun](https://gitee.com/haoqingyun), *haoqingyun@cmbc.com.cn*
-- 王连诚[@boriswang](https://gitee.com/boriswang), *liancheng2012@qq.com*
 - 薛忠斌[@zbxue](https://gitee.com/zbxue), *xuezhongbin@huawei.com*
 - 朱金伟[@zhu_jinwei](https://gitee.com/zhu_jinwei), *zhujinwei@huawei.com*
 - 何睿[@he_ray](https://gitee.com/he_ray), *herui30@huawei.com*

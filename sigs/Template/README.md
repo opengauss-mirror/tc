@@ -31,8 +31,6 @@
 *<如果需要单独申请邮件列表，请在此补充邮箱名称：yousigname@opengauss.org。如果不需要，请写上开发邮箱名称：community@opengauss.org>*
 
 - [邮件列表](yoursigname@opengauss.org)
-- [IRC公开会议]()
-- 视频会议
 
 
 # 仓库清单

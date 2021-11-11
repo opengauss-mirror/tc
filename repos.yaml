@@ -155,3 +155,8 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: QA
+  description: "openGauss version quality"
+  protected_branches:
+  - master
+  type: public

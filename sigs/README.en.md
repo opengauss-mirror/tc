@@ -24,3 +24,5 @@
     | Plugin | build, manage and develop the plugin framework. |
     | Blockchain | explore the blockchain use case, Study the core technical issues of blockchain  |
     | DCF | Develop and maintain Distributed Consensus Framework of the openGauss community. |
+    | QA | Develop and maintain released version quality of the openGauss community. |
+    | Graph | Responsible for the knowledge map data management function of unified storage and query of the openGauss community. |
