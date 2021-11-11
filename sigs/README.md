@@ -24,3 +24,5 @@
     | Plugin | 负责openGauss插件机制的规划、管理、开发等。 |
     | Blockchain | 探讨区块链的业务场景，研究区块链的核心技术问题。 |
     | DCF | 负责openGauss社区分布式一致性框架DCF的开发和维护。 |
+    | QA | 负责openGauss社区版本质量相关的开发和维护。 |
+    | Graph | 负责openGauss社区统一存储和查询的知识图谱数据管理功能。 |

@@ -37,6 +37,5 @@ The meeting agenda and information on how to attend the meeting will be notified
 
 ### Contact TC
 
-* IRC channel: #opengauss-tc
 * E-mail list: tc@opengauss.org
 * Meeting time: Beijing Time Biweekly Friday 16:00-17:00

@@ -34,7 +34,6 @@
 # 联系方式
 
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/infra.opengauss.org/)
-- [IRC公开会议](https://webchat.freenode.net/#opengauss-infra)
 
 
 # 仓库清单

@@ -13,7 +13,7 @@
 
 ### Maintainer列表
 - 王磊[@nonolili527](https://gitee.com/nonolili527)，*wanglei110@huawei.com*
-- 李恒[@liheng188](https://gitee.com/nonolili527)，*liheng37@huawei.com*
+- 李恒[@liheng188](https://gitee.com/liheng188)，*liheng37@huawei.com*
 - 张金玉[@jinyu_opengauss](https://gitee.com/jinyu_opengauss)，*Jinyu_gaussdb@163.com*
 
 ### Committer列表

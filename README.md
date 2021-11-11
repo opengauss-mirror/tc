@@ -36,6 +36,5 @@ TC成员任期一年，任期结束前一个月，由openGauss发起方重新任
 
 ### 技术委员会联系方式
 
-* IRC频道：#opengauss-tc
 * 邮件列表：tc@opengauss.org
 * 会议时间：北京时间 每双周五 16:00-17:00

@@ -25,9 +25,9 @@
 
 - 附雄道[@xiongdaofu](https://gitee.com/xiongdaofu)，*fuxiongdao@huawei.com*
 - 江文龙[@j00313273](https://gitee.com/j00313273)，*52443591@qq.com*
-- 周方圆[@zhoufangyuan](https://gitee.com/zhoufangyuan) *zhoufangyuan7@huawei.com*
-- 陈栋[@chendong76](https://gitee.com/chendong76) *1209756284@qq.com*
-- 张志靖[@zhangzhijing](https://gitee.com/zhangzhijing) *2235036288@qq.com*
+- 周方圆[@zhoufangyuan](https://gitee.com/zhoufangyuan)，*zhoufangyuan7@huawei.com*
+- 陈栋[@chendong76](https://gitee.com/chendong76)，*1209756284@qq.com*
+- 张志靖[@zhangzhijing](https://gitee.com/zhangzhijing)，*2235036288@qq.com*
 
 # 联系方式
 
@@ -36,6 +36,4 @@
 # 仓库清单
 
 仓库地址：
-- https://gitee.com/opengauss/openGauss-server
-- https://gitee.com/opengauss/openGauss-third_party
-- https://gitee.com/opengauss/openGauss-QA
+- https://gitee.com/opengauss/QA
