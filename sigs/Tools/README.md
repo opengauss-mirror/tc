@@ -34,3 +34,10 @@ openGauss工具生态的长期规划，发展和演进。
 - https://gitee.com/opengauss/openGauss-server
 - https://gitee.com/opengauss/openGauss-third_party
 - https://gitee.com/opengauss/openGauss-housekeeper
+- https://gitee.com/opengauss/openGauss-tools-loader
+- https://gitee.com/opengauss/openGauss-tools-chameleon
+- https://gitee.com/opengauss/openGauss-tools-datachecker
+- https://gitee.com/opengauss/openGauss-tools-migrationAssessmentReport
+- https://gitee.com/opengauss/openGauss-tools-ora2og
+- https://gitee.com/opengauss/openGauss-tools-onlineMigration
+- https://gitee.com/opengauss/ham4db

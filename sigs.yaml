@@ -27,6 +27,7 @@ sigs:
   - openGauss-tools-migrationAssessmentReport
   - openGauss-tools-ora2og
   - openGauss-tools-onlineMigration
+  - ham4db
 - name: Infra
   repositories:
   - infra
