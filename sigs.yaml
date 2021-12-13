@@ -65,6 +65,7 @@ sigs:
   - openGauss-server
   - openGauss-third_party
   - openGauss-operator
+  - openGauss-prometheus-exporter
 - name: SecurityTechnology
   repositories:
   - openGauss-server

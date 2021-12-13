@@ -165,3 +165,8 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: openGauss-prometheus-exporter
+  description: "openGauss prometheus exporter"
+  protected_branches:
+  - master
+  type: public
