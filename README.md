@@ -16,22 +16,31 @@ openGauss开源社区技术委员会（Technical Committee，简称TC）是openG
 
 ### 技术员委员会成员
 
-人员构成包含一名主席和多名成员，含主席在内的成员为五至九名。 openGauss开源社区首届TC主席及成员，由openGauss社区发起方任命，包含对openGauss社区做出重大贡献并愿意持续投入的人员。首届TC成员包括如下7位：
+人员构成包含一名主席和多名成员，openGauss开源社区TC主席及成员，由openGauss社区发起方任命，包含对openGauss社区做出重大贡献并愿意持续投入的人员。当前TC成员包括：
 
-* 田文罡[[@pikeTWG](https://gitee.com/pikeTWG)]    # 主席
-* 李国良[[@guoliang_li](https://gitee.com/guoliang_li)]
+* 李国良[[@guoliang_li](https://gitee.com/guoliang_li)]    # 主席
+* 田文罡[[@pikeTWG](https://gitee.com/pikeTWG)]
 * 李士福[[@lishifu_db](https://gitee.com/lishifu_db)]
 * 蔡亚杰[[@cyj10727](https://gitee.com/cyj10727)]
 * 任阳[[@stanleyren](https://gitee.com/stanleyren)]
 * 黄凯耀[[@huangkaiyao](https://gitee.com/huangkaiyao)]
 * 周平高[[@zankyfun4](https://gitee.com/zankyfun4)]
+* 王江[[@wang-jingle](https://gitee.com/wang-jingle)]
+* 张树杰[[@zhangshujie82](https://gitee.com/zhangshujie82)]
+* 王炜[[@wangwei5](https://gitee.com/wangwei5)]
+* 黄晓涛[[@xiaotao-huang](https://gitee.com/xiaotao-huang)]
+* 张程伟[[@jarekzhang](https://gitee.com/jarekzhang)]
+* 刘勇生[[@lys6676](https://gitee.com/lys6676)]
+* 周芹[[@zhouqinsm](https://gitee.com/zhouqinsm)]
+* 朱彬[[@zzzzzdb](https://gitee.com/zzzzzdb)]
+* 杨维强[[@yangweiqiang](https://gitee.com/yangweiqiang)]
 
 TC成员任期一年，任期结束前一个月，由openGauss发起方重新任命。TC成员因个人原因申请离任的，应通知全体TC成员；经TC例会决策，可强制离任社区投入不足的TC成员；
 
 
 ### 技术委员会会议召开与决策机制
 
-社区每间隔一周举行技术委员会例会，集中讨论并决策社区及SIG各项事宜；涉及事项决策的技术委员会例会，出席人数应达技术委员会成员二分之一以上方能召开（且其中必须包含技术委员会主席），就各项决策事项应经出席人数的过半数同意通过；如果决策结果存在平票，技术委员会主席将对该事项具有一票决策权。会议具体议程和具体参会方式将至少提前三个工作日在社区邮件列表中通知。
+社区每间隔一周举行技术委员会例会，集中讨论并决策社区及SIG各项事宜；涉及事项决策的技术委员会例会，出席人数应达技术委员会成员三分之二以上方能召开（且其中必须包含技术委员会主席），就各项决策事项应经出席人数的三分之二（含）同意通过；如果决策结果存在平票，技术委员会主席将对该事项具有一票决策权。会议具体议程和具体参会方式将至少提前三个工作日在社区邮件列表中通知。
 
 
 ### 技术委员会联系方式
