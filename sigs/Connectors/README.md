@@ -20,6 +20,7 @@
 - 刘斌[@travelliu](https://gitee.com/travelliu), *travel.liu@outlook.com*
 - 韦晓月[@aaronwell](https://gitee.com/aaronwell), *aaronwell@qq.com*
 - 张文龙[@willloong](https://gitee.com/willloong), *zhangwl@vastdata.com.cn*
+- 姚前[@vimiix](https://gitee.com/vimiix) *i@vimiix.com*
 
 # 联系方式
 
@@ -35,4 +36,5 @@
 - https://gitee.com/opengauss/openGauss-connector-jdbc
 - https://gitee.com/opengauss/openGauss-connector-odbc
 - https://gitee.com/opengauss/openGauss-connector-go-pq
+- https://gitee.com/opengauss/openGauss-connector-python-pyog
 
