@@ -24,6 +24,7 @@ SIG DOCS致力于提供openGauss各类技术文档、教程等形式的完整内
 - 李君[@li-jun056](https://gitee.com/li-jun056)，*1255728208@qq.com*
 - 姜楠[infomation1](https://gitee.com/infomation1)，*docs66@outlook.com*
 - 郭欢[@guohuan](https://gitee.com/spaceoddity91719)，*huan.guo@enmotech.com*
+- 郭欢[@zcp100_zcp100](https://gitee.com/zcp100_zcp100)，*cuiping.zhang@enmotech.com*
 
 # 联系方式
 
