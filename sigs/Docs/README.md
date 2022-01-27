@@ -17,14 +17,13 @@ SIG DOCS致力于提供openGauss各类技术文档、教程等形式的完整内
 - 康阳[@ylfan96](https://gitee.com/ylfan96)，*kangyang@huawei.com*
 - 龚思夷[@gongsiyi150](https://gitee.com/gongsiyi150)，*gongsiyi@qq.com*
 
-
 ### Committer列表
 
 - 李杨[@liyang0608](https://gitee.com/liyang0608)，*554903772@qq.com*
 - 李君[@li-jun056](https://gitee.com/li-jun056)，*1255728208@qq.com*
 - 姜楠[infomation1](https://gitee.com/infomation1)，*docs66@outlook.com*
-- 郭欢[@guohuan](https://gitee.com/spaceoddity91719)，*huan.guo@enmotech.com*
-- 郭欢[@zcp100_zcp100](https://gitee.com/zcp100_zcp100)，*cuiping.zhang@enmotech.com*
+- 郭欢[@spaceoddity91719](https://gitee.com/spaceoddity91719)，*huan.guo@enmotech.com*
+- 张翠娉[@zcp100_zcp100](https://gitee.com/zcp100_zcp100)，*cuiping.zhang@enmotech.com*
 
 # 联系方式
 
