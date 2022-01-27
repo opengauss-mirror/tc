@@ -25,6 +25,8 @@ CloudNative SIG致力于openGauss社区云原生方向的开发和维护。
 - 季亚斌[@yabinji](https://gitee.com/yabinji), *392623640@qq.com*
 - 谭睿雄[@T-rx](https://gitee.com/T-rx), *tanruixiong@ruc.edu.cn*
 - 郭云达[@yundag](https://gitee.com/yundag), *1851619113@qq.com*
+- 李宏达[@lee1002](https://gitee.com/lee1002), *worklee1002@163.com*
+- 高云龙[@yunlong_G](https://gitee.com/yunlong_G), *504072751@qq.com*
 
 # 联系方式
 
