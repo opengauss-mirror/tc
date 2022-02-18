@@ -17,9 +17,10 @@ GIS SIG 致力于openGauss社区地理信息系统的开发和维护。
 ### Committer列表
 
 - 李文龙[@liwenlong2021](https://gitee.com/liwenlong2021), *liwenlong@supermap.com*
-- 杨竞乔[@yang_jingqiao](https://gitee.com/yang_jingqiao), *yangjq@vastdata.com.cn*
+- 杨绕[@destiny_volatile](https://gitee.com/destiny_volatile), *yangjq@vastdata.com.cn*
 - 胡正超[@gentle_hu](https://gitee.com/gentle_hu), *gentle_hu@qq.com*
 - 宋清怡[@sqyyeah](https://gitee.com/sqyyeah), *Qingyi.song@outlook.com*
+- 吴松[@sungwu_admin](https://gitee.com/sungwu_admin), *sung.wu@qq.com*
 
 # 联系方式
 
