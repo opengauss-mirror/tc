@@ -20,6 +20,7 @@
 - 刘斌[@travelliu](https://gitee.com/travelliu), *travel.liu@outlook.com*
 - 韦晓月[@aaronwell](https://gitee.com/aaronwell), *aaronwell@qq.com*
 - 张文龙[@willloong](https://gitee.com/willloong), *zhangwl@vastdata.com.cn*
+- 张乐奕[@kamusis](https://gitee.com/kamusis), *kamusis@gmail.com*
 - 姚前[@vimiix](https://gitee.com/vimiix) *i@vimiix.com*
 
 # 联系方式
