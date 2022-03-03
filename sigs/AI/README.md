@@ -10,6 +10,7 @@ AI SIG 致力于openGauss的能力的开发和维护，包括AI4DB数据库智�
 ### Maintainer列表
 
 - 李士福[@lishifu_db](https://gitee.com/lishifu_db), *lishifu@huawei.com*
+- Ce Zhang[@zhangce_6184](https://gitee.com/zhangce_6184), *ce.zhang@inf.ethz.ch*
 
 
 ### Committer列表
@@ -19,6 +20,7 @@ AI SIG 致力于openGauss的能力的开发和维护，包括AI4DB数据库智�
 - 周煊赫[@xuanhe](https://gitee.com/xuanhe), *zhouxuan19@mails.tsinghua.edu.cn*
 - 余翔[@yxfish13](https://gitee.com/yxfish13), *yxfish13@mails.tsinghua.edu.cn*
 - 夏康[@excaliburxk](https://gitee.com/excaliburxk), *excaliburxk@qq.com*
+- 许利杰[@xulijie09](https://gitee.com/xulijie09), *lijie.xu@inf.ethz.ch*
 
 # 联系方式
 
