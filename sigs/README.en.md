@@ -26,3 +26,4 @@
     | DCF | Develop and maintain Distributed Consensus Framework of the openGauss community. |
     | QA | Develop and maintain released version quality of the openGauss community. |
     | Graph | Responsible for the knowledge map data management function of unified storage and query of the openGauss community. |
+    | ReleaseManagement | The community collaborates with SIG Maintainers to plan openGauss community release and is responsible for the final competitiveness goal. |

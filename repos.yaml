@@ -170,3 +170,8 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: release-management
+  description: "openGauss release management"
+  protected_branches:
+  - master
+  type: public

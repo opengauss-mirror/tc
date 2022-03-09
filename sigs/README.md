@@ -26,3 +26,4 @@
     | DCF | 负责openGauss社区分布式一致性框架DCF的开发和维护。 |
     | QA | 负责openGauss社区版本质量相关的开发和维护。 |
     | Graph | 负责openGauss社区统一存储和查询的知识图谱数据管理功能。 |
+    | ReleaseManagement | 社区协同各SIG maintainer，规划openGauss社区版本的发布工作，为最终的竞争力目标达成负责. |
