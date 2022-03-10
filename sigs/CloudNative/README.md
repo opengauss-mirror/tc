@@ -27,7 +27,7 @@ CloudNative SIG致力于openGauss社区云原生方向的开发和维护。
 - 郭云达[@yundag](https://gitee.com/yundag), *1851619113@qq.com*
 - 张乐奕[@kamusis](https://gitee.com/kamusis), *kamusis@gmail.com*
 - 李宏达[@lee1002](https://gitee.com/lee1002), *worklee1002@163.com*
-- 高云龙[@yunlong_G](https://gitee.com/yunlong_G), *504072751@qq.com*
+- 高云龙[@yunlongg](https://gitee.com/yunlongg), *504072751@qq.com*
 
 # 联系方式
 
