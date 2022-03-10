@@ -16,6 +16,9 @@ OM SIG 致力于openGauss的安装、维护。
 
 - 王自力[@wang-zili](https://gitee.com/wang-zili), *446406177@qq.com*
 - 杭进[@hangjin2020](https://gitee.com/hangjin2020), *850894759@qq.com*
+- 刘斌[@travelliu](https://gitee.com/travelliu), *travel.liu@outlook.com*
+- 姚前[@vimiix](https://gitee.com/vimiix) *i@vimiix.com*
+- 刘珲[@liu_hui0228](https://gitee.com/liu_hui0228) *liu_hui0228@163.com*
 
 # 联系方式
 
