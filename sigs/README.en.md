@@ -27,3 +27,4 @@
     | QA | Develop and maintain released version quality of the openGauss community. |
     | Graph | Responsible for the knowledge map data management function of unified storage and query of the openGauss community. |
     | ReleaseManagement | The community collaborates with SIG Maintainers to plan openGauss community release and is responsible for the final competitiveness goal. |
+    | CM | Develop and maintain the cluster manager system of the openGauss community. |

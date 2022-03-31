@@ -92,3 +92,10 @@ sigs:
 - name: ReleaseManagement
   repositories:
   - release-management
+- name: CM
+  repositories:
+  - CM
+  - DCC
+  - CBB
+  - DCF
+  - openGauss-third_party
