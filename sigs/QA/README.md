@@ -10,7 +10,7 @@
 
 # 组织会议
 
-- 公开的会议时间：北京时间 每双周三下午17:00-18:00
+- 公开的会议时间：北京时间 每双周五15:00-17:00
 
 
 # 成员
@@ -28,6 +28,12 @@
 - 周方圆[@zhoufangyuan](https://gitee.com/zhoufangyuan)，*zhoufangyuan7@huawei.com*
 - 陈栋[@chendong76](https://gitee.com/chendong76)，*1209756284@qq.com*
 - 张志靖[@zhangzhijing](https://gitee.com/zhangzhijing)，*2235036288@qq.com*
+- 张翱[@zhangao_za](https://gitee.com/zhangao_za)，*zhangao23@huawei.com*
+- 廖诗婷[@liao-shiting](https://gitee.com/liao-shiting)，*liaost@vastdata.com.cn*
+- 梁燕[@roxanne315](https://gitee.com/roxanne315)，*liangyan@vastdata.com.cn*
+- 孙敏[@min-sun](https://gitee.com/min-sun)，*min.sun@enmotech.com*
+- 孙静元[@sun-jingyuan](https://gitee.com/sun-jingyuan)，*sunjingyuan@shentongdata.com*
+- 宋菲[@szoscar55](https://gitee.com/szoscar55)，*songfei@shentongdata.com*
 
 # 联系方式
 
