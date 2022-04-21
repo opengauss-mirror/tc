@@ -37,6 +37,7 @@ sigs:
 - name: Docs
   repositories:
   - docs
+  - blog
   - community
 - name: Security
   repositories:
