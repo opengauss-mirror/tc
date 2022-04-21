@@ -175,3 +175,18 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: CM
+  description: "opengauss cluster manager"
+  protected_branches:
+  - master
+  type: public
+- name: DCC
+  description: "opengauss DCC"
+  protected_branches:
+  - master
+  type: public
+- name: CBB
+  description: "opengauss CBB"
+  protected_branches:
+  - master
+  type: public
