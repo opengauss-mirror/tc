@@ -176,17 +176,22 @@ repositories:
   - master
   type: public
 - name: CM
-  description: "opengauss cluster manager"
+  description: "openGauss cluster manager"
   protected_branches:
   - master
   type: public
 - name: DCC
-  description: "opengauss DCC"
+  description: "openGauss DCC"
   protected_branches:
   - master
   type: public
 - name: CBB
-  description: "opengauss CBB"
+  description: "openGauss CBB"
+  protected_branches:
+  - master
+  type: public
+- name: service-partner-certification
+  description: "openGauss serice partner certification"
   protected_branches:
   - master
   type: public

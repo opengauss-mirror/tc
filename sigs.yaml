@@ -71,10 +71,11 @@ sigs:
   repositories:
   - openGauss-server
   - openGauss-third_party
-- name: DistributionCertification
+- name: Certification
   repositories:
   - distribution-certification-testcase
   - distribution-certification
+  - service-partner-certification
 - name: Plugin
   repositories:
   - Plugin
