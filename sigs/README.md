@@ -20,7 +20,7 @@
     | GIS | 负责openGauss社区地理信息系统的开发和维护。 |
     | CloudNative | 负责openGauss社区云原生方向的开发和维护。 |
     | SecurityTechnology | 负责openGauss社区数据库安全技术的开发和维护。 |
-    | DistributionCertification | 负责openGauss发行版认证流程、测试套件的定义和开发。 |
+    | Certification | 负责openGauss认证流程、测试套件的定义和开发。 |
     | Plugin | 负责openGauss插件机制的规划、管理、开发等。 |
     | Blockchain | 探讨区块链的业务场景，研究区块链的核心技术问题。 |
     | DCF | 负责openGauss社区分布式一致性框架DCF的开发和维护。 |
