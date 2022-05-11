@@ -35,6 +35,7 @@ ReleaseManagement的主要工作是通过社区协同各SIG maintainer，规划o
   - 田兵[@tbing8803](https://gitee.com/tbing8803), *bing.tian@enmotech.com*
   - 刘春[@nifinity](https://gitee.com/nifinity), *liuchun3@huawei.com*
   - 吴明远[@wumingyuan](https://gitee.com/wumingyuan), *wumingyuan@gbase.cn*
+  - 冯伟[@flowill](https://gitee.com/flowill), *f.fengwei@huawei.com* 
 
 # 联系方式
 
