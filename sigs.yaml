@@ -34,6 +34,8 @@ sigs:
   - website
   - blog
   - community
+  - openGauss-webclient
+  - playground-course
 - name: Docs
   repositories:
   - docs
