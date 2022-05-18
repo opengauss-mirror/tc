@@ -13,6 +13,9 @@
   邮箱：
   - https://mailweb.opengauss.org
 
+  慕课:
+  - https://moocstudio.opengauss.org
+
 
 # 组织会议
 
@@ -49,4 +52,8 @@
 - https://gitee.com/opengauss/blog
 
 - https://gitee.com/opengauss/community
+
+- https://gitee.com/opengauss/openGauss-webclient
+
+- https://gitee.com/opengauss/playground-course
 

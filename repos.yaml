@@ -195,3 +195,14 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: openGauss-webclient
+  description: "Web-based openGauss database browser"
+  protected_branches:
+  - master
+  type: public
+- name: playground-course
+  description: "Moocstudio course"
+  protected_branches:
+  - master
+  type: public
+
