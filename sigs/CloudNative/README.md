@@ -11,7 +11,7 @@ CloudNative SIG致力于openGauss社区云原生方向的开发和维护。
 ### Maintainer列表
 
 - 柴云鹏[@ypchai](https://gitee.com/ypchai), *ypchai@ruc.edu.cn*
-- 朱彬[@zzzzzdb](https://gitee.com/zzzzzdb), *staygood1983@163.com*
+- 朱彬[@zzzzzdb](https://gitee.com/zzzzzdb), *zzzzzdb_zb@163.com*
 - 张琼[@shaga](https://gitee.com/shaga), *qiong_zhang_hw@163.com*
 
 ### Committer列表
