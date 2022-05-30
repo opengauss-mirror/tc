@@ -1,4 +1,4 @@
-﻿# Security
+﻿﻿# Security
 Security SIG负责接受和响应openGauss产品安全问题报告，提供社区安全指导，开展安全治理的组织，致力于为openGauss用户提供最安全的产品和开发环境。主要工作职责包括：
 制定完善的安全流程：确保社区有一套完善可靠的安全处理流程
 响应安全问题：响应上报的安全问题，跟踪安全问题的处理进展，并遵循安全问题批露策略对安全问题在社区内进行披露和公告
@@ -23,12 +23,10 @@ Security SIG负责接受和响应openGauss产品安全问题报告，提供社�
 ### Committer列表
 
 - 张耀中[@buter](https://gitee.com/buter), *zhangyaozhong1@huawei.com*
-
 - 李建峰[@jianfenglee](https://gitee.com/jianfenglee), *bigtimer@qq.com*
-
 - 郭亮[@blueloveki](https://gitee.com/blueloveki), *liang4358@163.com*
-
 - 刘哲理[@liuzheli](https://gitee.com/liuzheli), *liuzheli@nankai.edu.cn*
+- shay.akirav[@shay-akirav](https://gitee.com/shay-akirav), *shay.akirav@huawei.com*
 
 # 联系方式
 
