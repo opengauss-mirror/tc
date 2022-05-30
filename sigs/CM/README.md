@@ -18,7 +18,7 @@ CM，集群管理系统，为opengauss数据库提供了主备的状态监控、
 
   - 邓勇[@dengyong2](https://gitee.com/dengyong2), *dean.dengyong@huawei.com*
   - 胡习林[@hu-xilin](https://gitee.com/hu-xilin), *huxilin@huawei.com*
-  - 王焕卓[@yangdi07](https://gitee.com/yangdi07), *yangdi14@huawei.com*
+  - 杨迪[@yangdi07](https://gitee.com/yangdi07), *yangdi14@huawei.com*
   - 于正[@yz_db](https://gitee.com/yz_db), *yuzheng3@huawei.com*
   - 赵文浩[@yang558](https://gitee.com/yang558), *zhaowenhao4@huawei.com*
 
