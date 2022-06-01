@@ -27,6 +27,7 @@ OPS SIG 聚焦openGauss维护能力建设，提升产品运维能力，总结和
 - 孙浩岚[@haolan_sun](https://gitee.com/haolan_sun), *haolan.sun@enmotech.com*
 - 丁乐佳[@lego](https://gitee.com/lego), *dinglj@vastdata.com.cn*
 - 李坤[@jackchenchenchen](https://gitee.com/jackchenchenchen), *likun_dlut@163.com*
+- 胡正超[@gentle_hu](https://gitee.com/gentle_hu), *gentle_hu@qq.com*
 
 # 联系方式
 
