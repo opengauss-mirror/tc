@@ -101,3 +101,7 @@ sigs:
   - CM
   - DCC
   - CBB
+- name: OPS
+  repositories:
+  - openGauss-server
+  - openGauss-third_party
