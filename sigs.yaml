@@ -106,3 +106,6 @@ sigs:
   repositories:
   - openGauss-server
   - openGauss-third_party
+- name: KnowledgeGraph
+  repositories:
+  - knowledgeGraph
