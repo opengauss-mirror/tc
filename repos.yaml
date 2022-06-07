@@ -205,4 +205,8 @@ repositories:
   protected_branches:
   - master
   type: public
-
+- name: compatible-certification
+  description: "compatible certification"
+  protected_branches:
+  - master
+  type: public
