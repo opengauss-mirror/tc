@@ -45,3 +45,4 @@ Certification SIG 致力于对社区openGauss发行版本进行发行版本能�
 - https://gitee.com/opengauss/distribution-certification-testcase
 - https://gitee.com/opengauss/distribution-certification
 - https://gitee.com/opengauss/service-partner-certification
+- https://gitee.com/opengauss/compatible-certification

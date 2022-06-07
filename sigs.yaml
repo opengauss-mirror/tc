@@ -78,6 +78,7 @@ sigs:
   - distribution-certification-testcase
   - distribution-certification
   - service-partner-certification
+  - compatible-certification
 - name: Plugin
   repositories:
   - Plugin
