@@ -16,7 +16,6 @@ ReleaseManagement的主要工作是通过社区协同各SIG maintainer，规划o
 
 - 蔡亚杰[@Cyj10727](https://gitee.com/Cyj10727), *jieky.cai@huawei.com*
 - 王江[@wang-jingle](https://gitee.com/wang-jingle), *wangjiang16@huawei.com*
-- 赵文浩[@yang558](https://gitee.com/yang558), *545612025@qq.com*
 
 
 ### Committer列表
@@ -31,7 +30,7 @@ ReleaseManagement的主要工作是通过社区协同各SIG maintainer，规划o
   - 钟君[@zhongjun2](https://gitee.com/zhongjun2), *jun.zhongjun2@gmail.com*
   - 刘勇生[@lys6676](https://gitee.com/lys6676), *liuyongsheng@shentongdata.com*
   - 何小栋[@husthxd](https://gitee.com/husthxd), *husthxd@126.com*
-  - 张文龙[@willloong](https://gitee.com/willloong), *vastdata.com.cn*
+  - 张文龙[@willloong](https://gitee.com/willloong), *zhangwl@vastdata.com.cn*
   - 田兵[@tbing8803](https://gitee.com/tbing8803), *bing.tian@enmotech.com*
   - 刘春[@nifinity](https://gitee.com/nifinity), *liuchun3@huawei.com*
   - 吴明远[@wumingyuan](https://gitee.com/wumingyuan), *wumingyuan@gbase.cn*
