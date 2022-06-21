@@ -29,8 +29,8 @@ Plugin SIG 致力于打造多层级、多方法的插件化架构，使能社区
 - 陈晓滨[@chenxiaobin19](https://gitee.com/chenxiaobin19), *chenxiaobin19@huawei.com*
 - 彭炯[@totaj](https://gitee.com/totaj), *pengjiong1@huawei.com*
 - 苏梓鑫[@su-zixin](https://gitee.com/su-zixin), *adahsuzixin@gmail.com*
-- 吴岳川[@wuyuechuan](https://gitee.com/wuyuechuan)，*wuych9@mail2.sysu.edu.cn*
-- 熊小军[@xiong_xjun](https://gitee.com/xiong_xjun)，*xiong_xiaojun@yeah.net*
+- 吴岳川[@wuyuechuan](https://gitee.com/wuyuechuan), *wuych9@mail2.sysu.edu.cn*
+- 熊小军[@xiong_xjun](https://gitee.com/xiong_xjun), *xiong_xiaojun@yeah.net*
 
 # 联系方式
 
