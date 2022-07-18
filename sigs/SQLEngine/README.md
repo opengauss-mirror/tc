@@ -11,7 +11,7 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 ### Maintainer列表
 
 - 周平高[@zankyfun4](https://gitee.com/zankyfun4)，*zhoupinggao@huawei.com*
-- 杨迪[@yangdi07](https://gitee.com/yangdi07)，*yangdi14@huawei.com*
+- 陈浩[@chenhao7253886](https://gitee.com/chenhao7253886)，*chenhao220@huawei.com*
 
 
 ### Committer列表
@@ -25,6 +25,8 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 - 王正侣[@April01xxx](https://gitee.com/April01xxx)，*lancer_cool@163.com*
 - 彭炯[@totaj](https://gitee.com/totaj)，*pengjiong1@huawei.com*
 - 郝庆运[@haoqingyun](https://gitee.com/haoqingyun)，*haoqingyun54@126.com*
+- 邓旭玥[@dengxueyue](https://gitee.com/dengxuyue), *dengxueyue@xfusion.com*
+- 胡正超[@gentle_hu](https://gitee.com/gentle_hu), *huzhengchao4@huawei.com*
 
 # 联系方式
 
