@@ -18,16 +18,16 @@
 
 ### Committer列表
 
-- 李文杰[@pkumod_liwenjiehn](https://gitee.com/pkumod_liwenjiehn), *liwenjiehn@pku.edu.cn*
-- 李友焕[@li-youhuan](https://gitee.com/li-youhuan), *liyouhuan@hnu.edu.cn*
-- 彭鹏[@bnu05pp](https://gitee.com/bnu05pp), *hnu16pp@hnu.edu.cn*
-- 王昊奋[@whfcarter](https://gitee.com/whfcarter), *carter.whfcarter@gmail.com*
-- 李轶楠[@ora-600](https://gitee.com/ora-600), *yinan.li@enmotech.com*
-- 林根[@vastdata_admin](https://gitee.com/vastdata_admin), *lingen@vastdata.com.cn*
-- 郑卫国[@zheng-weiguo](https://gitee.com/zheng-weiguo), *zhengweiguo@fudan.edu.cn*
-- 洪亮[@lianghongwhu](https://gitee.com/lianghongwhu), *hong@whu.edu.cn*
 - 陈华钧[@huajunsir](https://gitee.com/huajunsir), *huajunsir@zju.edu.cn*
 - 王鑫[@xinwang-tju](https://gitee.com/xinwang-tju), *wangx@tju.edu.cn*
+- 洪亮[@lianghongwhu](https://gitee.com/lianghongwhu), *hong@whu.edu.cn*
+- 王昊奋[@whfcarter](https://gitee.com/whfcarter), *carter.whfcarter@gmail.com*
+- 郑卫国[@zheng-weiguo](https://gitee.com/zheng-weiguo), *zhengweiguo@fudan.edu.cn*
+- 彭鹏[@bnu05pp](https://gitee.com/bnu05pp), *hnu16pp@hnu.edu.cn*
+- 李友焕[@li-youhuan](https://gitee.com/li-youhuan), *liyouhuan@hnu.edu.cn*
+- 李文杰[@pkumod_liwenjiehn](https://gitee.com/pkumod_liwenjiehn), *liwenjiehn@pku.edu.cn*
+- 李轶楠[@ora-600](https://gitee.com/ora-600), *yinan.li@enmotech.com*
+- 林根[@vastdata_admin](https://gitee.com/vastdata_admin), *lingen@vastdata.com.cn*
 - 吴岳川[@wuyuechuan](https://gitee.com/wuyuechuan), *wuych9@mail2.sysu.edu.cn*
 - 薛忠斌[@zbxue](https://gitee.com/zbxue), *xuezhongbin@huawei.com*
 
