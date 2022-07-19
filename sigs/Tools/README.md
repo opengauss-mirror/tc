@@ -6,7 +6,7 @@ openGauss工具生态的长期规划，发展和演进。
 
 # 组织会议
 
-- 公开的会议时间：北京时间 每双周一 17:00-18:00
+- 公开的会议时间：北京时间 每双周二 10:00-11:00
 
 
 # 成员
@@ -20,8 +20,10 @@ openGauss工具生态的长期规划，发展和演进。
 ### Committer列表
 
 - 周斌[@justbk](https://gitee.com/justbk)，*249396768@qq.com*
-- 赵文浩[@yang558](https://gitee.com/yang558)，*545612025@qq.com*
 - 彭炯[@totaj](https://gitee.com/totaj) *pengjiong1@huawei.com*
+- 贺承汉[@he-chenghan](https://gitee.com/he-chenghan) *hechenghan@huawei.com*
+- 张耀中[@buter](https://gitee.com/buter) *zhangyaozhong1@huawei.com*
+- 窦欣[@ywzq1161327784](https://gitee.com/ywzq1161327784) *douxin5@huawei.com*
 - 李臻峰[@lizhenfeng123](https://gitee.com/lizhenfeng123) *lizhenfeng001@chinasofti.com*
 
 # 联系方式
