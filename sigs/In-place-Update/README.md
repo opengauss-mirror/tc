@@ -25,6 +25,7 @@ In-place Update存储模式提供“原地更新”能力，主要思路是将�
 - 林科旭[@kexulin](https://gitee.com/kexulin)，*linkexu66@outlook.com*
 - Sherman Lau[@ming_opengauss](https://gitee.com/ming_opengauss) *sherman.lau@huawei.com*
 - Ronen Grosman[@roneng](https://gitee.com/roneng) *ronen.grosman@huawei.com*
+- 何文裕[@wenfish9](https://gitee.com/wenfish9) *hewenyu@xfusion.com*
 
 
 # 联系方式
