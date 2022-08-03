@@ -22,6 +22,7 @@
 - 张文龙[@willloong](https://gitee.com/willloong), *zhangwl@vastdata.com.cn*
 - 张乐奕[@kamusis](https://gitee.com/kamusis), *kamusis@gmail.com*
 - 姚前[@vimiix](https://gitee.com/vimiix) *i@vimiix.com*
+- 汪伟[@wangweizz](https://gitee.com/wangweizz) *wangwei3@xfusion.com*
 
 # 联系方式
 
