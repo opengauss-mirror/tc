@@ -27,6 +27,7 @@ SIG DOCS致力于提供openGauss各类技术文档、教程等形式的完整内
 - 刘旭[@mogliu](https://gitee.com/mogliu)，*xu.liu@enmotech.com*
 - 张乐奕[@kamusis](https://gitee.com/kamusis), *kamusis@gmail.com*
 - 李轶楠[@ora-600](https://gitee.com/ora-600), *yinan.li@enmotech.com*
+- 姜晓颖[@jiangxiaoying1](https://gitee.com/jiangxiaoying1), *jiangxiaoying2@xfusion.com*
 
 # 联系方式
 
