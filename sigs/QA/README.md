@@ -34,6 +34,8 @@
 - 孙敏[@min-sun](https://gitee.com/min-sun)，*min.sun@enmotech.com*
 - 孙静元[@sun-jingyuan](https://gitee.com/sun-jingyuan)，*sunjingyuan@shentongdata.com*
 - 宋菲[@szoscar55](https://gitee.com/szoscar55)，*songfei@shentongdata.com*
+- 王默[@wangmo](https://gitee.com/wangmo)，*wangmo@xfusion.com*
+- 樊书娟[@stella_fan](https://gitee.com/stella_fan)，*fanshujuan@xfusion.com*
 
 # 联系方式
 
