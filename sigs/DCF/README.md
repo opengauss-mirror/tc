@@ -18,6 +18,7 @@ DCF提供分布式一致性框架，使能openGauss DN数据复制和仲裁，�
 - 孙腾腾[@tengtengsun](https://gitee.com/tengtengsun)，*suntengteng@cmbchina.com*
 - 胡习林[@hu-xilin](https://gitee.com/hu-xilin)，*huxilin@huawei.com*
 - 袁怡轮[@yuan-yilun](https://gitee.com/yuan-yilun)，*yuanyilun@huawei.com*
+- 谢卫平[@junhangis](https://gitee.com/junhangis)，*xieweiping@xfusion.com*
 
 # 联系方式
 
