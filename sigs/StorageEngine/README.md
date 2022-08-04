@@ -27,6 +27,7 @@
 - 张皖川[@dbcrafter](https://gitee.com/dbcrafter), *wanchuan_zhang@163.com*
 - 吴岳川[@wuyuechuan](https://gitee.com/wuyuechuan), *wuych9@mail2.sysu.edu.cn*
 - 陈琛[@struggle_hw](https://gitee.com/struggle_hw), *arcoalien@qq.com*
+- 薛兴荣[@dbxue](https://gitee.com/dbxue), *xuexingrong@xfusion.com*
 
 # 联系方式
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/storageengine.opengauss.org/)
