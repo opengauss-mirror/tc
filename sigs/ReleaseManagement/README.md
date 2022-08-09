@@ -22,7 +22,6 @@ ReleaseManagement的主要工作是通过社区协同各SIG maintainer，规划o
 ### Committer列表
 
   - 明沛[@dolphin-m](https://gitee.com/dolphin-m), *mingpei@huawei.com*
-  - 叶春林[@18665822145](https://gitee.com/18665822145), *yechunlin@huawei.com*
   - 杨迪[@yangdi07](https://gitee.com/yangdi07), *yangdi14@huawei.com*
   - 王磊[@nonolili527](https://gitee.com/nonolili527), *wanglei110@huawei.com*
   - 王炜[@wangwei5](https://gitee.com/wangwei5), *wangwei5@huawei.com*
