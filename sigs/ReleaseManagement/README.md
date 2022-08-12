@@ -16,12 +16,12 @@ ReleaseManagement的主要工作是通过社区协同各SIG maintainer，规划o
 
 - 蔡亚杰[@Cyj10727](https://gitee.com/Cyj10727), *jieky.cai@huawei.com*
 - 王江[@wang-jingle](https://gitee.com/wang-jingle), *wangjiang16@huawei.com*
+- 冯伟[@flowill](https://gitee.com/flowill), *f.fengwei@huawei.com*
 
 
 ### Committer列表
 
   - 明沛[@dolphin-m](https://gitee.com/dolphin-m), *mingpei@huawei.com*
-  - 叶春林[@18665822145](https://gitee.com/18665822145), *yechunlin@huawei.com*
   - 杨迪[@yangdi07](https://gitee.com/yangdi07), *yangdi14@huawei.com*
   - 王磊[@nonolili527](https://gitee.com/nonolili527), *wanglei110@huawei.com*
   - 王炜[@wangwei5](https://gitee.com/wangwei5), *wangwei5@huawei.com*
@@ -34,7 +34,6 @@ ReleaseManagement的主要工作是通过社区协同各SIG maintainer，规划o
   - 田兵[@tbing8803](https://gitee.com/tbing8803), *bing.tian@enmotech.com*
   - 刘春[@nifinity](https://gitee.com/nifinity), *liuchun3@huawei.com*
   - 吴明远[@wumingyuan](https://gitee.com/wumingyuan), *wumingyuan@gbase.cn*
-  - 冯伟[@flowill](https://gitee.com/flowill), *f.fengwei@huawei.com*
   - 柴鹏[@chaip3](https://gitee.com/chaip3), *chaip3@chinaunicom.cn*
 
 # 联系方式

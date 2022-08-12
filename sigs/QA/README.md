@@ -36,6 +36,7 @@
 - 宋菲[@szoscar55](https://gitee.com/szoscar55)，*songfei@shentongdata.com*
 - 王默[@wangmo](https://gitee.com/wangmo)，*wangmo@xfusion.com*
 - 樊书娟[@stella_fan](https://gitee.com/stella_fan)，*fanshujuan@xfusion.com*
+- 明沛[@dolphin-m](https://gitee.com/dolphin-m)，*mingpei@huawei.com*
 
 # 联系方式
 
