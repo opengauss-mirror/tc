@@ -15,10 +15,12 @@ sigs:
     - openGauss-server/liteom/uninstall.sh
     - openGauss-server/liteom/upgrade_GAUSSV5.sh
     - openGauss-server/liteom/upgrade_errorcode.sh
+    owner:
   repos:
   - repo:
     - openGauss-OM
     - openGauss-server
+    owner:
 - name: Tools
   sig_label: sig/tools
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Tools
@@ -1478,6 +1480,7 @@ sigs:
     - openGauss-server/src/tools/ifaddrs/test_ifaddrs.cpp
     - openGauss-server/src/tools/ifaddrs/README
     - openGauss-server/src/tools/ifaddrs/Makefile
+    owner:
   repos:
   - repo:
     - openGauss-server
@@ -1490,6 +1493,7 @@ sigs:
     - openGauss-tools-ora2og
     - openGauss-tools-onlineMigration
     - ham4db
+    owner:
 - name: CloudNative
   sig_label: sig/cloudnative
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/CloudNative
@@ -1528,12 +1532,14 @@ sigs:
     - openGauss-server/docker/dockerfiles/1.0.0/gosu-arm64
     - openGauss-server/docker/dockerfiles/buildDockerImage.sh
     - openGauss-server/docker/README.md
+    owner:
   repos:
   - repo:
     - openGauss-server
     - openGauss-third_party
     - openGauss-operator
     - openGauss-prometheus-exporter
+    owner:
 - name: QA
   sig_label: sig/qa
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/QA
@@ -8402,10 +8408,12 @@ sigs:
     - openGauss-server/config/python.m4
     - openGauss-server/config/general.m4
     - openGauss-server/config/tcl.m4
+    owner:
   repos:
   - repo:
     - QA
     - openGauss-server
+    owner:
 - name: OPS
   sig_label: sig/ops
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/OPS
@@ -8450,10 +8458,12 @@ sigs:
     - openGauss-server/src/lib/hotpatch/client/hotpatch_client.cpp
     - openGauss-server/src/lib/hotpatch/client/Makefile
     - openGauss-server/src/lib/hotpatch/Makefile
+    owner:
   repos:
   - repo:
     - openGauss-server
     - openGauss-third_party
+    owner:
 - name: CM
   sig_label: sig/cm
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/CM
@@ -8494,12 +8504,14 @@ sigs:
     - openGauss-server/src/lib/config/CMakeLists.txt
     - openGauss-server/src/lib/config/cm_config.cpp
     - openGauss-server/src/lib/config/Makefile
+    owner:
   repos:
   - repo:
     - CM
     - DCC
     - CBB
     - openGauss-server
+    owner:
 - name: SQLEngine
   sig_label: sig/sqlengine
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/SQLEngine
@@ -12867,10 +12879,12 @@ sigs:
     - openGauss-server/src/common/interfaces/ecpg/pgtypeslib/exports.txt
     - openGauss-server/src/common/interfaces/ecpg/Makefile
     - openGauss-server/src/common/interfaces/ecpg/README.dynSQL
+    owner:
   repos:
   - repo:
     - openGauss-server
     - openGauss-third_party
+    owner:
 - name: StorageEngine
   sig_label: sig/storageengine
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/StorageEngine
@@ -14008,10 +14022,12 @@ sigs:
     - openGauss-server/src/include/gtm/gtm_proxy.h
     - openGauss-server/src/include/gtm/gtm_ip.h
     - openGauss-server/src/include/gtm/gtm_serialize_debug.h
+    owner:
   repos:
   - repo:
     - openGauss-server
     - openGauss-third_party
+    owner:
 - name: AI
   sig_label: sig/ai
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/AI
@@ -14407,11 +14423,13 @@ sigs:
     - openGauss-server/src/include/db4ai/hyperparameter_validation.h
     - openGauss-server/src/include/db4ai/scores.h
     - openGauss-server/src/include/db4ai/model_warehouse.h
+    owner:
   repos:
   - repo:
     - openGauss-server
     - openGauss-third_party
     - openGauss-AI
+    owner:
 - name: SecurityTechnology
   sig_label: sig/securitytech
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/SecurityTechnology
@@ -14464,10 +14482,12 @@ sigs:
     - openGauss-server/src/include/gs_policy/gs_vector.h
     - openGauss-server/src/include/gs_policy/curl_utils.h
     - openGauss-server/src/include/gs_policy/policy_memory_alloc.h
+    owner:
   repos:
   - repo:
     - openGauss-server
     - openGauss-third_party
+    owner:
 - name: Connectors
   sig_label: sig/connectors
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Connectors
@@ -14480,6 +14500,7 @@ sigs:
     - openGauss-connector-python-psycopg2
     - openGauss-connector-go-pq
     - openGauss-connector-python-pyog
+    owner:
 - name: Infra
   sig_label: sig/infra
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Infra
@@ -14491,6 +14512,7 @@ sigs:
     - community
     - openGauss-webclient
     - playground-course
+    owner:
 - name: Docs
   sig_label: sig/docs
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Docs
@@ -14499,12 +14521,15 @@ sigs:
     - docs
     - blog
     - community
+    owner:
+    - gitee_id: fyqlpl
 - name: Security
   sig_label: sig/security
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Security
   repos:
   - repo:
     - security
+    owner:
 - name: IoT
   sig_label: sig/iot
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/IoT
@@ -14512,6 +14537,7 @@ sigs:
   - repo:
     - openGauss-server
     - openGauss-third_party
+    owner:
 - name: In-place-Update
   sig_label: sig/in-placeupdate
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/In-place-Update
@@ -14519,12 +14545,14 @@ sigs:
   - repo:
     - openGauss-server
     - openGauss-third_party
+    owner:
 - name: GIS
   sig_label: sig/gis
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/GIS
   repos:
   - repo:
     - Yukon
+    owner:
 - name: Certification
   sig_label: sig/certification
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Certification
@@ -14534,39 +14562,46 @@ sigs:
     - distribution-certification
     - service-partner-certification
     - compatible-certification
+    owner:
 - name: Plugin
   sig_label: sig/plugin
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Plugin
   repos:
   - repo:
     - Plugin
+    owner:
 - name: Graph
   sig_label: sig/graph
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Graph
   repos:
   - repo:
     - openGauss-graph
+    owner:
 - name: Blockchain
   sig_label: sig/blockchain
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Blockchain
   repos:
   - repo:
     - Blockchain
+    owner:
 - name: DCF
   sig_label: sig/dcf
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/DCF
   repos:
   - repo:
     - DCF
+    owner:
 - name: ReleaseManagement
   sig_label: sig/rm
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/ReleaseManagement
   repos:
   - repo:
     - release-management
+    owner:
 - name: KnowledgeGraph
   sig_label: sig/knowledgegraph
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/KnowledgeGraph
   repos:
   - repo:
     - knowledgeGraph
+    owner:
