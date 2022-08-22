@@ -22,15 +22,14 @@ Plugin SIG 致力于打造多层级、多方法的插件化架构，使能社区
 ### Committer列表
 
 - 胡英豪[@husan1024](https://gitee.com/husan1024), *huyinghao@shentongdata.com*
-- 李传成[@movead](https://gitee.com/movead), *chuancheng.li@enmotech.com*
 - 苏章艳[@siven_dev](https://gitee.com/siven_dev), *suzy1030@qq.com*
-- 吴生勇[@sc_wushy](https://gitee.com/sc_wushy), *wushy@xugudb.com*
-- 赵晓晖[@zhaoxh_kingbase](https://gitee.com/zhaoxh_kingbase), *zhaoxiaohui@kingbase.com.cn*
 - 陈晓滨[@chenxiaobin19](https://gitee.com/chenxiaobin19), *chenxiaobin19@huawei.com*
 - 彭炯[@totaj](https://gitee.com/totaj), *pengjiong1@huawei.com*
-- 苏梓鑫[@su-zixin](https://gitee.com/su-zixin), *adahsuzixin@gmail.com*
 - 吴岳川[@wuyuechuan](https://gitee.com/wuyuechuan), *wuych9@mail2.sysu.edu.cn*
 - 熊小军[@xiong_xjun](https://gitee.com/xiong_xjun), *xiong_xiaojun@yeah.net*
+- 吴明远[@wumingyuan](https://gitee.com/wumingyuan), *wumingyuan@gbase.cn* 
+- 王修强[@xiu-qiang-wang-2022](https://gitee.com/xiu-qiang-wang-2022), *xiuqiang.wang@enmotech.com*
+- 赵思骑[@dreamalloc](https://gitee.com/dreamalloc), *zhaosq76@chinaunicom.cn*
 
 # 联系方式
 
