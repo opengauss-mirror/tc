@@ -45,4 +45,7 @@
 # 仓库清单
 
 仓库地址：
+
 - https://gitee.com/opengauss/QA
+
+- https://gitee.com/opengauss/Yat

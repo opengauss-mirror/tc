@@ -49,11 +49,19 @@
 
 - https://gitee.com/opengauss/website
 
-- https://gitee.com/opengauss/blog
-
 - https://gitee.com/opengauss/community
 
 - https://gitee.com/opengauss/openGauss-webclient
 
 - https://gitee.com/opengauss/playground-course
+
+- https://gitee.com/opengauss/openGauss-webclient-portal
+
+- https://gitee.com/opengauss/practice-course
+
+- https://gitee.com/opengauss/opensource-intership
+
+- https://gitee.com/opengauss/examples
+
+- https://gitee.com/opengauss/tryme
 

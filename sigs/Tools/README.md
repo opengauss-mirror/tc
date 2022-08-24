@@ -42,4 +42,17 @@ openGauss工具生态的长期规划，发展和演进。
 - https://gitee.com/opengauss/openGauss-tools-migrationAssessmentReport
 - https://gitee.com/opengauss/openGauss-tools-ora2og
 - https://gitee.com/opengauss/openGauss-tools-onlineMigration
+- https://gitee.com/opengauss/openGauss-tools-datachecker-performance
+- https://gitee.com/opengauss/openGauss-tools-sql-translator
+- https://gitee.com/opengauss/openGauss-tools-sqlines
+- https://gitee.com/opengauss/openGauss-tools-pg2og
+- https://gitee.com/opengauss/openGauss-tools-backup
+- https://gitee.com/opengauss/openGauss-tools-pluginGeneration
+- https://gitee.com/opengauss/openGauss-distributed-solutions
+- https://gitee.com/opengauss/openGauss-jdbc-skywalking
+- https://gitee.com/opengauss/openGauss-workbench
 - https://gitee.com/opengauss/ham4db
+- https://gitee.com/opengauss/debezium
+- https://gitee.com/opengauss/DataStudio
+- https://gitee.com/opengauss/easyVisualization
+- https://gitee.com/opengauss/shardingsphere

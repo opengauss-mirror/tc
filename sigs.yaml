@@ -16,6 +16,9 @@ sigs:
   - openGauss-connector-python-psycopg2
   - openGauss-connector-go-pq
   - openGauss-connector-python-pyog
+  - openGauss-connector-adonet
+  - openGauss-connector-nodejs
+  - openGauss-connector-rust
 - name: Tools
   repositories:
   - openGauss-server
@@ -27,20 +30,36 @@ sigs:
   - openGauss-tools-migrationAssessmentReport
   - openGauss-tools-ora2og
   - openGauss-tools-onlineMigration
+  - openGauss-tools-datachecker-performance
+  - openGauss-tools-sql-translator
+  - openGauss-tools-sqlines
+  - openGauss-tools-pg2og
+  - openGauss-tools-backup
+  - openGauss-tools-pluginGeneration
+  - openGauss-distributed-solutions
+  - openGauss-jdbc-skywalking
+  - openGauss-workbench
   - ham4db
+  - debezium
+  - DataStudio
+  - easyVisualization
+  - shardingsphere
 - name: Infra
   repositories:
   - infra
   - website
-  - blog
   - community
   - openGauss-webclient
   - playground-course
+  - openGauss-webclient-portal
+  - practice-course
+  - opensource-intership
+  - examples
+  - tryme
 - name: Docs
   repositories:
   - docs
   - blog
-  - community
 - name: Security
   repositories:
   - security
@@ -60,6 +79,7 @@ sigs:
   - openGauss-server
   - openGauss-third_party
   - openGauss-AI
+  - openGauss-DBMind
 - name: GIS
   repositories:
   - Yukon
@@ -75,7 +95,6 @@ sigs:
   - openGauss-third_party
 - name: Certification
   repositories:
-  - distribution-certification-testcase
   - distribution-certification
   - service-partner-certification
   - compatible-certification
@@ -94,6 +113,7 @@ sigs:
 - name: QA
   repositories:
   - QA
+  - Yat
 - name: ReleaseManagement
   repositories:
   - release-management

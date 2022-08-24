@@ -39,4 +39,6 @@
 - https://gitee.com/opengauss/openGauss-connector-odbc
 - https://gitee.com/opengauss/openGauss-connector-go-pq
 - https://gitee.com/opengauss/openGauss-connector-python-pyog
-
+- https://gitee.com/opengauss/openGauss-connector-adonet
+- https://gitee.com/opengauss/openGauss-connector-nodejs
+- https://gitee.com/opengauss/openGauss-connector-rust

@@ -31,4 +31,9 @@ AI SIG 致力于openGauss的能力的开发和维护，包括AI4DB数据库智�
 仓库地址：
 
 - https://gitee.com/opengauss/openGauss-server
+
 - https://gitee.com/opengauss/openGauss-third_party
+
+- https://gitee.com/opengauss/openGauss-AI
+
+- https://gitee.com/opengauss/openGauss-DBMind
