@@ -120,11 +120,6 @@ repositories:
   protected_branches:
   - master
   type: public
-- name: distribution-certification-testcase
-  description: "distribution certification testcase"
-  protected_branches:
-  - master
-  type: public  
 - name: distribution-certification
   description: "distribution certification"
   protected_branches:
@@ -207,6 +202,146 @@ repositories:
   type: public
 - name: compatible-certification
   description: "compatible certification"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-webclient-portal
+  description: "webclient portal"
+  protected_branches:
+  - master
+  type: public
+- name: Yat
+  description: "yet another test tool"
+  protected_branches:
+  - master
+  type: public
+- name: debezium
+  description: "a low latency data streaming platform"
+  protected_branches:
+  - master
+  type: public
+- name: board
+  description: "openGauss Board"
+  protected_branches:
+  - master
+  type: public
+- name: bc
+  description: "openGauss Branding Committee"
+  protected_branches:
+  - master
+  type: public
+- name: bc
+  description: "openGauss Branding Committee"
+  protected_branches:
+  - master
+  type: public
+- name: uc
+  description: "openGauss User Committee"
+  protected_branches:
+  - master
+  type: public
+- name: practice-course
+  description: "openGauss practice course"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-DBMind
+  description: "an open-source database self-driving platform"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-tools-datachecker-performance
+  description: "a data migration verification tool"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-tools-sql-translator
+  description: "sql translator tool"
+  protected_branches:
+  - master
+  type: public
+- name: DataStudio
+  description: "database management tool"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-jdbc-skywalking
+  description: "connection tool between openGauss and Skywalking"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-distributed-solutions
+  description: "kubernetes distributed solutions"
+  protected_branches:
+  - master
+  type: public
+- name: opensource-intership
+  description: "open source intership"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-User-Group
+  description: "openGauss user group"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-connector-adonet
+  description: "openGauss adonet connector"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-connector-nodejs
+  description: "openGauss nodejs connector"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-connector-rust
+  description: "openGauss rust connector"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-tools-sqlines
+  description: "sqlines tool"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-tools-pg2og
+  description: "migration tool from postgresql to openGauss"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-tools-backup
+  description: "backup and restore tool"
+  protected_branches:
+  - master
+  type: public
+- name: examples
+  description: "openGauss use examples"
+  protected_branches:
+  - master
+  type: public
+- name: tryme
+  description: "openGauss tryme example"
+  protected_branches:
+  - master
+  type: public
+- name: easyVisualization
+  description: "easy visualization setup"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-workbench
+  description: "openGauss workbench repository"
+  protected_branches:
+  - master
+  type: public
+- name: shardingsphere
+  description: "shardingsphere mirror repository"
+  protected_branches:
+  - master
+  type: public
+- name: openGauss-tools-pluginGeneration
+  description: "plugin generation tool"
   protected_branches:
   - master
   type: public

@@ -39,6 +39,5 @@ SIG DOCS致力于提供openGauss各类技术文档、教程等形式的完整内
 仓库地址：
 
 - https://gitee.com/opengauss/docs
-- https://gitee.com/opengauss/blog
-- https://gitee.com/opengauss/community
 
+- https://gitee.com/opengauss/blog
