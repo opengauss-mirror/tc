@@ -16,11 +16,19 @@ sigs:
     - openGauss-server/liteom/upgrade_GAUSSV5.sh
     - openGauss-server/liteom/upgrade_errorcode.sh
     owner:
+    - gitee_id: dscao
+      organizaiton: huawei
+      name: caodongsheng
+      email: caodongsheng2@huawei.com
   repos:
   - repo:
     - openGauss-OM
     - openGauss-server
     owner:
+    - gitee_id: dscao
+      organizaiton: huawei
+      name: caodongsheng
+      email: caodongsheng2@huawei.com
 - name: Tools
   sig_label: sig/tools
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Tools
@@ -1481,6 +1489,10 @@ sigs:
     - openGauss-server/src/tools/ifaddrs/README
     - openGauss-server/src/tools/ifaddrs/Makefile
     owner:
+    - gitee_id: xiong_xjun
+      organizaiton: huawei
+      name: xiongxiaojun
+      email: xiongxiaojun2@huawei.com
   repos:
   - repo:
     - openGauss-server
@@ -1492,8 +1504,25 @@ sigs:
     - openGauss-tools-migrationAssessmentReport
     - openGauss-tools-ora2og
     - openGauss-tools-onlineMigration
+    - openGauss-tools-datachecker-performance
+    - openGauss-tools-sql-translator
+    - openGauss-tools-sqlines
+    - openGauss-tools-pg2og
+    - openGauss-tools-backup
+    - openGauss-tools-pluginGeneration
+    - openGauss-distributed-solutions
+    - openGauss-jdbc-skywalking
+    - openGauss-workbench
     - ham4db
+    - debezium
+    - DataStudio
+    - easyVisualization
+    - shardingsphere
     owner:
+    - gitee_id: xiong_xjun
+      organizaiton: huawei
+      name: xiongxiaojun
+      email: xiongxiaojun2@huawei.com
 - name: CloudNative
   sig_label: sig/cloudnative
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/CloudNative
@@ -1533,6 +1562,10 @@ sigs:
     - openGauss-server/docker/dockerfiles/buildDockerImage.sh
     - openGauss-server/docker/README.md
     owner:
+    - gitee_id: zzzzzdb
+      organizaiton: cmbc
+      name: zhubin
+      email: zzzzzdb_zb@163.com
   repos:
   - repo:
     - openGauss-server
@@ -1540,6 +1573,10 @@ sigs:
     - openGauss-operator
     - openGauss-prometheus-exporter
     owner:
+    - gitee_id: zzzzzdb
+      organizaiton: cmbc
+      name: zhubin
+      email: zzzzzdb_zb@163.com
 - name: QA
   sig_label: sig/qa
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/QA
@@ -8409,11 +8446,20 @@ sigs:
     - openGauss-server/config/general.m4
     - openGauss-server/config/tcl.m4
     owner:
+    - gitee_id: yansong_lee
+      organizaiton: huawei
+      name: liyansong
+      email: yansong_lee@163.com
   repos:
   - repo:
     - QA
+    - Yat
     - openGauss-server
     owner:
+    - gitee_id: yansong_lee
+      organizaiton: huawei
+      name: liyansong
+      email: yansong_lee@163.com
 - name: OPS
   sig_label: sig/ops
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/OPS
@@ -8459,11 +8505,19 @@ sigs:
     - openGauss-server/src/lib/hotpatch/client/Makefile
     - openGauss-server/src/lib/hotpatch/Makefile
     owner:
+    - gitee_id: shenyuflying
+      organizaiton: huawei
+      name: shenyu
+      email: 316472763@qq.com
   repos:
   - repo:
     - openGauss-server
     - openGauss-third_party
     owner:
+    - gitee_id: shenyuflying
+      organizaiton: huawei
+      name: shenyu
+      email: 316472763@qq.com
 - name: CM
   sig_label: sig/cm
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/CM
@@ -8505,6 +8559,10 @@ sigs:
     - openGauss-server/src/lib/config/cm_config.cpp
     - openGauss-server/src/lib/config/Makefile
     owner:
+    - gitee_id: zjxqxf
+      organizaiton: huawei
+      name: zhangjianxun
+      email: zhangjianxun.zhangjianxun@huawei.com
   repos:
   - repo:
     - CM
@@ -8512,6 +8570,10 @@ sigs:
     - CBB
     - openGauss-server
     owner:
+    - gitee_id: zjxqxf
+      organizaiton: huawei
+      name: zhangjianxun
+      email: zhangjianxun.zhangjianxun@huawei.com
 - name: SQLEngine
   sig_label: sig/sqlengine
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/SQLEngine
@@ -12880,11 +12942,19 @@ sigs:
     - openGauss-server/src/common/interfaces/ecpg/Makefile
     - openGauss-server/src/common/interfaces/ecpg/README.dynSQL
     owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
   repos:
   - repo:
     - openGauss-server
     - openGauss-third_party
     owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
 - name: StorageEngine
   sig_label: sig/storageengine
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/StorageEngine
@@ -14023,11 +14093,19 @@ sigs:
     - openGauss-server/src/include/gtm/gtm_ip.h
     - openGauss-server/src/include/gtm/gtm_serialize_debug.h
     owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
   repos:
   - repo:
     - openGauss-server
     - openGauss-third_party
     owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
 - name: AI
   sig_label: sig/ai
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/AI
@@ -14424,12 +14502,21 @@ sigs:
     - openGauss-server/src/include/db4ai/scores.h
     - openGauss-server/src/include/db4ai/model_warehouse.h
     owner:
+    - gitee_id: lishifu_db
+      organizaiton: huawei
+      name: lishifu
+      email: lishifu@huawei.com
   repos:
   - repo:
     - openGauss-server
     - openGauss-third_party
     - openGauss-AI
+    - openGauss-DBMind
     owner:
+    - gitee_id: lishifu_db
+      organizaiton: huawei
+      name: lishifu
+      email: lishifu@huawei.com
 - name: SecurityTechnology
   sig_label: sig/securitytech
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/SecurityTechnology
@@ -14483,11 +14570,19 @@ sigs:
     - openGauss-server/src/include/gs_policy/curl_utils.h
     - openGauss-server/src/include/gs_policy/policy_memory_alloc.h
     owner:
+    - gitee_id: zhu_jinwei
+      organizaiton: huawei
+      name: zhujinwei
+      email: zhujinwei@huawei.com
   repos:
   - repo:
     - openGauss-server
     - openGauss-third_party
     owner:
+    - gitee_id: zhu_jinwei
+      organizaiton: huawei
+      name: zhujinwei
+      email: zhujinwei@huawei.com
 - name: Connectors
   sig_label: sig/connectors
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Connectors
@@ -14500,7 +14595,14 @@ sigs:
     - openGauss-connector-python-psycopg2
     - openGauss-connector-go-pq
     - openGauss-connector-python-pyog
+    - openGauss-connector-adonet
+    - openGauss-connector-nodejs
+    - openGauss-connector-rust
     owner:
+    - gitee_id: pikeTWG
+      organizaiton: huawei
+      name: tianwengang
+      email: tianwengang@huawei.com
 - name: Infra
   sig_label: sig/infra
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Infra
@@ -14508,11 +14610,19 @@ sigs:
   - repo:
     - infra
     - website
-    - blog
     - community
     - openGauss-webclient
     - playground-course
+    - openGauss-webclient-portal
+    - practice-course
+    - opensource-intership
+    - examples
+    - tryme
     owner:
+    - gitee_id: zhongjun2
+      organizaiton: huawei
+      name: zhongjun
+      email: jun.zhongjun2@gmail.com
 - name: Docs
   sig_label: sig/docs
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Docs
@@ -14520,9 +14630,11 @@ sigs:
   - repo:
     - docs
     - blog
-    - community
     owner:
     - gitee_id: fyqlpl
+      organizaiton: huawei
+      name: fanyaqing
+      email: fanyaqing@huawei.com
 - name: Security
   sig_label: sig/security
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Security
@@ -14530,6 +14642,10 @@ sigs:
   - repo:
     - security
     owner:
+    - gitee_id: zhu_jinwei
+      organizaiton: huawei
+      name: zhujinwei
+      email: zhujinwei@huawei.com
 - name: IoT
   sig_label: sig/iot
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/IoT
@@ -14538,6 +14654,10 @@ sigs:
     - openGauss-server
     - openGauss-third_party
     owner:
+    - gitee_id: jarekzhang
+      organizaiton: enmotech
+      name: zhangchengwei
+      email: chengwei.zhang@enmotech.com
 - name: In-place-Update
   sig_label: sig/in-placeupdate
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/In-place-Update
@@ -14546,6 +14666,10 @@ sigs:
     - openGauss-server
     - openGauss-third_party
     owner:
+    - gitee_id: wang-jingle
+      organizaiton: huawei
+      name: wangjiang
+      email: wangjiang16@huawei.com
 - name: GIS
   sig_label: sig/gis
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/GIS
@@ -14553,16 +14677,23 @@ sigs:
   - repo:
     - Yukon
     owner:
+    - gitee_id: zhouqinsm
+      organizaiton: supermap
+      name: zhouqin
+      email: zhouqin@supermap.com
 - name: Certification
   sig_label: sig/certification
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Certification
   repos:
   - repo:
-    - distribution-certification-testcase
     - distribution-certification
     - service-partner-certification
     - compatible-certification
     owner:
+    - gitee_id: chuqifang
+      organizaiton: huawei
+      name: chuqifang
+      email: chuqifang@huawei.com
 - name: Plugin
   sig_label: sig/plugin
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Plugin
@@ -14570,6 +14701,10 @@ sigs:
   - repo:
     - Plugin
     owner:
+    - gitee_id: huangkaiyao
+      organizaiton: huawei
+      name: huangkaiyao
+      email: huangkaiyao@huawei.com
 - name: Graph
   sig_label: sig/graph
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Graph
@@ -14577,6 +14712,10 @@ sigs:
   - repo:
     - openGauss-graph
     owner:
+    - gitee_id: xinwang-tju
+      organizaiton: tju
+      name: wangxin
+      email: wangx@tju.edu.cn
 - name: Blockchain
   sig_label: sig/blockchain
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Blockchain
@@ -14584,6 +14723,10 @@ sigs:
   - repo:
     - Blockchain
     owner:
+    - gitee_id: jinchuanchen
+      organizaiton: ruc
+      name: chenjinchuan
+      email: jcchen@ruc.edu.cn
 - name: DCF
   sig_label: sig/dcf
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/DCF
@@ -14591,6 +14734,10 @@ sigs:
   - repo:
     - DCF
     owner:
+    - gitee_id: wanghuanzhuo
+      organizaiton: huawei
+      name: wanghuanzhuo
+      email: wanghuanzhuo@huawei.com
 - name: ReleaseManagement
   sig_label: sig/rm
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/ReleaseManagement
@@ -14598,6 +14745,10 @@ sigs:
   - repo:
     - release-management
     owner:
+    - gitee_id: flowill
+      organizaiton: huawei
+      name: fengwei
+      email: f.fengwei@huawei.com
 - name: KnowledgeGraph
   sig_label: sig/knowledgegraph
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/KnowledgeGraph
@@ -14605,3 +14756,7 @@ sigs:
   - repo:
     - knowledgeGraph
     owner:
+    - gitee_id: zouleipku
+      organizaiton: pku
+      name: zoulei
+      email: zoulei@pku.edu.cn
