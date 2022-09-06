@@ -1504,6 +1504,7 @@ sigs:
     - openGauss-tools-migrationAssessmentReport
     - openGauss-tools-ora2og
     - openGauss-tools-onlineMigration
+    - openGauss-tools-onlineMigration-mysql
     - openGauss-tools-datachecker-performance
     - openGauss-tools-sql-translator
     - openGauss-tools-sqlines
