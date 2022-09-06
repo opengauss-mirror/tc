@@ -345,3 +345,8 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: openGauss-tools-onlineMigration-mysql
+  description: "online migration tool from mysql to openGauss"
+  protected_branches:
+  - master
+  type: public

@@ -42,6 +42,7 @@ openGauss工具生态的长期规划，发展和演进。
 - https://gitee.com/opengauss/openGauss-tools-migrationAssessmentReport
 - https://gitee.com/opengauss/openGauss-tools-ora2og
 - https://gitee.com/opengauss/openGauss-tools-onlineMigration
+- https://gitee.com/opengauss/openGauss-tools-onlineMigration-mysql
 - https://gitee.com/opengauss/openGauss-tools-datachecker-performance
 - https://gitee.com/opengauss/openGauss-tools-sql-translator
 - https://gitee.com/opengauss/openGauss-tools-sqlines
