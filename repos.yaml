@@ -340,8 +340,8 @@ repositories:
   protected_branches:
   - master
   type: public
-- name: openGauss-tools-pluginGeneration
-  description: "plugin generation tool"
+- name: openGauss-tools-monitor
+  description: "plugin monitor tools"
   protected_branches:
   - master
   type: public
