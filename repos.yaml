@@ -350,3 +350,8 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: CM-RestAPI
+  description: "Rest API for querying and pushing cluster information."
+  protected_branches:
+  - master
+  type: public

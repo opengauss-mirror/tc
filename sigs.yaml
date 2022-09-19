@@ -123,6 +123,7 @@ sigs:
   - CM
   - DCC
   - CBB
+  - CM-RestAPI
 - name: OPS
   repositories:
   - openGauss-server

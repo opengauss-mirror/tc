@@ -8570,6 +8570,7 @@ sigs:
     - DCC
     - CBB
     - openGauss-server
+    - CM-RestAPI
     owner:
     - gitee_id: zjxqxf
       organizaiton: huawei
