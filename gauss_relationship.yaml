@@ -548,6 +548,12 @@ sigs:
     - openGauss-server/contrib/btree_gin/btree_gin.control
     - openGauss-server/contrib/btree_gin/Makefile
     - openGauss-server/contrib/btree_gin/btree_gin--1.0.sql
+    owner:
+    - gitee_id: xiong_xjun
+      organizaiton: huawei
+      name: yaoqiang
+      email: xiong_xiaojun@yeah.net
+  - file:
     - openGauss-server/contrib/earthdistance
     - openGauss-server/contrib/earthdistance/expected
     - openGauss-server/contrib/earthdistance/expected/earthdistance.out
@@ -897,6 +903,12 @@ sigs:
     - openGauss-server/contrib/pg_upgrade_support/pg_upgrade_support.cpp
     - openGauss-server/contrib/pg_upgrade_support/CMakeLists.txt
     - openGauss-server/contrib/pg_upgrade_support/Makefile
+    owner:
+    - gitee_id: struggle_hw
+      organizaiton: huawei
+      name: chenchen
+      email: arcoalien@qq.com
+  - file:
     - openGauss-server/distribute_escan.txt
     - openGauss-server/.gitignore
     - openGauss-server/configure.in
@@ -944,6 +956,12 @@ sigs:
     - openGauss-server/COPYRIGHT
     - openGauss-server/src/bcc32.mak
     - openGauss-server/src/nls-global.mk
+    owner:
+    - gitee_id: wuyuechuan
+      organizaiton: huawei
+      name: wuyuechuan
+      email: wuych9@mail2.sysu.edu.cn
+  - file:
     - openGauss-server/src/bin
     - openGauss-server/src/bin/gs_loader
     - openGauss-server/src/bin/gs_loader/gs_loader.cpp
@@ -1154,6 +1172,12 @@ sigs:
     - openGauss-server/src/bin/gsqlerr/errmsg.txt
     - openGauss-server/src/bin/gsqlerr/Makefile
     - openGauss-server/src/bin/gsqlerr/errmsg.h
+    owner:
+    - gitee_id: totaj
+      organizaiton: huawei
+      name: pengjiong
+      email: pengjiong1@huawei.com
+  - file:
     - openGauss-server/src/bin/initdb
     - openGauss-server/src/bin/initdb/initdb.cpp
     - openGauss-server/src/bin/initdb/CMakeLists.txt
@@ -1489,41 +1513,89 @@ sigs:
     - openGauss-server/src/tools/ifaddrs/README
     - openGauss-server/src/tools/ifaddrs/Makefile
     owner:
-    - gitee_id: xiong_xjun
+    - gitee_id: justbk
       organizaiton: huawei
-      name: xiongxiaojun
-      email: xiongxiaojun2@huawei.com
+      name: zhoubin
+      email: zb.zhoubin@huawei.com
   repos:
   - repo:
     - openGauss-server
     - openGauss-third_party
-    - openGauss-housekeeper
-    - openGauss-tools-loader
-    - openGauss-tools-chameleon
-    - openGauss-tools-datachecker
-    - openGauss-tools-migrationAssessmentReport
-    - openGauss-tools-ora2og
-    - openGauss-tools-onlineMigration
     - openGauss-tools-onlineMigration-mysql
-    - openGauss-tools-datachecker-performance
-    - openGauss-tools-sql-translator
-    - openGauss-tools-sqlines
-    - openGauss-tools-pg2og
-    - openGauss-tools-backup
     - openGauss-tools-monitor
-    - openGauss-distributed-solutions
-    - openGauss-jdbc-skywalking
-    - openGauss-workbench
-    - ham4db
-    - debezium
-    - DataStudio
-    - easyVisualization
-    - shardingsphere
     owner:
     - gitee_id: xiong_xjun
       organizaiton: huawei
       name: xiongxiaojun
       email: xiongxiaojun2@huawei.com
+  - repo:
+    - debezium
+    - openGauss-tools-onlineMigration
+    - openGauss-tools-backup
+    owner:
+    - gitee_id: ywzq1161327784
+      organizaiton: huawei
+      name: douxin
+      email: douxin5@huawei.com
+  - repo:
+    - openGauss-tools-datachecker-performance
+    - openGauss-tools-sql-translator
+    - openGauss-jdbc-skywalking
+    - openGauss-distributed-solutions
+    - ham4db
+    - shardingsphere
+    owner:
+    - gitee_id: justbk
+      organizaiton: huawei
+      name: zhoubin
+      email: zb.zhoubin@huawei.com
+  - repo:
+    - openGauss-tools-chameleon
+    - DataStudio
+    - easyVisualization
+    - openGauss-tools-datachecker
+    owner:
+    - gitee_id: buter
+      organizaiton: huawei
+      name: zhangyaozhong
+      email: zhangyaozhong1@huawei.com
+  - repo:
+    - openGauss-tools-sqlines
+    - openGauss-tools-pg2og
+    owner:
+    - gitee_id: gentle_hu
+      organizaiton: huawei
+      name: huzhengchao
+      email: gentle_hu@qq.com
+  - repo:
+    - openGauss-housekeeper
+    owner:
+    - gitee_id: lizhenfeng123
+      organizaiton: chinasofti
+      name: lizhenfeng
+      email: lizhenfeng001@chinasofti.com
+  - repo:
+    - openGauss-tools-loader
+    - openGauss-tools-ora2og
+    owner:
+    - gitee_id: totaj
+      organizaiton: huawei
+      name: pengjiong
+      email: pengjiong1@huawei.com
+  - repo:
+    - openGauss-tools-migrationAssessmentReport
+    owner:
+    - gitee_id: wuyuechuan
+      organizaiton: huawei
+      name: wuyuechuan
+      email: wuych9@mail2.sysu.edu.cn
+  - repo:
+    - openGauss-workbench
+    owner:
+    - gitee_id: he-chenghan
+      organizaiton: huawei
+      name: hechenghan
+      email: hechenghan@huawei.com
 - name: CloudNative
   sig_label: sig/cloudnative
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/CloudNative
@@ -2295,12 +2367,30 @@ sigs:
     - openGauss-server/aclocal.m4
     - openGauss-server/src
     - openGauss-server/src/DEVELOPERS
+    owner:
+    - gitee_id: gentle_hu
+      organizaiton: huawei
+      name: huzhengchao
+      email: gentle_hu@qq.com
+  - file:
     - openGauss-server/src/test
     - openGauss-server/src/test/grayscale_upgrade
     - openGauss-server/src/test/grayscale_upgrade/upgradeCheck.py
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/test/regress
     - openGauss-server/src/test/regress/single_check.sh
     - openGauss-server/src/test/regress/parallel_schedule4
+    owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
+  - file:
     - openGauss-server/src/test/regress/krbclient
     - openGauss-server/src/test/regress/krbclient/lib
     - openGauss-server/src/test/regress/krbclient/lib/krb5
@@ -2328,10 +2418,40 @@ sigs:
     - openGauss-server/src/test/regress/krbclient/bin/gss-client
     - openGauss-server/src/test/regress/krbclient/bin/security_krb5_init_from_pwd.sh
     - openGauss-server/src/test/regress/krbclient/bin/kdestroy
+    owner:
+    - gitee_id: jianfenglee
+      organizaiton: huawei
+      name: lijianfeng
+      email: bigtimer@qq.com
+  - file:
     - openGauss-server/src/test/regress/parallel_schedule0A
+    owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
+  - file:
     - openGauss-server/src/test/regress/parallel_schedule.db4ai
+    owner:
+    - gitee_id: wang-tq
+      organizaiton: huawei
+      name: wangtianqing
+      email: wangtianqing2@huawei.com
+  - file:
     - openGauss-server/src/test/regress/parallel_schedule40
+    owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
+  - file:
     - openGauss-server/src/test/regress/make_aiecheck_postgresql.conf
+    owner:
+    - gitee_id: wang-tq
+      organizaiton: huawei
+      name: wangtianqing
+      email: wangtianqing2@huawei.com
+  - file:
     - openGauss-server/src/test/regress/parallel_schedule14
     - openGauss-server/src/test/regress/make_fastcheck_postgresql.conf
     - openGauss-server/src/test/regress/expected
@@ -3356,6 +3476,12 @@ sigs:
     - openGauss-server/src/test/regress/expected/workload_manager_ddl.out
     - openGauss-server/src/test/regress/expected/rawlike.out
     - openGauss-server/src/test/regress/expected/single_node_opr_sanity.out
+    owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
+  - file:
     - openGauss-server/src/test/regress/expected/subselect_part1.out
     - openGauss-server/src/test/regress/expected/shipping_preprocess_func.out
     - openGauss-server/src/test/regress/expected/nodegroup_name.out
@@ -4359,6 +4485,12 @@ sigs:
     - openGauss-server/src/test/regress/data/gs_loader_filler1.ctl
     - openGauss-server/src/test/regress/data/time_dim.data
     - openGauss-server/src/test/regress/data/gs_compress_alter_table.data
+    owner:
+    - gitee_id: gentle_hu
+      organizaiton: huawei
+      name: huzhengchao
+      email: gentle_hu@qq.com
+  - file:
     - openGauss-server/src/test/regress/data/whitebox_basic.data
     - openGauss-server/src/test/regress/data/gs_compress_hot_update_and_redo.data
     - openGauss-server/src/test/regress/data/cstore_infinity.data
@@ -5399,6 +5531,12 @@ sigs:
     - openGauss-server/src/test/regress/sql/outerjoin_bugfix.sql
     - openGauss-server/src/test/regress/sql/recursive_finalize.sql
     - openGauss-server/src/test/regress/sql/hw_dbms_sql1.sql
+    owner:
+    - gitee_id: totaj
+      organizaiton: huawei
+      name: pengjiong
+      email: pengjiong1@huawei.com
+  - file:
     - openGauss-server/src/test/regress/sql/post_redis_001.sql
     - openGauss-server/src/test/regress/sql/single_node_union.sql
     - openGauss-server/src/test/regress/sql/nodegroup_misc.sql
@@ -6370,6 +6508,12 @@ sigs:
     - openGauss-server/src/test/regress/output/obs_query_tpch_test4.source
     - openGauss-server/src/test/regress/output/hw_show_tabledef.source
     - openGauss-server/src/test/regress/output/subplan_new.source
+    owner:
+    - gitee_id: chenhao7253886
+      organizaiton: huawei
+      name: chenhao
+      email: chenhao220@huawei.com
+  - file:
     - openGauss-server/src/test/regress/output/dfs_alter_table_002.source
     - openGauss-server/src/test/regress/output/tablespace_limit2.source
     - openGauss-server/src/test/regress/output/copy_3.source
@@ -7418,6 +7562,12 @@ sigs:
     - openGauss-server/src/test/regress/input/hw_partition_exchange1.source
     - openGauss-server/src/test/regress/input/dfs_dts002.source
     - openGauss-server/src/test/regress/input/dfs_bulkload_parallel_test_1.source
+    owner:
+    - gitee_id: ziki77
+      organizaiton: huawei
+      name: zhouzhaoqi
+      email: zhouzhaoqi1@huawei.com
+  - file:
     - openGauss-server/src/test/regress/input/informational_constraint_plan_test.source
     - openGauss-server/src/test/regress/input/obs_vec_orc_fdw_tpch.source
     - openGauss-server/src/test/regress/input/cstore_partial_cluster_info.source
@@ -8336,6 +8486,12 @@ sigs:
     - openGauss-server/src/test/ut/demo/ut_demo.cpp
     - openGauss-server/src/test/ut/demo/ut_demo.h
     - openGauss-server/src/test/ut/CMakeLists.txt
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/test/ut/db4ai
     - openGauss-server/src/test/ut/db4ai/CMakeLists.txt
     - openGauss-server/src/test/ut/db4ai/direct_ml
@@ -8362,6 +8518,12 @@ sigs:
     - openGauss-server/src/test/ut/db4ai/data/pca_7_1000_predict.txt
     - openGauss-server/src/test/ut/db4ai/data/moons.csv
     - openGauss-server/src/test/ut/db4ai/ut_direct_ml.h
+    owner:
+    - gitee_id: wang-tq
+      organizaiton: huawei
+      name: wangtianqing
+      email: wangtianqing2@huawei.com
+  - file:
     - openGauss-server/src/test/ut/include
     - openGauss-server/src/test/ut/include/gunit_test.h
     - openGauss-server/src/test/performance
@@ -8447,10 +8609,10 @@ sigs:
     - openGauss-server/config/general.m4
     - openGauss-server/config/tcl.m4
     owner:
-    - gitee_id: yansong_lee
+    - gitee_id: nonolili527
       organizaiton: huawei
-      name: liyansong
-      email: yansong_lee@163.com
+      name: wanglei
+      email: wanglei110@huawei.com
   repos:
   - repo:
     - QA
@@ -8566,16 +8728,40 @@ sigs:
       email: zhangjianxun.zhangjianxun@huawei.com
   repos:
   - repo:
-    - CM
-    - DCC
-    - CBB
     - openGauss-server
-    - CM-RestAPI
     owner:
     - gitee_id: zjxqxf
       organizaiton: huawei
       name: zhangjianxun
       email: zhangjianxun.zhangjianxun@huawei.com
+  - repo:
+    - CM
+    owner:
+    - gitee_id: yz_db
+      organizaiton: huawei
+      name: yuzheng
+      email: yuzheng3@huawei.com
+  - repo:
+    - DCC
+    owner:
+    - gitee_id: hu-xilin
+      organizaiton: huawei
+      name: huxinlin
+      email: huxilin@huawei.com
+  - repo:
+    - CBB
+    owner:
+    - gitee_id: wangwei5
+      organizaiton: huawei
+      name: wangwei
+      email: wangwei5@huawei.com
+  - repo:
+    - CM-RestAPI
+    owner:
+    - gitee_id: xue_meng_en
+      organizaiton: huawei
+      name: xuemengen
+      email: xuemengen@huawei.com
 - name: SQLEngine
   sig_label: sig/sqlengine
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/SQLEngine
@@ -8601,6 +8787,12 @@ sigs:
     - openGauss-server/src/lib/pgcommon/fe_memutils.cpp
     - openGauss-server/src/lib/pgcommon/Makefile
     - openGauss-server/src/lib/Makefile
+    owner:
+    - gitee_id: gentle_hu
+      organizaiton: huawei
+      name: huzhengchao
+      email: gentle_hu@qq.com
+  - file:
     - openGauss-server/src/gausskernel/optimizer
     - openGauss-server/src/gausskernel/optimizer/prep
     - openGauss-server/src/gausskernel/optimizer/prep/prepqual.cpp
@@ -8786,6 +8978,12 @@ sigs:
     - openGauss-server/src/gausskernel/optimizer/rewrite/rewriteRemove.cpp
     - openGauss-server/src/gausskernel/optimizer/rewrite/Makefile
     - openGauss-server/src/gausskernel/optimizer/Makefile
+    owner:
+    - gitee_id: ziki77
+      organizaiton: huawei
+      name: zhouzhaoqi
+      email: zhouzhaoqi1@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/CMakeLists.txt
     - openGauss-server/src/gausskernel/Makefile_for_llt
     - openGauss-server/src/gausskernel/process
@@ -8832,6 +9030,12 @@ sigs:
     - openGauss-server/src/gausskernel/process/postmaster/pgstat.cpp
     - openGauss-server/src/gausskernel/process/postmaster/cbmwriter.cpp
     - openGauss-server/src/gausskernel/process/postmaster/aiocompleter.cpp
+    owner:
+    - gitee_id: gentle_hu
+      organizaiton: huawei
+      name: huzhengchao
+      email: gentle_hu@qq.com
+  - file:
     - openGauss-server/src/gausskernel/process/stream
     - openGauss-server/src/gausskernel/process/stream/execStream.cpp
     - openGauss-server/src/gausskernel/process/stream/streamTransportComm.cpp
@@ -8842,6 +9046,12 @@ sigs:
     - openGauss-server/src/gausskernel/process/stream/stream_cost.cpp
     - openGauss-server/src/gausskernel/process/stream/Makefile
     - openGauss-server/src/gausskernel/process/stream/streamMain.cpp
+    owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/process/CMakeLists.txt
     - openGauss-server/src/gausskernel/process/globalplancache
     - openGauss-server/src/gausskernel/process/globalplancache/globalplancache_inval.cpp
@@ -8850,6 +9060,12 @@ sigs:
     - openGauss-server/src/gausskernel/process/globalplancache/globalplancache_view.cpp
     - openGauss-server/src/gausskernel/process/globalplancache/globalplancache.cpp
     - openGauss-server/src/gausskernel/process/globalplancache/Makefile
+    owner:
+    - gitee_id: chenhao7253886
+      organizaiton: huawei
+      name: chenhao
+      email: chenhao220@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/process/threadpool
     - openGauss-server/src/gausskernel/process/threadpool/knl_session.cpp
     - openGauss-server/src/gausskernel/process/threadpool/knl_instance.cpp
@@ -8864,6 +9080,12 @@ sigs:
     - openGauss-server/src/gausskernel/process/threadpool/threadpool_controler.cpp
     - openGauss-server/src/gausskernel/process/threadpool/threadpool_group.cpp
     - openGauss-server/src/gausskernel/process/threadpool/knl_thread.cpp
+    owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/process/tcop
     - openGauss-server/src/gausskernel/process/tcop/dest.cpp
     - openGauss-server/src/gausskernel/process/tcop/postgres.cpp
@@ -8880,6 +9102,12 @@ sigs:
     - openGauss-server/src/gausskernel/process/datasource/CMakeLists.txt
     - openGauss-server/src/gausskernel/process/datasource/Makefile
     - openGauss-server/src/gausskernel/process/Makefile
+    owner:
+    - gitee_id: totaj
+      organizaiton: huawei
+      name: pengjiong
+      email: pengjiong1@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/runtime
     - openGauss-server/src/gausskernel/runtime/codegen
     - openGauss-server/src/gausskernel/runtime/codegen/CMakeLists.txt
@@ -8917,6 +9145,12 @@ sigs:
     - openGauss-server/src/gausskernel/runtime/codegen/vecexecutor/vecexprcodegen.cpp
     - openGauss-server/src/gausskernel/runtime/codegen/vecexecutor/vecsortcodegen.cpp
     - openGauss-server/src/gausskernel/runtime/codegen/vecexecutor/Makefile
+    owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/runtime/CMakeLists.txt
     - openGauss-server/src/gausskernel/runtime/opfusion
     - openGauss-server/src/gausskernel/runtime/opfusion/opfusion_insert.cpp
@@ -8936,6 +9170,12 @@ sigs:
     - openGauss-server/src/gausskernel/runtime/opfusion/opfusion_update.cpp
     - openGauss-server/src/gausskernel/runtime/opfusion/opfusion_selectforupdate.cpp
     - openGauss-server/src/gausskernel/runtime/opfusion/opfusion_delete.cpp
+    owner:
+    - gitee_id: chenhao7253886
+      organizaiton: huawei
+      name: chenhao
+      email: chenhao220@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/runtime/executor
     - openGauss-server/src/gausskernel/runtime/executor/spiDbesql.cpp
     - openGauss-server/src/gausskernel/runtime/executor/nodeResult.cpp
@@ -9000,6 +9240,12 @@ sigs:
     - openGauss-server/src/gausskernel/runtime/executor/execJunk.cpp
     - openGauss-server/src/gausskernel/runtime/executor/nodeNestloop.cpp
     - openGauss-server/src/gausskernel/runtime/executor/nodeIndexonlyscan.cpp
+    owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/runtime/Makefile
     - openGauss-server/src/gausskernel/runtime/vecexecutor
     - openGauss-server/src/gausskernel/runtime/vecexecutor/vectorbatch.cpp
@@ -9078,6 +9324,12 @@ sigs:
     - openGauss-server/src/gausskernel/runtime/vecexecutor/vecprimitive/float.inl
     - openGauss-server/src/gausskernel/runtime/vecexecutor/vecprimitive/int8.inl
     - openGauss-server/src/gausskernel/runtime/vecexecutor/vecprimitive/int4.inl
+    owner:
+    - gitee_id: gentle_hu
+      organizaiton: huawei
+      name: huzhengchao
+      email: gentle_hu@qq.com
+  - file:
     - openGauss-server/src/gausskernel/nls.mk
     - openGauss-server/src/gausskernel/common.mk
     - openGauss-server/src/gausskernel/bootstrap
@@ -9140,6 +9392,12 @@ sigs:
     - openGauss-server/src/gausskernel/cbb/utils/zfiles/gz_file.cpp
     - openGauss-server/src/gausskernel/cbb/utils/zfiles/zip_file.cpp
     - openGauss-server/src/gausskernel/cbb/utils/zfiles/Makefile
+    owner:
+    - gitee_id: ziki77
+      organizaiton: huawei
+      name: zhouzhaoqi
+      email: zhouzhaoqi1@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/cbb/bbox
     - openGauss-server/src/gausskernel/cbb/bbox/bbox_elf_dump_base.cpp
     - openGauss-server/src/gausskernel/cbb/bbox/bbox_threads.cpp
@@ -9189,6 +9447,12 @@ sigs:
     - openGauss-server/src/gausskernel/cbb/workload/Makefile
     - openGauss-server/src/gausskernel/cbb/workload/workload.cpp
     - openGauss-server/src/gausskernel/cbb/workload/spmgr.cpp
+    owner:
+    - gitee_id: gentle_hu
+      organizaiton: huawei
+      name: huzhengchao
+      email: gentle_hu@qq.com
+  - file:
     - openGauss-server/src/gausskernel/cbb/extension
     - openGauss-server/src/gausskernel/cbb/extension/foreign
     - openGauss-server/src/gausskernel/cbb/extension/foreign/metainformation.cpp
@@ -9210,6 +9474,12 @@ sigs:
     - openGauss-server/src/gausskernel/cbb/extension/connector/odbc_connector.cpp
     - openGauss-server/src/gausskernel/cbb/extension/extension-global.mk
     - openGauss-server/src/gausskernel/cbb/extension/Makefile
+    owner:
+    - gitee_id: totaj
+      organizaiton: huawei
+      name: pengjiong
+      email: pengjiong1@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/cbb/instruments
     - openGauss-server/src/gausskernel/cbb/instruments/wdr
     - openGauss-server/src/gausskernel/cbb/instruments/wdr/CMakeLists.txt
@@ -9274,6 +9544,12 @@ sigs:
     - openGauss-server/src/gausskernel/cbb/instruments/func_control/instr_func_control.cpp
     - openGauss-server/src/gausskernel/cbb/instruments/func_control/CMakeLists.txt
     - openGauss-server/src/gausskernel/cbb/instruments/func_control/Makefile
+    owner:
+    - gitee_id: windxd
+      organizaiton: huawei
+      name: diaoxianfeng
+      email: diaoxianfeng@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/cbb/Makefile
     - openGauss-server/src/gausskernel/cbb/communication
     - openGauss-server/src/gausskernel/cbb/communication/comm_proxy
@@ -9336,6 +9612,12 @@ sigs:
     - openGauss-server/src/gausskernel/cbb/communication/libcomm_common.cpp
     - openGauss-server/src/gausskernel/cbb/communication/libcomm_common.h
     - openGauss-server/src/gausskernel/cbb/communication/Makefile
+    owner:
+    - gitee_id: gentle_hu
+      organizaiton: huawei
+      name: huzhengchao
+      email: gentle_hu@qq.com
+  - file:
     - openGauss-server/src/gausskernel/Makefile
     - openGauss-server/src/Makefile.shlib
     - openGauss-server/src/win32.mak
@@ -9382,6 +9664,12 @@ sigs:
     - openGauss-server/src/include/snowball/libstemmer/stem_ISO_8859_1_norwegian.h
     - openGauss-server/src/include/snowball/libstemmer/stem_ISO_8859_1_swedish.h
     - openGauss-server/src/include/snowball/header.h
+    owner:
+    - gitee_id: chenhao7253886
+      organizaiton: huawei
+      name: chenhao
+      email: chenhao220@huawei.com
+  - file:
     - openGauss-server/src/include/gaussdb_version.h
     - openGauss-server/src/include/codegen
     - openGauss-server/src/include/codegen/builtinscodegen.h
@@ -9394,6 +9682,12 @@ sigs:
     - openGauss-server/src/include/codegen/gscodegen.h
     - openGauss-server/src/include/codegen/codegendebuger.h
     - openGauss-server/src/include/codegen/vechashaggcodegen.h
+    owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
+  - file:
     - openGauss-server/src/include/regex
     - openGauss-server/src/include/regex/regerrs.h
     - openGauss-server/src/include/regex/regex.h
@@ -9407,6 +9701,12 @@ sigs:
     - openGauss-server/src/include/fmgr
     - openGauss-server/src/include/fmgr/fmgr_core.h
     - openGauss-server/src/include/fmgr/fmgr_comp.h
+    owner:
+    - gitee_id: chenhao7253886
+      organizaiton: huawei
+      name: chenhao
+      email: chenhao220@huawei.com
+  - file:
     - openGauss-server/src/include/postmaster
     - openGauss-server/src/include/postmaster/autovacuum.h
     - openGauss-server/src/include/postmaster/barrier_creator.h
@@ -9595,6 +9895,12 @@ sigs:
     - openGauss-server/src/include/utils/fmgrtab.h
     - openGauss-server/src/include/utils/hll_mpp.h
     - openGauss-server/src/include/utils/knl_globalsystupcache.h
+    owner:
+    - gitee_id: totaj
+      organizaiton: huawei
+      name: pengjiong
+      email: pengjiong1@huawei.com
+  - file:
     - openGauss-server/src/include/postgres_ext.h
     - openGauss-server/src/include/optimizer
     - openGauss-server/src/include/optimizer/stream_check.h
@@ -9652,6 +9958,12 @@ sigs:
     - openGauss-server/src/include/optimizer/tlist.h
     - openGauss-server/src/include/datatype
     - openGauss-server/src/include/datatype/timestamp.h
+    owner:
+    - gitee_id: ziki77
+      organizaiton: huawei
+      name: zhouzhaoqi
+      email: zhouzhaoqi1@huawei.com
+  - file:
     - openGauss-server/src/include/windowapi.h
     - openGauss-server/src/include/replication
     - openGauss-server/src/include/replication/datareceiver.h
@@ -9712,6 +10024,12 @@ sigs:
     - openGauss-server/src/include/replication/dataprotocol.h
     - openGauss-server/src/include/replication/walprotocol.h
     - openGauss-server/src/include/replication/dcf_flowcontrol.h
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/include/pg_config_os.h
     - openGauss-server/src/include/gstrace
     - openGauss-server/src/include/gstrace/funcs.comps.h
@@ -9739,6 +10057,12 @@ sigs:
     - openGauss-server/src/include/gstrace/system_gstrace.h
     - openGauss-server/src/include/gstrace/gstrace_infra.h
     - openGauss-server/src/include/gstrace/replication_gstrace.h
+    owner:
+    - gitee_id: windxd
+      organizaiton: huawei
+      name: diaoxianfeng
+      email: diaoxianfeng@huawei.com
+  - file:
     - openGauss-server/src/include/gs_bbox.h
     - openGauss-server/src/include/miscadmin.h
     - openGauss-server/src/include/workload
@@ -9754,6 +10078,12 @@ sigs:
     - openGauss-server/src/include/workload/dywlm_client.h
     - openGauss-server/src/include/workload/ctxctl.h
     - openGauss-server/src/include/workload/ioschdl.h
+    owner:
+    - gitee_id: gentle_hu
+      organizaiton: huawei
+      name: huzhengchao
+      email: gentle_hu@qq.com
+  - file:
     - openGauss-server/src/include/cm
     - openGauss-server/src/include/cm/be_module.h
     - openGauss-server/src/include/cm/path.h
@@ -9775,6 +10105,12 @@ sigs:
     - openGauss-server/src/include/cm/cm_msg.h
     - openGauss-server/src/include/cm/pqcomm.h
     - openGauss-server/src/include/cm/cm_cgroup.h
+    owner:
+    - gitee_id: yz_db
+      organizaiton: huawei
+      name: yuzheng
+      email: yuzheng3@huawei.com
+  - file:
     - openGauss-server/src/include/funcapi.h
     - openGauss-server/src/include/knl
     - openGauss-server/src/include/knl/knl_guc.h
@@ -9804,6 +10140,12 @@ sigs:
     - openGauss-server/src/include/streaming/init.h
     - openGauss-server/src/include/streaming/dictcache.h
     - openGauss-server/src/include/streaming/planner.h
+    owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
+  - file:
     - openGauss-server/src/include/lib
     - openGauss-server/src/include/lib/ilist.h
     - openGauss-server/src/include/lib/hyperloglog.h
@@ -9814,6 +10156,12 @@ sigs:
     - openGauss-server/src/include/lib/binaryheap.h
     - openGauss-server/src/include/lib/lrucache.h
     - openGauss-server/src/include/lib/dllist.h
+    owner:
+    - gitee_id: totaj
+      organizaiton: huawei
+      name: pengjiong
+      email: pengjiong1@huawei.com
+  - file:
     - openGauss-server/src/include/pgxc
     - openGauss-server/src/include/pgxc/execRemote.h
     - openGauss-server/src/include/pgxc/bucketmap.h
@@ -9839,6 +10187,12 @@ sigs:
     - openGauss-server/src/include/pgxc/groupnodes.h
     - openGauss-server/src/include/pgxc/poolutils.h
     - openGauss-server/src/include/pgxc/pgxcnode.h
+    owner:
+    - gitee_id: chenhao7253886
+      organizaiton: huawei
+      name: chenhao
+      email: chenhao220@huawei.com
+  - file:
     - openGauss-server/src/include/commands
     - openGauss-server/src/include/commands/async.h
     - openGauss-server/src/include/commands/publicationcmds.h
@@ -10639,6 +10993,12 @@ sigs:
     - openGauss-server/src/include/catalog/pg_recyclebin.h
     - openGauss-server/src/include/catalog/pgxc_group.h
     - openGauss-server/src/include/catalog/pg_largeobject.h
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/include/ssl
     - openGauss-server/src/include/ssl/openssl_etcd.cnf
     - openGauss-server/src/include/ssl/gs_openssl_client.h
@@ -10646,6 +11006,12 @@ sigs:
     - openGauss-server/src/include/ssl/openssl_om.cnf
     - openGauss-server/src/include/ssl/openssl_gsql.cnf
     - openGauss-server/src/include/securec.h
+    owner:
+    - gitee_id: jianfenglee
+      organizaiton: huawei
+      name: lijianfeng
+      email: bigtimer@qq.com
+  - file:
     - openGauss-server/src/include/gs_tar_const.h
     - openGauss-server/src/include/parser
     - openGauss-server/src/include/parser/parse_target.h
@@ -10675,6 +11041,12 @@ sigs:
     - openGauss-server/src/include/parser/parse_clause.h
     - openGauss-server/src/include/parser/parsetree.h
     - openGauss-server/src/include/parser/parse_coerce.h
+    owner:
+    - gitee_id: chenhao7253886
+      organizaiton: huawei
+      name: chenhao
+      email: chenhao220@huawei.com
+  - file:
     - openGauss-server/src/include/cipher.h
     - openGauss-server/src/include/port.h
     - openGauss-server/src/include/bin
@@ -10683,6 +11055,12 @@ sigs:
     - openGauss-server/src/include/memory_func.h
     - openGauss-server/src/include/service
     - openGauss-server/src/include/service/remote_read_client.h
+    owner:
+    - gitee_id: gentle_hu
+      organizaiton: huawei
+      name: huzhengchao
+      email: gentle_hu@qq.com
+  - file:
     - openGauss-server/src/include/instruments
     - openGauss-server/src/include/instruments/instr_statement.h
     - openGauss-server/src/include/instruments/capture_view.h
@@ -10705,6 +11083,12 @@ sigs:
     - openGauss-server/src/include/instruments/ash.h
     - openGauss-server/src/include/instruments/instr_slow_query_log.h
     - openGauss-server/src/include/instruments/instr_workload.h
+    owner:
+    - gitee_id: windxd
+      organizaiton: huawei
+      name: diaoxianfeng
+      email: diaoxianfeng@huawei.com
+  - file:
     - openGauss-server/src/include/vectorsonic
     - openGauss-server/src/include/vectorsonic/vsonicfilesource.h
     - openGauss-server/src/include/vectorsonic/vsonicpartition.h
@@ -10720,6 +11104,12 @@ sigs:
     - openGauss-server/src/include/gs_thread.h
     - openGauss-server/src/include/pgaudit.h
     - openGauss-server/src/include/pg_config.h.in
+    owner:
+    - gitee_id: gentle_hu
+      organizaiton: huawei
+      name: huzhengchao
+      email: gentle_hu@qq.com
+  - file:
     - openGauss-server/src/include/postgres_fe.h
     - openGauss-server/src/include/distributelayer
     - openGauss-server/src/include/distributelayer/streamProducer.h
@@ -10759,6 +11149,12 @@ sigs:
     - openGauss-server/src/include/threadpool/threadpool_controler.h
     - openGauss-server/src/include/threadpool/threadpool_group.h
     - openGauss-server/src/include/threadpool/threadpool_sessctl.h
+    owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
+  - file:
     - openGauss-server/src/include/fmgr.h
     - openGauss-server/src/include/port
     - openGauss-server/src/include/port/pg_crc32c.h
@@ -10829,6 +11225,12 @@ sigs:
     - openGauss-server/src/include/common/fe_memutils.h
     - openGauss-server/src/include/common/config
     - openGauss-server/src/include/common/config/cm_config.h
+    owner:
+    - gitee_id: ziki77
+      organizaiton: huawei
+      name: zhouzhaoqi
+      email: zhouzhaoqi1@huawei.com
+  - file:
     - openGauss-server/src/include/opfusion
     - openGauss-server/src/include/opfusion/opfusion_util.h
     - openGauss-server/src/include/opfusion/opfusion_uheaptablescan.h
@@ -10845,6 +11247,12 @@ sigs:
     - openGauss-server/src/include/opfusion/opfusion_select.h
     - openGauss-server/src/include/opfusion/opfusion_mot.h
     - openGauss-server/src/include/opfusion/opfusion_insert.h
+    owner:
+    - gitee_id: chenhao7253886
+      organizaiton: huawei
+      name: chenhao
+      email: chenhao220@huawei.com
+  - file:
     - openGauss-server/src/include/executor
     - openGauss-server/src/include/executor/exec
     - openGauss-server/src/include/executor/exec/execStream.h
@@ -10901,6 +11309,12 @@ sigs:
     - openGauss-server/src/include/executor/node/nodeMaterial.h
     - openGauss-server/src/include/executor/node/nodeBitmapHeapscan.h
     - openGauss-server/src/include/executor/spi_priv.h
+    owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
+  - file:
     - openGauss-server/src/include/rewrite
     - openGauss-server/src/include/rewrite/rewriteRemove.h
     - openGauss-server/src/include/rewrite/rewriteManip.h
@@ -10909,6 +11323,12 @@ sigs:
     - openGauss-server/src/include/rewrite/prs2lock.h
     - openGauss-server/src/include/rewrite/rewriteRlsPolicy.h
     - openGauss-server/src/include/rewrite/rewriteHandler.h
+    owner:
+    - gitee_id: ziki77
+      organizaiton: huawei
+      name: zhouzhaoqi
+      email: zhouzhaoqi1@huawei.com
+  - file:
     - openGauss-server/src/include/pgtime.h
     - openGauss-server/src/include/Makefile
     - openGauss-server/src/include/postgres.h
@@ -10920,6 +11340,12 @@ sigs:
     - openGauss-server/src/include/hotpatch/hotpatch_inner.h
     - openGauss-server/src/include/hotpatch/hotpatch_backend.h
     - openGauss-server/src/include/hotpatch/hotpatch_client.h
+    owner:
+    - gitee_id: totaj
+      organizaiton: huawei
+      name: pengjiong
+      email: pengjiong1@huawei.com
+  - file:
     - openGauss-server/src/include/vecexecutor
     - openGauss-server/src/include/vecexecutor/vecnodesort.h
     - openGauss-server/src/include/vecexecutor/vecnodecstorescan.h
@@ -10975,6 +11401,12 @@ sigs:
     - openGauss-server/src/include/communication/commproxy_interface.h
     - openGauss-server/src/include/communication/commproxy_dfx.h
     - openGauss-server/src/include/communication/libnet_extern.h
+    owner:
+    - gitee_id: gentle_hu
+      organizaiton: huawei
+      name: huzhengchao
+      email: gentle_hu@qq.com
+  - file:
     - openGauss-server/src/include/access
     - openGauss-server/src/include/access/cstore_vector.h
     - openGauss-server/src/include/access/spgist_private.h
@@ -11114,9 +11546,21 @@ sigs:
     - openGauss-server/src/include/access/printtup.h
     - openGauss-server/src/include/access/hbucket_am.h
     - openGauss-server/src/include/access/relscan.h
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/include/pg_config_manual.h
     - openGauss-server/src/include/gs_register
     - openGauss-server/src/include/gs_register/gs_malloc.h
+    owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
+  - file:
     - openGauss-server/src/include/bulkload
     - openGauss-server/src/include/bulkload/roach_adpter.h
     - openGauss-server/src/include/bulkload/importerror.h
@@ -11126,6 +11570,12 @@ sigs:
     - openGauss-server/src/include/bulkload/utils.h
     - openGauss-server/src/include/bulkload/dist_fdw.h
     - openGauss-server/src/include/securectype.h
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/common
     - openGauss-server/src/common/CMakeLists.txt
     - openGauss-server/src/common/pgxc
@@ -11139,6 +11589,12 @@ sigs:
     - openGauss-server/src/common/pgxc/tools/makesgml/README
     - openGauss-server/src/common/pgxc/tools/makesgml/Makefile
     - openGauss-server/src/common/pgxc/Makefile
+    owner:
+    - gitee_id: totaj
+      organizaiton: huawei
+      name: pengjiong
+      email: pengjiong1@huawei.com
+  - file:
     - openGauss-server/src/common/port
     - openGauss-server/src/common/port/memcmp.cpp
     - openGauss-server/src/common/port/sprompt.cpp
@@ -11236,6 +11692,12 @@ sigs:
     - openGauss-server/src/common/port/win32error.cpp
     - openGauss-server/src/common/port/pgmkdirp.cpp
     - openGauss-server/src/common/port/pg_crc32c_sb8.cpp
+    owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
+  - file:
     - openGauss-server/src/common/tutorial
     - openGauss-server/src/common/tutorial/syscat.source
     - openGauss-server/src/common/tutorial/funcs.cpp
@@ -11273,11 +11735,23 @@ sigs:
     - openGauss-server/src/common/backend/pgxc_single/barrier/barrier.cpp
     - openGauss-server/src/common/backend/pgxc_single/barrier/Makefile
     - openGauss-server/src/common/backend/pgxc_single/Makefile
+    owner:
+    - gitee_id: gentle_hu
+      organizaiton: huawei
+      name: huzhengchao
+      email: gentle_hu@qq.com
+  - file:
     - openGauss-server/src/common/backend/pgxc_single/copy
     - openGauss-server/src/common/backend/pgxc_single/copy/copyops.cpp
     - openGauss-server/src/common/backend/pgxc_single/copy/CMakeLists.txt
     - openGauss-server/src/common/backend/pgxc_single/copy/remotecopy.cpp
     - openGauss-server/src/common/backend/pgxc_single/copy/Makefile
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/common/backend/snowball
     - openGauss-server/src/common/backend/snowball/snowball_func.sql.in
     - openGauss-server/src/common/backend/snowball/dict_snowball.cpp
@@ -11403,6 +11877,12 @@ sigs:
     - openGauss-server/src/common/backend/utils/cache/ts_cache.cpp
     - openGauss-server/src/common/backend/utils/cache/attoptcache.cpp
     - openGauss-server/src/common/backend/utils/cache/knl_localsysdbcache.cpp
+    owner:
+    - gitee_id: chenhao7253886
+      organizaiton: huawei
+      name: chenhao
+      email: chenhao220@huawei.com
+  - file:
     - openGauss-server/src/common/backend/utils/adt
     - openGauss-server/src/common/backend/utils/adt/clientlogicsettings.cpp
     - openGauss-server/src/common/backend/utils/adt/jsonb_op.cpp
@@ -11502,6 +11982,12 @@ sigs:
     - openGauss-server/src/common/backend/utils/adt/int8.cpp
     - openGauss-server/src/common/backend/utils/adt/jsonb_util.cpp
     - openGauss-server/src/common/backend/utils/Gen_dummy_probes.sed
+    owner:
+    - gitee_id: gentle_hu
+      organizaiton: huawei
+      name: huzhengchao
+      email: gentle_hu@qq.com
+  - file:
     - openGauss-server/src/common/backend/utils/mb
     - openGauss-server/src/common/backend/utils/mb/mbutils.cpp
     - openGauss-server/src/common/backend/utils/mb/wstrcmp.cpp
@@ -11610,6 +12096,12 @@ sigs:
     - openGauss-server/src/common/backend/utils/mb/Unicode/UCS_to_SHIFT_JIS_2004.pl
     - openGauss-server/src/common/backend/utils/mb/Unicode/UCS_to_EUC_TW.pl
     - openGauss-server/src/common/backend/utils/mb/Unicode/shift_jis_2004_to_utf8_combined.map
+    owner:
+    - gitee_id: totaj
+      organizaiton: huawei
+      name: pengjiong
+      email: pengjiong1@huawei.com
+  - file:
     - openGauss-server/src/common/backend/utils/mb/conversion_procs
     - openGauss-server/src/common/backend/utils/mb/conversion_procs/euc_tw_and_big5
     - openGauss-server/src/common/backend/utils/mb/conversion_procs/euc_tw_and_big5/euc_tw_and_big5.cpp
@@ -11738,11 +12230,23 @@ sigs:
     - openGauss-server/src/common/backend/utils/time/CMakeLists.txt
     - openGauss-server/src/common/backend/utils/time/snapmgr.cpp
     - openGauss-server/src/common/backend/utils/time/Makefile
+    owner:
+    - gitee_id: ziki77
+      organizaiton: huawei
+      name: zhouzhaoqi
+      email: zhouzhaoqi1@huawei.com
+  - file:
     - openGauss-server/src/common/backend/utils/resowner
     - openGauss-server/src/common/backend/utils/resowner/resowner.cpp
     - openGauss-server/src/common/backend/utils/resowner/CMakeLists.txt
     - openGauss-server/src/common/backend/utils/resowner/README
     - openGauss-server/src/common/backend/utils/resowner/Makefile
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/common/backend/utils/misc
     - openGauss-server/src/common/backend/utils/misc/rbtree.cpp
     - openGauss-server/src/common/backend/utils/misc/oidrbtree.cpp
@@ -11862,6 +12366,12 @@ sigs:
     - openGauss-server/src/common/backend/tsearch/dicts/hunspell_sample_long.affix
     - openGauss-server/src/common/backend/tsearch/dict_simple.cpp
     - openGauss-server/src/common/backend/tsearch/ts_locale.cpp
+    owner:
+    - gitee_id: yanghaos
+      organizaiton: huawei
+      name: yanghao
+      email: yanghao37@huawei.com
+  - file:
     - openGauss-server/src/common/backend/catalog
     - openGauss-server/src/common/backend/catalog/objectaddress.cpp
     - openGauss-server/src/common/backend/catalog/toasting.cpp
@@ -11965,6 +12475,12 @@ sigs:
     - openGauss-server/src/common/backend/parser/parse_relation.cpp
     - openGauss-server/src/common/backend/parser/parse_type.cpp
     - openGauss-server/src/common/backend/parser/analyze.cpp
+    owner:
+    - gitee_id: totaj
+      organizaiton: huawei
+      name: pengjiong
+      email: pengjiong1@huawei.com
+  - file:
     - openGauss-server/src/common/backend/nodes
     - openGauss-server/src/common/backend/nodes/readfuncs.cpp
     - openGauss-server/src/common/backend/nodes/makefuncs.cpp
@@ -12262,6 +12778,12 @@ sigs:
     - openGauss-server/src/common/pl/plpython/plpy_procedure.cpp
     - openGauss-server/src/common/pl/plpython/plpy_subxactobject.cpp
     - openGauss-server/src/common/pl/Makefile
+    owner:
+    - gitee_id: chenhao7253886
+      organizaiton: huawei
+      name: chenhao
+      email: chenhao220@huawei.com
+  - file:
     - openGauss-server/src/common/interfaces
     - openGauss-server/src/common/interfaces/CMakeLists.txt
     - openGauss-server/src/common/interfaces/libpq
@@ -12573,6 +13095,12 @@ sigs:
     - openGauss-server/src/common/interfaces/libpq/jdbc/Makefile
     - openGauss-server/src/common/interfaces/libpq/chklocale.cpp
     - openGauss-server/src/common/interfaces/Makefile
+    owner:
+    - gitee_id: gentle_hu
+      organizaiton: huawei
+      name: huzhengchao
+      email: gentle_hu@qq.com
+  - file:
     - openGauss-server/src/common/interfaces/ecpg
     - openGauss-server/src/common/interfaces/ecpg/ecpglib
     - openGauss-server/src/common/interfaces/ecpg/ecpglib/execute.cpp
@@ -12983,9 +13511,21 @@ sigs:
     - openGauss-server/src/gausskernel/storage/lmgr/generate-lwlocknames.pl
     - openGauss-server/src/gausskernel/storage/lmgr/lock.cpp
     - openGauss-server/src/gausskernel/storage/lmgr/README.barrier
+    owner:
+    - gitee_id: general-jiang
+      organizaiton: huawei
+      name: jiangjiangjun
+      email: jiangjiangjun@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/test
     - openGauss-server/src/gausskernel/storage/test/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/test/utesteventutil.cpp
+    owner:
+    - gitee_id: Xiao__ma
+      organizaiton: huawei
+      name: maxiang
+      email: maxiang21@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/freespace
     - openGauss-server/src/gausskernel/storage/freespace/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/freespace/indexfsm.cpp
@@ -12993,6 +13533,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/freespace/fsmpage.cpp
     - openGauss-server/src/gausskernel/storage/freespace/Makefile
     - openGauss-server/src/gausskernel/storage/freespace/freespace.cpp
+    owner:
+    - gitee_id: wuyuechuan
+      organizaiton: huawei
+      name: wuyuechuan
+      email: wuych9@mail2.sysu.edu.cn
+  - file:
     - openGauss-server/src/gausskernel/storage/replication
     - openGauss-server/src/gausskernel/storage/replication/syncrep_gram.y
     - openGauss-server/src/gausskernel/storage/replication/shared_storage_walreceiver.cpp
@@ -13025,6 +13571,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/replication/syncrep_gram.cpp
     - openGauss-server/src/gausskernel/storage/replication/walreceiverfuncs.cpp
     - openGauss-server/src/gausskernel/storage/replication/datarcvwriter.cpp
+    owner:
+    - gitee_id: struggle_hw
+      organizaiton: huawei
+      name: chenchen
+      email: arcoalien@qq.com
+  - file:
     - openGauss-server/src/gausskernel/storage/replication/logical
     - openGauss-server/src/gausskernel/storage/replication/logical/logical_parse.cpp
     - openGauss-server/src/gausskernel/storage/replication/logical/parallel_decode_worker.cpp
@@ -13043,14 +13595,32 @@ sigs:
     - openGauss-server/src/gausskernel/storage/replication/logical/parallel_decode.cpp
     - openGauss-server/src/gausskernel/storage/replication/logical/snapbuild.cpp
     - openGauss-server/src/gausskernel/storage/replication/logical/logicalfuncs.cpp
+    owner:
+    - gitee_id: totaj
+      organizaiton: huawei
+      name: pengjiong
+      email: pengjiong1@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/replication/walrcvwriter.cpp
     - openGauss-server/src/gausskernel/storage/replication/repl_gram.y
     - openGauss-server/src/gausskernel/storage/replication/catchup.cpp
     - openGauss-server/src/gausskernel/storage/replication/archive_walreceiver.cpp
+    owner:
+    - gitee_id: struggle_hw
+      organizaiton: huawei
+      name: chenchen
+      email: arcoalien@qq.com
+  - file:
     - openGauss-server/src/gausskernel/storage/replication/pgoutput
     - openGauss-server/src/gausskernel/storage/replication/pgoutput/pgoutput.cpp
     - openGauss-server/src/gausskernel/storage/replication/pgoutput/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/replication/pgoutput/Makefile
+    owner:
+    - gitee_id: totaj
+      organizaiton: huawei
+      name: pengjiong
+      email: pengjiong1@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/replication/basebackup.cpp
     - openGauss-server/src/gausskernel/storage/replication/datareceiver.cpp
     - openGauss-server/src/gausskernel/storage/replication/syncrep_gram.hpp
@@ -13058,7 +13628,19 @@ sigs:
     - openGauss-server/src/gausskernel/storage/replication/repl_scanner.l
     - openGauss-server/src/gausskernel/storage/replication/rto_statistic.cpp
     - openGauss-server/src/gausskernel/storage/replication/slot.cpp
+    owner:
+    - gitee_id: struggle_hw
+      organizaiton: huawei
+      name: chenchen
+      email: arcoalien@qq.com
+  - file:
     - openGauss-server/src/gausskernel/storage/replication/subscription_walreceiver.cpp
+    owner:
+    - gitee_id: totaj
+      organizaiton: huawei
+      name: pengjiong
+      email: pengjiong1@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/replication/walreceiver.cpp
     - openGauss-server/src/gausskernel/storage/replication/walsender.cpp
     - openGauss-server/src/gausskernel/storage/replication/heartbeat.cpp
@@ -13068,6 +13650,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/replication/slotfuncs.cpp
     - openGauss-server/src/gausskernel/storage/replication/repl_gram.cpp
     - openGauss-server/src/gausskernel/storage/replication/libpqwalreceiver.cpp
+    owner:
+    - gitee_id: struggle_hw
+      organizaiton: huawei
+      name: chenchen
+      email: arcoalien@qq.com
+  - file:
     - openGauss-server/src/gausskernel/storage/cstore
     - openGauss-server/src/gausskernel/storage/cstore/cstore_mem_alloc.cpp
     - openGauss-server/src/gausskernel/storage/cstore/cstore_vector.cpp
@@ -13098,10 +13686,22 @@ sigs:
     - openGauss-server/src/gausskernel/storage/cmgr/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/cmgr/cache_mgr.cpp
     - openGauss-server/src/gausskernel/storage/cmgr/Makefile
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/sync
     - openGauss-server/src/gausskernel/storage/sync/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/sync/knl_usync.cpp
     - openGauss-server/src/gausskernel/storage/sync/Makefile
+    owner:
+    - gitee_id: cyb3727
+      organizaiton: huawei
+      name: chenyubiao
+      email: chenyubiao@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/file
     - openGauss-server/src/gausskernel/storage/file/sharedfileset.cpp
     - openGauss-server/src/gausskernel/storage/file/CMakeLists.txt
@@ -13111,11 +13711,23 @@ sigs:
     - openGauss-server/src/gausskernel/storage/file/copydir.cpp
     - openGauss-server/src/gausskernel/storage/file/Makefile
     - openGauss-server/src/gausskernel/storage/file/buffile.cpp
+    owner:
+    - gitee_id: Xiao__ma
+      organizaiton: huawei
+      name: maxiang
+      email: maxiang21@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/xlog_share_storage
     - openGauss-server/src/gausskernel/storage/xlog_share_storage/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/xlog_share_storage/errmsg_bak.h
     - openGauss-server/src/gausskernel/storage/xlog_share_storage/xlog_share_storage.cpp
     - openGauss-server/src/gausskernel/storage/xlog_share_storage/Makefile
+    owner:
+    - gitee_id: l304114
+      organizaiton: huawei
+      name: lixuli
+      email: lixuli@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/dfs
     - openGauss-server/src/gausskernel/storage/dfs/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/dfs/dfscache_mgr.cpp
@@ -13127,6 +13739,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/dfs/obs/Makefile
     - openGauss-server/src/gausskernel/storage/dfs/Makefile
     - openGauss-server/src/gausskernel/storage/dfs/dfs_connector.cpp
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/tcap
     - openGauss-server/src/gausskernel/storage/tcap/tcap_drop.cpp
     - openGauss-server/src/gausskernel/storage/tcap/tcap_manager.cpp
@@ -13134,12 +13752,30 @@ sigs:
     - openGauss-server/src/gausskernel/storage/tcap/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/tcap/tcap_truncate.cpp
     - openGauss-server/src/gausskernel/storage/tcap/Makefile
+    owner:
+    - gitee_id: general-jiang
+      organizaiton: huawei
+      name: jiangjiangjun
+      email: jiangjiangjun@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/dorado_operation
     - openGauss-server/src/gausskernel/storage/dorado_operation/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/dorado_operation/dorado_fd.cpp
     - openGauss-server/src/gausskernel/storage/dorado_operation/Makefile
+    owner:
+    - gitee_id: l304114
+      organizaiton: huawei
+      name: lixuli
+      email: lixuli@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/roach
     - openGauss-server/src/gausskernel/storage/roach/parse_util.c
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/mot
     - openGauss-server/src/gausskernel/storage/mot/core
     - openGauss-server/src/gausskernel/storage/mot/core/storage
@@ -13540,6 +14176,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/mot/jit_exec/jit_source.cpp
     - openGauss-server/src/gausskernel/storage/mot/jit_exec/jit_context_pool.cpp
     - openGauss-server/src/gausskernel/storage/mot/jit_exec/jit_source.h
+    owner:
+    - gitee_id: vinothv
+      organizaiton: huawei
+      name: vinoth
+      email: vinoth.veeraraghavan@hotmail.com
+  - file:
     - openGauss-server/src/gausskernel/storage/buffer
     - openGauss-server/src/gausskernel/storage/buffer/buf_table.cpp
     - openGauss-server/src/gausskernel/storage/buffer/CMakeLists.txt
@@ -13549,6 +14191,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/buffer/buf_init.cpp
     - openGauss-server/src/gausskernel/storage/buffer/localbuf.cpp
     - openGauss-server/src/gausskernel/storage/buffer/Makefile
+    owner:
+    - gitee_id: cyb3727
+      organizaiton: huawei
+      name: chenyubiao
+      email: chenyubiao@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/page
     - openGauss-server/src/gausskernel/storage/page/checksum.cpp
     - openGauss-server/src/gausskernel/storage/page/CMakeLists.txt
@@ -13560,11 +14208,23 @@ sigs:
     - openGauss-server/src/gausskernel/storage/page/checksum_impl.cpp
     - openGauss-server/src/gausskernel/storage/page/Makefile
     - openGauss-server/src/gausskernel/storage/page/pageparse.h
+    owner:
+    - gitee_id: wuyuechuan
+      organizaiton: huawei
+      name: wuyuechuan
+      email: wuych9@mail2.sysu.edu.cn
+  - file:
     - openGauss-server/src/gausskernel/storage/remote
     - openGauss-server/src/gausskernel/storage/remote/remote_adapter.cpp
     - openGauss-server/src/gausskernel/storage/remote/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/remote/Makefile
     - openGauss-server/src/gausskernel/storage/remote/remote_read.cpp
+    owner:
+    - gitee_id: struggle_hw
+      organizaiton: huawei
+      name: chenchen
+      email: arcoalien@qq.com
+  - file:
     - openGauss-server/src/gausskernel/storage/Makefile
     - openGauss-server/src/gausskernel/storage/smgr
     - openGauss-server/src/gausskernel/storage/smgr/segstore.cpp
@@ -13602,6 +14262,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/ipc/procsignal.cpp
     - openGauss-server/src/gausskernel/storage/ipc/ipci.cpp
     - openGauss-server/src/gausskernel/storage/ipc/pmsignal.cpp
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/access
     - openGauss-server/src/gausskernel/storage/access/rmgrdesc
     - openGauss-server/src/gausskernel/storage/access/rmgrdesc/dbasedesc.cpp
@@ -13629,6 +14295,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/access/rmgrdesc/Makefile
     - openGauss-server/src/gausskernel/storage/access/rmgrdesc/tblspcdesc.cpp
     - openGauss-server/src/gausskernel/storage/access/rmgrdesc/gistdesc.cpp
+    owner:
+    - gitee_id: Xiao__ma
+      organizaiton: huawei
+      name: maxiang
+      email: maxiang21@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/access/gist
     - openGauss-server/src/gausskernel/storage/access/gist/gistbuild.cpp
     - openGauss-server/src/gausskernel/storage/access/gist/gistproc.cpp
@@ -13665,11 +14337,23 @@ sigs:
     - openGauss-server/src/gausskernel/storage/access/gin/gindatapage.cpp
     - openGauss-server/src/gausskernel/storage/access/gin/ginbulk.cpp
     - openGauss-server/src/gausskernel/storage/access/gin/Makefile
+    owner:
+    - gitee_id: xianhongye
+      organizaiton: vastdata
+      name: xianhongye
+      email: xianhy@vastdata.com.cn
+  - file:
     - openGauss-server/src/gausskernel/storage/access/hbstore
     - openGauss-server/src/gausskernel/storage/access/hbstore/hbucket_am.cpp
     - openGauss-server/src/gausskernel/storage/access/hbstore/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/access/hbstore/hbindex_am.cpp
     - openGauss-server/src/gausskernel/storage/access/hbstore/Makefile
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/access/ubtree
     - openGauss-server/src/gausskernel/storage/access/ubtree/ubtsort.cpp
     - openGauss-server/src/gausskernel/storage/access/ubtree/CMakeLists.txt
@@ -13684,12 +14368,24 @@ sigs:
     - openGauss-server/src/gausskernel/storage/access/ubtree/ubtdump.cpp
     - openGauss-server/src/gausskernel/storage/access/ubtree/Makefile
     - openGauss-server/src/gausskernel/storage/access/ubtree/ubtinsert.cpp
+    owner:
+    - gitee_id: powerqy
+      organizaiton: huawei
+      name: liqiang
+      email: powerqy@gmail.com
+  - file:
     - openGauss-server/src/gausskernel/storage/access/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/access/archive
     - openGauss-server/src/gausskernel/storage/access/archive/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/access/archive/archive_am.cpp
     - openGauss-server/src/gausskernel/storage/access/archive/nas_am.cpp
     - openGauss-server/src/gausskernel/storage/access/archive/Makefile
+    owner:
+    - gitee_id: luo_zihao5524
+      organizaiton: huawei
+      name: luozihao
+      email: luozihao3@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/access/redo
     - openGauss-server/src/gausskernel/storage/access/redo/xlogreader_common.cpp
     - openGauss-server/src/gausskernel/storage/access/redo/redo_nbtxlog.cpp
@@ -13719,6 +14415,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/access/redo/redo_nbtpage.cpp
     - openGauss-server/src/gausskernel/storage/access/redo/redo_bufpage.cpp
     - openGauss-server/src/gausskernel/storage/access/redo/redo_heapam.cpp
+    owner:
+    - gitee_id: Xiao__ma
+      organizaiton: huawei
+      name: maxiang
+      email: maxiang21@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/access/dfs
     - openGauss-server/src/gausskernel/storage/access/dfs/dfs_writer.h
     - openGauss-server/src/gausskernel/storage/access/dfs/dfs_query_check.cpp
@@ -13782,6 +14484,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/access/dfs/common_reader.cpp
     - openGauss-server/src/gausskernel/storage/access/dfs/region_map
     - openGauss-server/src/gausskernel/storage/access/dfs/dfs_query_reader.cpp
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/access/transam
     - openGauss-server/src/gausskernel/storage/access/transam/parallel_recovery
     - openGauss-server/src/gausskernel/storage/access/transam/parallel_recovery/spsc_blocking_queue.cpp
@@ -13792,8 +14500,20 @@ sigs:
     - openGauss-server/src/gausskernel/storage/access/transam/parallel_recovery/dispatcher.cpp
     - openGauss-server/src/gausskernel/storage/access/transam/parallel_recovery/txn_redo.cpp
     - openGauss-server/src/gausskernel/storage/access/transam/parallel_recovery/Makefile
+    owner:
+    - gitee_id: Xiao__ma
+      organizaiton: huawei
+      name: maxiang
+      email: maxiang21@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/access/transam/twophase_rmgr.cpp
     - openGauss-server/src/gausskernel/storage/access/transam/twophase.cpp
+    owner:
+    - gitee_id: general-jiang
+      organizaiton: huawei
+      name: jiangjiangjun
+      email: jiangjiangjun@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/access/transam/extreme_rto
     - openGauss-server/src/gausskernel/storage/access/transam/extreme_rto/spsc_blocking_queue.cpp
     - openGauss-server/src/gausskernel/storage/access/transam/extreme_rto/page_redo.cpp
@@ -13804,6 +14524,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/access/transam/extreme_rto/txn_redo.cpp
     - openGauss-server/src/gausskernel/storage/access/transam/extreme_rto/batch_redo.cpp
     - openGauss-server/src/gausskernel/storage/access/transam/extreme_rto/Makefile
+    owner:
+    - gitee_id: Xiao__ma
+      organizaiton: huawei
+      name: maxiang
+      email: maxiang21@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/access/transam/xlogutils.cpp
     - openGauss-server/src/gausskernel/storage/access/transam/csnlog.cpp
     - openGauss-server/src/gausskernel/storage/access/transam/CMakeLists.txt
@@ -13830,6 +14556,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/access/transam/gtm_single.cpp
     - openGauss-server/src/gausskernel/storage/access/transam/single_double_write.cpp
     - openGauss-server/src/gausskernel/storage/access/transam/varsup.cpp
+    owner:
+    - gitee_id: general-jiang
+      organizaiton: huawei
+      name: jiangjiangjun
+      email: jiangjiangjun@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/access/heap
     - openGauss-server/src/gausskernel/storage/access/heap/README.HOT
     - openGauss-server/src/gausskernel/storage/access/heap/visibilitymap.cpp
@@ -13843,10 +14575,22 @@ sigs:
     - openGauss-server/src/gausskernel/storage/access/heap/Makefile
     - openGauss-server/src/gausskernel/storage/access/heap/pruneheap.cpp
     - openGauss-server/src/gausskernel/storage/access/heap/rewriteheap.cpp
+    owner:
+    - gitee_id: wuyuechuan
+      organizaiton: huawei
+      name: wuyuechuan
+      email: wuych9@mail2.sysu.edu.cn
+  - file:
     - openGauss-server/src/gausskernel/storage/access/obs
     - openGauss-server/src/gausskernel/storage/access/obs/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/access/obs/obs_am.cpp
     - openGauss-server/src/gausskernel/storage/access/obs/Makefile
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/access/spgist
     - openGauss-server/src/gausskernel/storage/access/spgist/spgxlog.cpp
     - openGauss-server/src/gausskernel/storage/access/spgist/spginsert.cpp
@@ -13860,6 +14604,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/access/spgist/README
     - openGauss-server/src/gausskernel/storage/access/spgist/Makefile
     - openGauss-server/src/gausskernel/storage/access/spgist/spgtextproc.cpp
+    owner:
+    - gitee_id: xianhongye
+      organizaiton: vastdata
+      name: xianhongye
+      email: xianhy@vastdata.com.cn
+  - file:
     - openGauss-server/src/gausskernel/storage/access/table
     - openGauss-server/src/gausskernel/storage/access/table/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/access/table/Makefile
@@ -13896,6 +14646,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/access/ustore/knl_uscan.cpp
     - openGauss-server/src/gausskernel/storage/access/ustore/knl_utuptoaster.cpp
     - openGauss-server/src/gausskernel/storage/access/ustore/knl_undolauncher.cpp
+    owner:
+    - gitee_id: powerqy
+      organizaiton: huawei
+      name: liqiang
+      email: powerqy@gmail.com
+  - file:
     - openGauss-server/src/gausskernel/storage/access/common
     - openGauss-server/src/gausskernel/storage/access/common/reloptions.cpp
     - openGauss-server/src/gausskernel/storage/access/common/tupconvert.cpp
@@ -13907,6 +14663,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/access/common/cstorescankey.cpp
     - openGauss-server/src/gausskernel/storage/access/common/Makefile
     - openGauss-server/src/gausskernel/storage/access/common/heaptuple.cpp
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/storage/access/Makefile
     - openGauss-server/src/gausskernel/storage/access/nbtree
     - openGauss-server/src/gausskernel/storage/access/nbtree/nbtinsert.cpp
@@ -13942,6 +14704,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/access/psort/CMakeLists.txt
     - openGauss-server/src/gausskernel/storage/access/psort/Makefile
     - openGauss-server/src/gausskernel/storage/access/psort/psort.cpp
+    owner:
+    - gitee_id: xianhongye
+      organizaiton: vastdata
+      name: xianhongye
+      email: xianhy@vastdata.com.cn
+  - file:
     - openGauss-server/src/gausskernel/storage/bulkload
     - openGauss-server/src/gausskernel/storage/bulkload/importerror.cpp
     - openGauss-server/src/gausskernel/storage/bulkload/CMakeLists.txt
@@ -13953,6 +14721,12 @@ sigs:
     - openGauss-server/src/gausskernel/storage/bulkload/dist_fdw.cpp
     - openGauss-server/src/gausskernel/storage/bulkload/Makefile
     - openGauss-server/src/gausskernel/storage/bulkload/foreignroutine.cpp
+    owner:
+    - gitee_id: nonolili527
+      organizaiton: huawei
+      name: wanglei
+      email: wanglei110@huawei.com
+  - file:
     - openGauss-server/src/include/storage
     - openGauss-server/src/include/storage/fsm_internals.h
     - openGauss-server/src/include/storage/lock
@@ -14095,10 +14869,10 @@ sigs:
     - openGauss-server/src/include/gtm/gtm_ip.h
     - openGauss-server/src/include/gtm/gtm_serialize_debug.h
     owner:
-    - gitee_id: nonolili527
+    - gitee_id: Xiao__ma
       organizaiton: huawei
-      name: wanglei
-      email: wanglei110@huawei.com
+      name: maxiang
+      email: maxiang21@huawei.com
   repos:
   - repo:
     - openGauss-server
@@ -14176,6 +14950,12 @@ sigs:
     - openGauss-server/src/gausskernel/dbmind/db4ai/executor/Makefile
     - openGauss-server/src/gausskernel/dbmind/db4ai/executor/hyperparameter_validation.cpp
     - openGauss-server/src/gausskernel/dbmind/db4ai/Makefile
+    owner:
+    - gitee_id: greatjigreatji
+      organizaiton: huawei
+      name: sunji
+      email: sunji11@huawei.com
+  - file:
     - openGauss-server/src/gausskernel/dbmind/tools
     - openGauss-server/src/gausskernel/dbmind/tools/components
     - openGauss-server/src/gausskernel/dbmind/tools/components/opengauss_exporter
@@ -14504,21 +15284,33 @@ sigs:
     - openGauss-server/src/include/db4ai/scores.h
     - openGauss-server/src/include/db4ai/model_warehouse.h
     owner:
-    - gitee_id: lishifu_db
+    - gitee_id: wang-tq
       organizaiton: huawei
-      name: lishifu
-      email: lishifu@huawei.com
+      name: wangtianqing
+      email: wangtianqing2@huawei.com
   repos:
   - repo:
     - openGauss-server
     - openGauss-third_party
-    - openGauss-AI
-    - openGauss-DBMind
     owner:
     - gitee_id: lishifu_db
       organizaiton: huawei
       name: lishifu
       email: lishifu@huawei.com
+  - repo:
+    - openGauss-AI
+    owner:
+    - gitee_id: greatjigreatji
+      organizaiton: huawei
+      name: sunji
+      email: sunji11@huawei.com
+  - repo:
+    - openGauss-DBMind
+    owner:
+    - gitee_id: wang-tq
+      organizaiton: huawei
+      name: wangtianqing
+      email: wangtianqing2@huawei.com
 - name: SecurityTechnology
   sig_label: sig/securitytech
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/SecurityTechnology
@@ -14592,32 +15384,50 @@ sigs:
   - repo:
     - openGauss-server
     - openGauss-third_party
-    - openGauss-connector-jdbc
-    - openGauss-connector-odbc
-    - openGauss-connector-python-psycopg2
-    - openGauss-connector-go-pq
-    - openGauss-connector-python-pyog
     - openGauss-connector-adonet
-    - openGauss-connector-nodejs
-    - openGauss-connector-rust
     owner:
     - gitee_id: pikeTWG
       organizaiton: huawei
       name: tianwengang
       email: tianwengang@huawei.com
+  - repo:
+    - openGauss-connector-jdbc
+    - openGauss-connector-odbc
+    - openGauss-connector-python-psycopg2
+    owner:
+    - gitee_id: justbk
+      organizaiton: huawei
+      name: zhoubin
+      email: zb.zhoubin@huawei.com
+  - repo:
+    - openGauss-connector-go-pq
+    owner:
+    - gitee_id: travelliu
+      organizaiton: enmotech
+      name: liubin
+      email: bin.liu@enmotech.com
+  - repo:
+    - openGauss-connector-python-pyog
+    owner:
+    - gitee_id: vimiix
+      organizaiton: enmotech
+      name: yaoqiang
+      email: qian.yao@enmotech.com
+  - repo:
+    - openGauss-connector-nodejs
+    - openGauss-connector-rust
+    owner:
+    - gitee_id: xiong_xjun
+      organizaiton: huawei
+      name: yaoqiang
+      email: xiong_xiaojun@yeah.net
 - name: Infra
   sig_label: sig/infra
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Infra
   repos:
   - repo:
     - infra
-    - website
-    - community
-    - openGauss-webclient
-    - playground-course
-    - openGauss-webclient-portal
     - practice-course
-    - opensource-intership
     - examples
     - tryme
     owner:
@@ -14625,18 +15435,54 @@ sigs:
       organizaiton: huawei
       name: zhongjun
       email: jun.zhongjun2@gmail.com
+  - repo:
+    - website
+    - openGauss-webclient-portal
+    owner:
+    - gitee_id: ailoooong
+      organizaiton: huawei
+      name: ailong
+      email: ailong@outlook.com
+  - repo:
+    - playground-course
+    owner:
+    - gitee_id: ZhengZhenyu
+      organizaiton: huawei
+      name: zhengzhenyu
+      email: zheng.zhenyu@outlook.com
+  - repo:
+    - openGauss-webclient
+    owner:
+    - gitee_id: Nelson-He
+      organizaiton: huawei
+      name: heguofeng
+      email: heguofeng@huawei.com
+  - repo:
+    - community
+    - opensource-intership
+    owner:
+    - gitee_id: xiangxinyong
+      organizaiton: huawei
+      name: xiangxinyong
+      email: xiangxinyong@huawei.com
 - name: Docs
   sig_label: sig/docs
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Docs
   repos:
   - repo:
     - docs
+    owner:
+    - gitee_id: liyang0608
+      organizaiton: huawei
+      name: liyang
+      email: 554903772@qq.com
+  - repo:
     - blog
     owner:
-    - gitee_id: fyqlpl
+    - gitee_id: tongdabao
       organizaiton: huawei
-      name: fanyaqing
-      email: fanyaqing@huawei.com
+      name: tongmeixia
+      email: 870020620@qq.com
 - name: Security
   sig_label: sig/security
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Security
