@@ -1510,7 +1510,7 @@ sigs:
     - openGauss-tools-sqlines
     - openGauss-tools-pg2og
     - openGauss-tools-backup
-    - openGauss-tools-pluginGeneration
+    - openGauss-tools-monitor
     - openGauss-distributed-solutions
     - openGauss-jdbc-skywalking
     - openGauss-workbench
