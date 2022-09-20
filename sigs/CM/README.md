@@ -33,3 +33,4 @@ CM，集群管理系统，为opengauss数据库提供了主备的状态监控、
 - https://gitee.com/opengauss/CM
 - https://gitee.com/opengauss/DCC
 - https://gitee.com/opengauss/CBB
+- https://gitee.com/opengauss/CM-RestAPI
