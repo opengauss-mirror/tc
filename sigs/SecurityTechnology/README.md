@@ -18,6 +18,13 @@ SecurityTechnology SIG 致力于openGauss社区数据库安全技术的能力的
 - 何睿[@he_ray](https://gitee.com/he_ray), *he.ray@139.com*
 - 位凯志[@xiaolang_lst](https://gitee.com/xiaolang_lst), *qxx_xl@foxmail.com*
 - 宋荣荣[@song_rongrong](https://gitee.com/song_rongrong), *songrongrong1@huawei.com*
+- 闫世超[@yanshichao](https://gitee.com/yanshichao), *yanshichao@tass.com.cn*
+- 李雪雁[@lixueyan](https://gitee.com/lixueyan), *lixueyan@tass.com.cn*
+- 田兵[@tbing8803](https://gitee.com/tbing8803), *bing.tian@enmotech.com*
+- 石青[@shiqinggaocheng](https://gitee.com/shiqinggaocheng), *shiqing@vastdata.com.cn*
+- 刘遥[@lyoursly](https://gitee.com/lyoursly), *liuyao@vastdata.com.cn*
+- 王秀敏[@ashnah](https://gitee.com/ashnah), *xiumin.wang@enmotech.com*
+- 郭亮[@blueloveki](https://gitee.com/blueloveki), *blue.guo@huawei.com*
 
 # 联系方式
 
