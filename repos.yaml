@@ -355,3 +355,8 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: ops
+  description: "Performance Optimization and Debugging Kit."
+  protected_branches:
+  - master
+  type: public

@@ -8514,6 +8514,7 @@ sigs:
   - repo:
     - openGauss-server
     - openGauss-third_party
+    - ops
     owner:
     - gitee_id: shenyuflying
       organizaiton: huawei
