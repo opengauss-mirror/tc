@@ -21,6 +21,7 @@ GIS SIG 致力于openGauss社区地理信息系统的开发和维护。
 - 胡正超[@gentle_hu](https://gitee.com/gentle_hu), *gentle_hu@qq.com*
 - 宋清怡[@sqyyeah](https://gitee.com/sqyyeah), *Qingyi.song@outlook.com*
 - 吴松[@sungwu_admin](https://gitee.com/sungwu_admin), *sung.wu@qq.com*
+- 黄宁[@huangning2](https://gitee.com/huangning2), *huangning2@supermap.com*
 
 # 联系方式
 
