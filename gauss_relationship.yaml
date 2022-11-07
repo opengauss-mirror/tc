@@ -8763,6 +8763,20 @@ sigs:
       organizaiton: huawei
       name: xuemengen
       email: xuemengen@huawei.com
+  - repo:
+    - DMS
+    owner:
+    - gitee_id: peibaoyi
+      organizaiton: huawei
+      name: peibaoyi
+      email: peibaoyi@huawei.com
+  - repo:
+    - DSS
+    owner:
+    - gitee_id: zhulixia
+      organizaiton: huawei
+      name: zhulixia
+      email: zhulixia3@huawei.com
 - name: SQLEngine
   sig_label: sig/sqlengine
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/SQLEngine

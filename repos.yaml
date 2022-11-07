@@ -360,3 +360,13 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: DMS
+  description: "Distributed Memory Service for openGauss shared storage"
+  protected_branches:
+  - master
+  type: public
+- name: DSS
+  description: "Distributed Storage Service for openGauss shared storage"
+  protected_branches:
+  - master
+  type: public

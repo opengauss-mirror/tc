@@ -124,6 +124,8 @@ sigs:
   - DCC
   - CBB
   - CM-RestAPI
+  - DMS
+  - DSS
 - name: OPS
   repositories:
   - openGauss-server
