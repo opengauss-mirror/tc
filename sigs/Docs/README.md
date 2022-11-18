@@ -18,7 +18,8 @@ SIG DOCS致力于提供openGauss各类技术文档、教程等形式的完整内
 - 龚思夷[@gongsiyi150](https://gitee.com/gongsiyi150)，*gongsiyi@qq.com*
 
 ### Committer列表
-
+- Freyaqqianjin[@freyaqqianjin](https://gitee.com/freyaqqianjin), *jinqianqian1@huawei.com*
+- 刘贵宾[@vipl](https://gitee.com/vipl), *1649607631@qq.com*
 - 樊雅清 [@fyqlpl](https://gitee.com/fyqlpl), *fanyaqing@huawei.com*
 - 李杨[@liyang0608](https://gitee.com/liyang0608)，*554903772@qq.com*
 - 童美霞[@tongdabao](https://gitee.com/tongdabao)，*870020620@qq.com*
