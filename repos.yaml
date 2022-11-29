@@ -230,11 +230,6 @@ repositories:
   protected_branches:
   - master
   type: public
-- name: bc
-  description: "openGauss Branding Committee"
-  protected_branches:
-  - master
-  type: public
 - name: uc
   description: "openGauss User Committee"
   protected_branches:
