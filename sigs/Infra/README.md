@@ -32,7 +32,7 @@
 
 - 向新勇[@xiangxinyong](https://gitee.com/xiangxinyong), *xiangxingyong@qq.com*
 - 张旭博[@zhang_xubo](https://gitee.com/zhang_xubo), *zhangxubo1@huawei.com*
-- 郑宇航[@zhengyuhanghans](https://gitee.com/zhengyuhanghans), *zhengyuhang@huawei.com*
+- 龚壮邦[@gzbang](https://gitee.com/gzbang), *gongzhuangbang1@huawei.com*
 - 艾龙[@ailoooong](https://gitee.com/ailoooong), *ailong@outlook.com*
 
 # 联系方式
