@@ -31,6 +31,7 @@ Plugin SIG 致力于打造多层级、多方法的插件化架构，使能社区
 - 王修强[@xiu-qiang-wang-2022](https://gitee.com/xiu-qiang-wang-2022), *xiuqiang.wang@enmotech.com*
 - 赵思骑[@dreamalloc](https://gitee.com/dreamalloc), *zhaosq76@chinaunicom.cn*
 - 罗浩[@jeremytim](https://gitee.com/jeremytim), *287095649@qq.com*
+- 赵俊[@kelayzhao](https://gitee.com/kelayzhao), *zhaoj296@chinaunicom.cn*
 
 # 联系方式
 
