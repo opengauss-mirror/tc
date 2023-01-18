@@ -131,6 +131,7 @@ sigs:
   - openGauss-server
   - openGauss-third_party
   - ops
+  - openGauss-workbench
 - name: KnowledgeGraph
   repositories:
   - knowledgeGraph
