@@ -44,3 +44,5 @@ OPS SIG 聚焦openGauss维护能力建设，提升产品运维能力，总结和
 - https://gitee.com/opengauss/openGauss-server
 - https://gitee.com/opengauss/openGauss-third_party
 - https://gitee.com/opengauss/ops
+- https://gitee.com/opengauss/openGauss-workbench
+
