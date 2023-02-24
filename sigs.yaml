@@ -97,6 +97,7 @@ sigs:
 - name: Certification
   repositories:
   - distribution-certification
+  - distribution-evaluation
   - service-partner-certification
   - compatible-certification
 - name: Plugin

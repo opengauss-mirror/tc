@@ -125,6 +125,11 @@ repositories:
   protected_branches:
   - master
   type: public  
+- name: distribution-evaluation
+  description: "distribution evaluation"
+  protected_branches:
+  - master
+  type: public
 - name: openGauss-connector-python-pyog
   description: "openGauss pure python connector"
   protected_branches:
