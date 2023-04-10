@@ -25,7 +25,7 @@ Certification SIG 致力于对社区openGauss发行版本进行发行版本能�
 - 黄凯耀[@huangkaiyao](https://gitee.com/huangkaiyao), *kaiyao.huang@qq.com*
 - 李岩松[@yansong_lee](https://gitee.com/yansong_lee), *yansong_lee@163.com*
 - 张长军[@dbowner_zhang](https://gitee.com/dbowner_zhang), *zhangchangjun2@huawei.com*
-- 鲁攀峰[@Alvin00372627](https://gitee.com/Alvin00372627), *lupanfeng@huawei.com*
+- 黄贤儒[@huang-xianru](https://gitee.com/huang-xianru), *huangxianru@huawei.com*
 - 徐徐[@sandy-xuxu](https://gitee.com/sandy-xuxu), *sandy.xuxu@huawei.com*
 - 陈振煜[@eric14chan](https://gitee.com/eric14chan), *chenzhenyu13@huawei.com*
 - 王景全[@wang-jingquan602623](https://gitee.com/wang-jingquan602623), *wangjingquan@huawei.com*
