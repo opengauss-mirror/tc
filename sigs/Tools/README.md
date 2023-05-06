@@ -22,9 +22,8 @@ openGauss工具生态的长期规划，发展和演进。
 - 周斌[@justbk](https://gitee.com/justbk)，*249396768@qq.com*
 - 彭炯[@totaj](https://gitee.com/totaj) *pengjiong1@huawei.com*
 - 贺承汉[@he-chenghan](https://gitee.com/he-chenghan) *hechenghan@huawei.com*
-- 张耀中[@buter](https://gitee.com/buter) *zhangyaozhong1@huawei.com*
-- 窦欣[@ywzq1161327784](https://gitee.com/ywzq1161327784) *douxin5@huawei.com*
-- 李臻峰[@lizhenfeng123](https://gitee.com/lizhenfeng123) *lizhenfeng001@chinasofti.com*
+- 窦欣[ @ywzq1161327784](https://gitee.com/ywzq1161327784) *douxin5@huawei.com*
+- 李春[@woqutech_0](https://gitee.com/woqutech_0) *pickup.li@woqutech.com*
 
 # 联系方式
 
