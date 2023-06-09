@@ -370,3 +370,8 @@ repositories:
   protected_branches:
   - master
   type: public
+- name: openGauss-migration-portal
+  description: "Portal for migration tools"
+  protected_branches:
+    - master
+  type: public

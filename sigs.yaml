@@ -45,6 +45,7 @@ sigs:
   - DataStudio
   - easyVisualization
   - shardingsphere
+  - openGauss-migration-portal
 - name: Infra
   repositories:
   - infra

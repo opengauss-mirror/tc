@@ -1544,6 +1544,7 @@ sigs:
     - openGauss-distributed-solutions
     - ham4db
     - shardingsphere
+    - openGauss-migration-portal
     owner:
     - gitee_id: justbk
       organizaiton: huawei
