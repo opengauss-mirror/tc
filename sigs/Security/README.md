@@ -22,7 +22,7 @@ Security SIG负责接受和响应openGauss产品安全问题报告，提供社�
 
 ### Committer列表
 
-- 张耀中[@buter](https://gitee.com/buter), *zhangyaozhong1@huawei.com*
+- 蒋宏博[@hwhbj](https://gitee.com/hwhbj), *xdhbj0022@163.com*
 - 李建峰[@jianfenglee](https://gitee.com/jianfenglee), *bigtimer@qq.com*
 - 郭亮[@blueloveki](https://gitee.com/blueloveki), *liang4358@163.com*
 - 刘哲理[@liuzheli](https://gitee.com/liuzheli), *liuzheli@nankai.edu.cn*

@@ -13,8 +13,6 @@
   邮箱：
   - https://mailweb.opengauss.org
 
-  慕课:
-  - https://moocstudio.opengauss.org
 
 
 # 组织会议
@@ -34,6 +32,7 @@
 - 张旭博[@zhang_xubo](https://gitee.com/zhang_xubo), *zhangxubo1@huawei.com*
 - 龚壮邦[@gzbang](https://gitee.com/gzbang), *gongzhuangbang1@huawei.com*
 - 艾龙[@ailoooong](https://gitee.com/ailoooong), *ailong@outlook.com*
+- 梅相如[@xiangrumei](https://gitee.com/xiangrumei), *xiangrumei87@126.com*
 
 # 联系方式
 

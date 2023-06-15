@@ -19,13 +19,11 @@
 ### Maintainer列表
 
 - 张长军[@dbowner_zhang](https://gitee.com/dbowner_zhang)，*zhangchangjun2@huawei.com*
-- 李岩松[@yansong_lee](https://gitee.com/yansong_lee)，*yansong_lee@163.com*
+- 肖杰[@jiexiao1413](https://gitee.com/jiexiao1413), *jiexiao1413@foxmail.com*
 
 ### Committer列表
 
 - 附雄道[@xiongdaofu](https://gitee.com/xiongdaofu)，*fuxiongdao@huawei.com*
-- 江文龙[@j00313273](https://gitee.com/j00313273)，*52443591@qq.com*
-- 周方圆[@zhoufangyuan](https://gitee.com/zhoufangyuan)，*zhoufangyuan7@huawei.com*
 - 陈栋[@chendong76](https://gitee.com/chendong76)，*1209756284@qq.com*
 - 张志靖[@zhangzhijing](https://gitee.com/zhangzhijing)，*2235036288@qq.com*
 - 张翱[@zhangao_za](https://gitee.com/zhangao_za)，*zhangao23@huawei.com*

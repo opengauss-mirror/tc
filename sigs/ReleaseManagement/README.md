@@ -26,15 +26,20 @@ ReleaseManagement的主要工作是通过社区协同各SIG maintainer，规划o
   - 王磊[@nonolili527](https://gitee.com/nonolili527), *wanglei110@huawei.com*
   - 王炜[@wangwei5](https://gitee.com/wangwei5), *wangwei5@huawei.com*
   - 熊小军[@xiong_xjun](https://gitee.com/xiong_xjun), *xiong_xiaojun@yeah.net*
-  - 龚思夷[@gongsiyi150](https://gitee.com/gongsiyi150), *gongsiyi@qq.com*
+  - 任朝倩[@yanzi2021](https://gitee.com/yanzi2021), *747349666@qq.com*
   - 钟君[@zhongjun2](https://gitee.com/zhongjun2), *jun.zhongjun2@gmail.com*
   - 刘勇生[@lys6676](https://gitee.com/lys6676), *liuyongsheng@shentongdata.com*
   - 何小栋[@husthxd](https://gitee.com/husthxd), *husthxd@126.com*
+  - 刘伟[@llzx373](https://gitee.com/llzx373), *wei.liu@enmotech.com*
+  - 张旭博[@zhang_xubo](https://gitee.com/zhang_xubo), *zhangxubo1@huawei.com*
   - 张文龙[@willloong](https://gitee.com/willloong), *zhangwl@vastdata.com.cn*
   - 田兵[@tbing8803](https://gitee.com/tbing8803), *bing.tian@enmotech.com*
   - 刘春[@nifinity](https://gitee.com/nifinity), *liuchun3@huawei.com*
   - 吴明远[@wumingyuan](https://gitee.com/wumingyuan), *wumingyuan@gbase.cn*
   - 柴鹏[@chaip3](https://gitee.com/chaip3), *chaip3@chinaunicom.cn*
+  - 崔凯峰[@azurenake](https://gitee.com/azurenake), *13810767894@139.com*
+  - 杨子浩[@Louisyzh](https://gitee.com/Louisyzh), *yangzihao@ncti-gba.cn*
+  - 曾色亮[@zengseliang](https://gitee.com/zengseliang), *zengseliang@ncti-gba.cn*
 
 # 联系方式
 
