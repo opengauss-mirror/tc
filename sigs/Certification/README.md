@@ -4,7 +4,7 @@ Certification SIG 致力于对社区openGauss发行版本进行发行版本能�
 
 主要工作包括：
 
-- 认证标准制定，基于发行版认证、人才认证，版本成熟度，ISV兼容性认证、CSP认证等制定评估的标准。
+- 认证标准制定，基于发行版认证、人才认证，版本成熟度，ISV兼容性认证、oGSP认证等制定评估的标准。
 - 认证流程制定，定义具体认证流程、评估机制、证书格式等。
 - 认证内容，详细规定各个认证所需要满足的要求和评价方式。
 - 认证执行，根据定义的标准和流程，通过sig会议组织各个认证的结果评议。
@@ -15,24 +15,50 @@ Certification SIG 致力于对社区openGauss发行版本进行发行版本能�
 
 # 成员
 
+## 发行版认证
+
 ### Maintainer列表
 
-- 夏团利[@touny](https://gitee.com/touny), *xiatuanli@huawei.com*
+- 储其方[@chuqifang](https://gitee.com/chuqifang), *chuqifang@huawei.com*
+
+### Committer列表
+
+- 吴文良[@wu-wenliang](https://gitee.com/wu-wenliang), *wuwenliangwwl.wu@huawei.com*
+- 黄贤儒[@huang-xianru](https://gitee.com/huang-xianru), *huangxianru@huawei.com*
+- 肖杰[@jiexiao1413](https://gitee.com/jiexiao1413), *jiexiao1413@foxmail.com*
+
+
+## 兼容性认证
+
+### Maintainer列表
+
+- 黄贤儒[@huang-xianru](https://gitee.com/huang-xianru), *huangxianru@huawei.com*
+
+### Committer列表
+
+- 谭宇杰[@tanyujie](https://gitee.com/tanyujie3), *tanyujie3@huawei-partners.com*
+- 肖杰[@jiexiao1413](https://gitee.com/jiexiao1413), *jiexiao1413@foxmail.com*
+
+
+## oGSP伙伴服务能力认证
+
+### Maintainer列表
+
+- 许小钦[@xuxiaoqin19](https://gitee.com/xuxiaoqin19), *xuxiaoqin2@huawei.com*
 - 赵立超[@zhaolichao1234](https://gitee.com/zhaolichao1234), *zhaolichao@huawei.com*
 
 ### Committer列表
 
-- 黄凯耀[@huangkaiyao](https://gitee.com/huangkaiyao), *kaiyao.huang@qq.com*
-- 李岩松[@yansong_lee](https://gitee.com/yansong_lee), *yansong_lee@163.com*
-- 张长军[@dbowner_zhang](https://gitee.com/dbowner_zhang), *zhangchangjun2@huawei.com*
-- 黄贤儒[@huang-xianru](https://gitee.com/huang-xianru), *huangxianru@huawei.com*
+- 何玉春[@Heyuchun325](https://gitee.com/Heyuchun325), *heyuchun@huawei.com*
 - 徐徐[@sandy-xuxu](https://gitee.com/sandy-xuxu), *sandy.xuxu@huawei.com*
-- 陈振煜[@eric14chan](https://gitee.com/eric14chan), *chenzhenyu13@huawei.com*
-- 王景全[@wang-jingquan602623](https://gitee.com/wang-jingquan602623), *wangjingquan@huawei.com*
+- 张旭博[@zhang_xubo](https://gitee.com/zhang_xubo), *zhangxubo1@huawei.com*
+- 黄贤儒[@huang-xianru](https://gitee.com/huang-xianru), *huangxianru@huawei.com*
+- 谭宇杰[@tanyujie](https://gitee.com/tanyujie3), *tanyujie3@huawei-partners.com*
 - 储其方[@chuqifang](https://gitee.com/chuqifang), *chuqifang@huawei.com*
 - 吴文良[@wu-wenliang](https://gitee.com/wu-wenliang), *wuwenliangwwl.wu@huawei.com*
-- 许小钦[@xuxiaoqin19](https://gitee.com/xuxiaoqin19), *xuxiaoqin2@huawei.com*
-- 张歆芳[@mickymom](https://gitee.com/mickymom), *zhangxinfang@huawei.com*
+- 蒲琦[@pu-qi](https://gitee.com/pu-qi), *576557380@qq.com*
+- 武祥[@Lgrape](https://gitee.com/Lgrape), *1197913499@qq.com*
+- 李文杰[@Wenger_Lee](https://gitee.com/Wenger_Lee), *357963656@qq.com*
 
 # 联系方式
 

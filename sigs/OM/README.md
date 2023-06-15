@@ -10,12 +10,12 @@ OM SIG 致力于openGauss的安装、维护。
 ### Maintainer列表
 
 - 曹东升[@dscao](https://gitee.com/dscao), *caodongsheng2@huawei.com*
-- 邱明成[@qiumingcheng_412](https://gitee.com/qiumingcheng_412), *qiumingcheng@huawei.com*
+- 兰春义[@coolany](https://gitee.com/coolany ), *lanchunyi2@huawei.com*
 
 ### Committer列表
 
 - 王自力[@wang-zili](https://gitee.com/wang-zili), *446406177@qq.com*
-- 杭进[@hangjin2020](https://gitee.com/hangjin2020), *850894759@qq.com*
+- 刘航宇[@miffyrcee](https://gitee.com/miffyrcee), *liuhangyu6@huawei.com*
 - 刘斌[@travelliu](https://gitee.com/travelliu), *travel.liu@outlook.com*
 - 姚前[@vimiix](https://gitee.com/vimiix) *i@vimiix.com*
 - 刘珲[@liu_hui0228](https://gitee.com/liu_hui0228) *liu_hui0228@163.com*
