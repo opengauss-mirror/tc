@@ -36,7 +36,7 @@ Certification SIG 致力于对社区openGauss发行版本进行发行版本能�
 
 ### Committer列表
 
-- 谭宇杰[@tanyujie](https://gitee.com/tanyujie3), *tanyujie3@huawei-partners.com*
+- 谭宇杰[@tantanyj](https://gitee.com/tantanyj), *tanyujie3@huawei-partners.com*
 - 肖杰[@jiexiao1413](https://gitee.com/jiexiao1413), *jiexiao1413@foxmail.com*
 
 
@@ -53,7 +53,7 @@ Certification SIG 致力于对社区openGauss发行版本进行发行版本能�
 - 徐徐[@sandy-xuxu](https://gitee.com/sandy-xuxu), *sandy.xuxu@huawei.com*
 - 张旭博[@zhang_xubo](https://gitee.com/zhang_xubo), *zhangxubo1@huawei.com*
 - 黄贤儒[@huang-xianru](https://gitee.com/huang-xianru), *huangxianru@huawei.com*
-- 谭宇杰[@tanyujie](https://gitee.com/tanyujie3), *tanyujie3@huawei-partners.com*
+- 谭宇杰[@tantanyj](https://gitee.com/tantanyj), *tanyujie3@huawei-partners.com*
 - 储其方[@chuqifang](https://gitee.com/chuqifang), *chuqifang@huawei.com*
 - 吴文良[@wu-wenliang](https://gitee.com/wu-wenliang), *wuwenliangwwl.wu@huawei.com*
 - 蒲琦[@pu-qi](https://gitee.com/pu-qi), *576557380@qq.com*
