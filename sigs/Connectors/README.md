@@ -23,6 +23,7 @@
 - 张乐奕[@kamusis](https://gitee.com/kamusis), *kamusis@gmail.com*
 - 姚前[@vimiix](https://gitee.com/vimiix) *i@vimiix.com*
 - 汪伟[@wangweizz](https://gitee.com/wangweizz) *wangwei3@xfusion.com*
+- 周斌[@justbk](https://gitee.com/justbk) *249396768@qq.com*
 
 # 联系方式
 
