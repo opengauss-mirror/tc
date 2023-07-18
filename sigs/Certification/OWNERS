@@ -13,3 +13,36 @@ committers:
   - pu-qi
   - Lgrape
   - Wenger_Lee
+repositories:
+  - repo:
+      - opengauss/distribution-evaluation
+      - opengauss/distribution-certification
+    maintainers:
+      - chuqifang
+    committers:
+      - wu-wenliang
+      - huang-xianru
+      - jiexiao1413
+  - repo:
+      - opengauss/compatible-certification
+    maintainers:
+      - huang-xianru
+    committers:
+      - tantanyj
+      - jiexiao1413
+  - repo:
+      - opengauss/service-partner-certification
+    maintainers:
+      - xuxiaoqin19
+      - zhaolichao1234
+    committers:
+      - heyuchun325
+      - sandy-xuxu
+      - zhang_xubo
+      - pu-qi
+      - LGrape
+      - Wenger_Lee
+      - huang-xianru
+      - wu-wenliang
+      - chuqifang
+      - tantanyj
