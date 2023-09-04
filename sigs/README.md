@@ -27,4 +27,4 @@
     | QA | 负责openGauss社区版本质量相关的开发和维护。 |
     | Graph | 负责openGauss社区统一存储和查询的知识图谱数据管理功能。 |
     | ReleaseManagement | 社区协同各SIG maintainer，规划openGauss社区版本的发布工作，为最终的竞争力目标达成负责. |
-    | CM | 负责openGauss社区集群管理系统的开发和维护。 |
+    | CM | 负责openGauss社区公共组件，包括集群管理、共享存储、分布式一致性框架、分布式配置中心等的开发和维护。 |
