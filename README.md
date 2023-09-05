@@ -29,7 +29,7 @@ openGauss开源社区TC主席及成员，由openGauss社区任命，包含对ope
 * 李国良[[@guoliang_li](https://gitee.com/guoliang_li)]    # 主席
 * 田文罡[[@pikeTWG](https://gitee.com/pikeTWG)]
 * 李士福[[@lishifu_db](https://gitee.com/lishifu_db)]
-* 蔡亚杰[[@cyj10727](https://gitee.com/cyj10727)]
+* 贺承汉[[@he-chenghan](https://gitee.com/he-chenghan)]
 * 任阳[[@stanleyren](https://gitee.com/stanleyren)]
 * 黄凯耀[[@huangkaiyao](https://gitee.com/huangkaiyao)]
 * 周平高[[@zankyfun4](https://gitee.com/zankyfun4)]
