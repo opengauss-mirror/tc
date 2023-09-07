@@ -30,6 +30,7 @@
 - 林根[@vastdata_admin](https://gitee.com/vastdata_admin), *lingen@vastdata.com.cn*
 - 吴岳川[@wuyuechuan](https://gitee.com/wuyuechuan), *wuych9@mail2.sysu.edu.cn*
 - 薛忠斌[@zbxue](https://gitee.com/zbxue), *xuezhongbin@huawei.com*
+- 盛泳潘[@zbxue](https://gitee.com/Syongpan), *shengyp2011@163.com*
 
 # 联系方式
 
