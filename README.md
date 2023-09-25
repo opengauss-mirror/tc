@@ -42,6 +42,10 @@ openGauss开源社区TC主席及成员，由openGauss社区任命，包含对ope
 * 周芹[[@zhouqinsm](https://gitee.com/zhouqinsm)]
 * 朱彬[[@zzzzzdb](https://gitee.com/zzzzzdb)]
 * 杨维强[[@yangweiqiang](https://gitee.com/yangweiqiang)]
+* 朱金伟[[@zhu_jinwei](https://gitee.com/zhu_jinwei)]
+* 柴鹏[[@chaip3](https://gitee.com/chaip3)]
+* 王磊[[@nonolili527](https://gitee.com/nonolili527)]
+* 吴明远[[@wumingyuan](https://gitee.com/wumingyuan)]
 
 为保障技术委员会的运作，经过TC例会决策，可强制离任连续2次不参加TC会议的委员；TC成员因个人原因申请离任的，应通知全体TC成员。
 
