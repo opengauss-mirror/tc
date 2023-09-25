@@ -15,6 +15,7 @@
 - 王磊[@nonolili527](https://gitee.com/nonolili527)，*wanglei110@huawei.com*
 - 李恒[@liheng188](https://gitee.com/liheng188)，*liheng37@huawei.com*
 - 张金玉[@jinyu_opengauss](https://gitee.com/jinyu_opengauss)，*Jinyu_gaussdb@163.com*
+- 蒋将军[@general-jiang](https://gitee.com/general-jiang)，*jiangjiangjun@huawei.com*
 
 ### Committer列表
 - Vinoth[@vinothv](https://gitee.com/vinothv),*vinoth.veeraraghavan@hotmail.com*
@@ -29,6 +30,7 @@
 - 陈琛[@struggle_hw](https://gitee.com/struggle_hw), *arcoalien@qq.com*
 - 薛兴荣[@dbxue](https://gitee.com/dbxue), *xuexingrong@xfusion.com*
 - 马向[@Xiao__ma](https://gitee.com/Xiao__ma), *maxiang21@huawei.com*
+- 陈晓滨[@chenxiaobin19](https://gitee.com/chenxiaobin19), *chenxiaobin19@huawei.com*
 
 # 联系方式
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/storageengine.opengauss.org/)
