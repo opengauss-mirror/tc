@@ -11,8 +11,8 @@ Graph SIG 致力于构建统一存储和查询的知识图谱数据管理功能�
 ### Maintainer列表
 
 - 王鑫[@xinwang-tju](https://gitee.com/xinwang-tju), *wangx@tju.edu.cn*
-- 宋子辉[@szhmvp](https://gitee.com/szhmvp), *szhmvp@163.com*
-- 王林[@linwang-tf](https://gitee.com/linwang-tf), *linwang@techfantasy.com.cn*
+- 贾勇哲[@jia-yongzhe](https://gitee.com/jia-yongzhe), *jia@techfantasy.com.cn*
+- 徐大为[@lordvv](https://gitee.com/lordvv), *xudawei@techfantasy.cn*
 
 ### Committer列表
 
