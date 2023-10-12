@@ -33,6 +33,7 @@ SIG DOCS致力于提供openGauss各类技术文档、教程等形式的完整内
 - 任朝倩[@yanzi2021](https://gitee.com/yanzi2021), *747349666@qq.com*
 - 李子健[@zijianli16](https://gitee.com/zijianli16), *zijianli@gmail.com*
 - 王珊珊[@mentoswang](https://gitee.com/mentoswang), *13811014702@139.com*
+- 李童[@lestertt](https://gitee.com/lestertt), *litong@vastdata.com.cn*
 
 # 联系方式
 
