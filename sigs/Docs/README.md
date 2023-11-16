@@ -14,15 +14,14 @@ SIG DOCS致力于提供openGauss各类技术文档、教程等形式的完整内
 
 ### Maintainer列表
 
-- 康阳[@ylfan96](https://gitee.com/ylfan96)，*kangyang@huawei.com*
-- 龚思夷[@gongsiyi150](https://gitee.com/gongsiyi150)，*gongsiyi@qq.com*
+- - 李子健[@zijianli16](https://gitee.com/zijianli16), *zijianli16@gmail.com*
 
 ### Committer列表
 - Freyaqqianjin[@freyaqqianjin](https://gitee.com/freyaqqianjin), *jinqianqian1@huawei.com*
 - 刘贵宾[@vipl](https://gitee.com/vipl), *1649607631@qq.com*
-- 樊雅清 [@fyqlpl](https://gitee.com/fyqlpl), *fanyaqing@huawei.com*
 - 李杨[@liyang0608](https://gitee.com/liyang0608)，*554903772@qq.com*
 - 童美霞[@tongdabao](https://gitee.com/tongdabao)，*870020620@qq.com*
+- 康阳[@ylfan96](https://gitee.com/ylfan96)，*kangyang@huawei.com*
 - 郭欢[@spaceoddity91719](https://gitee.com/spaceoddity91719)，*huan.guo@enmotech.com*
 - 张翠娉[@zcp100_zcp100](https://gitee.com/zcp100_zcp100)，*cuiping.zhang@enmotech.com*
 - 刘旭[@mogliu](https://gitee.com/mogliu)，*xu.liu@enmotech.com*
@@ -30,8 +29,6 @@ SIG DOCS致力于提供openGauss各类技术文档、教程等形式的完整内
 - 李轶楠[@ora-600](https://gitee.com/ora-600), *yinan.li@enmotech.com*
 - 姜晓颖[@jiangxiaoying1](https://gitee.com/jiangxiaoying1), *jiangxiaoying2@xfusion.com*
 - 齐小丰[@sky-stars](https://gitee.com/sky-stars), *813304690@qq.com*
-- 任朝倩[@yanzi2021](https://gitee.com/yanzi2021), *747349666@qq.com*
-- 李子健[@zijianli16](https://gitee.com/zijianli16), *zijianli@gmail.com*
 - 王珊珊[@mentoswang](https://gitee.com/mentoswang), *13811014702@139.com*
 - 李童[@lestertt](https://gitee.com/lestertt), *litong@vastdata.com.cn*
 
