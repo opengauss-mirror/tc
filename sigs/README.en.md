@@ -20,7 +20,7 @@
     | GIS | Develop and maintain the Geographic Information System of the openGauss community. |
     | CloudNative | Develop and maintain the Cloud Native of the openGauss community. |
     | SecurityTechnology | Develop and maintain the database security technology of the openGauss community. |
-    | Certification | Define and develop openGauss certification specification, test suite and process. |    
+    | Certification | Define and develop openGauss certification specification, test suite and process. |
     | Plugin | build, manage and develop the plugin framework. |
     | Blockchain | explore the blockchain use case, Study the core technical issues of blockchain  |
     | DCF | Develop and maintain Distributed Consensus Framework of the openGauss community. |
@@ -28,3 +28,7 @@
     | Graph | Responsible for the knowledge map data management function of unified storage and query of the openGauss community. |
     | ReleaseManagement | The community collaborates with SIG Maintainers to plan openGauss community release and is responsible for the final competitiveness goal. |
     | CM | Develop and maintain the cluster manager system of the openGauss community. |
+    | OPS | Focus on building openGauss maintenance capabilities, improve product operation and maintenance capabilities, and summarize and transfer operation and maintenance experience. |
+    | KnowledgeGraph | Carry out research on the whole life cycle of knowledge graph, construction, storage management and application. |
+    
+    
