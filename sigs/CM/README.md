@@ -25,6 +25,7 @@
   - 邓勇[@dengyong2](https://gitee.com/dengyong2), *dean.dengyong@huawei.com*
   - 胡习林[@hu-xilin](https://gitee.com/hu-xilin), *huxilin@huawei.com*
   - 王焕卓[@wanghuanzhuo](https://gitee.com/wanghuanzhuo)，*wanghuanzhuo@huawei.com*
+  - 黄堰姣[@huang-yanjiao](https://gitee.com/huang-yanjiao), *huangyanjiao@huawei.com*
   - 于正[@yz_db](https://gitee.com/yz_db), *yuzheng3@huawei.com*
   - 杨葳[@yangwei129](https://gitee.com/yangwei129), *yangwei129@huawei.com*
   - 裴鲍义[@peibaoyi](https://gitee.com/peibaoyi), *peibaoyi@huawei.com*
