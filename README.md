@@ -47,7 +47,7 @@ openGauss开源社区TC主席及成员，由openGauss社区任命，包含对ope
 * 王磊[[@nonolili527](https://gitee.com/nonolili527)]
 * 吴明远[[@wumingyuan](https://gitee.com/wumingyuan)]
 
-为保障技术委员会的运作，经过TC例会决策，可强制离任连续2次不参加TC会议的委员；TC成员因个人原因申请离任的，应通知全体TC成员。
+为保障技术委员会的运作，可强制离任连续2次不参加TC会议的委员；TC成员因个人原因申请离任的，应通知全体TC成员。
 
 
 ### 技术委员会会议召开与决策机制
@@ -63,4 +63,4 @@ openGauss开源社区TC主席及成员，由openGauss社区任命，包含对ope
 ### 技术委员会联系方式
 
 * 邮件列表：tc@opengauss.org
-* 会议时间：北京时间 每双周五 16:00-17:00
+* 会议时间：北京时间 每月一次 ，请订阅邮件列表收取更多TC信息，https://mailweb.opengauss.org/postorius/lists/tc@opengauss.org/
