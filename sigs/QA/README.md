@@ -19,7 +19,7 @@
 ### Maintainer列表
 
 - 张长军[@dbowner_zhang](https://gitee.com/dbowner_zhang)，*zhangchangjun2@huawei.com*
-- 肖杰[@jiexiao1413](https://gitee.com/jiexiao1413), *jiexiao1413@foxmail.com*
+- 周斌[@justbk](https://gitee.com/justbk), *249396768@qq.com*
 
 ### Committer列表
 
