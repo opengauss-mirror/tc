@@ -31,7 +31,7 @@ The chair and members of the TC of the openGauss open source community are appoi
 * huangkaiyao[[@huangkaiyao](https://gitee.com/huangkaiyao)]
 * zhoupinggao[[@zankyfun4](https://gitee.com/zankyfun4)]
 * wangjiang[[@wang-jingle](https://gitee.com/wang-jingle)]
-* zhangshujie[[@zhangshujie82](https://gitee.com/zhangshujie82)]
+* sunji[[@greatjigreatji](https://gitee.com/greatjigreatji)]
 * wangwei[[@wangwei5](https://gitee.com/wangwei5)]
 * huangxiaotao[[@xiaotao-huang](https://gitee.com/xiaotao-huang)]
 * zhangchengwei[[@jarekzhang](https://gitee.com/jarekzhang)]
