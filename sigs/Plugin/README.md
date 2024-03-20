@@ -15,7 +15,7 @@ Plugin SIG 致力于打造多层级、多方法的插件化架构，使能社区
 
 ### Maintainer列表
 
-- 黄凯耀[@huangkaiyao](https://gitee.com/huangkaiyao), *huangkaiyao@huawei.com*
+- 陈晓滨[@chenxiaobin19](https://gitee.com/chenxiaobin19), *chenxiaobin19@huawei.com*
 - 周平高[@zankyfun4](https://gitee.com/zankyfun4)，*zhoupinggao@huawei.com*
 
 
@@ -23,12 +23,11 @@ Plugin SIG 致力于打造多层级、多方法的插件化架构，使能社区
 
 - 胡英豪[@husan1024](https://gitee.com/husan1024), *huyinghao@shentongdata.com*
 - 苏章艳[@siven_dev](https://gitee.com/siven_dev), *suzy1030@qq.com*
-- 陈晓滨[@chenxiaobin19](https://gitee.com/chenxiaobin19), *chenxiaobin19@huawei.com*
 - 彭炯[@totaj](https://gitee.com/totaj), *pengjiong1@huawei.com*
 - 吴岳川[@wuyuechuan](https://gitee.com/wuyuechuan), *wuych9@mail2.sysu.edu.cn*
 - 熊小军[@xiong_xjun](https://gitee.com/xiong_xjun), *xiong_xiaojun@yeah.net*
 - 吴明远[@wumingyuan](https://gitee.com/wumingyuan), *wumingyuan@gbase.cn* 
-- 王修强[@xiu-qiang-wang-2022](https://gitee.com/xiu-qiang-wang-2022), *xiuqiang.wang@enmotech.com*
+- 刘伟[@llzx373](https://gitee.com/llzx373)，*llzx373@hotmail.com*
 - 赵思骑[@dreamalloc](https://gitee.com/dreamalloc), *zhaosq76@chinaunicom.cn*
 - 罗浩[@jeremytim](https://gitee.com/jeremytim), *287095649@qq.com*
 - 赵俊[@kelayzhao](https://gitee.com/kelayzhao), *zhaoj296@chinaunicom.cn*
