@@ -31,6 +31,7 @@
 - 薛兴荣[@dbxue](https://gitee.com/dbxue), *xuexingrong@xfusion.com*
 - 马向[@Xiao__ma](https://gitee.com/Xiao__ma), *maxiang21@huawei.com*
 - 陈晓滨[@chenxiaobin19](https://gitee.com/chenxiaobin19), *chenxiaobin19@huawei.com*
+- 陈晓雨[@rain-666](https://gitee.com/rain-666), *chenxiaoyu12@huawei.com*
 
 # 联系方式
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/storageengine.opengauss.org/)
