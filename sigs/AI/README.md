@@ -21,6 +21,8 @@ AI SIG 致力于openGauss的能力的开发和维护，包括AI4DB数据库智�
 - 余翔[@yxfish13](https://gitee.com/yxfish13), *yxfish13@mails.tsinghua.edu.cn*
 - 夏康[@excaliburxk](https://gitee.com/excaliburxk), *excaliburxk@qq.com*
 - 许利杰[@xulijie09](https://gitee.com/xulijie09), *lijie.xu@inf.ethz.ch*
+- 王天元[@wangtianyuan1994](https://gitee.com/wangtianyuan1994), *wangtianyuan5@huawei.com*
+- 李坤[@jackchenchenchen](https://gitee.com/jackchenchenchen), *likun_dlut@163.com*
 
 # 联系方式
 
