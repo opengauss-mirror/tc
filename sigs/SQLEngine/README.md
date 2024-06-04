@@ -4,30 +4,26 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 
 # 组织会议
 
-- 公开的会议时间：北京时间 每双周二 16:00-17:00
+- 公开的会议时间：北京时间 每双周四 16:00-17:00
 
 # 成员
 
 ### Maintainer列表
 
-- 周平高[@zankyfun4](https://gitee.com/zankyfun4)，*zhoupinggao@huawei.com*
-- 陈浩[@chenhao7253886](https://gitee.com/chenhao7253886)，*chenhao220@huawei.com*
-
+- 彭炯[@totaj](https://gitee.com/totaj)，*pengjiong1@huawei.com*
+- 杨皓[@yangahos](https://gitee.com/yanghaos)，*yanghao37@huawei.com*
+- 岳行之[@gaussyuexz](https://gitee.com/gaussyuexz)，*yuexingzhi2@huawei.com*
 
 ### Committer列表
 
-- 周兆琦[@ziki77](https://gitee.com/ziki77)，*zhouzhaoqi1@huawei.com*
-- 杨皓[@yanghaos](https://gitee.com/yanghaos)，*yanghao37@huawei.com*
-- 刘伟[@llzx373](https://gitee.com/llzx373)，*llzx373@hotmail.com*
-- 李宏达[@lee1002](https://gitee.com/lee1002)，*hongda.li@enmotech.com*
-- 余鹏[@scarbor_fair](https://gitee.com/scarbor_fair)，*yupeng@vastdata.com.cn*
-- 廖美东[@hemny](https://gitee.com/hemny)，*liaomd@vastdata.com.cn*
-- 王正侣[@April01xxx](https://gitee.com/April01xxx)，*lancer_cool@163.com*
-- 彭炯[@totaj](https://gitee.com/totaj)，*pengjiong1@huawei.com*
-- 郝庆运[@haoqingyun](https://gitee.com/haoqingyun)，*haoqingyun54@126.com*
-- 邓旭玥[@dengxueyue](https://gitee.com/dengxuyue), *dengxueyue@xfusion.com*
+- 蔡磊[@cailei19](https://gitee.com/蔡磊19)，*cailei19@huawei.com*
 - 胡正超[@gentle_hu](https://gitee.com/gentle_hu), *huzhengchao4@huawei.com*
-- 张炙炀[@zzy0310](https://gitee.com/zzy0310), *zhangzhiyang@xfusion.com*
+- 李海啸[@tsunamis-li](https://gitee.com/tsunamis-li)，*lihaixiao3@huawei.com*
+- 王碧华[@bihua111](https://gitee.com/bihua111)，*wangbihua1@huawei.com*
+- 吴禹均[@wuyujun3](https://gitee.com/wuyujun3)，*wuyujun2@huawei.com*
+- 章佳豪[@zhangjiahao_hw](https://gitee.com/zhangjiahao_hw)，*zhangjiahao65@huawei.com*
+- 张静昌[@jc-zhang](https://gitee.com/jc-zhang)，*zhangjingchang1@huawei.com*
+- 周兆琪[@ziki77](https://gitee.com/ziki77)，*zhouzhaoqi1@huawei.com*
 
 # 联系方式
 
