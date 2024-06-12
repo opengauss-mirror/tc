@@ -32,6 +32,7 @@
   - 朱丽霞[@zhulixia](https://gitee.com/zhulixia), *zhulixia3@huawei.com*
   - 陈琛[@struggle_hw](https://gitee.com/struggle_hw), *joshua.chen@huawei.com*
   - 陈栋[@chendong76](https://gitee.com/chendong76), *chendong76@huawei.com*
+  - 薛蒙恩[@xue_meng_en](https://gitee.com/xue_meng_en), *xuemengen@huawei.com*
 
 # 联系方式
 
