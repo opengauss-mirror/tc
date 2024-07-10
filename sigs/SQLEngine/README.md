@@ -24,6 +24,7 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 - 章佳豪[@zhangjiahao_hw](https://gitee.com/zhangjiahao_hw)，*zhangjiahao65@huawei.com*
 - 张静昌[@jc-zhang](https://gitee.com/jc-zhang)，*zhangjingchang1@huawei.com*
 - 周兆琪[@ziki77](https://gitee.com/ziki77)，*zhouzhaoqi1@huawei.com*
+- 赖盛好[@dodders](https://gitee.com/dodders)，*laishenghao1@huawei.com*
 
 # 联系方式
 
