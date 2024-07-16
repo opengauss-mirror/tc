@@ -137,3 +137,8 @@ sigs:
 - name: KnowledgeGraph
   repositories:
   - knowledgeGraph
+- name: RISC-V
+  repositories:
+  - openGauss-server
+  - openGauss-third_party
+  - riscv

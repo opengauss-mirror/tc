@@ -7,7 +7,7 @@ RISC-V 平台有着自身的特点，成立一个新的 SIG 用于应对 RISC-V 
 
 # 组织会议
 
-- 公开的会议时间：待定
+- 公开的会议时间：北京时间 每双周三 14:00-15:00
 
 # 成员
 
@@ -28,11 +28,21 @@ RISC-V 大使、PLCT 实验室创始人及项目总监 吴伟 是 RISC-V SIG 的
 
 # 联系方式
 
-- [邮件列表](riscv@opengauss.org)
+- [邮件列表](https://mailweb.opengauss.org/postorius/lists/riscv.opengauss.org/)
+- 欢迎添加管理员微信进群交流(opengaussRV)
+
 
 # 仓库清单
 
+SIG 是公开的，欢迎任何对 RISC-V 感兴趣的小伙伴加入组织并参与贡献。
+
 仓库地址：
 
-- 暂无
+- https://gitee.com/opengauss/openGauss-server
+- https://gitee.com/opengauss/openGauss-third_party
+- https://gitee.com/opengauss/riscv
+
+
+
+
 
