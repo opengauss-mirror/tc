@@ -14,7 +14,7 @@ SIG DOCS致力于提供openGauss各类技术文档、教程等形式的完整内
 
 ### Maintainer列表
 
-- - 李子健[@zijianli16](https://gitee.com/zijianli16), *zijianli16@gmail.com*
+- 李子健[@zijianli16](https://gitee.com/zijianli16), *zijianli16@gmail.com*
 
 ### Committer列表
 - Freyaqqianjin[@freyaqqianjin](https://gitee.com/freyaqqianjin), *jinqianqian1@huawei.com*
