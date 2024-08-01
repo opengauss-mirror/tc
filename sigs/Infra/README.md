@@ -33,6 +33,8 @@
 - 龚壮邦[@gzbang](https://gitee.com/gzbang), *gongzhuangbang1@huawei.com*
 - 艾龙[@ailoooong](https://gitee.com/ailoooong), *ailong@outlook.com*
 - 梅相如[@xiangrumei](https://gitee.com/xiangrumei), *xiangrumei87@126.com*
+- 许成[@xucheng_peking](https://gitee.com/xucheng_peking), *xucheng@chinamobile.com*
+
 
 # 联系方式
 
