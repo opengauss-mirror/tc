@@ -35,7 +35,7 @@ ReleaseManagement的主要工作是通过社区协同各SIG maintainer，规划o
   - 张文龙[@willloong](https://gitee.com/willloong), *zhangwl@vastdata.com.cn*
   - 田兵[@tbing8803](https://gitee.com/tbing8803), *bing.tian@enmotech.com*
   - 刘春[@nifinity](https://gitee.com/nifinity), *liuchun3@huawei.com*
-  - 吴明远[@wumingyuan](https://gitee.com/wumingyuan), *wumingyuan@gbase.cn*
+  - 吴明远[@wmy_ld](https://gitee.com/wumingyuan), *wumingyuan@gbase.cn*
   - 柴鹏[@chaip3](https://gitee.com/chaip3), *chaip3@chinaunicom.cn*
   - 崔凯峰[@azurenake](https://gitee.com/azurenake), *13810767894@139.com*
   - 杨子浩[@Louisyzh](https://gitee.com/Louisyzh), *yangzihao@ncti-gba.cn*
