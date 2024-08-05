@@ -26,7 +26,7 @@ Plugin SIG 致力于打造多层级、多方法的插件化架构，使能社区
 - 彭炯[@totaj](https://gitee.com/totaj), *pengjiong1@huawei.com*
 - 吴岳川[@wuyuechuan](https://gitee.com/wuyuechuan), *wuych9@mail2.sysu.edu.cn*
 - 熊小军[@xiong_xjun](https://gitee.com/xiong_xjun), *xiong_xiaojun@yeah.net*
-- 吴明远[@wumingyuan](https://gitee.com/wumingyuan), *wumingyuan@gbase.cn* 
+- 吴明远[@wmy_ld](https://gitee.com/wumingyuan), *wumingyuan@gbase.cn* 
 - 刘伟[@llzx373](https://gitee.com/llzx373)，*llzx373@hotmail.com*
 - 赵思骑[@dreamalloc](https://gitee.com/dreamalloc), *zhaosq76@chinaunicom.cn*
 - 罗浩[@jeremytim](https://gitee.com/jeremytim), *287095649@qq.com*
