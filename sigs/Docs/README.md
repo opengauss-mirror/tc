@@ -31,6 +31,8 @@ SIG DOCS致力于提供openGauss各类技术文档、教程等形式的完整内
 - 齐小丰[@sky-stars](https://gitee.com/sky-stars), *813304690@qq.com*
 - 王珊珊[@mentoswang](https://gitee.com/mentoswang), *13811014702@139.com*
 - 李童[@lestertt](https://gitee.com/lestertt), *litong@vastdata.com.cn*
+- 马晨琦[@machenqi](https://gitee.com/machenqi), *machenqi0403@163.com*
+- 胡君[@hujunjune](https://gitee.com/hujunjune), *hujun33@huawei.com*
 
 # 联系方式
 
