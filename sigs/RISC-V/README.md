@@ -7,7 +7,9 @@ RISC-V 平台有着自身的特点，成立一个新的 SIG 用于应对 RISC-V 
 
 # 组织会议
 
-- 公开的会议时间：北京时间 每双周三 14:00-15:00
+- 公开的会议时间：北京时间 每双周三 14:30-15:30
+
+- 会议纪要: https://etherpad.opengauss.org/p/riscv-meetings
 
 # 成员
 
@@ -17,8 +19,9 @@ RISC-V 大使、PLCT 实验室创始人及项目总监 吴伟 是 RISC-V SIG 的
 
 - 吴伟 [@wuwei_plct](https://gitee.com/wuwei_plct). wuwei2016@iscas.ac.cn
 - 孙敏 [@sunmin89](https://gitee.com/sunmin89). sunmin89@outlook.com
-- 傅炜 [@tekkamanninja](https://gitee.com/tekkamanninja).  tekkamanninja@163.com
+- 傅炜 [@tekkamanninja](https://gitee.com/tekkamanninja). tekkamanninja@163.com
 - 魏超 [@hardmode](https://gitee.com/hardmode). chao.wei@sophgo.com
+- 袁穗聪 [@samuel_yuan](https://gitee.com/samuel_yuan). samuel.yuan@leapfive.com
 
 ### Committer列表
 
