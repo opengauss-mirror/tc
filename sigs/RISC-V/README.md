@@ -22,6 +22,7 @@ RISC-V 大使、PLCT 实验室创始人及项目总监 吴伟 是 RISC-V SIG 的
 - 傅炜 [@tekkamanninja](https://gitee.com/tekkamanninja). tekkamanninja@163.com
 - 魏超 [@hardmode](https://gitee.com/hardmode). chao.wei@sophgo.com
 - 袁穗聪 [@samuel_yuan](https://gitee.com/samuel_yuan). samuel.yuan@leapfive.com
+- 谭小凡 [@xfan1024](https://gitee.com/xfan1024). xiaofan@iscas.ac.cn
 
 ### Committer列表
 
