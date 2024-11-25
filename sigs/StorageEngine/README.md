@@ -13,7 +13,6 @@
 
 ### Maintainer列表
 - 王磊[@nonolili527](https://gitee.com/nonolili527)，*wanglei110@huawei.com*
-- 李恒[@liheng188](https://gitee.com/liheng188)，*liheng37@huawei.com*
 - 张金玉[@jinyu_opengauss](https://gitee.com/jinyu_opengauss)，*Jinyu_gaussdb@163.com*
 - 蒋将军[@general-jiang](https://gitee.com/general-jiang)，*jiangjiangjun@huawei.com*
 
@@ -32,6 +31,12 @@
 - 马向[@Xiao__ma](https://gitee.com/Xiao__ma), *maxiang21@huawei.com*
 - 陈晓滨[@chenxiaobin19](https://gitee.com/chenxiaobin19), *chenxiaobin19@huawei.com*
 - 陈晓雨[@rain-666](https://gitee.com/rain-666), *chenxiaoyu12@huawei.com*
+- 周聪[@congzhou2603](https://gitee.com/congzhou2603), *zhoucong42@huawei.com*
+- 张仲良[@julian_zl_zhang](https://gitee.com/julian_zl_zhang), *zhangzhongliangit@chinamobile.com*
+- 阙鸣健[@quemingjian](https://gitee.com/quemingjian), *quemingjian2@huawei.com*
+- 陈栋[@chendong76](https://gitee.com/chendong76), *1209756284@qq.com*
+- 陈欢[@jemappellehc](https://gitee.com/jemappellehc), *386956049@qq.com*
+- 柳长沣[@superblaker](https://gitee.com/superblaker), *superlchf@qq.com*
 
 # 联系方式
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/storageengine.opengauss.org/)
