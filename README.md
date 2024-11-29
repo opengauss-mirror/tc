@@ -36,7 +36,7 @@ openGauss开源社区TC主席及成员，由openGauss社区任命，包含对ope
 * 王江[[@wang-jingle](https://gitee.com/wang-jingle)]
 * 孙佶[[@greatjigreatji](https://gitee.com/greatjigreatji)]
 * 王炜[[@wangwei5](https://gitee.com/wangwei5)]
-* 谢卫平[[@junhangis](https://gitee.com/junhangis)]
+* 关刚[[@guangang1981](https://gitee.com/guangang1981)]
 * 张程伟[[@jarekzhang](https://gitee.com/jarekzhang)]
 * 刘勇生[[@lys6676](https://gitee.com/lys6676)]
 * 周芹[[@zhouqinsm](https://gitee.com/zhouqinsm)]
