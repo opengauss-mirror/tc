@@ -28,6 +28,8 @@ openGauss工具生态的长期规划，发展和演进。
 - 王睿博[@ribber](https://gitee.com/ribber) *wangruibo@gbase.cn*
 - 申正[@shenzheng4](https://gitee.com/shenzheng4) *shenzheng4@huawei.com*
 - 王晓非[@wangxf12345](https://gitee.com/wangxf12345) *wangxiaofeiit@chinamobile.com*
+- 景策[@cinjingce](https://gitee.com/cinjingce) *jingce@chinamobile.com*
+- 田野[@ty2145621](https://gitee.com/ty2145621) *tianyeit@chinamobile.com*
 
 
 # 联系方式
