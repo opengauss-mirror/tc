@@ -37,6 +37,7 @@
 - 陈栋[@chendong76](https://gitee.com/chendong76), *1209756284@qq.com*
 - 陈欢[@jemappellehc](https://gitee.com/jemappellehc), *386956049@qq.com*
 - 柳长沣[@superblaker](https://gitee.com/superblaker), *superlchf@qq.com*
+- 李标[@libiao2024](https://gitee.com/libiao2024), *1102510224@qq.com*
 
 # 联系方式
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/storageengine.opengauss.org/)
