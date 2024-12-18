@@ -13,6 +13,7 @@ CTMM （Cantian Multi-Muster）是
 - 曹宇[@Caoy](https://gitee.com/Caoy), *caoyu09@huawei.com*
 - 王伟[@weithu](https://gitee.com/weithu), *wangwei321@huawei.com*
 - 梁远胜[@liangyuansheng](https://gitee.com/liangyuansheng), *liangyuansheng@huawei.com*
+- 杨福廷[@SuperDan1](https://gitee.com/SuperDan1), *futingyang123@163.com*
 - 习楚天[@xicoding](https://gitee.com/xicoding), *xichutian@huawei.com*
 
 ### Committer列表
@@ -26,6 +27,7 @@ CTMM （Cantian Multi-Muster）是
 - 秦彪[@biaoqin](https://gitee.com/biaoqin), *qinbiao1@huawei.com*
 - 李杰[@lijieac](https://gitee.com/lijieac), *lijie34@huawei.com*
 - 刘春苗[@mio310](https://gitee.com/mio310), *liuchunmiao1@huawei.com*
+- 付晓锋[@tiny08](https://gitee.com/tiny08), *fuxiaofeng7@huawei.com*
 - 孙全成[@sunquancheng](https://gitee.com/sunquancheng), *quancheng.sun@enmotech.com*
 - 王正侣[@april01xxx](https://gitee.com/april01xxx), *wangzl@vastdata.com.cn*
 - 黎俊云[@jinyyu](https://gitee.com/jinyyu), *lijy1@vastdata.com.cn*
@@ -33,7 +35,7 @@ CTMM （Cantian Multi-Muster）是
 
 # 联系方式
 
-- [邮件列表](待补充)
+- [邮件列表] (待补充)
 
 # 仓库清单
 
