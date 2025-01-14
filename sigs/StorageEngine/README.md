@@ -15,6 +15,8 @@
 - 王磊[@nonolili527](https://gitee.com/nonolili527)，*wanglei110@huawei.com*
 - 张金玉[@jinyu_opengauss](https://gitee.com/jinyu_opengauss)，*Jinyu_gaussdb@163.com*
 - 蒋将军[@general-jiang](https://gitee.com/general-jiang)，*jiangjiangjun@huawei.com*
+- 古强[@guqiang_opengauss](https://gitee.com/guqiang_opengauss)，*guqiang9@huawei.com*
+- 陈琛[@struggle_hw](https://gitee.com/struggle_hw), *arcoalien@qq.com*
 
 ### Committer列表
 - Vinoth[@vinothv](https://gitee.com/vinothv),*vinoth.veeraraghavan@hotmail.com*
@@ -26,7 +28,6 @@
 - 林科旭[@kexulin](https://gitee.com/kexulin), *linkexu66@outlook.com*
 - 张皖川[@dbcrafter](https://gitee.com/dbcrafter), *wanchuan_zhang@163.com*
 - 吴岳川[@wuyuechuan](https://gitee.com/wuyuechuan), *wuych9@mail2.sysu.edu.cn*
-- 陈琛[@struggle_hw](https://gitee.com/struggle_hw), *arcoalien@qq.com*
 - 薛兴荣[@dbxue](https://gitee.com/dbxue), *xuexingrong@xfusion.com*
 - 马向[@Xiao__ma](https://gitee.com/Xiao__ma), *maxiang21@huawei.com*
 - 陈晓滨[@chenxiaobin19](https://gitee.com/chenxiaobin19), *chenxiaobin19@huawei.com*
@@ -38,6 +39,7 @@
 - 陈欢[@jemappellehc](https://gitee.com/jemappellehc), *386956049@qq.com*
 - 柳长沣[@superblaker](https://gitee.com/superblaker), *superlchf@qq.com*
 - 李标[@libiao2024](https://gitee.com/libiao2024), *1102510224@qq.com*
+- 张凤治[@zhangfengzhi123](https://gitee.com/zhangfengzhi123), *364064048@qq.com*
 
 # 联系方式
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/storageengine.opengauss.org/)

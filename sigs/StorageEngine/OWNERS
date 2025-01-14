@@ -2,6 +2,8 @@ maintainers:
   - nonolili527
   - jinyu_opengauss
   - general-jiang
+  - guqiang_opengauss
+  - struggle_hw
 committers:
   - vinothv
   - lishuaituan
@@ -12,7 +14,6 @@ committers:
   - kexulin
   - dbcrafter
   - wuyuechuan
-  - struggle_hw
   - dbxue
   - Xiao__ma
   - chenxiaobin19
@@ -24,3 +25,4 @@ committers:
   - jemappellehc
   - superblaker
   - libiao2024
+  - zhangfengzhi123
