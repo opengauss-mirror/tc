@@ -13,7 +13,7 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 - 彭炯[@totaj](https://gitee.com/totaj)，*pengjiong1@huawei.com*
 - 杨皓[@yangahos](https://gitee.com/yanghaos)，*yanghao37@huawei.com*
 - 岳行之[@gaussyuexz](https://gitee.com/gaussyuexz)，*yuexingzhi2@huawei.com*
-- 周兆琪[@ziki77](https://gitee.com/ziki77)，*zhouzhaoqi1@huawei.com*
+- 周兆琦[@ziki77](https://gitee.com/ziki77)，*zhouzhaoqi1@huawei.com*
 
 ### Committer列表
 
