@@ -1,5 +1,4 @@
 default_owners:
-- gitee_id: xiangxinyong
 - gitee_id: zhang_xubo
 sigs:
 - name: OM
@@ -15474,14 +15473,6 @@ sigs:
       organizaiton: huawei
       name: heguofeng
       email: heguofeng@huawei.com
-  - repo:
-    - community
-    - opensource-intership
-    owner:
-    - gitee_id: xiangxinyong
-      organizaiton: huawei
-      name: xiangxinyong
-      email: xiangxinyong@huawei.com
 - name: Docs
   sig_label: sig/docs
   sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Docs
