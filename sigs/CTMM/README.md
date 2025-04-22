@@ -21,7 +21,7 @@ CTMM （Cantian Multi-Muster）是
 - 张金玉[@jinyu_opengauss](https://gitee.com/jinyu_opengauss), *zhangjinyu.zhang@huawei.com*
 - 王炜[@wangwei5](https://gitee.com/wangwei5), *wangwei5@huawei.com*
 - 熊小军[@xiong_xjun](https://gitee.com/xiong_xjun), *xiongxiaojun2@huawei.com*
-- 阙鸣健[@Mijamind](https://gitee.com/Mijamind), *quemingjian2@huawei.com*
+- 阙鸣健[@quemingjian](https://gitee.com/Mijamind), *quemingjian2@huawei.com*
 - 贺成汉[@he-chenghan](https://gitee.com/he-chenghan), *he-chenghan@user.noreply.gitee.com*
 - 郑高启[@zgqhope](https://gitee.com/zgqhope), *zgqhope@163.com*
 - 秦彪[@biaoqin](https://gitee.com/biaoqin), *qinbiao1@huawei.com*
