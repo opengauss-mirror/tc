@@ -35,7 +35,7 @@ RISC-V 大使、PLCT 实验室创始人及项目总监 吴伟 是 RISC-V SIG 的
 
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/riscv.opengauss.org/)
 - 欢迎添加管理员微信进群交流(opengaussRV)
-  ![[wxgroup.png]]
+  ![](./wxgroup.png)
 
 
 # 仓库清单
