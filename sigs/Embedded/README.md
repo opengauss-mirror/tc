@@ -18,7 +18,7 @@
 
 - 刘保玉[@borisfly](https://gitee.com/borisfly), *liubaoyu@ncti-gba.cn*
 - 吴峰[@aiminralph](https://gitee.com/aiminralph), *wufeng@ncti-gba.cn*
-- 阙鸣健[@Mijamind](https://gitee.com/Mijamind), *quemingjian2@huawei.com*
+- 阙鸣健[@quemingjian](https://gitee.com/Mijamind), *quemingjian2@huawei.com*
 
 ### 1.2 Committer列表
 
