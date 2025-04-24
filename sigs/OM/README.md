@@ -20,6 +20,7 @@ OM SIG 致力于openGauss的安装、维护。
 - 姚前[@vimiix](https://gitee.com/vimiix) *i@vimiix.com*
 - 刘珲[@liu_hui0228](https://gitee.com/liu_hui0228) *liu_hui0228@163.com*
 - 张旭博[@zhang_xubo](https://gitee.com/zhang_xubo) *zhangxubo1@huawei.com*
+- 李旭锋[@samli3388](https://gitee.com/samli3388) *dblxf1@163.com*
 
 # 联系方式
 
