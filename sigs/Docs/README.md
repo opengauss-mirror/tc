@@ -33,6 +33,7 @@ SIG DOCS致力于提供openGauss各类技术文档、教程等形式的完整内
 - 李童[@lestertt](https://gitee.com/lestertt), *litong@vastdata.com.cn*
 - 胡君[@hujunjune](https://gitee.com/hujunjune), *hujun33@huawei.com*
 - 吴冬儿[@wu-donger](https://gitee.com/wu-donger), *wudonger@huawei.com*
+- 何苗[@hemiao11](https://gitee.com/hemiao11), *hemiao45@h-partners.com*
 
 # 联系方式
 
