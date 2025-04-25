@@ -1,0 +1,81 @@
+name: KnowledgeGraph
+sig_label: sig/knowledgegraph
+sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/KnowledgeGraph
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: zouleipku
+      gitcode_id: ""
+      name: 邹磊
+      organization: ""
+      email: zoulei@pku.edu.cn
+repositories:
+    - repo:
+        - opengauss/KnowledgeGraph
+      owners:
+        - gitee_id: zouleipku
+          gitcode_id: ""
+          name: 邹磊
+          organization: pku
+          email: zoulei@pku.edu.cn
+      committers:
+        - gitee_id: huajunsir
+          gitcode_id: ""
+          name: 陈华钧
+          organization: ""
+          email: huajunsir@zju.edu.cn
+        - gitee_id: xinwang-tju
+          gitcode_id: ""
+          name: 王鑫
+          organization: ""
+          email: wangx@tju.edu.cn
+        - gitee_id: lianghongwhu
+          gitcode_id: ""
+          name: 洪亮
+          organization: ""
+          email: hong@whu.edu.cn
+        - gitee_id: whfcarter
+          gitcode_id: ""
+          name: 王昊奋
+          organization: ""
+          email: carter.whfcarter@gmail.com
+        - gitee_id: zheng-weiguo
+          gitcode_id: ""
+          name: 郑卫国
+          organization: ""
+          email: zhengweiguo@fudan.edu.cn
+        - gitee_id: bnu05pp
+          gitcode_id: ""
+          name: 彭鹏
+          organization: ""
+          email: hnu16pp@hnu.edu.cn
+        - gitee_id: li-youhuan
+          gitcode_id: ""
+          name: 李友焕
+          organization: ""
+          email: liyouhuan@hnu.edu.cn
+        - gitee_id: pkumod_liwenjiehn
+          gitcode_id: ""
+          name: 李文杰
+          organization: ""
+          email: liwenjiehn@pku.edu.cn
+        - gitee_id: ora-600
+          gitcode_id: ""
+          name: 李轶楠
+          organization: ""
+          email: yinan.li@enmotech.com
+        - gitee_id: vastdata_admin
+          gitcode_id: ""
+          name: 林根
+          organization: ""
+          email: lingen@vastdata.com.cn
+        - gitee_id: wuyuechuan
+          gitcode_id: wuyuechuan
+          name: 吴岳川
+          organization: ""
+          email: wuych9@mail2.sysu.edu.cn
+        - gitee_id: zbxue
+          gitcode_id: ""
+          name: 盛泳潘
+          organization: ""
+          email: shengyp2011@163.com

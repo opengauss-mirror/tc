@@ -1,0 +1,75 @@
+name: Infra
+sig_label: sig/infra
+sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Infra
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: zhongjun2
+      gitcode_id: zhongjun2
+      name: 钟君
+      organization: ""
+      email: jun.zhongjun2@gmail.com
+repositories:
+    - repo:
+        - opengauss/infra
+        - opengauss/practice-course
+        - opengauss/examples
+        - opengauss/tryme
+      owners:
+        - gitee_id: zhongjun2
+          gitcode_id: zhongjun2
+          name: 钟君
+          organization: huawei
+          email: jun.zhongjun2@gmail.com
+    - repo:
+        - opengauss/website
+        - opengauss/openGauss-webclient-portal
+      owners:
+        - gitee_id: ailoooong
+          gitcode_id: ailoooong
+          name: 艾龙
+          organization: huawei
+          email: ailong@outlook.com
+    - repo:
+        - opengauss/playground-course
+      owners:
+        - gitee_id: ZhengZhenyu
+          gitcode_id: ""
+          name: 郑振宇
+          organization: huawei
+          email: zheng.zhenyu@outlook.com
+    - repo:
+        - opengauss/openGauss-webclient
+      owners:
+        - gitee_id: Nelson-He
+          gitcode_id: ""
+          name: heguofeng
+          organization: huawei
+          email: heguofeng@huawei.com
+    - repo:
+        - opengauss/infra
+        - opengauss/website
+        - opengauss/community
+        - opengauss/openGauss-webclient
+        - opengauss/playground-course
+        - opengauss/openGauss-webclient-portal
+        - opengauss/practice-course
+        - opengauss/opensource-intership
+        - opengauss/examples
+        - opengauss/tryme
+      committers:
+        - gitee_id: zhang_xubo
+          gitcode_id: zhangxubo
+          name: 张旭博
+          organization: ""
+          email: zhangxubo1@huawei.com
+        - gitee_id: gzbang
+          gitcode_id: gzbang
+          name: 龚壮邦
+          organization: ""
+          email: gongzhuangbang1@huawei.com
+        - gitee_id: ailoooong
+          gitcode_id: ailoooong
+          name: 艾龙
+          organization: ""
+          email: ailong@outlook.com

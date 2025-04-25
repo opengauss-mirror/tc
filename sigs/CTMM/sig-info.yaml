@@ -1,0 +1,94 @@
+name: CTMM
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: caoy
+      gitcode_id: CityYard
+      name: 曹宇
+      organization: ""
+      email: caoyu09@huawei.com
+    - gitee_id: weithu
+      gitcode_id: weithu
+      name: 王伟
+      organization: ""
+      email: wangwei321@huawei.com
+    - gitee_id: liangyuansheng
+      gitcode_id: theothersideofsea
+      name: 梁远胜
+      organization: ""
+      email: liangyuansheng@huawei.com
+    - gitee_id: xicoding
+      gitcode_id: ""
+      name: 习楚天
+      organization: ""
+      email: xichutian@huawei.com
+repositories:
+    - repo:
+        - opengauss/Cantian    (存储引擎仓)
+        - opengauss/ cantian-connector-openGauss    (连接器仓)
+      committers:
+        - gitee_id: jinyu_opengauss
+          gitcode_id: ""
+          name: 张金玉
+          organization: ""
+          email: zhangjinyu.zhang@huawei.com
+        - gitee_id: wangwei5
+          gitcode_id: wangwei5
+          name: 王炜
+          organization: ""
+          email: wangwei5@huawei.com
+        - gitee_id: xiong_xjun
+          gitcode_id: ""
+          name: 熊小军
+          organization: ""
+          email: xiongxiaojun2@huawei.com
+        - gitee_id: quemingjian
+          gitcode_id: quemingjian
+          name: 阙鸣健
+          organization: ""
+          email: quemingjian2@huawei.com
+        - gitee_id: he-chenghan
+          gitcode_id: ""
+          name: 贺承汉
+          organization: ""
+          email: hechenghan@huawei.com
+        - gitee_id: zgqhope
+          gitcode_id: ""
+          name: 郑高启
+          organization: ""
+          email: zgqhope@163.com
+        - gitee_id: biaoqin
+          gitcode_id: ""
+          name: 秦彪
+          organization: ""
+          email: qinbiao1@huawei.com
+        - gitee_id: lijieac
+          gitcode_id: lijieac
+          name: 李杰
+          organization: ""
+          email: lijie34@huawei.com
+        - gitee_id: mio310
+          gitcode_id: ""
+          name: 刘春苗
+          organization: ""
+          email: liuchunmiao1@huawei.com
+        - gitee_id: sunquancheng
+          gitcode_id: ""
+          name: 孙全成
+          organization: ""
+          email: quancheng.sun@enmotech.com
+        - gitee_id: april01xxx
+          gitcode_id: ""
+          name: 王正侣
+          organization: ""
+          email: wangzl@vastdata.com.cn
+        - gitee_id: jinyyu
+          gitcode_id: ""
+          name: 黎俊云
+          organization: ""
+          email: lijy1@vastdata.com.cn
+        - gitee_id: yangcancq
+          gitcode_id: yangcan_cq
+          name: 阳灿
+          organization: ""
+          email: volcano.yangcan@huawei.com

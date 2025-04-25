@@ -1,0 +1,86 @@
+name: Plugin
+sig_label: sig/plugin
+sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Plugin
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: chenxiaobin19
+      gitcode_id: chenxiaobin19
+      name: 陈晓滨
+      organization: ""
+      email: chenxiaobin19@huawei.com
+    - gitee_id: zankyfun4
+      gitcode_id: Coderejector
+      name: 周平高
+      organization: ""
+      email: zhoupinggao@huawei.com
+repositories:
+    - repo:
+        - opengauss/Plugin
+      owners:
+        - gitee_id: huangkaiyao
+          gitcode_id: ""
+          name: 黄凯耀
+          organization: huawei
+          email: huangkaiyao@huawei.com
+      committers:
+        - gitee_id: husan1024
+          gitcode_id: ""
+          name: 胡英豪
+          organization: ""
+          email: huyinghao@shentongdata.com
+        - gitee_id: siven_dev
+          gitcode_id: ""
+          name: 苏章艳
+          organization: ""
+          email: suzy1030@qq.com
+        - gitee_id: totaj
+          gitcode_id: totaj
+          name: 彭炯
+          organization: ""
+          email: pengjiong1@huawei.com
+        - gitee_id: wuyuechuan
+          gitcode_id: wuyuechuan
+          name: 吴岳川
+          organization: ""
+          email: wuych9@mail2.sysu.edu.cn
+        - gitee_id: xiong_xjun
+          gitcode_id: ""
+          name: 熊小军
+          organization: ""
+          email: xiong_xiaojun@yeah.net
+        - gitee_id: wumingyuan
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: llzx373
+          gitcode_id: ""
+          name: 刘伟
+          organization: ""
+          email: wei.liu@enmotech.com
+        - gitee_id: dreamalloc
+          gitcode_id: ""
+          name: 赵思骑
+          organization: ""
+          email: zhaosq76@chinaunicom.cn
+        - gitee_id: jeremytim
+          gitcode_id: ""
+          name: 罗浩
+          organization: ""
+          email: 287095649@qq.com
+        - gitee_id: kelayzhao
+          gitcode_id: ""
+          name: 赵俊
+          organization: ""
+          email: zhaoj296@chinaunicom.cn
+        - gitee_id: dodders
+          gitcode_id: dodders
+          name: 赖盛好
+          organization: ""
+          email: laishenghao1@huawei.com
+        - gitee_id: zhoujingbnu
+          gitcode_id: ""
+          name: 周婧
+          organization: ""
+          email: zhoujingit@chinamobile.com

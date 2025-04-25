@@ -1,0 +1,172 @@
+name: Tools
+sig_label: sig/tools
+sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Tools
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: xiong_xjun
+      gitcode_id: ""
+      name: 熊小军
+      organization: ""
+      email: xiong_xiaojun@yeah.net
+repositories:
+    - repo:
+        - opengauss/openGauss-server
+        - opengauss/openGauss-third_party
+        - opengauss/openGauss-tools-onlineMigration-mysql
+        - opengauss/openGauss-tools-monitor
+      owners:
+        - gitee_id: xiong_xjun
+          gitcode_id: ""
+          name: 熊小军
+          organization: huawei
+          email: xiongxiaojun2@huawei.com
+    - repo:
+        - opengauss/debezium
+        - opengauss/openGauss-tools-onlineMigration
+        - opengauss/openGauss-tools-backup
+      owners:
+        - gitee_id: ywzq1161327784
+          gitcode_id: ywzq1161327784
+          name: 窦欣
+          organization: huawei
+          email: douxin5@huawei.com
+    - repo:
+        - opengauss/openGauss-tools-datachecker-performance
+        - opengauss/openGauss-tools-sql-translator
+        - opengauss/openGauss-jdbc-skywalking
+        - opengauss/openGauss-distributed-solutions
+        - opengauss/ham4db
+        - opengauss/shardingsphere
+        - opengauss/openGauss-migration-portal
+      owners:
+        - gitee_id: justbk
+          gitcode_id: justbk
+          name: 周斌
+          organization: huawei
+          email: zb.zhoubin@huawei.com
+    - repo:
+        - opengauss/openGauss-tools-chameleon
+        - opengauss/DataStudio
+        - opengauss/easyVisualization
+        - opengauss/openGauss-tools-datachecker
+      owners:
+        - gitee_id: buter
+          gitcode_id: ""
+          name: zhangyaozhong
+          organization: huawei
+          email: zhangyaozhong1@huawei.com
+    - repo:
+        - opengauss/openGauss-tools-sqlines
+        - opengauss/openGauss-tools-pg2og
+      owners:
+        - gitee_id: gentle_hu
+          gitcode_id: CarrotGo
+          name: 胡正超
+          organization: huawei
+          email: gentle_hu@qq.com
+    - repo:
+        - opengauss/openGauss-housekeeper
+      owners:
+        - gitee_id: lizhenfeng123
+          gitcode_id: ""
+          name: lizhenfeng
+          organization: chinasofti
+          email: lizhenfeng001@chinasofti.com
+    - repo:
+        - opengauss/openGauss-tools-loader
+        - opengauss/openGauss-tools-ora2og
+      owners:
+        - gitee_id: totaj
+          gitcode_id: totaj
+          name: 彭炯
+          organization: huawei
+          email: pengjiong1@huawei.com
+    - repo:
+        - opengauss/openGauss-tools-migrationAssessmentReport
+      owners:
+        - gitee_id: wuyuechuan
+          gitcode_id: wuyuechuan
+          name: 吴岳川
+          organization: huawei
+          email: wuych9@mail2.sysu.edu.cn
+    - repo:
+        - opengauss/openGauss-workbench
+      owners:
+        - gitee_id: he-chenghan
+          gitcode_id: ""
+          name: 贺承汉
+          organization: huawei
+          email: hechenghan@huawei.com
+    - repo:
+        - opengauss/openGauss-server
+        - opengauss/openGauss-third_party
+        - opengauss/openGauss-housekeeper
+        - opengauss/openGauss-tools-loader
+        - opengauss/openGauss-tools-chameleon
+        - opengauss/openGauss-tools-datachecker
+        - opengauss/openGauss-tools-migrationAssessmentReport
+        - opengauss/openGauss-tools-ora2og
+        - opengauss/openGauss-tools-onlineMigration
+        - opengauss/openGauss-tools-onlineMigration-mysql
+        - opengauss/openGauss-tools-datachecker-performance
+        - opengauss/openGauss-tools-sql-translator
+        - opengauss/openGauss-tools-sqlines
+        - opengauss/openGauss-tools-pg2og
+        - opengauss/openGauss-tools-backup
+        - opengauss/openGauss-tools-monitor
+        - opengauss/openGauss-distributed-solutions
+        - opengauss/openGauss-jdbc-skywalking
+        - opengauss/openGauss-workbench
+        - opengauss/ham4db
+        - opengauss/debezium
+        - opengauss/DataStudio
+        - opengauss/easyVisualization
+        - opengauss/shardingsphere
+        - opengauss/openGauss-migration-portal
+      committers:
+        - gitee_id: justbk
+          gitcode_id: justbk
+          name: 周斌
+          organization: ""
+          email: 249396768@qq.com
+        - gitee_id: totaj
+          gitcode_id: totaj
+          name: 彭炯
+          organization: ""
+          email: pengjiong1@huawei.com
+        - gitee_id: he-chenghan
+          gitcode_id: ""
+          name: 贺承汉
+          organization: ""
+          email: hechenghan@huawei.com
+        - gitee_id: ywzq1161327784
+          gitcode_id: ywzq1161327784
+          name: 窦欣
+          organization: ""
+          email: douxin5@huawei.com
+        - gitee_id: woqutech_0
+          gitcode_id: ""
+          name: 李春
+          organization: ""
+          email: pickup.li@woqutech.com
+        - gitee_id: wmy_ld
+          gitcode_id: ""
+          name: 吴明远
+          organization: ""
+          email: wumingyuan@gbase.cn
+        - gitee_id: shenzheng4
+          gitcode_id: shenzheng4
+          name: 申正
+          organization: ""
+          email: shenzheng4@huawei.com
+        - gitee_id: cinjingce
+          gitcode_id: ""
+          name: 景策
+          organization: ""
+          email: jingce@chinamobile.com
+        - gitee_id: ty2145621
+          gitcode_id: ""
+          name: 田野
+          organization: ""
+          email: tianyeit@chinamobile.com

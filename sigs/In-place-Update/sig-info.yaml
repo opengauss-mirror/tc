@@ -1,0 +1,72 @@
+name: In-place-Update
+sig_label: sig/in-placeupdate
+sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/In-place-Update
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: wang-jingle
+      gitcode_id: ""
+      name: 王江
+      organization: ""
+      email: wangjiang16@huawei.com
+    - gitee_id: powerqy
+      gitcode_id: ""
+      name: 李强
+      organization: ""
+      email: powerqy@gmail.com
+    - gitee_id: wuyuechuan
+      gitcode_id: wuyuechuan
+      name: 吴岳川
+      organization: ""
+      email: wuych9@mail2.sysu.edu.cn
+repositories:
+    - repo:
+        - opengauss/openGauss-server
+        - opengauss/openGauss-third_party
+      owners:
+        - gitee_id: wang-jingle
+          gitcode_id: ""
+          name: 王江
+          organization: huawei
+          email: wangjiang16@huawei.com
+      committers:
+        - gitee_id: yangweiqiang
+          gitcode_id: ""
+          name: 杨维强
+          organization: ""
+          email: wqyang@cmbchina.com
+        - gitee_id: tengtengsun
+          gitcode_id: ""
+          name: 孙腾腾
+          organization: ""
+          email: suntengteng@cmbchina.com
+        - gitee_id: pascal_zhou
+          gitcode_id: ""
+          name: 周伟
+          organization: ""
+          email: pascal_zhou@cmbchina.com
+        - gitee_id: wu-siliang
+          gitcode_id: ""
+          name: 吴斯亮
+          organization: ""
+          email: wusiliang@cmbchina.com
+        - gitee_id: kexulin
+          gitcode_id: ""
+          name: 林科旭
+          organization: ""
+          email: linkexu66@outlook.com
+        - gitee_id: ming_opengauss
+          gitcode_id: ""
+          name: Sherman Lau
+          organization: ""
+          email: sherman.lau@huawei.com
+        - gitee_id: roneng
+          gitcode_id: ""
+          name: Ronen Grosman
+          organization: ""
+          email: ronen.grosman@huawei.com
+        - gitee_id: wenfish9
+          gitcode_id: ""
+          name: 何文裕
+          organization: ""
+          email: hewenyu@xfusion.com

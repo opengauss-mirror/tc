@@ -1,0 +1,64 @@
+name: OM
+sig_label: sig/om
+sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/OM
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: dscao
+      gitcode_id: dscao
+      name: 曹东升
+      organization: ""
+      email: caodongsheng2@huawei.com
+    - gitee_id: coolany
+      gitcode_id: coolany
+      name: 兰春义
+      organization: ""
+      email: lanchunyi2@huawei.com
+repositories:
+    - repo:
+        - opengauss/openGauss-OM
+        - opengauss/openGauss-server
+      owners:
+        - gitee_id: dscao
+          gitcode_id: dscao
+          name: 曹东升
+          organization: huawei
+          email: caodongsheng2@huawei.com
+    - repo:
+        - opengauss/openGauss-OM
+      committers:
+        - gitee_id: wang-zili
+          gitcode_id: wangzili1
+          name: 王自力
+          organization: ""
+          email: 446406177@qq.com
+        - gitee_id: miffyrcee
+          gitcode_id: miffycree
+          name: 刘航宇
+          organization: ""
+          email: liuhangyu6@huawei.com
+        - gitee_id: travelliu
+          gitcode_id: ""
+          name: 刘斌
+          organization: ""
+          email: travel.liu@outlook.com
+        - gitee_id: vimiix
+          gitcode_id: ""
+          name: 姚前
+          organization: ""
+          email: i@vimiix.com
+        - gitee_id: liu_hui0228
+          gitcode_id: ""
+          name: 刘珲
+          organization: ""
+          email: liu_hui0228@163.com
+        - gitee_id: zhang_xubo
+          gitcode_id: zhangxubo
+          name: 张旭博
+          organization: ""
+          email: zhangxubo1@huawei.com
+        - gitee_id: samli3388
+          gitcode_id: ""
+          name: 李旭锋
+          organization: ""
+          email: dblxf1@163.com

@@ -1,0 +1,98 @@
+name: Connectors
+sig_label: sig/connectors
+sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Connectors
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: pikeTWG
+      gitcode_id: ""
+      name: 田文罡
+      organization: ""
+      email: tianwengang@huawei.com
+repositories:
+    - repo:
+        - opengauss/openGauss-server
+        - opengauss/openGauss-third_party
+        - opengauss/openGauss-connector-adonet
+      owners:
+        - gitee_id: pikeTWG
+          gitcode_id: ""
+          name: 田文罡
+          organization: huawei
+          email: tianwengang@huawei.com
+    - repo:
+        - opengauss/openGauss-connector-jdbc
+        - opengauss/openGauss-connector-odbc
+        - opengauss/openGauss-connector-python-psycopg2
+      owners:
+        - gitee_id: justbk
+          gitcode_id: justbk
+          name: 周斌
+          organization: huawei
+          email: zb.zhoubin@huawei.com
+    - repo:
+        - opengauss/openGauss-connector-go-pq
+      owners:
+        - gitee_id: travelliu
+          gitcode_id: ""
+          name: 刘斌
+          organization: enmotech
+          email: bin.liu@enmotech.com
+    - repo:
+        - opengauss/openGauss-connector-python-pyog
+      owners:
+        - gitee_id: vimiix
+          gitcode_id: ""
+          name: 姚前
+          organization: enmotech
+          email: qian.yao@enmotech.com
+    - repo:
+        - opengauss/openGauss-connector-nodejs
+        - opengauss/openGauss-connector-rust
+      owners:
+        - gitee_id: xiong_xjun
+          gitcode_id: ""
+          name: 熊小军
+          organization: huawei
+          email: xiong_xiaojun@yeah.net
+    - repo:
+        - opengauss/openGauss-server
+        - opengauss/openGauss-third_party
+        - opengauss/openGauss-connector-jdbc
+        - opengauss/openGauss-connector-odbc
+        - opengauss/openGauss-connector-go-pq
+        - opengauss/openGauss-connector-python-pyog
+        - opengauss/openGauss-connector-adonet
+        - opengauss/openGauss-connector-nodejs
+        - opengauss/openGauss-connector-rust
+      committers:
+        - gitee_id: travelliu
+          gitcode_id: ""
+          name: 刘斌
+          organization: ""
+          email: travel.liu@outlook.com
+        - gitee_id: aaronwell
+          gitcode_id: ""
+          name: 韦晓月
+          organization: ""
+          email: aaronwell@qq.com
+        - gitee_id: willloong
+          gitcode_id: ""
+          name: 张文龙
+          organization: ""
+          email: zhangwl@vastdata.com.cn
+        - gitee_id: kamusis
+          gitcode_id: ""
+          name: 张乐奕
+          organization: ""
+          email: kamusis@gmail.com
+        - gitee_id: vimiix
+          gitcode_id: ""
+          name: 姚前
+          organization: ""
+          email: i@vimiix.com
+        - gitee_id: wangweizz
+          gitcode_id: ""
+          name: 汪伟
+          organization: ""
+          email: wangwei3@xfusion.com

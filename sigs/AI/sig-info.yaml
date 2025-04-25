@@ -1,0 +1,88 @@
+name: AI
+sig_label: sig/ai
+sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/AI
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: lishifu_db
+      gitcode_id: lishifu_hw_db
+      name: 李士福
+      organization: ""
+      email: lishifu@huawei.com
+    - gitee_id: zhangce_6184
+      gitcode_id: ""
+      name: Ce Zhang
+      organization: ""
+      email: ce.zhang@inf.ethz.ch
+repositories:
+    - repo:
+        - opengauss/openGauss-server
+        - opengauss/openGauss-third_party
+      owners:
+        - gitee_id: lishifu_db
+          gitcode_id: lishifu_hw_db
+          name: 李士福
+          organization: huawei
+          email: lishifu@huawei.com
+    - repo:
+        - opengauss/openGauss-AI
+      owners:
+        - gitee_id: greatjigreatji
+          gitcode_id: ""
+          name: sunji
+          organization: huawei
+          email: sunji11@huawei.com
+    - repo:
+        - opengauss/openGauss-DBMind
+      owners:
+        - gitee_id: wang-tq
+          gitcode_id: tqwang
+          name: 王天庆
+          organization: huawei
+          email: wangtianqing2@huawei.com
+    - repo:
+        - opengauss/openGauss-server
+        - opengauss/openGauss-third_party
+        - opengauss/openGauss-AI
+        - opengauss/openGauss-DBMind
+      committers:
+        - gitee_id: wang-tq
+          gitcode_id: tqwang
+          name: 王天庆
+          organization: ""
+          email: wangtianqing2@huawei.com
+        - gitee_id: greatji
+          gitcode_id: ""
+          name: 孙佶
+          organization: ""
+          email: sun-j16@mails.tsinghua.edu.cn
+        - gitee_id: xuanhe
+          gitcode_id: ""
+          name: 周煊赫
+          organization: ""
+          email: zhouxuan19@mails.tsinghua.edu.cn
+        - gitee_id: yxfish13
+          gitcode_id: ""
+          name: 余翔
+          organization: ""
+          email: yxfish13@mails.tsinghua.edu.cn
+        - gitee_id: excaliburxk
+          gitcode_id: ""
+          name: 夏康
+          organization: ""
+          email: excaliburxk@qq.com
+        - gitee_id: xulijie09
+          gitcode_id: ""
+          name: 许利杰
+          organization: ""
+          email: lijie.xu@inf.ethz.ch
+        - gitee_id: jackchenchenchen
+          gitcode_id: ""
+          name: 李坤
+          organization: ""
+          email: likun_dlut@163.com
+        - gitee_id: wangtianyuan1994
+          gitcode_id: wangtianyuan1994
+          name: 王天元
+          organization: ""
+          email: wangtianyuan5@huawei.com

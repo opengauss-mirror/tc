@@ -1,0 +1,92 @@
+name: SQLEngine
+sig_label: sig/sqlengine
+sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/SQLEngine
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: totaj
+      gitcode_id: totaj
+      name: 彭炯
+      organization: ""
+      email: pengjiong1@huawei.com
+    - gitee_id: yanghaos
+      gitcode_id: yanghaos
+      name: 杨皓
+      organization: ""
+      email: yanghao37@huawei.com
+    - gitee_id: gaussyuexz
+      gitcode_id: gaussyuexz
+      name: 岳行之
+      organization: ""
+      email: yuexingzhi2@huawei.com
+    - gitee_id: ziki77
+      gitcode_id: ziki77
+      name: 周兆琦
+      organization: ""
+      email: zhouzhaoqi1@huawei.com
+repositories:
+    - repo:
+        - opengauss/openGauss-server
+        - opengauss/openGauss-third_party
+      owners:
+        - gitee_id: yanghaos
+          gitcode_id: yanghaos
+          name: yanghao
+          organization: huawei
+          email: yanghao37@huawei.com
+      committers:
+        - gitee_id: cailei19
+          gitcode_id: cailei19
+          name: 蔡磊
+          organization: ""
+          email: cailei19@huawei.com
+        - gitee_id: gentle_hu
+          gitcode_id: CarrotGo
+          name: 胡正超
+          organization: ""
+          email: huzhengchao4@huawei.com
+        - gitee_id: tsunamis-li
+          gitcode_id: lihaixiao
+          name: 李海啸
+          organization: ""
+          email: lihaixiao3@huawei.com
+        - gitee_id: bihua111
+          gitcode_id: bihua111
+          name: 王碧华
+          organization: ""
+          email: wangbihua1@huawei.com
+        - gitee_id: wuyujun3
+          gitcode_id: ""
+          name: 吴禹均
+          organization: ""
+          email: wuyujun2@huawei.com
+        - gitee_id: zhangjiahao_hw
+          gitcode_id: zjh_hw
+          name: 章佳豪
+          organization: ""
+          email: zhangjiahao65@huawei.com
+        - gitee_id: jc-zhang
+          gitcode_id: ""
+          name: 张静昌
+          organization: ""
+          email: zhangjingchang1@huawei.com
+        - gitee_id: dodders
+          gitcode_id: dodders
+          name: 赖盛好
+          organization: ""
+          email: laishenghao1@huawei.com
+        - gitee_id: yangzhizheng94
+          gitcode_id: ""
+          name: 杨志铮
+          organization: ""
+          email: yangzhizheng@chinamobile.com
+        - gitee_id: levy5307
+          gitcode_id: ""
+          name: 赵立伟
+          organization: ""
+          email: zhaoliwei@chinamobile.com
+        - gitee_id: superblaker
+          gitcode_id: superlchf
+          name: 柳长沣
+          organization: ""
+          email: superlchf@qq.com
