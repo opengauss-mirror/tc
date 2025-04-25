@@ -1,0 +1,94 @@
+name: CloudNative
+sig_label: sig/cloudnative
+sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/CloudNative
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: ypchai
+      gitcode_id: ""
+      name: 柴云鹏
+      organization: ""
+      email: ypchai@ruc.edu.cn
+    - gitee_id: zzzzzdb
+      gitcode_id: ""
+      name: 朱彬
+      organization: ""
+      email: zzzzzdb_zb@163.com
+    - gitee_id: shaga
+      gitcode_id: shaga
+      name: 张琼
+      organization: ""
+      email: qiong_zhang_hw@163.com
+repositories:
+    - repo:
+        - opengauss/openGauss-server
+        - opengauss/openGauss-third_party
+        - opengauss/openGauss-operator
+        - opengauss/openGauss-prometheus-exporter
+      owners:
+        - gitee_id: zzzzzdb
+          gitcode_id: ""
+          name: 朱彬
+          organization: cmbc
+          email: zzzzzdb_zb@163.com
+      committers:
+        - gitee_id: justinhejj
+          gitcode_id: ""
+          name: 何佳佳
+          organization: ""
+          email: 957787@qq.com
+        - gitee_id: anikikong
+          gitcode_id: ""
+          name: 孔再华
+          organization: ""
+          email: kongzaihua@hotmail.com
+        - gitee_id: huxiangyu
+          gitcode_id: ""
+          name: 胡翔宇
+          organization: ""
+          email: xiangyu.hu@outlook.com
+        - gitee_id: xhyoung
+          gitcode_id: ""
+          name: 杨小华
+          organization: ""
+          email: yangxh@shindata.com
+        - gitee_id: huangbiaosd
+          gitcode_id: ""
+          name: 黄彪
+          organization: ""
+          email: huangbiao@shindata.com
+        - gitee_id: travelliu
+          gitcode_id: ""
+          name: 刘斌
+          organization: ""
+          email: travel.liu@outlook.com
+        - gitee_id: yabinji
+          gitcode_id: ""
+          name: 季亚斌
+          organization: ""
+          email: 392623640@qq.com
+        - gitee_id: T-rx
+          gitcode_id: ""
+          name: 谭睿雄
+          organization: ""
+          email: tanruixiong@ruc.edu.cn
+        - gitee_id: yundag
+          gitcode_id: ""
+          name: 郭云达
+          organization: ""
+          email: 1851619113@qq.com
+        - gitee_id: kamusis
+          gitcode_id: ""
+          name: 张乐奕
+          organization: ""
+          email: kamusis@gmail.com
+        - gitee_id: lee1002
+          gitcode_id: ""
+          name: 李宏达
+          organization: ""
+          email: worklee1002@163.com
+        - gitee_id: yunlongg
+          gitcode_id: ""
+          name: 高云龙
+          organization: ""
+          email: 504072751@qq.com

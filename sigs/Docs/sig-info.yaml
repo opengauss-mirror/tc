@@ -1,0 +1,122 @@
+name: Docs
+sig_label: sig/docs
+sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Docs
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: ylfan96
+      gitcode_id: ""
+      name: 康阳
+      organization: ""
+      email: kangyang@huawei.com
+    - gitee_id: zijianli16
+      gitcode_id: ""
+      name: 李子健
+      organization: ""
+      email: zijianli16@gmail.com
+    - gitee_id: hujunjune
+      gitcode_id: hujunjune
+      name: 胡君
+      organization: ""
+      email: hujun33@huawei.com
+    - gitee_id: wu-donger
+      gitcode_id: Evawudonger
+      name: 吴冬儿
+      organization: ""
+      email: wudonger@huawei.com
+repositories:
+    - repo:
+        - opengauss/docs
+      owners:
+        - gitee_id: liyang0608
+          gitcode_id: ""
+          name: 李杨
+          organization: huawei
+          email: 554903772@qq.com
+    - repo:
+        - opengauss/blog
+      owners:
+        - gitee_id: tongdabao
+          gitcode_id: ""
+          name: 童美霞
+          organization: huawei
+          email: 870020620@qq.com
+    - repo:
+        - opengauss/docs
+        - opengauss/blog
+      committers:
+        - gitee_id: freyaqqianjin
+          gitcode_id: ""
+          name: Freyaqqianjin
+          organization: ""
+          email: jinqianqian1@huawei.com
+        - gitee_id: vipl
+          gitcode_id: ""
+          name: 刘贵宾
+          organization: ""
+          email: 1649607631@qq.com
+        - gitee_id: liyang0608
+          gitcode_id: ""
+          name: 李杨
+          organization: ""
+          email: 554903772@qq.com
+        - gitee_id: tongdabao
+          gitcode_id: ""
+          name: 童美霞
+          organization: ""
+          email: 870020620@qq.com
+        - gitee_id: fyqlpl
+          gitcode_id: fyq_lpl
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: spaceoddity91719
+          gitcode_id: ""
+          name: 郭欢
+          organization: ""
+          email: huan.guo@enmotech.com
+        - gitee_id: zcp100_zcp100
+          gitcode_id: ""
+          name: 张翠娉
+          organization: ""
+          email: cuiping.zhang@enmotech.com
+        - gitee_id: kamusis
+          gitcode_id: ""
+          name: 张乐奕
+          organization: ""
+          email: kamusis@gmail.com
+        - gitee_id: mogliu
+          gitcode_id: ""
+          name: 刘旭
+          organization: ""
+          email: xu.liu@enmotech.com
+        - gitee_id: ora-600
+          gitcode_id: ""
+          name: 李轶楠
+          organization: ""
+          email: yinan.li@enmotech.com
+        - gitee_id: jiangxiaoying1
+          gitcode_id: ""
+          name: 姜晓颖
+          organization: ""
+          email: jiangxiaoying2@xfusion.com
+        - gitee_id: sky-stars
+          gitcode_id: ""
+          name: 齐小丰
+          organization: ""
+          email: 813304690@qq.com
+        - gitee_id: mentoswang
+          gitcode_id: ""
+          name: 王珊珊
+          organization: ""
+          email: 13811014702@139.com
+        - gitee_id: lestertt
+          gitcode_id: ""
+          name: 李童
+          organization: ""
+          email: litong@vastdata.com.cn
+        - gitee_id: wu-donger
+          gitcode_id: Evawudonger
+          name: 吴冬儿
+          organization: ""
+          email: wudonger@huawei.com

@@ -1,0 +1,126 @@
+name: QA
+sig_label: sig/qa
+sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/QA
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: dbowner_zhang
+      gitcode_id: dbowner_zhang
+      name: 张长军
+      organization: ""
+      email: zhangchangjun2@huawei.com
+    - gitee_id: justbk
+      gitcode_id: justbk
+      name: 周斌
+      organization: ""
+      email: 249396768@qq.com
+    - gitee_id: sungang14
+      gitcode_id: sungang14
+      name: ""
+      organization: ""
+      email: ""
+repositories:
+    - repo:
+        - opengauss/QA
+        - opengauss/Yat
+        - opengauss/openGauss-server
+      owners:
+        - gitee_id: yansong_lee
+          gitcode_id: ""
+          name: liyansong
+          organization: huawei
+          email: yansong_lee@163.com
+    - repo:
+        - opengauss/QA
+        - opengauss/Yat
+      committers:
+        - gitee_id: chendong76
+          gitcode_id: chendong76
+          name: 陈栋
+          organization: ""
+          email: 1209756284@qq.com
+        - gitee_id: szoscar55
+          gitcode_id: ""
+          name: 宋菲
+          organization: ""
+          email: songfei@shentongdata.com
+        - gitee_id: JusticeArbiter
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: cloudsbreak
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: liao-shiting
+          gitcode_id: ""
+          name: 廖诗婷
+          organization: ""
+          email: liaost@vastdata.com.cn
+        - gitee_id: zengseliang
+          gitcode_id: ""
+          name: 曾色亮
+          organization: ""
+          email: zengseliang@ncti-gba.cn
+        - gitee_id: zcg001
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: roxanne315
+          gitcode_id: ""
+          name: 梁燕
+          organization: ""
+          email: liangyan@vastdata.com.cn
+        - gitee_id: dreamalloc
+          gitcode_id: ""
+          name: 赵思骑
+          organization: ""
+          email: zhaosq76@chinaunicom.cn
+        - gitee_id: min-sun
+          gitcode_id: ""
+          name: 孙敏
+          organization: ""
+          email: min.sun@enmotech.com
+        - gitee_id: wan005
+          gitcode_id: wan005
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: stella_fan
+          gitcode_id: ""
+          name: 樊书娟
+          organization: ""
+          email: fanshujuan@xfusion.com
+        - gitee_id: lvzhaofei
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: dolphin-m
+          gitcode_id: dolphin-m
+          name: 明沛
+          organization: ""
+          email: mingpei@huawei.com
+        - gitee_id: munan
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: zhonglixuntaqianba
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: chen-czywj
+          gitcode_id: czywj
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: sweet365
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""

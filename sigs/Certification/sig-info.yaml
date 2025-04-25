@@ -1,0 +1,203 @@
+name: Certification
+sig_label: sig/certification
+sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Certification
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: huang-xianru
+      gitcode_id: huang-xianru
+      name: 黄贤儒
+      organization: ""
+      email: huangxianru@huawei.com
+    - gitee_id: chuqifang
+      gitcode_id: ""
+      name: ""
+      organization: ""
+      email: ""
+    - gitee_id: xuxiaoqin19
+      gitcode_id: xuxiaoqin19
+      name: 许小钦
+      organization: ""
+      email: xuxiaoqin2@huawei.com
+    - gitee_id: zhaolichao1234
+      gitcode_id: ""
+      name: 赵立超
+      organization: ""
+      email: zhaolichao@huawei.com
+repositories:
+    - repo:
+        - opengauss/distribution-certification
+        - opengauss/service-partner-certification
+      owners:
+        - gitee_id: chuqifang
+          gitcode_id: ""
+          name: chuqifang
+          organization: huawei
+          email: chuqifang@huawei.com
+      maintainers:
+        - gitee_id: chuqifang
+          gitcode_id:
+          organization: huawei
+          name: chuqifang
+          email: chuqifang@huawei.com
+      committers:
+        - gitee_id: wu-wenliang
+          gitcode_id:
+          organization: huawei
+          name: wangtianqing
+          email: wangtianqing2@huawei.com
+        - gitee_id: huang-xianru
+          gitcode_id: huang-xianru
+          name: 黄贤儒
+          organization: ""
+          email: huangxianru@huawei.com
+        - gitee_id: jiexiao1413
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+
+    - repo:
+        - opengauss/compatible-certification
+      maintainers:
+        - gitee_id: huang-xianru
+          gitcode_id: huang-xianru
+          name: 黄贤儒
+          organization: ""
+          email: huangxianru@huawei.com
+      committers:
+        - gitee_id: tantanyj
+          gitcode_id: tantanyj
+          name: 谭宇杰
+          organization: ""
+          email: tanyujie3@huawei-partners.com
+        - gitee_id: jiexiao1413
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+
+    - repo:
+        - opengauss/service-partner-certification
+      maintainers:
+        - gitee_id: xuxiaoqin19
+          gitcode_id: xuxiaoqin19
+          name: 许小钦
+          organization: ""
+          email: xuxiaoqin2@huawei.com
+        - gitee_id: zhaolichao1234
+          gitcode_id: ""
+          name: 赵立超
+          organization: ""
+          email: zhaolichao@huawei.com
+      committers:
+        - gitee_id: heyuchun325
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: sandy-xuxu
+          gitcode_id: sandy-xuxu
+          name: 徐徐
+          organization: ""
+          email: sandy.xuxu@huawei.com
+        - gitee_id: zhang_xubo
+          gitcode_id: zhangxubo
+          name: 张旭博
+          organization: ""
+          email: zhangxubo1@huawei.com
+        - gitee_id: pu-qi
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: tanyujie3@huawei-partners.com
+        - gitee_id: Lgrape
+          gitcode_id: ""
+          name: 武祥
+          organization: ""
+          email: 1197913499@qq.com
+        - gitee_id: Wenger_Lee
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: huang-xianru
+          gitcode_id: huang-xianru
+          name: 黄贤儒
+          organization: ""
+          email: huangxianru@huawei.com
+        - gitee_id: wu-wenliang
+          gitcode_id:
+          organization: huawei
+          name: wangtianqing
+          email: wangtianqing2@huawei.com
+        - gitee_id: chuqifang
+          gitcode_id:
+          organization: huawei
+          name: chuqifang
+          email: chuqifang@huawei.com
+        - gitee_id: tantanyj
+          gitcode_id: tantanyj
+          name: 谭宇杰
+          organization: ""
+          email: tanyujie3@huawei-partners.com
+
+    - repo:
+        - opengauss/training-partner-certification
+      maintainers:
+        - gitee_id: xuxiaoqin19
+          gitcode_id: xuxiaoqin19
+          name: 许小钦
+          organization: ""
+          email: xuxiaoqin2@huawei.com
+      committers:
+        - gitee_id: heyuchun325
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: sandy-xuxu
+          gitcode_id: sandy-xuxu
+          name: 徐徐
+          organization: ""
+          email: sandy.xuxu@huawei.com
+        - gitee_id: zhang_xubo
+          gitcode_id: zhangxubo
+          name: 张旭博
+          organization: ""
+          email: zhangxubo1@huawei.com
+        - gitee_id: pu-qi
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: tanyujie3@huawei-partners.com
+        - gitee_id: Lgrape
+          gitcode_id: ""
+          name: 武祥
+          organization: ""
+          email: 1197913499@qq.com
+        - gitee_id: Wenger_Lee
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: huang-xianru
+          gitcode_id: huang-xianru
+          name: 黄贤儒
+          organization: ""
+          email: huangxianru@huawei.com
+        - gitee_id: wu-wenliang
+          gitcode_id:
+          organization: huawei
+          name: wangtianqing
+          email: wangtianqing2@huawei.com
+        - gitee_id: chuqifang
+          gitcode_id:
+          organization: huawei
+          name: chuqifang
+          email: chuqifang@huawei.com
+        - gitee_id: tantanyj
+          gitcode_id: tantanyj
+          name: 谭宇杰
+          organization: ""
+          email: tanyujie3@huawei-partners.com

@@ -1,0 +1,63 @@
+name: Embedded
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: borisfly
+      gitcode_id: ""
+      name: ""
+      organization: ""
+      email: ""
+    - gitee_id: aiminralph
+      gitcode_id: ""
+      name: ""
+      organization: ""
+      email: ""
+    - gitee_id: quemingjian
+      gitcode_id: quemingjian
+      name: 阙鸣健
+      organization: ""
+      email: quemingjian2@huawei.com
+repositories:
+    - repo:
+        - opengauss/openGauss-embedded
+      committers:
+        - gitee_id: ywzq1161327784
+          gitcode_id: ywzq1161327784
+          name: 窦欣
+          organization: ""
+          email: douxin5@huawei.com
+        - gitee_id: shenzheng4
+          gitcode_id: shenzheng4
+          name: 申正
+          organization: ""
+          email: shenzheng4@huawei.com
+        - gitee_id: lizhen29
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: telebby
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: zxccxz
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: vanbars
+          gitcode_id: ""
+          name: ""
+          organization: ""
+          email: ""
+        - gitee_id: Louisyzh
+          gitcode_id: ""
+          name: 杨子浩
+          organization: ""
+          email: yangzihao@ncti-gba.cn
+        - gitee_id: zengseliang
+          gitcode_id: ""
+          name: 曾色亮
+          organization: ""
+          email: zengseliang@ncti-gba.cn

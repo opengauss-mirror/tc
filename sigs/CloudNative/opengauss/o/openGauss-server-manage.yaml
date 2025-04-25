@@ -1,0 +1,42 @@
+name: openGauss-server
+files:
+    - file:
+        - openGauss-server/docker
+        - openGauss-server/docker/dockerfiles
+        - openGauss-server/docker/dockerfiles/1.1.0
+        - openGauss-server/docker/dockerfiles/1.1.0/dockerfile_amd
+        - openGauss-server/docker/dockerfiles/1.1.0/entrypoint.sh
+        - openGauss-server/docker/dockerfiles/1.1.0/md5_file_amd64
+        - openGauss-server/docker/dockerfiles/1.1.0/wal2json.so
+        - openGauss-server/docker/dockerfiles/1.1.0/gosu-amd64
+        - openGauss-server/docker/dockerfiles/1.1.0/md5_file_arm64
+        - openGauss-server/docker/dockerfiles/1.1.0/openEuler_aarch64.repo
+        - openGauss-server/docker/dockerfiles/1.1.0/dockerfile_arm
+        - openGauss-server/docker/dockerfiles/1.1.0/gosu-arm64
+        - openGauss-server/docker/dockerfiles/1.0.1
+        - openGauss-server/docker/dockerfiles/1.0.1/dockerfile_amd
+        - openGauss-server/docker/dockerfiles/1.0.1/entrypoint.sh
+        - openGauss-server/docker/dockerfiles/1.0.1/md5_file_amd64
+        - openGauss-server/docker/dockerfiles/1.0.1/gosu-amd64
+        - openGauss-server/docker/dockerfiles/1.0.1/md5_file_arm64
+        - openGauss-server/docker/dockerfiles/1.0.1/openEuler_aarch64.repo
+        - openGauss-server/docker/dockerfiles/1.0.1/dockerfile_arm
+        - openGauss-server/docker/dockerfiles/1.0.1/gosu-arm64
+        - openGauss-server/docker/dockerfiles/create_master_slave.sh
+        - openGauss-server/docker/dockerfiles/1.0.0
+        - openGauss-server/docker/dockerfiles/1.0.0/dockerfile_amd
+        - openGauss-server/docker/dockerfiles/1.0.0/entrypoint.sh
+        - openGauss-server/docker/dockerfiles/1.0.0/md5_file_amd64
+        - openGauss-server/docker/dockerfiles/1.0.0/gosu-amd64
+        - openGauss-server/docker/dockerfiles/1.0.0/md5_file_arm64
+        - openGauss-server/docker/dockerfiles/1.0.0/openEuler_aarch64.repo
+        - openGauss-server/docker/dockerfiles/1.0.0/dockerfile_arm
+        - openGauss-server/docker/dockerfiles/1.0.0/gosu-arm64
+        - openGauss-server/docker/dockerfiles/buildDockerImage.sh
+        - openGauss-server/docker/README.md
+      owner:
+        - gitee_id: zzzzzdb
+          gitcode_id: ""
+          name: 朱彬
+          organization: cmbc
+          email: zzzzzdb_zb@163.com

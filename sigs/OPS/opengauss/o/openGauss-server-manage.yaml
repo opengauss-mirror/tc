@@ -1,0 +1,48 @@
+name: openGauss-server
+files:
+    - file:
+        - openGauss-server/src/lib/gstrace
+        - openGauss-server/src/lib/gstrace/CMakeLists.txt
+        - openGauss-server/src/lib/gstrace/script
+        - openGauss-server/src/lib/gstrace/script/trc_gen.py
+        - openGauss-server/src/lib/gstrace/common
+        - openGauss-server/src/lib/gstrace/common/gstrace_infra.cpp
+        - openGauss-server/src/lib/gstrace/common/Makefile
+        - openGauss-server/src/lib/gstrace/Makefile
+        - openGauss-server/src/lib/gstrace/tool
+        - openGauss-server/src/lib/gstrace/tool/gstrace_tool.cpp
+        - openGauss-server/src/lib/gstrace/tool/Makefile
+        - openGauss-server/src/lib/gstrace/config
+        - openGauss-server/src/lib/gstrace/config/tsearch.in
+        - openGauss-server/src/lib/gstrace/config/vecexecutor.in
+        - openGauss-server/src/lib/gstrace/config/storage.in
+        - openGauss-server/src/lib/gstrace/config/system.in
+        - openGauss-server/src/lib/gstrace/config/parser.in
+        - openGauss-server/src/lib/gstrace/config/wlm.in
+        - openGauss-server/src/lib/gstrace/config/pg_ctl.in
+        - openGauss-server/src/lib/gstrace/config/commands.in
+        - openGauss-server/src/lib/gstrace/config/postmaster.in
+        - openGauss-server/src/lib/gstrace/config/optimizer.in
+        - openGauss-server/src/lib/gstrace/config/common.in
+        - openGauss-server/src/lib/gstrace/config/replication.in
+        - openGauss-server/src/lib/gstrace/config/utils.in
+        - openGauss-server/src/lib/gstrace/config/tcop.in
+        - openGauss-server/src/lib/gstrace/config/bootstrap.in
+        - openGauss-server/src/lib/gstrace/config/executer.in
+        - openGauss-server/src/lib/gstrace/config/catalog.in
+        - openGauss-server/src/lib/gstrace/config/libpq.in
+        - openGauss-server/src/lib/gstrace/config/access.in
+        - openGauss-server/src/lib/gstrace/config/rewrite.in
+        - openGauss-server/src/lib/gstrace/config/comps.in
+        - openGauss-server/src/lib/hotpatch
+        - openGauss-server/src/lib/hotpatch/CMakeLists.txt
+        - openGauss-server/src/lib/hotpatch/client
+        - openGauss-server/src/lib/hotpatch/client/hotpatch_client.cpp
+        - openGauss-server/src/lib/hotpatch/client/Makefile
+        - openGauss-server/src/lib/hotpatch/Makefile
+      owner:
+        - gitee_id: shenyuflying
+          gitcode_id: ""
+          name: 申宇
+          organization: huawei
+          email: 316472763@qq.com
