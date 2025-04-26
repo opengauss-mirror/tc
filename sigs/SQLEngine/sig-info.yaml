@@ -90,3 +90,13 @@ repositories:
           name: 柳长沣
           organization: ""
           email: superlchf@qq.com
+        - gitee_id: georgecao
+          gitcode_id: georgecao
+          name: George
+          organization: ""
+          email: george@openeuler.sh          
+        - gitee_id: ibforu
+          gitcode_id: ibforu
+          name: fengchao
+          organization: ""
+          email: fengchao@qq.com                    
