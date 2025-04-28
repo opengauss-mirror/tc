@@ -116,6 +116,11 @@ repositories:
           name: 吕林涛
           organization: ""
           email: ""
+        - gitee_id: ""
+          gitcode_id: m0_52125670
+          name: 刘桐
+          organization: ""
+          email: ""
 
     - repo:
         - opengauss/openGauss-tools-monitor
