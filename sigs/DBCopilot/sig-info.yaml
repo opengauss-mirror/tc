@@ -1,0 +1,63 @@
+name: DBCopilot
+sig_label: sig/dbcopilot
+sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/DBCopilot
+description: ""
+mailing_list: ""
+maintainers:
+    - gitee_id: hwvv
+      gitcode_id: hwvv
+      name: 吴昊
+      organization: ""
+      email: wuhao401@huawei.com
+    - gitee_id: wyhyhyhyh
+      gitcode_id: wyhyhyhyh
+      name: 王养浩
+      organization: ""
+      email: wangyanghao1@huawei.com
+repositories:
+    - repo:
+        - opengauss/openGauss-GaussMaster
+      owners:
+        - gitee_id: hwvv
+          gitcode_id: hwvv
+          name: 吴昊
+          organization: ""
+          email: wuhao401@huawei.com
+    - repo:
+        - opengauss/openGauss-GaussMaster
+      committers:
+        - gitee_id: shenzheng4
+          gitcode_id: shenzheng4
+          name: 申正
+          organization: ""
+          email: shenzheng4@huawei.com
+        - gitee_id: xiong_xjun
+          gitcode_id: xiong_xjun
+          name: 熊小军
+          organization: ""
+          email: xiongxiaojun2@huawei.com
+        - gitee_id: zff_unique
+          gitcode_id: zff_unique
+          name: 朱芳芳
+          organization: ""
+          email: zhufangfang3@huawei.com
+        - gitee_id: wangtianyuan1994
+          gitcode_id: wangtianyuan1994
+          name: 王天元
+          organization: ""
+          email: wangtianyuan5@huawei.com
+        - gitee_id: jackchenchenchen
+          gitcode_id: ""
+          name: 李坤
+          organization: ""
+          email: likun_dlut@163.com
+        - gitee_id: qq_33172735
+          gitcode_id: qq_33172735
+          name: 刘陆洋
+          organization: ""
+          email: liuluyang2@huawei.com
+        - gitee_id: xty739910hoa
+          gitcode_id: xty739910hoa
+          name: 徐天一
+          organization: ""
+          email: xutianyi5@huawei.com
