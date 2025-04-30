@@ -32,6 +32,30 @@ repositories:
           email: ""
 
     - repo:
+        - opengauss/WR
+      committers:
+        - gitee_id: ""
+          gitcode_id: zkcarl
+          name: 陈志凯
+          organization: ""
+          email: ""
+        - gitee_id: ""
+          gitcode_id: liuzhanfeng
+          name: 刘展峰
+          organization: ""
+          email: ""
+        - gitee_id: ""
+          gitcode_id: zym_2025
+          name: 张悦萌
+          organization: ""
+          email: ""
+        - gitee_id: ""
+          gitcode_id: jiangyan_jack
+          name: 姜岩
+          organization: ""
+          email: ""
+
+    - repo:
         - opengauss/docs
       committers:
         - gitee_id: hwhbj
