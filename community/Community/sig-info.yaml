@@ -68,6 +68,26 @@ repositories:
           name: 王飞活
           organization: ""
           email: ""
+        - gitee_id: hemiao11
+          gitcode_id: hemiao3787
+          name: 何苗
+          organization: ""
+          email: ""
+        - gitee_id: tongdabao
+          gitcode_id: tongdabao
+          name: 童美霞
+          organization: huawei
+          email: 870020620@qq.com
+        - gitee_id: zijianli16
+          gitcode_id: zijianli16
+          name: 李子健
+          organization: ""
+          email: zijianli16@gmail.com
+        - gitee_id: wu-donger
+          gitcode_id: Evawudonger
+          name: 吴冬儿
+          organization: ""
+          email: wudonger@huawei.com
 
     - repo:
         - opengauss/openGauss-connector-jdbc
@@ -110,6 +130,54 @@ repositories:
           organization: ""
           email: ""
 
+    - repo:
+        - opengauss/openGauss-GaussMaster
+      committers:
+        - gitee_id: hwvv
+          gitcode_id: hwvv
+          name: 吴昊
+          organization: ""
+          email: wuhao401@huawei.com
+        - gitee_id: wyhyhyhyh
+          gitcode_id: wyhyhyhyh
+          name: 王养浩
+          organization: ""
+          email: wangyanghao1@huawei.com
+        - gitee_id: shenzheng4
+          gitcode_id: shenzheng4
+          name: 申正
+          organization: ""
+          email: shenzheng4@huawei.com
+        - gitee_id: xiong_xjun
+          gitcode_id: xiong_xjun
+          name: 熊小军
+          organization: ""
+          email: xiongxiaojun2@huawei.com
+        - gitee_id: zff_unique
+          gitcode_id: zff_unique
+          name: 朱芳芳
+          organization: ""
+          email: zhufangfang3@huawei.com
+        - gitee_id: wangtianyuan1994
+          gitcode_id: wangtianyuan1994
+          name: 王天元
+          organization: ""
+          email: wangtianyuan5@huawei.com
+        - gitee_id: jackchenchenchen
+          gitcode_id: ""
+          name: 李坤
+          organization: ""
+          email: likun_dlut@163.com
+        - gitee_id: qq_33172735
+          gitcode_id: qq_33172735
+          name: 刘陆洋
+          organization: ""
+          email: liuluyang2@huawei.com
+        - gitee_id: xty739910hoa
+          gitcode_id: xty739910hoa
+          name: 徐天一
+          organization: ""
+          email: xutianyi5@huawei.com
 
     - repo:
         - opengauss/QA
@@ -252,6 +320,7 @@ repositories:
         - opengauss/infra
         - opengauss/playground-course
         - opengauss/tryme
+        - opengauss/openGauss-GaussMaster
       committers:
         - gitee_id: shenzheng4
           gitcode_id: shenzheng4
