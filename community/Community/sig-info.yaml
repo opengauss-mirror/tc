@@ -90,6 +90,45 @@ repositories:
           email: wudonger@huawei.com
 
     - repo:
+        - opengauss/website
+      committers:
+        - gitee_id: gzbang
+          gitcode_id: gzbang
+          name: 龚壮邦
+          organization: ""
+          email: 15622356989@163.com
+        - gitee_id: ailoooong
+          gitcode_id: ailoooong
+          name: 艾龙
+          organization: ""
+          email: ilong8@qq.com
+        - gitee_id: xiaoshiziya
+          gitcode_id: persimmonzzz
+          name: 黄世俊
+          organization: ""
+          email: 13070236448@163.com
+        - gitee_id: luckyasme
+          gitcode_id: cctvcat
+          name: 黄泽麟
+          organization: ""
+          email: 807254037@qq.com
+        - gitee_id: zjwmiao
+          gitcode_id: zjwmiao
+          name: 张峻玮
+          organization: ""
+          email: 1723168479@qq.com
+        - gitee_id: liuyong233
+          gitcode_id: liuyong2000139
+          name: 刘勇
+          organization: ""
+          email: 925339056@qq.com
+        - gitee_id: gz2024h
+          gitcode_id: amhani
+          name: 郭振
+          organization: ""
+          email: 1084235395@qq.com
+
+    - repo:
         - opengauss/openGauss-connector-jdbc
         - opengauss/openGauss-connector-odbc
         - opengauss/openGauss-OM
