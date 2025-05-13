@@ -330,6 +330,7 @@ repositories:
         - opengauss/open-gauss-server-multi-master
         - opengauss/openGauss-AI
         - opengauss/openGauss-sandbox
+        - opengauss/cantian
         - opengauss/ham4db
         - opengauss/knowledgeGraph
         - opengauss/board
