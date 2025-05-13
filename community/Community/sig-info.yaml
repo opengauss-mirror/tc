@@ -30,6 +30,11 @@ repositories:
           name: 王幸苗
           organization: ""
           email: ""
+        - gitee_id: hwhbj
+          gitcode_id: hw_hbj
+          name: 蒋宏博
+          organization: ""
+          email: xdhbj0022@163.com
 
     - repo:
         - opengauss/WR
