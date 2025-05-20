@@ -259,6 +259,70 @@ repositories:
           email: ""
 
     - repo:
+        - opengauss/openGauss-embedded
+      committers:
+        - gitee_id: borisfly
+          gitcode_id: ""
+          name: 刘保玉
+          organization: ""
+          email: liubaoyu@ncti-gba.cn
+        - gitee_id: aiminralph
+          gitcode_id: wufeng0
+          name: 吴峰
+          organization: ""
+          email: wufeng@ncti-gba.cn
+        - gitee_id: quemingjian
+          gitcode_id: quemingjian
+          name: 阙鸣健
+          organization: ""
+          email: quemingjian2@huawei.com
+        - gitee_id: ywzq1161327784
+          gitcode_id: ywzq1161327784
+          name: 窦欣
+          organization: ""
+          email: douxin5@huawei.com
+        - gitee_id: shenzheng4
+          gitcode_id: shenzheng4
+          name: 申正
+          organization: ""
+          email: shenzheng4@huawei.com
+        - gitee_id: lizhen29
+          gitcode_id: lizhen29
+          name: 李振
+          organization: ""
+          email: lizhen@ncti-gba.cn
+        - gitee_id: telebby
+          gitcode_id: telebby
+          name: 孙天飞
+          organization: ""
+          email: suntianfei@ncti-gba.cn
+        - gitee_id: feihongtaxueni
+          gitcode_id: feihongtaxueni
+          name: 张若
+          organization: ""
+          email: zhangruo@ncti-gba.cn
+        - gitee_id: zxccxz
+          gitcode_id: guochuang_liyuxiang
+          name: 李玉祥
+          organization: ""
+          email: liyuxiang@ncti-gba.cn
+        - gitee_id: vanbars
+          gitcode_id: caiwy110
+          name: 蔡文艺
+          organization: ""
+          email: caiwenyi@ncti-gba.cn
+        - gitee_id: Louisyzh
+          gitcode_id: Louisyzh
+          name: 杨子浩
+          organization: ""
+          email: yangzihao@ncti-gba.cn
+        - gitee_id: zengseliang
+          gitcode_id: zengseliang
+          name: 曾色亮
+          organization: ""
+          email: zengseliang@ncti-gba.cn
+
+    - repo:
         - opengauss/openGauss-tools-monitor
         - opengauss/ogx
         - opengauss/openGauss-migration-portal
