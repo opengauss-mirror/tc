@@ -497,3 +497,44 @@ repositories:
           organization: ""
           email: douxin5@huawei.com
 
+    - repo:
+        - opengauss/DMS
+        - opengauss/DSS
+        - opengauss/CBB
+      committers:
+        - gitee_id: zhouzhiwei1992
+          gitcode_id: zhou-zhiwei
+          name: 周智伟
+          organization: ""
+          email: w929296793@qq.com
+        - gitee_id: git_for_andy
+          gitcode_id: andy_git
+          name: 廖美丰
+          organization: ""
+          email: andymind@126.com
+        - gitee_id: bowen9799
+          gitcode_id: bowen9799
+          name: 刘博文
+          organization: ""
+          email: bowen9799@noreply.gitcode.com
+        - gitee_id: huxilin
+          gitcode_id: huxilin
+          name: huxilin
+          organization: ""
+          email: huxilin@huawei.com
+        - gitee_id: peibaoyi
+          gitcode_id: peibaoyi
+          name: 裴鲍义
+          organization: ""
+          email: 943490186@qq.com
+        - gitee_id: zhulixia
+          gitcode_id: zhulixia_hw
+          name: 朱丽霞
+          organization: ""
+          email: zhulixia3@huawei.com
+        - gitee_id: xzyinyong2
+          gitcode_id: xzyinyong
+          name: 殷永
+          organization: ""
+          email: xzyinyong@163.com
+
