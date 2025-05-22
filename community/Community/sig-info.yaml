@@ -496,7 +496,14 @@ repositories:
           name: 窦欣
           organization: ""
           email: douxin5@huawei.com
-
+    - repo:
+        - opengauss/cantian
+      committers:
+        - gitee_id: ""
+          gitcode_id: lijieac
+          name: 李杰
+          organization: ""
+          email: lijie34@huawei.com  
     - repo:
         - opengauss/DMS
         - opengauss/DSS
