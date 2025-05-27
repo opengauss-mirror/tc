@@ -30,7 +30,7 @@ openGauss工具生态的长期规划，发展和演进。
 - 王晓非[@wangxf12345](https://gitee.com/wangxf12345) *wangxiaofeiit@chinamobile.com*
 - 景策[@cinjingce](https://gitee.com/cinjingce) *jingce@chinamobile.com*
 - 田野[@ty2145621](https://gitee.com/ty2145621) *tianyeit@chinamobile.com*
-
+- 蒋宏博[@hw_hbj](https://gitcode.com/hw_hbj) *jianghongbo4@huawei.com*
 
 # 联系方式
 
