@@ -323,6 +323,38 @@ repositories:
           email: zengseliang@ncti-gba.cn
 
     - repo:
+      - opengauss/openGauss-embedded_property
+    committers:
+        name: 窦欣
+        organization: ""
+        email: douxin5@huawei.com
+      - gitee_id: shenzheng4
+        gitcode_id: shenzheng4
+        name: 李振
+        organization: ""
+        email: lizhen@ncti-gba.cn
+      - gitee_id: zxccxz
+        gitcode_id: guochuang_liyuxiang
+        name: 李玉祥
+        organization: ""
+        email: liyuxiang@ncti-gba.cn
+      - gitee_id: vanbars
+        gitcode_id: caiwy110
+        name: 蔡文艺
+        organization: ""
+        email: caiwenyi@ncti-gba.cn
+      - gitee_id: Louisyzh
+        gitcode_id: Louisyzh
+        name: 杨子浩
+        organization: ""
+        email: yangzihao@ncti-gba.cn
+      - gitee_id: zengseliang
+        gitcode_id: zengseliang
+        name: 曾色亮
+        organization: ""
+        email: zengseliang@ncti-gba.cn
+
+    - repo:
         - opengauss/openGauss-tools-monitor
         - opengauss/ogx
         - opengauss/openGauss-migration-portal
@@ -388,6 +420,7 @@ repositories:
         - opengauss/community
         - opengauss/openGauss-User-Group
         - opengauss/openGauss-embedded
+        - opengauss/openGauss-embedded_property
         - opengauss/landscope
         - opengauss/distribution-certification
         - opengauss/open-gauss-compile-opt-tools
