@@ -355,6 +355,11 @@ repositories:
           name: 曾色亮
           organization: ""
           email: zengseliang@ncti-gba.cn
+        - gitee_id: lmeng-dream
+          gitcode_id: lmeng-dream
+          name: 罗梦
+          organization: ""
+          email: luomeng@ncti-gba.cn
 
     - repo:
         - opengauss/openGauss-tools-monitor
