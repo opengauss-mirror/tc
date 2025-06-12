@@ -21,7 +21,11 @@ repositories:
           name: 王幸苗
           organization: ""
           email: ""
-
+        - gitee_id: ""
+          gitcode_id: wang4721
+          name: 王超
+          organization: ""
+          email: zilan1986@163.com
     - repo:
         - opengauss/debezium
       committers:
@@ -35,6 +39,11 @@ repositories:
           name: 蒋宏博
           organization: ""
           email: xdhbj0022@163.com
+        - gitee_id: ""
+          gitcode_id: wang4721
+          name: 王超
+          organization: ""
+          email: zilan1986@163.com
 
     - repo:
         - opengauss/WR
