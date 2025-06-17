@@ -1,0 +1,22 @@
+name: openGauss-tools-chameleon
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: zyzx
+    type: ""
+  - name: bugfix_0227
+    type: ""
+  - name: 7.0.0-RC1
+    type: ""
+  - name: 6.0.0
+    type: ""
+  - name: 5.1.0
+    type: protected
+  - name: 5.0.0
+    type: protected
+  - name: 3.1.0
+    type: protected
+  - name: 3.0.0
+    type: protected

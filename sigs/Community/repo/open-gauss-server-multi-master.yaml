@@ -1,0 +1,18 @@
+name: open-gauss-server-multi-master
+description: ""
+type: public
+branches:
+  - name: master
+    type: ""
+  - name: personal/h00806959/multi_write_new
+    type: ""
+  - name: ogmaster
+    type: ""
+  - name: new_ss
+    type: ""
+  - name: mw_fp
+    type: ""
+  - name: multi-write
+    type: ""
+  - name: 7.0.0_mm
+    type: protected

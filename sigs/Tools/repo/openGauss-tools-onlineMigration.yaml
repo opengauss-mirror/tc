@@ -1,0 +1,8 @@
+name: openGauss-tools-onlineMigration
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: forpg
+    type: ""

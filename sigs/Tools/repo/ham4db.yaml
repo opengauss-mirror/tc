@@ -1,0 +1,6 @@
+name: ham4db
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected

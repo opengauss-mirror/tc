@@ -1,0 +1,8 @@
+name: openGauss-embedded
+description: openGauss嵌入式版本，适应于嵌入式设备、资源受限场景。采用组件化、多模态架构。
+type: public
+branches:
+  - name: release
+    type: ""
+  - name: master
+    type: protected

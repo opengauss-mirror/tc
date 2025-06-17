@@ -1,0 +1,12 @@
+name: openGauss-graph
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: tmp_dev_version
+    type: ""
+  - name: 0.2.0
+    type: ""
+  - name: 0.1.0
+    type: ""

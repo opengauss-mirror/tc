@@ -1,0 +1,6 @@
+name: community
+description: openGauss community
+type: public
+branches:
+  - name: master
+    type: protected

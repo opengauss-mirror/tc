@@ -1,0 +1,6 @@
+name: security
+description: openGauss security
+type: public
+branches:
+  - name: master
+    type: protected

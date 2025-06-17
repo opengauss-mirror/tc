@@ -1,0 +1,22 @@
+name: DCC
+description: ""
+type: public
+branches:
+  - name: 5.0.0
+    type: protected
+  - name: 6.0.0_tag
+    type: ""
+  - name: master
+    type: protected
+  - name: 7.0.0-RC1
+    type: ""
+  - name: 6.0.0
+    type: protected
+  - name: 5.1.0
+    type: protected
+  - name: 3.1.0
+    type: protected
+  - name: 3.0.0
+    type: protected
+  - name: 2.0.0
+    type: ""

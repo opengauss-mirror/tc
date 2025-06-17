@@ -1,0 +1,8 @@
+name: ansible-for-opengauss
+description: ansible for openGauss
+type: public
+branches:
+  - name: master
+    type: ""
+  - name: dev
+    type: ""

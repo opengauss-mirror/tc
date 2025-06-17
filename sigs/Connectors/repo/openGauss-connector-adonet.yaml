@@ -1,0 +1,8 @@
+name: openGauss-connector-adonet
+description: ""
+type: public
+branches:
+  - name: pg
+    type: ""
+  - name: master
+    type: protected

@@ -1,0 +1,6 @@
+name: uc
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected

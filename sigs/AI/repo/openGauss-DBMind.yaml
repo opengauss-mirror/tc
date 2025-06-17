@@ -1,0 +1,18 @@
+name: openGauss-DBMind
+description: An open-source database self-driving platform. Empower openGauss with AI capability.
+type: public
+branches:
+  - name: master-dev
+    type: ""
+  - name: master
+    type: protected
+  - name: incubator
+    type: ""
+  - name: 7.0.0-RC1
+    type: ""
+  - name: 6.0.0
+    type: ""
+  - name: 5.1.0
+    type: protected
+  - name: 5.0.0
+    type: protected

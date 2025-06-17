@@ -1,0 +1,10 @@
+name: compatibility-assessment
+description: openGauss兼容性评估工具
+type: public
+branches:
+  - name: master
+    type: ""
+  - name: zyzx
+    type: protected
+  - name: 6.0.0
+    type: ""

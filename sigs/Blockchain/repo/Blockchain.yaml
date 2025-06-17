@@ -1,0 +1,6 @@
+name: Blockchain
+description: openGauss Blockchain
+type: public
+branches:
+  - name: master
+    type: protected

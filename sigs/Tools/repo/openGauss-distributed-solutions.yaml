@@ -1,0 +1,8 @@
+name: openGauss-distributed-solutions
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: 3.0.0
+    type: protected

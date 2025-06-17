@@ -1,46 +1,44 @@
 name: GIS
-sig_label: sig/gis
-sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/GIS
+sig_label: sig/GIS
+sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/GIS
 description: ""
-mailing_list: ""
+mailing_list: gis@opengauss.org
 maintainers:
-    - gitee_id: zhouqinsm
-      gitcode_id: ""
-      name: 周芹
-      organization: ""
-      email: zhouqin@supermap.com
-    - gitee_id: xiong_xjun
-      gitcode_id: ""
-      name: 熊小军
-      organization: ""
-      email: xiong_xiaojun@yeah.net
+  - gitee_id: zhouqinsm
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 周芹
+    organization: supermap
+    email: zhouqin@supermap.com
+  - gitee_id: xiong_xjun
+    gitcode_id: xiong_xjun
+    name: 熊小军
+    organization: huawei
+    email: xiong_xiaojun@yeah.net
 repositories:
-    - repo:
-        - opengauss/Yukon
-      owners:
-        - gitee_id: zhouqinsm
-          gitcode_id: ""
-          name: 周芹
-          organization: supermap
-          email: zhouqin@supermap.com
-      committers:
-        - gitee_id: liwenlong2021
-          gitcode_id: ""
-          name: 李文龙
-          organization: ""
-          email: liwenlong@supermap.com
-        - gitee_id: yang_jingqiao
-          gitcode_id: ""
-          name: ""
-          organization: ""
-          email: ""
-        - gitee_id: gentle_hu
-          gitcode_id: CarrotGo
-          name: 胡正超
-          organization: ""
-          email: huzhengchao4@huawei.com
-        - gitee_id: sqyyeah
-          gitcode_id: ""
-          name: 宋清怡
-          organization: ""
-          email: Qingyi.song@outlook.com
+  - repo:
+      - opengauss/yukon
+    committers:
+      - gitee_id: liwenlong2021
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 李文龙
+        organization: ""
+        email: liwenlong@supermap.com
+      - gitee_id: yang_jingqiao
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: ""
+        organization: ""
+        email: ""
+      - gitee_id: gentle_hu
+        gitcode_id: CarrotGo
+        name: 胡正超
+        organization: huawei
+        email: huzhengchao4@huawei.com
+      - gitee_id: sqyyeah
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 宋清怡
+        organization: ""
+        email: Qingyi.song@outlook.com

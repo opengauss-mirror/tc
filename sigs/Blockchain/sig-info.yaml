@@ -1,61 +1,62 @@
 name: Blockchain
-sig_label: sig/blockchain
-sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Blockchain
+sig_label: sig/Blockchain
+sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/Blockchain
 description: ""
-mailing_list: ""
+mailing_list: blockchain@opengauss.org
 maintainers:
-    - gitee_id: jinchuanchen
-      gitcode_id: ""
-      name: 陈晋川
-      organization: ""
-      email: jcchen@ruc.edu.cn
+  - gitee_id: jinchuanchen
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 陈晋川
+    organization: ruc
+    email: jcchen@ruc.edu.cn
 repositories:
-    - repo:
-        - opengauss/Blockchain
-      owners:
-        - gitee_id: jinchuanchen
-          gitcode_id: ""
-          name: 陈晋川
-          organization: ruc
-          email: jcchen@ruc.edu.cn
-      committers:
-        - gitee_id: nietiezheng
-          gitcode_id: ""
-          name: 聂铁铮
-          organization: ""
-          email: nietiezheng@mail.neu.edu.cn
-        - gitee_id: Haicheng-Zhao
-          gitcode_id: ""
-          name: 赵海程
-          organization: ""
-          email: zhaohc@swufe.edu.cn
-        - gitee_id: muyi-422
-          gitcode_id: ""
-          name: 杨倩
-          organization: ""
-          email: 995404729@qq.com
-        - gitee_id: Miao_Chunliang
-          gitcode_id: ""
-          name: 缪春亮
-          organization: ""
-          email: mcl2000@sina.com
-        - gitee_id: haoqingyun
-          gitcode_id: ""
-          name: 郝庆运
-          organization: ""
-          email: haoqingyun@cmbc.com.cn
-        - gitee_id: zbxue
-          gitcode_id: ""
-          name: 盛泳潘
-          organization: ""
-          email: shengyp2011@163.com
-        - gitee_id: he_ray
-          gitcode_id: h_ray
-          name: 何睿
-          organization: ""
-          email: he.ray@139.com
-        - gitee_id: zhu_jinwei
-          gitcode_id: zhu_jinwei
-          name: 朱金伟
-          organization: ""
-          email: zhujinwei@huawei.com
+  - repo:
+      - opengauss/Blockchain
+    committers:
+      - gitee_id: nietiezheng
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 聂铁铮
+        organization: ""
+        email: nietiezheng@mail.neu.edu.cn
+      - gitee_id: Haicheng-Zhao
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 赵海程
+        organization: ""
+        email: zhaohc@swufe.edu.cn
+      - gitee_id: muyi-422
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 杨倩
+        organization: ""
+        email: 995404729@qq.com
+      - gitee_id: Miao_Chunliang
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 缪春亮
+        organization: ""
+        email: mcl2000@sina.com
+      - gitee_id: haoqingyun
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 郝庆运
+        organization: ""
+        email: haoqingyun@cmbc.com.cn
+      - gitee_id: zbxue
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 盛泳潘
+        organization: ""
+        email: shengyp2011@163.com
+      - gitee_id: he_ray
+        gitcode_id: h_ray
+        name: 何睿
+        organization: ""
+        email: he.ray@139.com
+      - gitee_id: zhu_jinwei
+        gitcode_id: zhu_jinwei
+        name: 朱金伟
+        organization: ""
+        email: zhujinwei@huawei.com

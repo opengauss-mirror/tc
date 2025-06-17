@@ -1,0 +1,8 @@
+name: training-partner-certification
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: develop
+    type: ""

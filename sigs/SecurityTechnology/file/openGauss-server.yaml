@@ -1,0 +1,56 @@
+name: openGauss-server
+files:
+  - file:
+      - src/gausskernel/security
+      - src/gausskernel/security/CMakeLists.txt
+      - src/gausskernel/security/gs_ledger
+      - src/gausskernel/security/gs_ledger/blockchain.cpp
+      - src/gausskernel/security/gs_ledger/CMakeLists.txt
+      - src/gausskernel/security/gs_ledger/ledger_utils.cpp
+      - src/gausskernel/security/gs_ledger/ledger_check.cpp
+      - src/gausskernel/security/gs_ledger/ledger_archive.cpp
+      - src/gausskernel/security/gs_ledger/userchain.cpp
+      - src/gausskernel/security/gs_ledger/Makefile
+      - src/gausskernel/security/tde_key_management
+      - src/gausskernel/security/tde_key_management/data_common.cpp
+      - src/gausskernel/security/tde_key_management/tde_key_manager.cpp
+      - src/gausskernel/security/tde_key_management/ckms_message.cpp
+      - src/gausskernel/security/tde_key_management/http_common.cpp
+      - src/gausskernel/security/tde_key_management/CMakeLists.txt
+      - src/gausskernel/security/tde_key_management/kms_httpmsg.ini
+      - src/gausskernel/security/tde_key_management/kms_interface.cpp
+      - src/gausskernel/security/tde_key_management/Makefile
+      - src/gausskernel/security/tde_key_management/tde_key_storage.cpp
+      - src/gausskernel/security/Makefile
+      - src/gausskernel/security/gs_policy
+      - src/gausskernel/security/gs_policy/curl_utils.cpp
+      - src/gausskernel/security/gs_policy/CMakeLists.txt
+      - src/gausskernel/security/gs_policy/gs_policy_audit.cpp
+      - src/gausskernel/security/gs_policy/gs_policy_masking.cpp
+      - src/gausskernel/security/gs_policy/gs_string.cpp
+      - src/gausskernel/security/gs_policy/gs_policy_utils.cpp
+      - src/gausskernel/security/gs_policy/policy_common.cpp
+      - src/gausskernel/security/gs_policy/Makefile
+      - src/gausskernel/security/iprange
+      - src/gausskernel/security/iprange/CMakeLists.txt
+      - src/gausskernel/security/iprange/iprange.cpp
+      - src/gausskernel/security/iprange/Makefile
+      - src/include/dbmind
+      - src/include/dbmind/hypopg_index.h
+      - src/include/gs_policy
+      - src/include/gs_policy/gs_string.h
+      - src/include/gs_policy/gs_map.h
+      - src/include/gs_policy/gs_set.h
+      - src/include/gs_policy/gs_policy_audit.h
+      - src/include/gs_policy/policy_common.h
+      - src/include/gs_policy/gs_policy_utils.h
+      - src/include/gs_policy/gs_policy_masking.h
+      - src/include/gs_policy/gs_vector.h
+      - src/include/gs_policy/curl_utils.h
+      - src/include/gs_policy/policy_memory_alloc.h
+    owner:
+      - gitee_id: zhu_jinwei
+        gitcode_id: zhu_jinwei
+        name: 朱金伟
+        organization: huawei
+        email: zhujinwei@huawei.com

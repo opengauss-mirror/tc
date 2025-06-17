@@ -1,0 +1,6 @@
+name: knowledgeGraph
+description: ""
+type: public
+branches:
+  - name: master
+    type: ""

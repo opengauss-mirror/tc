@@ -1,0 +1,17 @@
+name: openGauss-server
+files:
+  - file:
+      - liteom
+      - liteom/upgrade_common.sh
+      - liteom/opengauss_lite.conf
+      - liteom/upgrade_config.sh
+      - liteom/install.sh
+      - liteom/uninstall.sh
+      - liteom/upgrade_GAUSSV5.sh
+      - liteom/upgrade_errorcode.sh
+    owner:
+      - gitee_id: dscao
+        gitcode_id: dscao
+        name: 曹东升
+        organization: huawei
+        email: caodongsheng2@huawei.com

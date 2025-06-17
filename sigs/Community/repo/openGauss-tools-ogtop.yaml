@@ -1,0 +1,10 @@
+name: openGauss-tools-ogtop
+description: ogtop是一款用于监控openGauss数据库的命令行工具，从各个角度提供了数据库实时运行数据，并且具备常用的数据筛选功能，为DBA检查数据库运行情况提供了一条简单易用的途径
+type: public
+branches:
+  - name: master
+    type: ""
+  - name: "2.0"
+    type: ""
+  - name: "1.0"
+    type: ""

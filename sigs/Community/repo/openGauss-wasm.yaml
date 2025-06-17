@@ -1,0 +1,8 @@
+name: openGauss-wasm
+description: ""
+type: public
+branches:
+  - name: wasmedge
+    type: ""
+  - name: master
+    type: ""

@@ -1,0 +1,6 @@
+name: dbms-fuzzing-scu
+description: ""
+type: public
+branches:
+  - name: master
+    type: ""

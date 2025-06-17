@@ -1,0 +1,16 @@
+name: CM-RestAPI
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: 7.0.0-RC1
+    type: ""
+  - name: 6.0.0
+    type: protected
+  - name: 5.1.0
+    type: protected
+  - name: 5.0.0
+    type: protected
+  - name: 3.1.0
+    type: protected

@@ -1,0 +1,10 @@
+name: openGauss-operator
+description: openGauss Kubernetes Operator
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: 2.0.0
+    type: protected
+  - name: 1.0.0
+    type: ""

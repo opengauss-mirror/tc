@@ -1,0 +1,44 @@
+name: openGauss-server
+files:
+  - file:
+      - src/lib/cm_common
+      - src/lib/cm_common/cm_stringinfo.cpp
+      - src/lib/cm_common/cm_elog.cpp
+      - src/lib/cm_common/cm_cgroup.cpp
+      - src/lib/cm_common/CMakeLists.txt
+      - src/lib/cm_common/cm_misc.cpp
+      - src/lib/cm_common/cm_path.cpp
+      - src/lib/cm_common/cm_errcodes.txt
+      - src/lib/cm_common/be_module.cpp
+      - src/lib/cm_common/Makefile
+      - src/lib/cm_common/cm_errcodes.h
+      - src/lib/cm_common/generate-cm-errcodes.pl
+      - src/lib/cm_communication
+      - src/lib/cm_communication/CMakeLists.txt
+      - src/lib/cm_communication/cm_feconnect
+      - src/lib/cm_communication/cm_feconnect/pqexpbuffer.cpp
+      - src/lib/cm_communication/cm_feconnect/CMakeLists.txt
+      - src/lib/cm_communication/cm_feconnect/fe-connect.cpp
+      - src/lib/cm_communication/cm_feconnect/fe-protocol.cpp
+      - src/lib/cm_communication/cm_feconnect/fe-misc.cpp
+      - src/lib/cm_communication/cm_feconnect/Makefile
+      - src/lib/cm_communication/cm_feconnect/ip.cpp
+      - src/lib/cm_communication/cm_libpq
+      - src/lib/cm_communication/cm_libpq/pqcomm.cpp
+      - src/lib/cm_communication/cm_libpq/CMakeLists.txt
+      - src/lib/cm_communication/cm_libpq/pqsignal.cpp
+      - src/lib/cm_communication/cm_libpq/Makefile
+      - src/lib/cm_communication/cm_libpq/pqformat.cpp
+      - src/lib/cm_communication/cm_libpq/ip.cpp
+      - src/lib/cm_communication/cm_libpq/strlcpy.cpp
+      - src/lib/cm_communication/Makefile
+      - src/lib/config
+      - src/lib/config/CMakeLists.txt
+      - src/lib/config/cm_config.cpp
+      - src/lib/config/Makefile
+    owner:
+      - gitee_id: zjxqxf
+        gitcode_id: zjxqxf
+        name: 张建勋
+        organization: huawei
+        email: zhangjianxun.zhangjianxun@huawei.com

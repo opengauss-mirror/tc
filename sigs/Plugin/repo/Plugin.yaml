@@ -1,0 +1,22 @@
+name: Plugin
+description: ""
+type: public
+branches:
+  - name: 5.0.0
+    type: protected
+  - name: master
+    type: protected
+  - name: 7.0.0-RC1
+    type: ""
+  - name: 6.0.0
+    type: protected
+  - name: cherry-pick-1725451035
+    type: ""
+  - name: 5.0.0_bugfix
+    type: ""
+  - name: 3.0.0
+    type: protected
+  - name: 5.1.0
+    type: protected
+  - name: 3.1.0
+    type: protected

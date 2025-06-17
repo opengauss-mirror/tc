@@ -1,0 +1,8 @@
+name: openGauss-DBMind-3rd
+description: DBMind third-party dependencies
+type: public
+branches:
+  - name: py39-linux-amd64
+    type: ""
+  - name: master
+    type: ""

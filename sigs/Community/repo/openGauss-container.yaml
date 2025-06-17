@@ -1,0 +1,10 @@
+name: openGauss-container
+description: ""
+type: public
+branches:
+  - name: master
+    type: ""
+  - name: 5.1.0
+    type: protected
+  - name: 5.0.0
+    type: protected

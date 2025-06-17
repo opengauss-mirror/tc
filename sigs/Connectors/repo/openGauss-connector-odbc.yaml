@@ -1,0 +1,30 @@
+name: openGauss-connector-odbc
+description: openGauss odbc connector
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: revert-merge-12-master
+    type: ""
+  - name: revert-merge-11-master
+    type: ""
+  - name: 7.0.0-RC1
+    type: ""
+  - name: 6.0.0
+    type: protected
+  - name: 5.1.0
+    type: protected
+  - name: 5.0.0
+    type: protected
+  - name: 3.1.0
+    type: protected
+  - name: 3.0.0
+    type: protected
+  - name: 2.1.0
+    type: protected
+  - name: 2.0.0
+    type: protected
+  - name: 1.1.0
+    type: protected
+  - name: 1.0.0
+    type: protected

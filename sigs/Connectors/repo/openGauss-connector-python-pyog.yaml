@@ -1,0 +1,6 @@
+name: openGauss-connector-python-pyog
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected

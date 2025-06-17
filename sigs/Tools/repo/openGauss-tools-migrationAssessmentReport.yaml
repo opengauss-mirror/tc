@@ -1,0 +1,6 @@
+name: openGauss-tools-migrationAssessmentReport
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected

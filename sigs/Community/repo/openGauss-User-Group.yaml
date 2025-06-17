@@ -1,0 +1,6 @@
+name: openGauss-User-Group
+description: openGauss User Group (as known as oGUG)
+type: public
+branches:
+  - name: master
+    type: protected

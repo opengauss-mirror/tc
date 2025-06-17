@@ -1,0 +1,6 @@
+name: openGauss-connector-rust
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected

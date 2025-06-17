@@ -1,0 +1,8 @@
+name: ora-migration-tool
+description: ""
+type: public
+branches:
+  - name: master
+    type: ""
+  - name: debug
+    type: ""

@@ -1,0 +1,56 @@
+name: openGauss-server
+description: openGauss kernel ~ openGauss is an open source relational database management system
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: 5.0.0
+    type: protected
+  - name: 6.0.0
+    type: protected
+  - name: 7.0.0-RC1
+    type: ""
+  - name: test
+    type: ""
+  - name: 6.0.0_tag
+    type: ""
+  - name: 3.0.0
+    type: protected
+  - name: revert-merge-6512-master
+    type: ""
+  - name: revert-merge-6287-6.0.0
+    type: ""
+  - name: revert-merge-4082-master
+    type: ""
+  - name: revert-merge-2845-master
+    type: ""
+  - name: kms
+    type: protected
+  - name: iud_dev
+    type: ""
+  - name: glt
+    type: protected
+  - name: dev_board
+    type: ""
+  - name: dev
+    type: protected
+  - name: cherry-pick-1727076467
+    type: ""
+  - name: cherry-pick-1699344413
+    type: ""
+  - name: cherry-pick-1678374763
+    type: ""
+  - name: 5.1.0
+    type: protected
+  - name: 3.1.0
+    type: protected
+  - name: 2.1.0
+    type: protected
+  - name: 2.0.0
+    type: protected
+  - name: 1.1.0
+    type: protected
+  - name: 1.0.1
+    type: protected
+  - name: 1.0.0
+    type: protected

@@ -1,51 +1,50 @@
 name: DCF
-sig_label: sig/dcf
-sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/DCF
+sig_label: sig/DCF
+sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/DCF
 description: ""
-mailing_list: ""
+mailing_list: dcf@opengauss.org
 maintainers:
-    - gitee_id: wanghuanzhuo
-      gitcode_id: wanghuanzhuo
-      name: 王焕卓
-      organization: ""
-      email: wanghuanzhuo@huawei.com
-    - gitee_id: wang-jingle
-      gitcode_id: ""
-      name: 王江
-      organization: ""
-      email: wangjiang16@huawei.com
+  - gitee_id: wanghuanzhuo
+    gitcode_id: wanghuanzhuo
+    name: 王焕卓
+    organization: huawei
+    email: wanghuanzhuo@huawei.com
+  - gitee_id: wang-jingle
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 王江
+    organization: huawei
+    email: wangjiang16@huawei.com
 repositories:
-    - repo:
-        - opengauss/DCF
-      owners:
-        - gitee_id: wanghuanzhuo
-          gitcode_id: wanghuanzhuo
-          name: 王焕卓
-          organization: huawei
-          email: wanghuanzhuo@huawei.com
-      committers:
-        - gitee_id: yangweiqiang
-          gitcode_id: ""
-          name: 杨维强
-          organization: ""
-          email: wqyang@cmbchina.com
-        - gitee_id: tengtengsun
-          gitcode_id: ""
-          name: 孙腾腾
-          organization: ""
-          email: suntengteng@cmbchina.com
-        - gitee_id: hu-xilin
-          gitcode_id: huxilin
-          name: 胡习林
-          organization: ""
-          email: huxilin@huawei.com
-        - gitee_id: yuan-yilun
-          gitcode_id: ""
-          name: 袁怡轮
-          organization: ""
-          email: yuanyilun@huawei.com
-        - gitee_id: junhangis
-          gitcode_id: ""
-          name: 谢卫平
-          organization: ""
-          email: xieweiping@xfusion.com
+  - repo:
+      - opengauss/DCF
+    committers:
+      - gitee_id: yangweiqiang
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 杨维强
+        organization: ""
+        email: wqyang@cmbchina.com
+      - gitee_id: tengtengsun
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 孙腾腾
+        organization: ""
+        email: suntengteng@cmbchina.com
+      - gitee_id: hu-xilin
+        gitcode_id: huxilin
+        name: 胡习林
+        organization: huawei
+        email: huxilin@huawei.com
+      - gitee_id: yuan-yilun
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 袁怡轮
+        organization: huawei
+        email: yuanyilun@huawei.com
+      - gitee_id: junhangis
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 谢卫平
+        organization: ""
+        email: xieweiping@xfusion.com

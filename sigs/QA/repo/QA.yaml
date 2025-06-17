@@ -1,0 +1,8 @@
+name: QA
+description: QA sig
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: revert-merge-40-master
+    type: ""

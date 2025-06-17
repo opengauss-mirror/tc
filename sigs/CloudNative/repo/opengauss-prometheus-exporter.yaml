@@ -1,0 +1,6 @@
+name: opengauss-prometheus-exporter
+description: openGauss Prometheus exporter
+type: public
+branches:
+  - name: master
+    type: protected

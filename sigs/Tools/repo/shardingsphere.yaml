@@ -1,0 +1,8 @@
+name: shardingsphere
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: glt
+    type: protected

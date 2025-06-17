@@ -1,0 +1,8 @@
+name: ngxdb-for-opengauss
+description: ngxdb-for-opengauss
+type: public
+branches:
+  - name: master
+    type: ""
+  - name: "0.1"
+    type: ""

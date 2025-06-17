@@ -1,0 +1,6 @@
+name: openGauss-test-toolset
+description: ""
+type: public
+branches:
+  - name: master
+    type: ""

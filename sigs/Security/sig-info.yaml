@@ -1,50 +1,48 @@
 name: Security
-sig_label: sig/security
-sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Security
+sig_label: sig/Security
+sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/Security
 description: ""
-mailing_list: ""
+mailing_list: securities@opengauss.org
 maintainers:
-    - gitee_id: zhu_jinwei
-      gitcode_id: zhu_jinwei
-      name: 朱金伟
-      organization: ""
-      email: zhujinwei@huawei.com
+  - gitee_id: zhu_jinwei
+    gitcode_id: zhu_jinwei
+    name: 朱金伟
+    organization: huawei
+    email: zhujinwei@huawei.com
 repositories:
-    - repo:
-        - opengauss/security
-      owners:
-        - gitee_id: zhu_jinwei
-          gitcode_id: zhu_jinwei
-          name: 朱金伟
-          organization: huawei
-          email: zhujinwei@huawei.com
-    - repo:
-        - opengauss/openGauss-server
-        - opengauss/openGauss-third_party
-        - opengauss/security
-      committers:
-        - gitee_id: hwhbj
-          gitcode_id: ""
-          name: 蒋宏博
-          organization: ""
-          email: xdhbj0022@163.com
-        - gitee_id: jianfenglee
-          gitcode_id: ""
-          name: 李建峰
-          organization: ""
-          email: bigtimer@qq.com
-        - gitee_id: blueloveki
-          gitcode_id: ""
-          name: 郭亮
-          organization: ""
-          email: blue.guo@huawei.com
-        - gitee_id: liuzheli
-          gitcode_id: ""
-          name: 刘哲理
-          organization: ""
-          email: liuzheli@nankai.edu.cn
-        - gitee_id: shay-akirav
-          gitcode_id: ""
-          name: shay.akirav
-          organization: ""
-          email: shay.akirav@huawei.com
+  - repo:
+      - opengauss/openGauss-server
+      - opengauss/openGauss-third_party
+
+  - repo:
+      - opengauss/security
+    committers:
+      - gitee_id: hwhbj
+        gitcode_id: hw_hbj
+        name: 蒋宏博
+        organization: huawei
+        email: xdhbj0022@163.com
+      - gitee_id: jianfenglee
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 李建峰
+        organization: ""
+        email: bigtimer@qq.com
+      - gitee_id: blueloveki
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 郭亮
+        organization: ""
+        email: blue.guo@huawei.com
+      - gitee_id: liuzheli
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 刘哲理
+        organization: ""
+        email: liuzheli@nankai.edu.cn
+      - gitee_id: shay-akirav
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: shay.akirav
+        organization: ""
+        email: shay.akirav@huawei.com
