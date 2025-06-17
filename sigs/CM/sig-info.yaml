@@ -1,136 +1,81 @@
 name: CM
-sig_label: sig/cm
-sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/CM
+sig_label: sig/CM
+sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/CM
 description: ""
-mailing_list: ""
+mailing_list: cm@opengauss.org
 maintainers:
-    - gitee_id: zjxqxf
-      gitcode_id: zjxqxf
-      name: 张建勋
-      organization: ""
-      email: zhangjianxun.zhangjianxun@huawei.com
-    - gitee_id: wangwei5
-      gitcode_id: wangwei5
-      name: 王炜
-      organization: ""
-      email: wangwei5@huawei.com
+  - gitee_id: zjxqxf
+    gitcode_id: zjxqxf
+    name: 张建勋
+    organization: huawei
+    email: zhangjianxun.zhangjianxun@huawei.com
+  - gitee_id: wangwei5
+    gitcode_id: wangwei5
+    name: 王炜
+    organization: huawei
+    email: wangwei5@huawei.com
 repositories:
-    - repo:
-        - opengauss/openGauss-server
-      owners:
-        - gitee_id: zjxqxf
-          gitcode_id: zjxqxf
-          name: 张建勋
-          organization: huawei
-          email: zhangjianxun.zhangjianxun@huawei.com
-    - repo:
-        - opengauss/CM
-      owners:
-        - gitee_id: yz_db
-          gitcode_id: yz_db
-          name: 于正
-          organization: huawei
-          email: yuzheng3@huawei.com
-    - repo:
-        - opengauss/DCC
-      owners:
-        - gitee_id: hu-xilin
-          gitcode_id: huxilin
-          name: 胡习林
-          organization: huawei
-          email: huxilin@huawei.com
-    - repo:
-        - opengauss/CBB
-      owners:
-        - gitee_id: wangwei5
-          gitcode_id: wangwei5
-          name: 王炜
-          organization: huawei
-          email: wangwei5@huawei.com
-    - repo:
-        - opengauss/CM-RestAPI
-      owners:
-        - gitee_id: xue_meng_en
-          gitcode_id: ""
-          name: 薛蒙恩
-          organization: huawei
-          email: xuemengen@huawei.com
-    - repo:
-        - opengauss/DMS
-      owners:
-        - gitee_id: peibaoyi
-          gitcode_id: peibaoyi
-          name: 裴鲍义
-          organization: huawei
-          email: peibaoyi@huawei.com
-    - repo:
-        - opengauss/DSS
-      owners:
-        - gitee_id: zhulixia
-          gitcode_id: zhulixia_hw
-          name: 朱丽霞
-          organization: huawei
-          email: zhulixia3@huawei.com
-    - repo:
-        - opengauss/CM
-        - opengauss/DCC
-        - opengauss/CBB
-        - opengauss/CM-RestAPI
-        - opengauss/DMS
-        - opengauss/DSS
-      committers:
-        - gitee_id: yz_db
-          gitcode_id: yz_db
-          name: 于正
-          organization: ""
-          email: yuzheng3@huawei.com
-        - gitee_id: dengyong2
-          gitcode_id: deng_yong
-          name: 邓勇
-          organization: ""
-          email: dean.dengyong@huawei.com
-        - gitee_id: wanghuanzhuo
-          gitcode_id: wanghuanzhuo
-          name: 王焕卓
-          organization: ""
-          email: wanghuanzhuo@huawei.com
-        - gitee_id: hu-xilin
-          gitcode_id: huxilin
-          name: 胡习林
-          organization: ""
-          email: huxilin@huawei.com
-        - gitee_id: huang-yanjiao
-          gitcode_id: huang-yanjiao
-          name: 黄堰姣
-          organization: ""
-          email: huangyanjiao@huawei.com
-        - gitee_id: peibaoyi
-          gitcode_id: peibaoyi
-          name: 裴鲍义
-          organization: ""
-          email: peibaoyi@huawei.com
-        - gitee_id: zhulixia
-          gitcode_id: zhulixia_hw
-          name: 朱丽霞
-          organization: ""
-          email: zhulixia3@huawei.com
-        - gitee_id: struggle_hw
-          gitcode_id: hwworkholic
-          name: 陈琛
-          organization: ""
-          email: joshua.chen@huawei.com
-        - gitee_id: chendong76
-          gitcode_id: chendong76
-          name: 陈栋
-          organization: ""
-          email: chendong76@huawei.com
-        - gitee_id: yangwei129
-          gitcode_id: wwllwwll
-          name: 杨葳
-          organization: ""
-          email: yangwei129@huawei.com
-        - gitee_id: xue_meng_en
-          gitcode_id: ""
-          name: 薛蒙恩
-          organization: ""
-          email: xuemengen@huawei.com
+  - repo:
+      - opengauss/CM
+      - opengauss/DCC
+      - opengauss/CBB
+      - opengauss/CM-RestAPI
+      - opengauss/DMS
+      - opengauss/DSS
+    committers:
+      - gitee_id: yz_db
+        gitcode_id: yz_db
+        name: 于正
+        organization: huawei
+        email: yuzheng3@huawei.com
+      - gitee_id: dengyong2
+        gitcode_id: deng_yong
+        name: 邓勇
+        organization: huawei
+        email: dean.dengyong@huawei.com
+      - gitee_id: wanghuanzhuo
+        gitcode_id: wanghuanzhuo
+        name: 王焕卓
+        organization: huawei
+        email: wanghuanzhuo@huawei.com
+      - gitee_id: hu-xilin
+        gitcode_id: huxilin
+        name: 胡习林
+        organization: huawei
+        email: huxilin@huawei.com
+      - gitee_id: huang-yanjiao
+        gitcode_id: huang-yanjiao
+        name: 黄堰姣
+        organization: huawei
+        email: huangyanjiao@huawei.com
+      - gitee_id: peibaoyi
+        gitcode_id: peibaoyi
+        name: 裴鲍义
+        organization: huawei
+        email: peibaoyi@huawei.com
+      - gitee_id: zhulixia
+        gitcode_id: zhulixia_hw
+        name: 朱丽霞
+        organization: huawei
+        email: zhulixia3@huawei.com
+      - gitee_id: struggle_hw
+        gitcode_id: hwworkholic
+        name: 陈琛
+        organization: huawei
+        email: joshua.chen@huawei.com
+      - gitee_id: chendong76
+        gitcode_id: chendong76
+        name: 陈栋
+        organization: huawei
+        email: chendong76@huawei.com
+      - gitee_id: yangwei129
+        gitcode_id: wwllwwll
+        name: 杨葳
+        organization: huawei
+        email: yangwei129@huawei.com
+      - gitee_id: xue_meng_en
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 薛蒙恩
+        organization: huawei
+        email: xuemengen@huawei.com

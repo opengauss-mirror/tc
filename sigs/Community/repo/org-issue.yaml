@@ -1,0 +1,6 @@
+name: org-issue
+description: ""
+type: public
+branches:
+  - name: main
+    type: ""

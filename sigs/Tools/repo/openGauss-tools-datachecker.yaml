@@ -1,0 +1,8 @@
+name: openGauss-tools-datachecker
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: 5.0.0
+    type: ""

@@ -1,0 +1,20 @@
+name: DSS
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: 6.0.0_tag
+    type: ""
+  - name: 7.0.0-RC2
+    type: ""
+  - name: 7.0.0-RC1
+    type: ""
+  - name: 6.0.0-RC1
+    type: ""
+  - name: 6.0.0
+    type: protected
+  - name: 5.1.0
+    type: protected
+  - name: 5.0.0
+    type: protected

@@ -1,0 +1,49 @@
+name: openGauss-server
+files:
+  - file:
+      - src/lib/gstrace
+      - src/lib/gstrace/CMakeLists.txt
+      - src/lib/gstrace/script
+      - src/lib/gstrace/script/trc_gen.py
+      - src/lib/gstrace/common
+      - src/lib/gstrace/common/gstrace_infra.cpp
+      - src/lib/gstrace/common/Makefile
+      - src/lib/gstrace/Makefile
+      - src/lib/gstrace/tool
+      - src/lib/gstrace/tool/gstrace_tool.cpp
+      - src/lib/gstrace/tool/Makefile
+      - src/lib/gstrace/config
+      - src/lib/gstrace/config/tsearch.in
+      - src/lib/gstrace/config/vecexecutor.in
+      - src/lib/gstrace/config/storage.in
+      - src/lib/gstrace/config/system.in
+      - src/lib/gstrace/config/parser.in
+      - src/lib/gstrace/config/wlm.in
+      - src/lib/gstrace/config/pg_ctl.in
+      - src/lib/gstrace/config/commands.in
+      - src/lib/gstrace/config/postmaster.in
+      - src/lib/gstrace/config/optimizer.in
+      - src/lib/gstrace/config/common.in
+      - src/lib/gstrace/config/replication.in
+      - src/lib/gstrace/config/utils.in
+      - src/lib/gstrace/config/tcop.in
+      - src/lib/gstrace/config/bootstrap.in
+      - src/lib/gstrace/config/executer.in
+      - src/lib/gstrace/config/catalog.in
+      - src/lib/gstrace/config/libpq.in
+      - src/lib/gstrace/config/access.in
+      - src/lib/gstrace/config/rewrite.in
+      - src/lib/gstrace/config/comps.in
+      - src/lib/hotpatch
+      - src/lib/hotpatch/CMakeLists.txt
+      - src/lib/hotpatch/client
+      - src/lib/hotpatch/client/hotpatch_client.cpp
+      - src/lib/hotpatch/client/Makefile
+      - src/lib/hotpatch/Makefile
+    owner:
+      - gitee_id: shenyuflying
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 申宇
+        organization: huawei
+        email: 316472763@qq.com

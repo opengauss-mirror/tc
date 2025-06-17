@@ -1,0 +1,6 @@
+name: openGauss-webclient-portal
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected

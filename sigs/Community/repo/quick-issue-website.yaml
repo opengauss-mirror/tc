@@ -1,0 +1,6 @@
+name: quick-issue-website
+description: ""
+type: public
+branches:
+  - name: master
+    type: ""

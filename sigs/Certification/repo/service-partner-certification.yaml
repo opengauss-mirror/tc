@@ -1,0 +1,8 @@
+name: service-partner-certification
+description: ""
+type: public
+branches:
+  - name: update_readme
+    type: ""
+  - name: master
+    type: protected

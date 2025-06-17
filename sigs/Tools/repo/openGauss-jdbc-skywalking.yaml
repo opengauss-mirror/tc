@@ -1,0 +1,6 @@
+name: openGauss-jdbc-skywalking
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected

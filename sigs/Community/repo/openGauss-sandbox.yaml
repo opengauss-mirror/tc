@@ -1,0 +1,6 @@
+name: openGauss-sandbox
+description: 用于openGauss沙箱实验
+type: public
+branches:
+  - name: master
+    type: ""

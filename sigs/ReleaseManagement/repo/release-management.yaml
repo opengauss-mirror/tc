@@ -1,0 +1,6 @@
+name: release-management
+description: openGauss release management
+type: public
+branches:
+  - name: master
+    type: protected

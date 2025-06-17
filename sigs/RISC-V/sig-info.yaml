@@ -2,59 +2,71 @@ name: RISC-V
 description: ""
 mailing_list: ""
 maintainers:
-    - gitee_id: wuwei_plct
-      gitcode_id: ""
-      name: 吴伟
-      organization: ""
-      email: uwei2016@iscas.ac.c
-    - gitee_id: sunmin89
-      gitcode_id: ""
-      name: 孙敏
-      organization: ""
-      email: unmin89@outlook.co
-    - gitee_id: tekkamanninja
-      gitcode_id: ""
-      name: 傅炜
-      organization: ""
-      email: ekkamanninja@163.co
-    - gitee_id: hardmode
-      gitcode_id: ""
-      name: 魏超
-      organization: ""
-      email: hao.wei@sophgo.co
-    - gitee_id: samuel_yuan
-      gitcode_id: ""
-      name: 袁穗聪
-      organization: ""
-      email: amuel.yuan@leapfive.co
-    - gitee_id: xfan1024
-      gitcode_id: ""
-      name: 谭小凡
-      organization: ""
-      email: iaofan@iscas.ac.c
+  - gitee_id: wuwei_plct
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 吴伟
+    organization: ""
+    email: uwei2016@iscas.ac.c
+  - gitee_id: sunmin89
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 孙敏
+    organization: ""
+    email: unmin89@outlook.co
+  - gitee_id: tekkamanninja
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 傅炜
+    organization: ""
+    email: ekkamanninja@163.co
+  - gitee_id: hardmode
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 魏超
+    organization: ""
+    email: hao.wei@sophgo.co
+  - gitee_id: samuel_yuan
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 袁穗聪
+    organization: ""
+    email: amuel.yuan@leapfive.co
+  - gitee_id: xfan1024
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 谭小凡
+    organization: ""
+    email: iaofan@iscas.ac.c
 repositories:
-    - repo:
-        - opengauss/openGauss-server
-        - opengauss/openGauss-third_party
-        - opengauss/riscv
-      committers:
-        - gitee_id: kiritake-kumi
-          gitcode_id: ""
-          name: 蒲镜羽
-          organization: ""
-          email: oot@niconiconi.u
-        - gitee_id: U2FsdGVkX1
-          gitcode_id: ""
-          name: 张松松
-          organization: ""
-          email: hangsongsong@iscas.ac.c
-        - gitee_id: Jingwiw
-          gitcode_id: ""
-          name: 王经纬
-          organization: ""
-          email: angjingwei@iscas.ac.c
-        - gitee_id: XiaoXiaoJi
-          gitcode_id: ""
-          name: 黄吉
-          organization: ""
-          email: uangji@iscas.ac.c
+  - repo:
+      - opengauss/openGauss-server
+      - opengauss/openGauss-third_party
+
+  - repo:
+      - opengauss/riscv
+    committers:
+      - gitee_id: kiritake-kumi
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 蒲镜羽
+        organization: ""
+        email: oot@niconiconi.u
+      - gitee_id: U2FsdGVkX1
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 张松松
+        organization: ""
+        email: hangsongsong@iscas.ac.c
+      - gitee_id: Jingwiw
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 王经纬
+        organization: ""
+        email: angjingwei@iscas.ac.c
+      - gitee_id: XiaoXiaoJi
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 黄吉
+        organization: ""
+        email: uangji@iscas.ac.c

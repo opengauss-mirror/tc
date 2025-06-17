@@ -1,82 +1,87 @@
 name: SecurityTechnology
-sig_label: sig/securitytech
-sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/SecurityTechnology
+sig_label: sig/SecurityTechnology
+sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/SecurityTechnology
 description: ""
-mailing_list: ""
+mailing_list: securitytechnology@opengauss.org
 maintainers:
-    - gitee_id: zhu_jinwei
-      gitcode_id: zhu_jinwei
-      name: 朱金伟
-      organization: ""
-      email: zhujinwei@huawei.com
+  - gitee_id: zhu_jinwei
+    gitcode_id: zhu_jinwei
+    name: 朱金伟
+    organization: huawei
+    email: zhujinwei@huawei.com
 repositories:
-    - repo:
-        - opengauss/openGauss-server
-        - opengauss/openGauss-third_party
-      owners:
-        - gitee_id: zhu_jinwei
-          gitcode_id: zhu_jinwei
-          name: 朱金伟
-          organization: huawei
-          email: zhujinwei@huawei.com
-      committers:
-        - gitee_id: zhang_mingxing
-          gitcode_id: ""
-          name: 章明星
-          organization: ""
-          email: zhang.mingxing@outlook.com
-        - gitee_id: he_ray
-          gitcode_id: h_ray
-          name: 何睿
-          organization: ""
-          email: he.ray@139.com
-        - gitee_id: xiaolang_lst
-          gitcode_id: ""
-          name: 位凯志
-          organization: ""
-          email: qxx_xl@foxmail.com
-        - gitee_id: song_rongrong
-          gitcode_id: ""
-          name: 宋荣荣
-          organization: ""
-          email: songrongrong1@huawei.com
-        - gitee_id: buter
-          gitcode_id: ""
-          name: ""
-          organization: ""
-          email: ""
-        - gitee_id: yanshichao
-          gitcode_id: ""
-          name: 闫世超
-          organization: ""
-          email: yanshichao@tass.com.cn
-        - gitee_id: lixueyan
-          gitcode_id: ""
-          name: 李雪雁
-          organization: ""
-          email: lixueyan@tass.com.cn
-        - gitee_id: tbing8803
-          gitcode_id: ""
-          name: 田兵
-          organization: ""
-          email: bing.tian@enmotech.com
-        - gitee_id: shiqinggaocheng
-          gitcode_id: ""
-          name: 石青
-          organization: ""
-          email: shiqing@vastdata.com.cn
-        - gitee_id: lyoursly
-          gitcode_id: ""
-          name: 刘遥
-          organization: ""
-          email: liuyao@vastdata.com.cn
-        - gitee_id: ashnah
-          gitcode_id: ""
-          name: 王秀敏
-          organization: ""
-          email: xiumin.wang@enmotech.com
-        - gitee_id: blueloveki
-          gitcode_id: ""
-          name: 郭亮
-          organization: ""
-          email: blue.guo@huawei.com
+  - repo:
+      - opengauss/openGauss-server
+      - opengauss/openGauss-third_party
+    committers:
+      - gitee_id: zhang_mingxing
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 章明星
+        organization: ""
+        email: zhang.mingxing@outlook.com
+      - gitee_id: he_ray
+        gitcode_id: h_ray
+        name: 何睿
+        organization: ""
+        email: he.ray@139.com
+      - gitee_id: xiaolang_lst
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 位凯志
+        organization: ""
+        email: qxx_xl@foxmail.com
+      - gitee_id: song_rongrong
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 宋荣荣
+        organization: ""
+        email: songrongrong1@huawei.com
+      - gitee_id: buter
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: ""
+        organization: ""
+        email: ""
+      - gitee_id: yanshichao
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 闫世超
+        organization: ""
+        email: yanshichao@tass.com.cn
+      - gitee_id: lixueyan
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 李雪雁
+        organization: ""
+        email: lixueyan@tass.com.cn
+      - gitee_id: tbing8803
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 田兵
+        organization: ""
+        email: bing.tian@enmotech.com
+      - gitee_id: shiqinggaocheng
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 石青
+        organization: ""
+        email: shiqing@vastdata.com.cn
+      - gitee_id: lyoursly
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 刘遥
+        organization: ""
+        email: liuyao@vastdata.com.cn
+      - gitee_id: ashnah
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 王秀敏
+        organization: ""
+        email: xiumin.wang@enmotech.com
+      - gitee_id: blueloveki
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 郭亮
+        organization: ""
+        email: blue.guo@huawei.com

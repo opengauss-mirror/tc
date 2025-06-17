@@ -1,0 +1,6 @@
+name: openGauss-tools-ora2og
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected

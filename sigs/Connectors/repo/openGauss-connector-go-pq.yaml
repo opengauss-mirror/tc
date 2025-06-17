@@ -1,0 +1,8 @@
+name: openGauss-connector-go-pq
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: 5.0.0
+    type: protected

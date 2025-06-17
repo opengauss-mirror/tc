@@ -1,0 +1,6 @@
+name: openGauss-tools-guidence
+description: ""
+type: public
+branches:
+  - name: master
+    type: ""

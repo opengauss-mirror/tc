@@ -1,131 +1,135 @@
 name: ReleaseManagement
-sig_label: sig/rm
-sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/ReleaseManagement
+sig_label: sig/ReleaseManagement
+sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/ReleaseManagement
 description: ""
-mailing_list: ""
+mailing_list: releasemanagement@opengauss.org
 maintainers:
-    - gitee_id: cyj10727
-      gitcode_id: ""
-      name: 蔡亚杰
-      organization: ""
-      email: jieky.cai@huawei.com
-    - gitee_id: wang-jingle
-      gitcode_id: ""
-      name: 王江
-      organization: ""
-      email: wangjiang16@huawei.com
-    - gitee_id: flowill
-      gitcode_id: ""
-      name: 冯伟
-      organization: ""
-      email: f.fengwei@huawei.com
+  - gitee_id: cyj10727
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 蔡亚杰
+    organization: huawei
+    email: jieky.cai@huawei.com
+  - gitee_id: wang-jingle
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 王江
+    organization: huawei
+    email: wangjiang16@huawei.com
+  - gitee_id: flowill
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 冯伟
+    organization: huawei
+    email: f.fengwei@huawei.com
 repositories:
-    - repo:
-        - opengauss/release-management
-      owners:
-        - gitee_id: flowill
-          gitcode_id: ""
-          name: 冯伟
-          organization: huawei
-          email: f.fengwei@huawei.com
-      committers:
-        - gitee_id: dolphin-m
-          gitcode_id: dolphin-m
-          name: 明沛
-          organization: ""
-          email: mingpei@huawei.com
-        - gitee_id: yangdi07
-          gitcode_id: yang-di
-          name: 杨迪
-          organization: ""
-          email: yangdi14@huawei.com
-        - gitee_id: nonolili527
-          gitcode_id: nonolili527
-          name: 王磊
-          organization: ""
-          email: wanglei110@huawei.com
-        - gitee_id: wangwei5
-          gitcode_id: wangwei5
-          name: 王炜
-          organization: ""
-          email: wangwei5@huawei.com
-        - gitee_id: xiong_xjun
-          gitcode_id: ""
-          name: 熊小军
-          organization: ""
-          email: xiong_xiaojun@yeah.net
-        - gitee_id: yanzi2021
-          gitcode_id: ""
-          name: ""
-          organization: ""
-          email: ""
-        - gitee_id: zhongjun2
-          gitcode_id: zhongjun2
-          name: 钟君
-          organization: ""
-          email: jun.zhongjun2@gmail.com
-        - gitee_id: lys6676
-          gitcode_id: ""
-          name: 刘勇生
-          organization: ""
-          email: liuyongsheng@shentongdata.com
-        - gitee_id: husthxd
-          gitcode_id: ""
-          name: 何小栋
-          organization: ""
-          email: husthxd@126.com
-        - gitee_id: llzx373
-          gitcode_id: ""
-          name: 刘伟
-          organization: ""
-          email: wei.liu@enmotech.com
-        - gitee_id: zhang_xubo
-          gitcode_id: zhangxubo
-          name: 张旭博
-          organization: ""
-          email: zhangxubo1@huawei.com
-        - gitee_id: willloong
-          gitcode_id: ""
-          name: 张文龙
-          organization: ""
-          email: zhangwl@vastdata.com.cn
-        - gitee_id: tbing8803
-          gitcode_id: ""
-          name: 田兵
-          organization: ""
-          email: bing.tian@enmotech.com
-        - gitee_id: nifinity
-          gitcode_id: ""
-          name: 刘春
-          organization: ""
-          email: liuchun3@huawei.com
-        - gitee_id: wumingyuan
-          gitcode_id: ""
-          name: ""
-          organization: ""
-          email: ""
-        - gitee_id: flowill
-          gitcode_id: ""
-          name: 冯伟
-          organization: ""
-          email: f.fengwei@huawei.com
-        - gitee_id: chaip3
-          gitcode_id: ""
-          name: 柴鹏
-          organization: ""
-          email: chaip3@chinaunicom.cn
-        - gitee_id: azurenake
-          gitcode_id: ""
-          name: 崔凯峰
-          organization: ""
-          email: 13810767894@139.com
-        - gitee_id: Louisyzh
-          gitcode_id: ""
-          name: 杨子浩
-          organization: ""
-          email: yangzihao@ncti-gba.cn
-        - gitee_id: zengseliang
-          gitcode_id: ""
-          name: 曾色亮
-          organization: ""
-          email: zengseliang@ncti-gba.cn
+  - repo:
+      - opengauss/release-management
+    committers:
+      - gitee_id: dolphin-m
+        gitcode_id: dolphin-m
+        name: 明沛
+        organization: huawei
+        email: mingpei@huawei.com
+      - gitee_id: yangdi07
+        gitcode_id: yang-di
+        name: 杨迪
+        organization: huawei
+        email: yangdi14@huawei.com
+      - gitee_id: nonolili527
+        gitcode_id: nonolili527
+        name: 王磊
+        organization: huawei
+        email: wanglei110@huawei.com
+      - gitee_id: wangwei5
+        gitcode_id: wangwei5
+        name: 王炜
+        organization: huawei
+        email: wangwei5@huawei.com
+      - gitee_id: xiong_xjun
+        gitcode_id: xiong_xjun
+        name: 熊小军
+        organization: huawei
+        email: xiong_xiaojun@yeah.net
+      - gitee_id: yanzi2021
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: ""
+        organization: ""
+        email: ""
+      - gitee_id: zhongjun2
+        gitcode_id: zhongjun2
+        name: 钟君
+        organization: huawei
+        email: jun.zhongjun2@gmail.com
+      - gitee_id: lys6676
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 刘勇生
+        organization: ""
+        email: liuyongsheng@shentongdata.com
+      - gitee_id: husthxd
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 何小栋
+        organization: ""
+        email: husthxd@126.com
+      - gitee_id: llzx373
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 刘伟
+        organization: ""
+        email: wei.liu@enmotech.com
+      - gitee_id: zhang_xubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: huawei
+        email: zhangxubo1@huawei.com
+      - gitee_id: willloong
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 张文龙
+        organization: ""
+        email: zhangwl@vastdata.com.cn
+      - gitee_id: tbing8803
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 田兵
+        organization: ""
+        email: bing.tian@enmotech.com
+      - gitee_id: nifinity
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 刘春
+        organization: ""
+        email: liuchun3@huawei.com
+      - gitee_id: wumingyuan
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: ""
+        organization: ""
+        email: ""
+      - gitee_id: chaip3
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 柴鹏
+        organization: ""
+        email: chaip3@chinaunicom.cn
+      - gitee_id: azurenake
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 崔凯峰
+        organization: ""
+        email: 13810767894@139.com
+      - gitee_id: Louisyzh
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 杨子浩
+        organization: ""
+        email: yangzihao@ncti-gba.cn
+      - gitee_id: zengseliang
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 曾色亮
+        organization: ""
+        email: zengseliang@ncti-gba.cn

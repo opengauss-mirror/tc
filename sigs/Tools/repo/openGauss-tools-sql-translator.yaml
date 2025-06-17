@@ -1,0 +1,6 @@
+name: openGauss-tools-sql-translator
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected

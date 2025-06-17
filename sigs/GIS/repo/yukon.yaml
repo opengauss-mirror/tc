@@ -1,0 +1,10 @@
+name: yukon
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: v1.0.1
+    type: ""
+  - name: 1.0-alpha
+    type: ""

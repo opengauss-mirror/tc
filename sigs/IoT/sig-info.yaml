@@ -1,37 +1,35 @@
 name: IoT
-sig_label: sig/iot
-sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/IoT
+sig_label: sig/IoT
+sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/IoT
 description: ""
-mailing_list: ""
+mailing_list: iot@opengauss.org
 maintainers:
-    - gitee_id: jarekzhang
-      gitcode_id: ""
-      name: 张程伟
-      organization: ""
-      email: flashspy@hotmail.com
-    - gitee_id: huxiangyu
-      gitcode_id: ""
-      name: 胡翔宇
-      organization: ""
-      email: xiangyu.hu@outlook.com
+  - gitee_id: jarekzhang
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 张程伟
+    organization: enmotech
+    email: flashspy@hotmail.com
+  - gitee_id: huxiangyu
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 胡翔宇
+    organization: ""
+    email: xiangyu.hu@outlook.com
 repositories:
-    - repo:
-        - opengauss/openGauss-server
-        - opengauss/openGauss-third_party
-      owners:
-        - gitee_id: jarekzhang
-          gitcode_id: ""
-          name: 张程伟
-          organization: enmotech
-          email: chengwei.zhang@enmotech.com
-      committers:
-        - gitee_id: ZhengZhenyu
-          gitcode_id: ""
-          name: 郑振宇
-          organization: ""
-          email: zheng.zhenyu@outlook.com
-        - gitee_id: bzhaoop
-          gitcode_id: ""
-          name: 赵波
-          organization: ""
-          email: 270162781@qq.com
+  - repo:
+      - opengauss/openGauss-server
+      - opengauss/openGauss-third_party
+    committers:
+      - gitee_id: ZhengZhenyu
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 郑振宇
+        organization: ""
+        email: zheng.zhenyu@outlook.com
+      - gitee_id: bzhaoop
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 赵波
+        organization: ""
+        email: 270162781@qq.com

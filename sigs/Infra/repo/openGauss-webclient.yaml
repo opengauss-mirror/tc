@@ -1,0 +1,10 @@
+name: openGauss-webclient
+description: ""
+type: public
+branches:
+  - name: tryme
+    type: protected
+  - name: new_feature
+    type: ""
+  - name: master
+    type: protected

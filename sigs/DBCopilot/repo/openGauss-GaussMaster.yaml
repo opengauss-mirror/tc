@@ -1,0 +1,6 @@
+name: openGauss-GaussMaster
+description: ""
+type: public
+branches:
+  - name: main
+    type: protected

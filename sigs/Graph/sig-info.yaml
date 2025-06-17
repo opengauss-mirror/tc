@@ -1,89 +1,95 @@
 name: Graph
 sig_label: sig/graph
-sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/Graph
+sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/Graph
 description: ""
 mailing_list: ""
 maintainers:
-    - gitee_id: xinwang-tju
-      gitcode_id: ""
-      name: 王鑫
-      organization: ""
-      email: wangx@tju.edu.cn
-    - gitee_id: jia-yongzhe
-      gitcode_id: ""
-      name: 贾勇哲
-      organization: ""
-      email: jia@techfantasy.com.cn
-    - gitee_id: lordvv
-      gitcode_id: ""
-      name: 徐大为
-      organization: ""
-      email: xudawei@techfantasy.cn
+  - gitee_id: xinwang-tju
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 王鑫
+    organization: tju
+    email: wangx@tju.edu.cn
+  - gitee_id: jia-yongzhe
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 贾勇哲
+    organization: ""
+    email: jia@techfantasy.com.cn
+  - gitee_id: lordvv
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 徐大为
+    organization: ""
+    email: xudawei@techfantasy.cn
 repositories:
-    - repo:
-        - opengauss/openGauss-graph
-      owners:
-        - gitee_id: xinwang-tju
-          gitcode_id: ""
-          name: 王鑫
-          organization: tju
-          email: wangx@tju.edu.cn
-    - repo:
-        - opengauss/openGauss-server
-        - opengauss/openGauss-graph
-      committers:
-        - gitee_id: chenzhang_cl
-          gitcode_id: ""
-          name: 张晨
-          organization: ""
-          email: zhangchen@chuanglintech.com
-        - gitee_id: bohanlinuaa
-          gitcode_id: ""
-          name: 李博涵
-          organization: ""
-          email: bhli@nuaa.edu.cn
-        - gitee_id: nietiezheng
-          gitcode_id: ""
-          name: 聂铁铮
-          organization: ""
-          email: nietiezheng@mail.neu.edu.cn
-        - gitee_id: whitewum
-          gitcode_id: ""
-          name: ""
-          organization: ""
-          email: ""
-        - gitee_id: he_ray
-          gitcode_id: h_ray
-          name: 何睿
-          organization: ""
-          email: he.ray@139.com
-        - gitee_id: mengwangseu
-          gitcode_id: ""
-          name: 王萌
-          organization: ""
-          email: meng.wang@seu.edu.cn
-        - gitee_id: chaileon
-          gitcode_id: ""
-          name: 柴艳峰
-          organization: ""
-          email: chai-leon@qq.com
-        - gitee_id: xukunpeng
-          gitcode_id: ""
-          name: 徐鲲鹏
-          organization: ""
-          email: xukunpeng2@huawei.com
-        - gitee_id: tjuliubaozhu
-          gitcode_id: liubaozhu
-          name: 刘宝珠
-          organization: ""
-          email: liubaozhu@tju.edu.cn
-        - gitee_id: lszskye
-          gitcode_id: ""
-          name: 李思卓
-          organization: ""
-          email: lszskye@126.com
-        - gitee_id: AugustLpk
-          gitcode_id: ""
-          name: 柳鹏凯
-          organization: ""
-          email: 1114906894@qq.com
+  - repo:
+      - opengauss/openGauss-server
+
+  - repo:
+      - opengauss/openGauss-graph
+    committers:
+      - gitee_id: chenzhang_cl
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 张晨
+        organization: ""
+        email: zhangchen@chuanglintech.com
+      - gitee_id: bohanlinuaa
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 李博涵
+        organization: ""
+        email: bhli@nuaa.edu.cn
+      - gitee_id: nietiezheng
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 聂铁铮
+        organization: ""
+        email: nietiezheng@mail.neu.edu.cn
+      - gitee_id: whitewum
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: ""
+        organization: ""
+        email: ""
+      - gitee_id: he_ray
+        gitcode_id: h_ray
+        name: 何睿
+        organization: ""
+        email: he.ray@139.com
+      - gitee_id: mengwangseu
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 王萌
+        organization: ""
+        email: meng.wang@seu.edu.cn
+      - gitee_id: chaileon
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 柴艳峰
+        organization: ""
+        email: chai-leon@qq.com
+      - gitee_id: xukunpeng
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 徐鲲鹏
+        organization: ""
+        email: xukunpeng2@huawei.com
+      - gitee_id: tjuliubaozhu
+        gitcode_id: liubaozhu
+        name: 刘宝珠
+        organization: ""
+        email: liubaozhu@tju.edu.cn
+      - gitee_id: lszskye
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 李思卓
+        organization: ""
+        email: lszskye@126.com
+      - gitee_id: AugustLpk
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 柳鹏凯
+        organization: ""
+        email: 1114906894@qq.com

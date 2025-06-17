@@ -1,94 +1,103 @@
 name: OPS
-sig_label: sig/ops
-sig_link: https://gitee.com/opengauss/tc/tree/master/sigs/OPS
+sig_label: sig/OPS
+sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/OPS
 description: ""
-mailing_list: ""
+mailing_list: ops@opengauss.org
 maintainers:
-    - gitee_id: shenyuflying
-      gitcode_id: ""
-      name: 申宇
-      organization: ""
-      email: 316472763@qq.com
-    - gitee_id: huangkaiyao
-      gitcode_id: ""
-      name: 黄凯耀
-      organization: ""
-      email: huangkaiyao@huawei.com
-    - gitee_id: anikikong
-      gitcode_id: ""
-      name: 孔再华
-      organization: ""
-      email: kongzaihua@hotmail.com
+  - gitee_id: shenyuflying
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 申宇
+    organization: huawei
+    email: 316472763@qq.com
+  - gitee_id: huangkaiyao
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 黄凯耀
+    organization: huawei
+    email: huangkaiyao@huawei.com
+  - gitee_id: anikikong
+    # 需要补充 GitCode 用户ID
+    gitcode_id: ""
+    name: 孔再华
+    organization: ""
+    email: kongzaihua@hotmail.com
 repositories:
-    - repo:
-        - opengauss/openGauss-server
-        - opengauss/openGauss-third_party
-        - opengauss/ops
-        - opengauss/openGauss-workbench
-      owners:
-        - gitee_id: shenyuflying
-          gitcode_id: ""
-          name: 申宇
-          organization: huawei
-          email: 316472763@qq.com
-      committers:
-        - gitee_id: xfusiongaobo
-          gitcode_id: ""
-          name: 高波
-          organization: ""
-          email: gaobo@xfusion.com
-        - gitee_id: windxd
-          gitcode_id: windxd
-          name: 刁现峰
-          organization: ""
-          email: diaoxianfeng@huawei.com
-        - gitee_id: zzzzzdb
-          gitcode_id: ""
-          name: 朱彬
-          organization: ""
-          email: zzzzzdb_zb@163.com
-        - gitee_id: wenkeyang_abab
-          gitcode_id: ""
-          name: 杨文可
-          organization: ""
-          email: wenke.yang@enmotech.com
-        - gitee_id: haolan_sun
-          gitcode_id: ""
-          name: 孙浩岚
-          organization: ""
-          email: haolan.sun@enmotech.com
-        - gitee_id: lego
-          gitcode_id: ""
-          name: 丁乐佳
-          organization: ""
-          email: dinglj@vastdata.com.cn
-        - gitee_id: jackchenchenchen
-          gitcode_id: ""
-          name: 李坤
-          organization: ""
-          email: likun_dlut@163.com
-        - gitee_id: gentle_hu
-          gitcode_id: CarrotGo
-          name: 胡正超
-          organization: ""
-          email: huzhengchao4@huawei.com
-        - gitee_id: he-chenghan
-          gitcode_id: ""
-          name: 贺承汉
-          organization: ""
-          email: hechenghan@huawei.com
-        - gitee_id: buter
-          gitcode_id: ""
-          name: ""
-          organization: ""
-          email: ""
-        - gitee_id: Louisyzh
-          gitcode_id: ""
-          name: 杨子浩
-          organization: ""
-          email: yangzihao@ncti-gba.cn
-        - gitee_id: zengseliang
-          gitcode_id: ""
-          name: 曾色亮
-          organization: ""
-          email: zengseliang@ncti-gba.cn
+  - repo:
+      - opengauss/openGauss-server
+      - opengauss/openGauss-third_party
+      - opengauss/openGauss-workbench
+
+  - repo:
+      - opengauss/ops
+    committers:
+      - gitee_id: xfusiongaobo
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 高波
+        organization: ""
+        email: gaobo@xfusion.com
+      - gitee_id: windxd
+        gitcode_id: windxd
+        name: 刁现峰
+        organization: ""
+        email: diaoxianfeng@huawei.com
+      - gitee_id: zzzzzdb
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 朱彬
+        organization: ""
+        email: zzzzzdb_zb@163.com
+      - gitee_id: wenkeyang_abab
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 杨文可
+        organization: ""
+        email: wenke.yang@enmotech.com
+      - gitee_id: haolan_sun
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 孙浩岚
+        organization: ""
+        email: haolan.sun@enmotech.com
+      - gitee_id: lego
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 丁乐佳
+        organization: ""
+        email: dinglj@vastdata.com.cn
+      - gitee_id: jackchenchenchen
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 李坤
+        organization: ""
+        email: likun_dlut@163.com
+      - gitee_id: gentle_hu
+        gitcode_id: CarrotGo
+        name: 胡正超
+        organization: ""
+        email: huzhengchao4@huawei.com
+      - gitee_id: he-chenghan
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 贺承汉
+        organization: ""
+        email: hechenghan@huawei.com
+      - gitee_id: buter
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: ""
+        organization: ""
+        email: ""
+      - gitee_id: Louisyzh
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 杨子浩
+        organization: ""
+        email: yangzihao@ncti-gba.cn
+      - gitee_id: zengseliang
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 曾色亮
+        organization: ""
+        email: zengseliang@ncti-gba.cn

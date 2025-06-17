@@ -1,0 +1,6 @@
+name: open-gauss-compile-opt-tools
+description: ""
+type: public
+branches:
+  - name: master
+    type: ""

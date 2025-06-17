@@ -1,0 +1,8 @@
+name: WR
+description: ""
+type: public
+branches:
+  - name: develop
+    type: ""
+  - name: master
+    type: protected

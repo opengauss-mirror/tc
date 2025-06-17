@@ -1,0 +1,32 @@
+name: openGauss-connector-jdbc
+description: openGauss jdbc connector
+type: public
+branches:
+  - name: 5.0.0
+    type: protected
+  - name: master
+    type: protected
+  - name: 7.0.0-RC1
+    type: ""
+  - name: 6.0.0
+    type: protected
+  - name: 5.1.0
+    type: protected
+  - name: 3.1.0
+    type: protected
+  - name: 3.0.0
+    type: protected
+  - name: 2.1.0
+    type: protected
+  - name: 2.0.0
+    type: protected
+  - name: "1.7"
+    type: ""
+  - name: "1.6"
+    type: ""
+  - name: 1.1.0
+    type: protected
+  - name: 1.0.1
+    type: protected
+  - name: 1.0.0
+    type: protected

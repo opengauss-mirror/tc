@@ -1,0 +1,40 @@
+name: openGauss-OM
+description: ""
+type: public
+branches:
+  - name: 5.0.0
+    type: protected
+  - name: master
+    type: protected
+  - name: 6.0.0_tag
+    type: ""
+  - name: 6.0.0
+    type: protected
+  - name: revert-merge-746-master
+    type: ""
+  - name: glt
+    type: ""
+  - name: dev
+    type: protected
+  - name: cherry-pick-1736733290
+    type: ""
+  - name: block
+    type: ""
+  - name: 7.0.0-RC2
+    type: ""
+  - name: 7.0.0-RC1
+    type: ""
+  - name: 5.1.0
+    type: protected
+  - name: 3.1.0
+    type: protected
+  - name: 3.0.0
+    type: protected
+  - name: 2.1.0
+    type: protected
+  - name: 2.0.0
+    type: protected
+  - name: 1.1.0_330
+    type: protected
+  - name: 1.1.0
+    type: protected

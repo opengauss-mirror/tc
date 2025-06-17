@@ -1,0 +1,8 @@
+name: tc
+description: openGauss technical committee
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: revert-eaca92a
+    type: ""

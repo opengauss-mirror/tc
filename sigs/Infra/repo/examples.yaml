@@ -1,0 +1,10 @@
+name: examples
+description: openGauss examples
+type: public
+branches:
+  - name: examples-patch-1
+    type: ""
+  - name: revert-668366c
+    type: ""
+  - name: master
+    type: protected

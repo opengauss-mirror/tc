@@ -1,0 +1,151 @@
+name: Community
+sig_label: sig/Community
+sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/Community
+description: ""
+mailing_list: ""
+
+repositories:
+  - repo:
+      - opengauss
+      - opengauss/cantian
+      - opengauss/ansible-for-opengauss
+      - opengauss/bc
+      - opengauss/board
+      - opengauss/compatibility-assessment
+      - opengauss/dbms-fuzzing-scu
+      - opengauss/distribution-evaluation
+      - opengauss/hcom4db
+      - opengauss/landscope
+      - opengauss/migration-website
+      - opengauss/ngxdb-for-opengauss
+      - opengauss/ogx
+      - opengauss/open-gauss-cm-operator
+      - opengauss/open-gauss-compile-opt-tools
+      - opengauss/open-gauss-finance
+      - opengauss/open-gauss-server-multi-master
+      - opengauss/openGauss-CI
+      - opengauss/openGauss-DBMind-3rd
+      - opengauss/openGauss-User-Group
+      - opengauss/openGauss-batman
+      - opengauss/openGauss-connector-python-psycopg2
+      - opengauss/openGauss-container
+      - opengauss/openGauss-sandbox
+      - opengauss/openGauss-server-RackServer
+      - opengauss/openGauss-sqlalchemy
+      - opengauss/openGauss-test-toolset
+      - opengauss/openGauss-tools-guidence
+      - opengauss/openGauss-tools-ogtop
+      - opengauss/openGauss-wasm
+      - opengauss/ora-migration-tool
+      - opengauss/org-issue
+      - opengauss/practice-platform
+      - opengauss/quick-issue-website
+      - opengauss/tc
+      - opengauss/uc
+      - opengauss/WR
+      - opengauss/yukon
+    committers:
+      - gitee_id: shenzheng4
+        gitcode_id: shenzheng4
+        name: 申正
+        organization: ""
+        email: shenzheng4@huawei.com
+      - gitee_id: jemappellehc
+        gitcode_id: jemappellehc
+        name: 陈欢
+        organization: ""
+        email: 386956049@qq.com
+      - gitee_id: quemingjian
+        gitcode_id: quemingjian
+        name: 阙鸣健
+        organization: ""
+        email: quemingjian2@huawei.com
+      - gitee_id: superblaker
+        gitcode_id: superlchf
+        name: 柳长沣
+        organization: ""
+        email: superlchf@qq.com
+      - gitee_id: chendong76
+        gitcode_id: chendong76
+        name: 陈栋
+        organization: ""
+        email: chendong76@huawei.com
+      - gitee_id: totaj
+        gitcode_id: totaj
+        name: 彭炯
+        organization: huawei
+        email: pengjiong1@huawei.com
+      - gitee_id: gentle_hu
+        gitcode_id: CarrotGo
+        name: 胡正超
+        organization: ""
+        email: huzhengchao4@huawei.com
+      - gitee_id: congzhou2603
+        gitcode_id: congzhou2603
+        name: 周聪
+        organization: ""
+        email: zhoucong42@huawei.com
+      - gitee_id: struggle_hw
+        gitcode_id: hwworkholic
+        name: 陈琛
+        organization: ""
+        email: arcoalien@qq.com
+      - gitee_id: dodders
+        gitcode_id: dodders
+        name: 赖盛好
+        organization: ""
+        email: laishenghao1@huawei.com
+      - gitee_id: ""
+        gitcode_id: muyulinzhong
+        name: 宋世轩
+        organization: ""
+        email: ""
+      - gitee_id: chenxiaobin19
+        gitcode_id: chenxiaobin19
+        name: 陈晓滨
+        organization: ""
+        email: chenxiaobin19@huawei.com
+      - gitee_id: ywzq1161327784
+        gitcode_id: ywzq1161327784
+        name: 窦欣
+        organization: ""
+        email: douxin5@huawei.com
+
+
+  - repo:
+      - opengauss/compatibility-assessment
+    committers:
+      - gitee_id: hwhbj
+        gitcode_id: hw_hbj
+        name: 蒋宏博
+        organization: huawei
+        email: xdhbj0022@163.com
+      - gitee_id: ""
+        gitcode_id: wang_xingmiao
+        name: 王幸苗
+        organization: ""
+        email: ""
+
+  - repo:
+      - opengauss/WR
+    committers:
+      - gitee_id: ""
+        gitcode_id: zkcarl
+        name: 陈志凯
+        organization: ""
+        email: ""
+      - gitee_id: ""
+        gitcode_id: liuzhanfeng
+        name: 刘展峰
+        organization: ""
+        email: ""
+      - gitee_id: ""
+        gitcode_id: zym_2025
+        name: 张悦萌
+        organization: ""
+        email: ""
+      - gitee_id: ""
+        gitcode_id: jiangyan_jack
+        name: 姜岩
+        organization: ""
+        email: ""

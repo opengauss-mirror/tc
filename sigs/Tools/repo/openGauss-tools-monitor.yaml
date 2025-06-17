@@ -1,0 +1,8 @@
+name: openGauss-tools-monitor
+description: ""
+type: public
+branches:
+  - name: master_930
+    type: ""
+  - name: master
+    type: protected

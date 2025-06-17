@@ -1,0 +1,22 @@
+name: openGauss-connector-python-psycopg2
+description: ""
+type: public
+branches:
+  - name: 5.0.0
+    type: protected
+  - name: yq/fix-IAIE7I
+    type: ""
+  - name: master
+    type: protected
+  - name: 7.0.0-RC1
+    type: ""
+  - name: 6.0.0
+    type: protected
+  - name: 5.1.0
+    type: protected
+  - name: 3.1.0
+    type: protected
+  - name: 3.0.0
+    type: protected
+  - name: 2.1.0
+    type: protected

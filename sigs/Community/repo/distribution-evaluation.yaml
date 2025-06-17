@@ -1,0 +1,6 @@
+name: distribution-evaluation
+description: distribution evaluation
+type: public
+branches:
+  - name: master
+    type: protected

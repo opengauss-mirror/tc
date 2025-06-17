@@ -1,0 +1,16 @@
+name: hcom4db
+description: ""
+type: public
+branches:
+  - name: master
+    type: protected
+  - name: release
+    type: ""
+  - name: hotfix
+    type: ""
+  - name: feature
+    type: ""
+  - name: develop
+    type: ""
+  - name: 7.0.0-RC1
+    type: ""

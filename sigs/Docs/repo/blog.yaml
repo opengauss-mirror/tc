@@ -1,0 +1,10 @@
+name: blog
+description: openGauss official blog
+type: public
+branches:
+  - name: v2
+    type: protected
+  - name: stable
+    type: ""
+  - name: master
+    type: protected

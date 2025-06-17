@@ -1,0 +1,6 @@
+name: openGauss-sqlalchemy
+description: ""
+type: public
+branches:
+  - name: master
+    type: ""

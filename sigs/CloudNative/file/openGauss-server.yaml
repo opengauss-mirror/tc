@@ -1,0 +1,43 @@
+name: openGauss-server
+files:
+  - file:
+      - docker
+      - docker/dockerfiles
+      - docker/dockerfiles/1.1.0
+      - docker/dockerfiles/1.1.0/dockerfile_amd
+      - docker/dockerfiles/1.1.0/entrypoint.sh
+      - docker/dockerfiles/1.1.0/md5_file_amd64
+      - docker/dockerfiles/1.1.0/wal2json.so
+      - docker/dockerfiles/1.1.0/gosu-amd64
+      - docker/dockerfiles/1.1.0/md5_file_arm64
+      - docker/dockerfiles/1.1.0/openEuler_aarch64.repo
+      - docker/dockerfiles/1.1.0/dockerfile_arm
+      - docker/dockerfiles/1.1.0/gosu-arm64
+      - docker/dockerfiles/1.0.1
+      - docker/dockerfiles/1.0.1/dockerfile_amd
+      - docker/dockerfiles/1.0.1/entrypoint.sh
+      - docker/dockerfiles/1.0.1/md5_file_amd64
+      - docker/dockerfiles/1.0.1/gosu-amd64
+      - docker/dockerfiles/1.0.1/md5_file_arm64
+      - docker/dockerfiles/1.0.1/openEuler_aarch64.repo
+      - docker/dockerfiles/1.0.1/dockerfile_arm
+      - docker/dockerfiles/1.0.1/gosu-arm64
+      - docker/dockerfiles/create_master_slave.sh
+      - docker/dockerfiles/1.0.0
+      - docker/dockerfiles/1.0.0/dockerfile_amd
+      - docker/dockerfiles/1.0.0/entrypoint.sh
+      - docker/dockerfiles/1.0.0/md5_file_amd64
+      - docker/dockerfiles/1.0.0/gosu-amd64
+      - docker/dockerfiles/1.0.0/md5_file_arm64
+      - docker/dockerfiles/1.0.0/openEuler_aarch64.repo
+      - docker/dockerfiles/1.0.0/dockerfile_arm
+      - docker/dockerfiles/1.0.0/gosu-arm64
+      - docker/dockerfiles/buildDockerImage.sh
+      - docker/README.md
+    owner:
+      - gitee_id: zzzzzdb
+        # 需要补充 GitCode 用户ID
+        gitcode_id: ""
+        name: 朱彬
+        organization: cmbc
+        email: zzzzzdb_zb@163.com

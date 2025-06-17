@@ -1,0 +1,20 @@
+name: website
+description: openGauss official website
+type: public
+branches:
+  - name: feature/3.0
+    type: ""
+  - name: v2
+    type: ""
+  - name: release/gitcode
+    type: ""
+  - name: release/0426
+    type: ""
+  - name: stable
+    type: protected
+  - name: release/7.0.0-RC1
+    type: ""
+  - name: meeting
+    type: ""
+  - name: feature/7.0.0-RC1
+    type: ""
