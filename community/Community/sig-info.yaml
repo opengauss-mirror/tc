@@ -266,6 +266,11 @@ repositories:
           name: 刘桐
           organization: ""
           email: ""
+        - gitee_id: ""
+          gitcode_id: haomeng802
+          name: 郝梦
+          organization: ""
+          email: "15229369638@163.com"
 
     - repo:
         - opengauss/openGauss-embedded
