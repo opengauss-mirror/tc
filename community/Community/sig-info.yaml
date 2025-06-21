@@ -550,6 +550,11 @@ repositories:
           name: 窦欣
           organization: ""
           email: douxin5@huawei.com
+        - gitee_id: shirley_zhengx
+          gitcode_id: shirley_zhengx
+          name: 郑雪
+          organization: ""
+          email: zhengxue6@huawei.com
     - repo:
         - opengauss/cantian
       committers:
