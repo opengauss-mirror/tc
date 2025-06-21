@@ -46,7 +46,7 @@ repositories:
           email: zilan1986@163.com
 
     - repo:
-        - opengauss/WR
+        - opengauss/oGRecorder
       committers:
         - gitee_id: ""
           gitcode_id: zkcarl
