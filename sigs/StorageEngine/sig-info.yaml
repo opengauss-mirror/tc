@@ -4,23 +4,6 @@ sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/StorageEngine
 description: ""
 mailing_list: storageengine@opengauss.org
 maintainers:
-  - gitee_id: nonolili527
-    gitcode_id: nonolili527
-    name: 王磊
-    organization: huawei
-    email: wanglei110@huawei.com
-  - gitee_id: jinyu_opengauss
-    # 需要补充 GitCode 用户ID
-    gitcode_id: ""
-    name: 张金玉
-    organization: ""
-    email: Jinyu_gaussdb@163.com
-  - gitee_id: general-jiang
-    # 需要补充 GitCode 用户ID
-    gitcode_id: ""
-    name: 蒋将军
-    organization: huawei
-    email: jiangjiangjun@huawei.com
   - gitee_id: guqiang_opengauss
     # 需要补充 GitCode 用户ID
     gitcode_id: ""
@@ -37,18 +20,6 @@ repositories:
       - opengauss/openGauss-server
       - opengauss/openGauss-third_party
     committers:
-      - gitee_id: vinothv
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: Vinoth
-        organization: ""
-        email: vinoth.veeraraghavan@hotmail.com
-      - gitee_id: lishuaituan
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 李帅团
-        organization: huawei
-        email: hw.lishuaituan@huawei.com
       - gitee_id: xiong_xjun
         gitcode_id: xiong_xjun
         name: 熊小军
@@ -106,11 +77,6 @@ repositories:
         name: 陈晓滨
         organization: huawei
         email: chenxiaobin19@huawei.com
-      - gitee_id: rain-666
-        gitcode_id: rain-666
-        name: 陈晓雨
-        organization: huawei
-        email: chenxiaoyu12@huawei.com
       - gitee_id: congzhou2603
         gitcode_id: congzhou2603
         name: 周聪
@@ -147,11 +113,6 @@ repositories:
         name: 李标
         organization: ""
         email: 1102510224@qq.com
-      - gitee_id: zhangfengzhi123
-        gitcode_id: zhangfengzhi123
-        name: 张凤治
-        organization: ""
-        email: 364064048@qq.com
       - gitee_id: ""
         gitcode_id: wangfeihuo
         name: 王飞活
