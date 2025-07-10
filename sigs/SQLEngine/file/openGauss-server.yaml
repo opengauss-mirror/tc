@@ -214,11 +214,11 @@ files:
       - src/gausskernel/optimizer/rewrite/Makefile
       - src/gausskernel/optimizer/Makefile
     owner:
-      - gitee_id: ziki77
-        gitcode_id: ziki77
-        name: 周兆琦
+      - gitee_id: totaj
+        gitcode_id: totaj
+        name: 彭炯
         organization: huawei
-        email: zhouzhaoqi1@huawei.com
+        email: pengjiong1@huawei.com
   - file:
       - src/gausskernel/CMakeLists.txt
       - src/gausskernel/Makefile_for_llt
@@ -267,11 +267,11 @@ files:
       - src/gausskernel/process/postmaster/cbmwriter.cpp
       - src/gausskernel/process/postmaster/aiocompleter.cpp
     owner:
-      - gitee_id: gentle_hu
-        gitcode_id: CarrotGo
-        name: 胡正超
+      - gitee_id: dodders
+        gitcode_id: dodders
+        name: 赖盛好
         organization: huawei
-        email: gentle_hu@qq.com
+        email: laishenghao1@huawei.com
   - file:
       - src/gausskernel/process/stream
       - src/gausskernel/process/stream/execStream.cpp
@@ -284,11 +284,11 @@ files:
       - src/gausskernel/process/stream/Makefile
       - src/gausskernel/process/stream/streamMain.cpp
     owner:
-      - gitee_id: yanghaos
-        gitcode_id: yanghaos
-        name: 杨皓
+      - gitee_id: superblaker
+        gitcode_id: superlchf
+        name: 柳长沣
         organization: huawei
-        email: yanghao37@huawei.com
+        email: superlchf@qq.com
   - file:
       - src/gausskernel/process/CMakeLists.txt
       - src/gausskernel/process/globalplancache
@@ -299,12 +299,11 @@ files:
       - src/gausskernel/process/globalplancache/globalplancache.cpp
       - src/gausskernel/process/globalplancache/Makefile
     owner:
-      - gitee_id: chenhao7253886
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: chenhao
+      - gitee_id: superblaker
+        gitcode_id: superlchf
+        name: 柳长沣
         organization: huawei
-        email: chenhao220@huawei.com
+        email: superlchf@qq.com
   - file:
       - src/gausskernel/process/threadpool
       - src/gausskernel/process/threadpool/knl_session.cpp
@@ -321,11 +320,11 @@ files:
       - src/gausskernel/process/threadpool/threadpool_group.cpp
       - src/gausskernel/process/threadpool/knl_thread.cpp
     owner:
-      - gitee_id: yanghaos
-        gitcode_id: yanghaos
-        name: 杨皓
+      - gitee_id: dodders
+        gitcode_id: dodders
+        name: 赖盛好
         organization: huawei
-        email: yanghao37@huawei.com
+        email: laishenghao1@huawei.com
   - file:
       - src/gausskernel/process/tcop
       - src/gausskernel/process/tcop/dest.cpp
@@ -414,12 +413,11 @@ files:
       - src/gausskernel/runtime/opfusion/opfusion_selectforupdate.cpp
       - src/gausskernel/runtime/opfusion/opfusion_delete.cpp
     owner:
-      - gitee_id: chenhao7253886
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: chenhao
+      - gitee_id: totaj
+        gitcode_id: totaj
+        name: 彭炯
         organization: huawei
-        email: chenhao220@huawei.com
+        email: pengjiong1@huawei.com
   - file:
       - src/gausskernel/runtime/executor
       - src/gausskernel/runtime/executor/spiDbesql.cpp
@@ -486,11 +484,11 @@ files:
       - src/gausskernel/runtime/executor/nodeNestloop.cpp
       - src/gausskernel/runtime/executor/nodeIndexonlyscan.cpp
     owner:
-      - gitee_id: yanghaos
-        gitcode_id: yanghaos
-        name: 杨皓
+      - gitee_id: totaj
+        gitcode_id: totaj
+        name: 彭炯
         organization: huawei
-        email: yanghao37@huawei.com
+        email: pengjiong1@huawei.com
   - file:
       - src/gausskernel/runtime/Makefile
       - src/gausskernel/runtime/vecexecutor
@@ -571,11 +569,11 @@ files:
       - src/gausskernel/runtime/vecexecutor/vecprimitive/int8.inl
       - src/gausskernel/runtime/vecexecutor/vecprimitive/int4.inl
     owner:
-      - gitee_id: gentle_hu
-        gitcode_id: CarrotGo
-        name: 胡正超
+      - gitee_id: yanghaos
+        gitcode_id: yanghaos
+        name: 杨皓
         organization: huawei
-        email: gentle_hu@qq.com
+        email: yanghao37@huawei.com
   - file:
       - src/gausskernel/nls.mk
       - src/gausskernel/common.mk
@@ -640,11 +638,11 @@ files:
       - src/gausskernel/cbb/utils/zfiles/zip_file.cpp
       - src/gausskernel/cbb/utils/zfiles/Makefile
     owner:
-      - gitee_id: ziki77
-        gitcode_id: ziki77
-        name: 周兆琦
+      - gitee_id: dodders
+        gitcode_id: dodders
+        name: 赖盛好
         organization: huawei
-        email: zhouzhaoqi1@huawei.com
+        email: laishenghao1@huawei.com
   - file:
       - src/gausskernel/cbb/bbox
       - src/gausskernel/cbb/bbox/bbox_elf_dump_base.cpp
@@ -696,11 +694,11 @@ files:
       - src/gausskernel/cbb/workload/workload.cpp
       - src/gausskernel/cbb/workload/spmgr.cpp
     owner:
-      - gitee_id: gentle_hu
-        gitcode_id: CarrotGo
-        name: 胡正超
+      - gitee_id: dodders
+        gitcode_id: dodders
+        name: 赖盛好
         organization: huawei
-        email: gentle_hu@qq.com
+        email: laishenghao1@huawei.com
   - file:
       - src/gausskernel/cbb/extension
       - src/gausskernel/cbb/extension/foreign
@@ -729,200 +727,6 @@ files:
         name: 彭炯
         organization: huawei
         email: pengjiong1@huawei.com
-  - file:
-      - src/gausskernel/cbb/instruments
-      - src/gausskernel/cbb/instruments/wdr
-      - src/gausskernel/cbb/instruments/wdr/CMakeLists.txt
-      - src/gausskernel/cbb/instruments/wdr/snapshot.cpp
-      - src/gausskernel/cbb/instruments/wdr/dblink_query.cpp
-      - src/gausskernel/cbb/instruments/wdr/generate_report.cpp
-      - src/gausskernel/cbb/instruments/wdr/Makefile
-      - src/gausskernel/cbb/instruments/slow_query
-      - src/gausskernel/cbb/instruments/slow_query/CMakeLists.txt
-      - src/gausskernel/cbb/instruments/slow_query/gs_stat.cpp
-      - src/gausskernel/cbb/instruments/slow_query/instr_slow_query_log.cpp
-      - src/gausskernel/cbb/instruments/slow_query/instr_slow_query.cpp
-      - src/gausskernel/cbb/instruments/slow_query/Makefile
-      - src/gausskernel/cbb/instruments/utils
-      - src/gausskernel/cbb/instruments/utils/unique_query.cpp
-      - src/gausskernel/cbb/instruments/utils/CMakeLists.txt
-      - src/gausskernel/cbb/instruments/utils/list.cpp
-      - src/gausskernel/cbb/instruments/utils/Makefile
-      - src/gausskernel/cbb/instruments/statement
-      - src/gausskernel/cbb/instruments/statement/instr_handle_mgr.cpp
-      - src/gausskernel/cbb/instruments/statement/CMakeLists.txt
-      - src/gausskernel/cbb/instruments/statement/instr_statement.cpp
-      - src/gausskernel/cbb/instruments/statement/Makefile
-      - src/gausskernel/cbb/instruments/CMakeLists.txt
-      - src/gausskernel/cbb/instruments/workload
-      - src/gausskernel/cbb/instruments/workload/instr_workload.cpp
-      - src/gausskernel/cbb/instruments/workload/CMakeLists.txt
-      - src/gausskernel/cbb/instruments/workload/Makefile
-      - src/gausskernel/cbb/instruments/percentile
-      - src/gausskernel/cbb/instruments/percentile/CMakeLists.txt
-      - src/gausskernel/cbb/instruments/percentile/percentile.cpp
-      - src/gausskernel/cbb/instruments/percentile/Makefile
-      - src/gausskernel/cbb/instruments/gs_stack
-      - src/gausskernel/cbb/instruments/gs_stack/CMakeLists.txt
-      - src/gausskernel/cbb/instruments/gs_stack/stack_perf_main.cpp
-      - src/gausskernel/cbb/instruments/gs_stack/gs_stack.cpp
-      - src/gausskernel/cbb/instruments/gs_stack/Makefile
-      - src/gausskernel/cbb/instruments/README
-      - src/gausskernel/cbb/instruments/ash
-      - src/gausskernel/cbb/instruments/ash/CMakeLists.txt
-      - src/gausskernel/cbb/instruments/ash/wait_event_info.cpp
-      - src/gausskernel/cbb/instruments/ash/ash.cpp
-      - src/gausskernel/cbb/instruments/ash/Makefile
-      - src/gausskernel/cbb/instruments/unique_sql
-      - src/gausskernel/cbb/instruments/unique_sql/CMakeLists.txt
-      - src/gausskernel/cbb/instruments/unique_sql/instr_unique_sql.cpp
-      - src/gausskernel/cbb/instruments/unique_sql/Makefile
-      - src/gausskernel/cbb/instruments/user
-      - src/gausskernel/cbb/instruments/user/CMakeLists.txt
-      - src/gausskernel/cbb/instruments/user/Makefile
-      - src/gausskernel/cbb/instruments/user/instr_user.cpp
-      - src/gausskernel/cbb/instruments/capture_view
-      - src/gausskernel/cbb/instruments/capture_view/capture_view.cpp
-      - src/gausskernel/cbb/instruments/capture_view/CMakeLists.txt
-      - src/gausskernel/cbb/instruments/capture_view/Makefile
-      - src/gausskernel/cbb/instruments/event
-      - src/gausskernel/cbb/instruments/event/CMakeLists.txt
-      - src/gausskernel/cbb/instruments/event/Makefile
-      - src/gausskernel/cbb/instruments/event/instr_waitevent.cpp
-      - src/gausskernel/cbb/instruments/Makefile
-      - src/gausskernel/cbb/instruments/func_control
-      - src/gausskernel/cbb/instruments/func_control/instr_func_control.cpp
-      - src/gausskernel/cbb/instruments/func_control/CMakeLists.txt
-      - src/gausskernel/cbb/instruments/func_control/Makefile
-    owner:
-      - gitee_id: windxd
-        gitcode_id: windxd
-        name: 刁现峰
-        organization: huawei
-        email: diaoxianfeng@huawei.com
-  - file:
-      - src/gausskernel/cbb/Makefile
-      - src/gausskernel/cbb/communication
-      - src/gausskernel/cbb/communication/comm_proxy
-      - src/gausskernel/cbb/communication/comm_proxy/comm_sock.cpp
-      - src/gausskernel/cbb/communication/comm_proxy/gs_gazelle.conf.sample
-      - src/gausskernel/cbb/communication/comm_proxy/CMakeLists.txt
-      - src/gausskernel/cbb/communication/comm_proxy/comm_proxy.cpp
-      - src/gausskernel/cbb/communication/comm_proxy/comm_connection.h
-      - src/gausskernel/cbb/communication/comm_proxy/comm_connection.cpp
-      - src/gausskernel/cbb/communication/comm_proxy/comm_buffer.cpp
-      - src/gausskernel/cbb/communication/comm_proxy/comm_common.cpp
-      - src/gausskernel/cbb/communication/comm_proxy/comm_proxy.h
-      - src/gausskernel/cbb/communication/comm_proxy/comm_thread.cpp
-      - src/gausskernel/cbb/communication/comm_proxy/comm_interface.cpp
-      - src/gausskernel/cbb/communication/comm_proxy/comm_core.h
-      - src/gausskernel/cbb/communication/comm_proxy/Makefile
-      - src/gausskernel/cbb/communication/comm_proxy/comm_dfx.cpp
-      - src/gausskernel/cbb/communication/comm_proxy/comm_core.cpp
-      - src/gausskernel/cbb/communication/comm_proxy/comm_adapter.h
-      - src/gausskernel/cbb/communication/comm_proxy/comm_controller.cpp
-      - src/gausskernel/cbb/communication/libcomm_utils
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_list.cpp
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_thread.h
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_client_ssl.cpp
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_lqueue.h
-      - src/gausskernel/cbb/communication/libcomm_utils/CMakeLists.txt
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_attr.h
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_atomics.h
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_perf.cpp
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_err.cpp
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_list.h
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_cont.h
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_queue.h
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_adapter.cpp
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_queue.cpp
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_interface.cpp
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_memory.cpp
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_message.h
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_errno-comlib.h
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_lqueue.cpp
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_util.h
-      - src/gausskernel/cbb/communication/libcomm_utils/Makefile
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_server_ssl.cpp
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_err.h
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_lock_free_queue.h
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_util.cpp
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_shakehands.cpp
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_thread.cpp
-      - src/gausskernel/cbb/communication/libcomm_utils/libcomm_lock_free_queue.cpp
-      - src/gausskernel/cbb/communication/libcomm.cpp
-      - src/gausskernel/cbb/communication/CMakeLists.txt
-      - src/gausskernel/cbb/communication/libcomm_core
-      - src/gausskernel/cbb/communication/libcomm_core/mc_tcp.h
-      - src/gausskernel/cbb/communication/libcomm_core/mc_poller_epoll.cpp
-      - src/gausskernel/cbb/communication/libcomm_core/CMakeLists.txt
-      - src/gausskernel/cbb/communication/libcomm_core/mc_poller.h
-      - src/gausskernel/cbb/communication/libcomm_core/mc_tcp.cpp
-      - src/gausskernel/cbb/communication/libcomm_core/Makefile
-      - src/gausskernel/cbb/communication/libcomm_core/mc_poller_epoll.h
-      - src/gausskernel/cbb/communication/libcomm_common.cpp
-      - src/gausskernel/cbb/communication/libcomm_common.h
-      - src/gausskernel/cbb/communication/Makefile
-    owner:
-      - gitee_id: gentle_hu
-        gitcode_id: CarrotGo
-        name: 胡正超
-        organization: huawei
-        email: gentle_hu@qq.com
-  - file:
-      - src/gausskernel/Makefile
-      - src/Makefile.shlib
-      - src/win32.mak
-      - src/include
-      - src/include/dfs_config.h
-      - src/include/cstore.h
-      - src/include/lite
-      - src/include/lite/memory_lite.h
-      - src/include/c.h
-      - src/include/dfsdesc.h
-      - src/include/snowball
-      - src/include/snowball/libstemmer
-      - src/include/snowball/libstemmer/stem_ISO_8859_1_danish.h
-      - src/include/snowball/libstemmer/api.h
-      - src/include/snowball/libstemmer/stem_UTF_8_swedish.h
-      - src/include/snowball/libstemmer/stem_UTF_8_porter.h
-      - src/include/snowball/libstemmer/stem_ISO_8859_1_porter.h
-      - src/include/snowball/libstemmer/stem_ISO_8859_1_portuguese.h
-      - src/include/snowball/libstemmer/stem_UTF_8_english.h
-      - src/include/snowball/libstemmer/header.h
-      - src/include/snowball/libstemmer/stem_UTF_8_norwegian.h
-      - src/include/snowball/libstemmer/stem_KOI8_R_russian.h
-      - src/include/snowball/libstemmer/stem_ISO_8859_2_romanian.h
-      - src/include/snowball/libstemmer/stem_ISO_8859_1_dutch.h
-      - src/include/snowball/libstemmer/stem_UTF_8_romanian.h
-      - src/include/snowball/libstemmer/stem_UTF_8_spanish.h
-      - src/include/snowball/libstemmer/stem_UTF_8_russian.h
-      - src/include/snowball/libstemmer/stem_ISO_8859_1_finnish.h
-      - src/include/snowball/libstemmer/stem_UTF_8_turkish.h
-      - src/include/snowball/libstemmer/stem_UTF_8_hungarian.h
-      - src/include/snowball/libstemmer/stem_ISO_8859_1_italian.h
-      - src/include/snowball/libstemmer/stem_ISO_8859_1_german.h
-      - src/include/snowball/libstemmer/stem_UTF_8_french.h
-      - src/include/snowball/libstemmer/stem_UTF_8_dutch.h
-      - src/include/snowball/libstemmer/stem_ISO_8859_1_english.h
-      - src/include/snowball/libstemmer/stem_UTF_8_finnish.h
-      - src/include/snowball/libstemmer/stem_ISO_8859_1_hungarian.h
-      - src/include/snowball/libstemmer/stem_UTF_8_german.h
-      - src/include/snowball/libstemmer/stem_UTF_8_portuguese.h
-      - src/include/snowball/libstemmer/stem_ISO_8859_1_spanish.h
-      - src/include/snowball/libstemmer/stem_ISO_8859_1_french.h
-      - src/include/snowball/libstemmer/stem_UTF_8_danish.h
-      - src/include/snowball/libstemmer/stem_UTF_8_italian.h
-      - src/include/snowball/libstemmer/stem_ISO_8859_1_norwegian.h
-      - src/include/snowball/libstemmer/stem_ISO_8859_1_swedish.h
-      - src/include/snowball/header.h
-    owner:
-      - gitee_id: chenhao7253886
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: chenhao
-        organization: huawei
-        email: chenhao220@huawei.com
   - file:
       - src/include/gaussdb_version.h
       - src/include/codegen
@@ -957,12 +761,11 @@ files:
       - src/include/fmgr/fmgr_core.h
       - src/include/fmgr/fmgr_comp.h
     owner:
-      - gitee_id: chenhao7253886
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: chenhao
+      - gitee_id: dodders
+        gitcode_id: dodders
+        name: 赖盛好
         organization: huawei
-        email: chenhao220@huawei.com
+        email: laishenghao1@huawei.com
   - file:
       - src/include/postmaster
       - src/include/postmaster/autovacuum.h
@@ -1217,162 +1020,11 @@ files:
       - src/include/datatype
       - src/include/datatype/timestamp.h
     owner:
-      - gitee_id: ziki77
-        gitcode_id: ziki77
-        name: 周兆琦
+      - gitee_id: totaj
+        gitcode_id: totaj
+        name: 彭炯
         organization: huawei
-        email: zhouzhaoqi1@huawei.com
-  - file:
-      - src/include/windowapi.h
-      - src/include/replication
-      - src/include/replication/datareceiver.h
-      - src/include/replication/repl.h
-      - src/include/replication/rto_statistic.h
-      - src/include/replication/syncrep.h
-      - src/include/replication/heartbeat.h
-      - src/include/replication/syncrep_gramparse.h
-      - src/include/replication/logicalproto.h
-      - src/include/replication/decode.h
-      - src/include/replication/basebackup.h
-      - src/include/replication/dcf_data.h
-      - src/include/replication/logicalrelation.h
-      - src/include/replication/subscription_walreceiver.h
-      - src/include/replication/datasyncrep.h
-      - src/include/replication/heartbeat
-      - src/include/replication/heartbeat/libpq
-      - src/include/replication/heartbeat/libpq/libpq-be.h
-      - src/include/replication/heartbeat/libpq/libpq.h
-      - src/include/replication/heartbeat/libpq/libpq-fe.h
-      - src/include/replication/heartbeat/libpq/pqcomm.h
-      - src/include/replication/heartbeat/heartbeat_client.h
-      - src/include/replication/heartbeat/heartbeat_server.h
-      - src/include/replication/heartbeat/heartbeat_conn.h
-      - src/include/replication/datasender_private.h
-      - src/include/replication/pgoutput.h
-      - src/include/replication/shared_storage_walreceiver.h
-      - src/include/replication/logicallauncher.h
-      - src/include/replication/logical_queue.h
-      - src/include/replication/slot.h
-      - src/include/replication/reorderbuffer.h
-      - src/include/replication/worker_internal.h
-      - src/include/replication/snapbuild.h
-      - src/include/replication/dcf_replication.h
-      - src/include/replication/archive_walreceiver.h
-      - src/include/replication/walsender_private.h
-      - src/include/replication/logical.h
-      - src/include/replication/parallel_decode_worker.h
-      - src/include/replication/dataqueuedefs.h
-      - src/include/replication/bcm.h
-      - src/include/replication/datasender.h
-      - src/include/replication/walreceiver.h
-      - src/include/replication/syncrep_gram.hpp
-      - src/include/replication/output_plugin.h
-      - src/include/replication/replicainternal.h
-      - src/include/replication/logicalworker.h
-      - src/include/replication/repl_gramparse.h
-      - src/include/replication/logicalfuncs.h
-      - src/include/replication/libpqwalreceiver.h
-      - src/include/replication/walsender.h
-      - src/include/replication/dataqueue.h
-      - src/include/replication/parallel_decode.h
-      - src/include/replication/catchup.h
-      - src/include/replication/repl_gram.hpp
-      - src/include/replication/origin.h
-      - src/include/replication/logical_parse.h
-      - src/include/replication/parallel_reorderbuffer.h
-      - src/include/replication/dataprotocol.h
-      - src/include/replication/walprotocol.h
-      - src/include/replication/dcf_flowcontrol.h
-    owner:
-      - gitee_id: nonolili527
-        gitcode_id: nonolili527
-        name: 王磊
-        organization: huawei
-        email: wanglei110@huawei.com
-  - file:
-      - src/include/pg_config_os.h
-      - src/include/gstrace
-      - src/include/gstrace/funcs.comps.h
-      - src/include/gstrace/rewrite_gstrace.h
-      - src/include/gstrace/executer_gstrace.h
-      - src/include/gstrace/pg_ctl_gstrace.h
-      - src/include/gstrace/bootstrap_gstrace.h
-      - src/include/gstrace/common_gstrace.h
-      - src/include/gstrace/postmaster_gstrace.h
-      - src/include/gstrace/comps.h
-      - src/include/gstrace/commands_gstrace.h
-      - src/include/gstrace/utils_gstrace.h
-      - src/include/gstrace/tsearch_gstrace.h
-      - src/include/gstrace/optimizer_gstrace.h
-      - src/include/gstrace/access_gstrace.h
-      - src/include/gstrace/catalog_gstrace.h
-      - src/include/gstrace/gstrace_tool.h
-      - src/include/gstrace/vecexecutor_gstrace.h
-      - src/include/gstrace/libpq_gstrace.h
-      - src/include/gstrace/parser_gstrace.h
-      - src/include/gstrace/storage_gstrace.h
-      - src/include/gstrace/gstrace_infra_int.h
-      - src/include/gstrace/wlm_gstrace.h
-      - src/include/gstrace/tcop_gstrace.h
-      - src/include/gstrace/system_gstrace.h
-      - src/include/gstrace/gstrace_infra.h
-      - src/include/gstrace/replication_gstrace.h
-    owner:
-      - gitee_id: windxd
-        gitcode_id: windxd
-        name: 刁现峰
-        organization: huawei
-        email: diaoxianfeng@huawei.com
-  - file:
-      - src/include/gs_bbox.h
-      - src/include/miscadmin.h
-      - src/include/workload
-      - src/include/workload/gscgroup.h
-      - src/include/workload/qnode.h
-      - src/include/workload/workload.h
-      - src/include/workload/statctl.h
-      - src/include/workload/parctl.h
-      - src/include/workload/cpwlm.h
-      - src/include/workload/dywlm_server.h
-      - src/include/workload/commgr.h
-      - src/include/workload/memctl.h
-      - src/include/workload/dywlm_client.h
-      - src/include/workload/ctxctl.h
-      - src/include/workload/ioschdl.h
-    owner:
-      - gitee_id: gentle_hu
-        gitcode_id: CarrotGo
-        name: 胡正超
-        organization: huawei
-        email: gentle_hu@qq.com
-  - file:
-      - src/include/cm
-      - src/include/cm/be_module.h
-      - src/include/cm/path.h
-      - src/include/cm/libpq-int.h
-      - src/include/cm/cm_misc.h
-      - src/include/cm/ip.h
-      - src/include/cm/elog.h
-      - src/include/cm/pqformat.h
-      - src/include/cm/pqexpbuffer.h
-      - src/include/cm/cm_c.h
-      - src/include/cm/libpq-be.h
-      - src/include/cm/stringinfo.h
-      - src/include/cm/etcdapi.h
-      - src/include/cm/pqsignal.h
-      - src/include/cm/libpq.h
-      - src/include/cm/cm_ip.h
-      - src/include/cm/cm_errcodes.h
-      - src/include/cm/libpq-fe.h
-      - src/include/cm/cm_msg.h
-      - src/include/cm/pqcomm.h
-      - src/include/cm/cm_cgroup.h
-    owner:
-      - gitee_id: yz_db
-        gitcode_id: yz_db
-        name: 于正
-        organization: huawei
-        email: yuzheng3@huawei.com
+        email: pengjiong1@huawei.com
   - file:
       - src/include/funcapi.h
       - src/include/knl
@@ -1453,12 +1105,11 @@ files:
       - src/include/pgxc/poolutils.h
       - src/include/pgxc/pgxcnode.h
     owner:
-      - gitee_id: chenhao7253886
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: chenhao
+      - gitee_id: totaj
+        gitcode_id: totaj
+        name: 彭炯
         organization: huawei
-        email: chenhao220@huawei.com
+        email: pengjiong1@huawei.com
   - file:
       - src/include/commands
       - src/include/commands/async.h
@@ -1519,32 +1170,6 @@ files:
       - src/include/alarm/gs_server_network.h
       - src/include/alarm/gs_server.h
       - src/include/gen_alloc.h
-      - src/include/client_logic
-      - src/include/client_logic/client_logic_enums.h
-      - src/include/client_logic/cache.h
-      - src/include/client_logic/client_logic.h
-      - src/include/client_logic/client_logic_proc.h
-      - src/include/client_logic/cstrings_map.h
-      - src/include/libpq
-      - src/include/libpq/hba.h
-      - src/include/libpq/libpq-events.h
-      - src/include/libpq/libpq-int.h
-      - src/include/libpq/cl_state.h
-      - src/include/libpq/ip.h
-      - src/include/libpq/sha2.h
-      - src/include/libpq/pqformat.h
-      - src/include/libpq/libpq-fs.h
-      - src/include/libpq/pqexpbuffer.h
-      - src/include/libpq/guc_vars.h
-      - src/include/libpq/libpq-be.h
-      - src/include/libpq/crypt.h
-      - src/include/libpq/pqsignal.h
-      - src/include/libpq/libpq.h
-      - src/include/libpq/auth.h
-      - src/include/libpq/libpq-fe.h
-      - src/include/libpq/be-fsstubs.h
-      - src/include/libpq/md5.h
-      - src/include/libpq/pqcomm.h
       - src/include/tsearch
       - src/include/tsearch/ts_zh_ngram.h
       - src/include/tsearch/ts_zh_pound.h
@@ -2261,26 +1886,11 @@ files:
       - src/include/catalog/pgxc_group.h
       - src/include/catalog/pg_largeobject.h
     owner:
-      - gitee_id: nonolili527
-        gitcode_id: nonolili527
-        name: 王磊
+      - gitee_id: superblaker
+        gitcode_id: superlchf
+        name: 柳长沣
         organization: huawei
-        email: wanglei110@huawei.com
-  - file:
-      - src/include/ssl
-      - src/include/ssl/openssl_etcd.cnf
-      - src/include/ssl/gs_openssl_client.h
-      - src/include/ssl/openssl_grpc.cnf
-      - src/include/ssl/openssl_om.cnf
-      - src/include/ssl/openssl_gsql.cnf
-      - src/include/securec.h
-    owner:
-      - gitee_id: jianfenglee
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 李建峰
-        organization: huawei
-        email: bigtimer@qq.com
+        email: superlchf@qq.com
   - file:
       - src/include/gs_tar_const.h
       - src/include/parser
@@ -2312,12 +1922,11 @@ files:
       - src/include/parser/parsetree.h
       - src/include/parser/parse_coerce.h
     owner:
-      - gitee_id: chenhao7253886
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: chenhao
+      - gitee_id: dodders
+        gitcode_id: dodders
+        name: 赖盛好
         organization: huawei
-        email: chenhao220@huawei.com
+        email: laishenghao1@huawei.com
   - file:
       - src/include/cipher.h
       - src/include/port.h
@@ -2328,40 +1937,11 @@ files:
       - src/include/service
       - src/include/service/remote_read_client.h
     owner:
-      - gitee_id: gentle_hu
-        gitcode_id: CarrotGo
-        name: 胡正超
+      - gitee_id: dodders
+        gitcode_id: dodders
+        name: 赖盛好
         organization: huawei
-        email: gentle_hu@qq.com
-  - file:
-      - src/include/instruments
-      - src/include/instruments/instr_statement.h
-      - src/include/instruments/capture_view.h
-      - src/include/instruments/unique_query.h
-      - src/include/instruments/instr_unique_sql.h
-      - src/include/instruments/list.h
-      - src/include/instruments/gs_stack.h
-      - src/include/instruments/instr_event.h
-      - src/include/instruments/gs_stat.h
-      - src/include/instruments/instr_slow_query.h
-      - src/include/instruments/instr_handle_mgr.h
-      - src/include/instruments/unique_sql_basic.h
-      - src/include/instruments/snapshot.h
-      - src/include/instruments/instr_func_control.h
-      - src/include/instruments/instr_waitevent.h
-      - src/include/instruments/percentile.h
-      - src/include/instruments/generate_report.h
-      - src/include/instruments/instr_user.h
-      - src/include/instruments/dblink_query.h
-      - src/include/instruments/ash.h
-      - src/include/instruments/instr_slow_query_log.h
-      - src/include/instruments/instr_workload.h
-    owner:
-      - gitee_id: windxd
-        gitcode_id: windxd
-        name: 刁现峰
-        organization: huawei
-        email: diaoxianfeng@huawei.com
+        email: laishenghao1@huawei.com
   - file:
       - src/include/vectorsonic
       - src/include/vectorsonic/vsonicfilesource.h
@@ -2379,11 +1959,11 @@ files:
       - src/include/pgaudit.h
       - src/include/pg_config.h.in
     owner:
-      - gitee_id: gentle_hu
-        gitcode_id: CarrotGo
-        name: 胡正超
+      - gitee_id: yanghaos
+        gitcode_id: yanghaos
+        name: 杨皓
         organization: huawei
-        email: gentle_hu@qq.com
+        email: yanghao37@huawei.com
   - file:
       - src/include/postgres_fe.h
       - src/include/distributelayer
@@ -2502,11 +2082,11 @@ files:
       - src/include/common/config
       - src/include/common/config/cm_config.h
     owner:
-      - gitee_id: ziki77
-        gitcode_id: ziki77
-        name: 周兆琦
+      - gitee_id: totaj
+        gitcode_id: totaj
+        name: 彭炯
         organization: huawei
-        email: zhouzhaoqi1@huawei.com
+        email: pengjiong1@huawei.com
   - file:
       - src/include/opfusion
       - src/include/opfusion/opfusion_util.h
@@ -2525,12 +2105,11 @@ files:
       - src/include/opfusion/opfusion_mot.h
       - src/include/opfusion/opfusion_insert.h
     owner:
-      - gitee_id: chenhao7253886
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: chenhao
+      - gitee_id: totaj
+        gitcode_id: totaj
+        name: 彭炯
         organization: huawei
-        email: chenhao220@huawei.com
+        email: pengjiong1@huawei.com
   - file:
       - src/include/executor
       - src/include/executor/exec
@@ -2589,11 +2168,11 @@ files:
       - src/include/executor/node/nodeBitmapHeapscan.h
       - src/include/executor/spi_priv.h
     owner:
-      - gitee_id: yanghaos
-        gitcode_id: yanghaos
-        name: 杨皓
+      - gitee_id: superblaker
+        gitcode_id: superlchf
+        name: 柳长沣
         organization: huawei
-        email: yanghao37@huawei.com
+        email: superlchf@qq.com
   - file:
       - src/include/rewrite
       - src/include/rewrite/rewriteRemove.h
@@ -2604,11 +2183,11 @@ files:
       - src/include/rewrite/rewriteRlsPolicy.h
       - src/include/rewrite/rewriteHandler.h
     owner:
-      - gitee_id: ziki77
-        gitcode_id: ziki77
-        name: 周兆琦
+      - gitee_id: superblaker
+        gitcode_id: superlchf
+        name: 柳长沣
         organization: huawei
-        email: zhouzhaoqi1@huawei.com
+        email: superlchf@qq.com
   - file:
       - src/include/pgtime.h
       - src/include/Makefile
@@ -2678,163 +2257,12 @@ files:
       - src/include/iprange
       - src/include/iprange/iprange.h
       - src/include/datatypes.h
-      - src/include/communication
-      - src/include/communication/commproxy_basic.h
-      - src/include/communication/commproxy_interface.h
-      - src/include/communication/commproxy_dfx.h
-      - src/include/communication/libnet_extern.h
     owner:
-      - gitee_id: gentle_hu
-        gitcode_id: CarrotGo
-        name: 胡正超
+      - gitee_id: yanghaos
+        gitcode_id: yanghaos
+        name: 杨皓
         organization: huawei
-        email: gentle_hu@qq.com
-  - file:
-      - src/include/access
-      - src/include/access/cstore_vector.h
-      - src/include/access/spgist_private.h
-      - src/include/access/slru.h
-      - src/include/access/clog.h
-      - src/include/access/parallel_recovery
-      - src/include/access/parallel_recovery/spsc_blocking_queue.h
-      - src/include/access/parallel_recovery/posix_semaphore.h
-      - src/include/access/parallel_recovery/page_redo.h
-      - src/include/access/parallel_recovery/dispatcher.h
-      - src/include/access/parallel_recovery/redo_item.h
-      - src/include/access/parallel_recovery/txn_redo.h
-      - src/include/access/redo_statistic_msg.h
-      - src/include/access/gtm.h
-      - src/include/access/cstore_roughcheck_func.h
-      - src/include/access/sysattr.h
-      - src/include/access/extreme_rto
-      - src/include/access/extreme_rto/spsc_blocking_queue.h
-      - src/include/access/extreme_rto/posix_semaphore.h
-      - src/include/access/extreme_rto/page_redo.h
-      - src/include/access/extreme_rto/dispatcher.h
-      - src/include/access/extreme_rto/redo_item.h
-      - src/include/access/extreme_rto/batch_redo.h
-      - src/include/access/extreme_rto/txn_redo.h
-      - src/include/access/tuptoaster.h
-      - src/include/access/double_write_basic.h
-      - src/include/access/xlogutils.h
-      - src/include/access/xlog.h
-      - src/include/access/htup.h
-      - src/include/access/cstore_psort.h
-      - src/include/access/skey.h
-      - src/include/access/nbtree.h
-      - src/include/access/xlogreader.h
-      - src/include/access/xlogproc.h
-      - src/include/access/xlogdefs.h
-      - src/include/access/spgist.h
-      - src/include/access/attnum.h
-      - src/include/access/ubtree.h
-      - src/include/access/cstoreskey.h
-      - src/include/access/tupdesc.h
-      - src/include/access/archive
-      - src/include/access/archive/nas_am.h
-      - src/include/access/archive/archive_am.h
-      - src/include/access/psort.h
-      - src/include/access/itup.h
-      - src/include/access/sdir.h
-      - src/include/access/multi_redo_settings.h
-      - src/include/access/valid.h
-      - src/include/access/gist_private.h
-      - src/include/access/rmgrlist.h
-      - src/include/access/dfs
-      - src/include/access/dfs/dfs_stream_factory.h
-      - src/include/access/dfs/dfs_am.h
-      - src/include/access/dfs/dfs_query_reader.h
-      - src/include/access/dfs/dfs_stream.h
-      - src/include/access/dfs/dfs_update.h
-      - src/include/access/dfs/dfs_common.h
-      - src/include/access/dfs/dfs_query.h
-      - src/include/access/dfs/dfs_delete.h
-      - src/include/access/dfs/dfs_insert.h
-      - src/include/access/dfs/dfs_wrapper.h
-      - src/include/access/dfs/carbondata_index_reader.h
-      - src/include/access/dfs/dfs_query_check.h
-      - src/include/access/twophase_rmgr.h
-      - src/include/access/visibilitymap.h
-      - src/include/access/gin.h
-      - src/include/access/xlog_internal.h
-      - src/include/access/gin_private.h
-      - src/include/access/gistscan.h
-      - src/include/access/reloptions.h
-      - src/include/access/hash.inl
-      - src/include/access/gist.h
-      - src/include/access/twophase.h
-      - src/include/access/tupmacs.h
-      - src/include/access/xlog_basic.h
-      - src/include/access/xlogrecord.h
-      - src/include/access/hbindex_am.h
-      - src/include/access/rewriteheap.h
-      - src/include/access/redo_statistic.h
-      - src/include/access/tableam.h
-      - src/include/access/cstore_delta.h
-      - src/include/access/genam.h
-      - src/include/access/cstore_minmax_func.h
-      - src/include/access/cstore_am.h
-      - src/include/access/hio.h
-      - src/include/access/obs
-      - src/include/access/obs/obs_am.h
-      - src/include/access/cstore_update.h
-      - src/include/access/subtrans.h
-      - src/include/access/multixact.h
-      - src/include/access/cstore_insert.h
-      - src/include/access/tupconvert.h
-      - src/include/access/xloginsert.h
-      - src/include/access/cstore_delete.h
-      - src/include/access/transam.h
-      - src/include/access/hash.h
-      - src/include/access/cbmparsexlog.h
-      - src/include/access/ustore
-      - src/include/access/ustore/knl_whitebox_test.h
-      - src/include/access/ustore/knl_uundorecord.h
-      - src/include/access/ustore/knl_uundovec.h
-      - src/include/access/ustore/knl_undorecord.h
-      - src/include/access/ustore/knl_uam.h
-      - src/include/access/ustore/knl_utype.h
-      - src/include/access/ustore/knl_uheap.h
-      - src/include/access/ustore/knl_umultilocker.h
-      - src/include/access/ustore/knl_uvisibility.h
-      - src/include/access/ustore/knl_uredo.h
-      - src/include/access/ustore/knl_uscan.h
-      - src/include/access/ustore/undo
-      - src/include/access/ustore/undo/knl_uundoxlog.h
-      - src/include/access/ustore/undo/knl_uundozone.h
-      - src/include/access/ustore/undo/knl_uundotxn.h
-      - src/include/access/ustore/undo/knl_uundospace.h
-      - src/include/access/ustore/undo/knl_uundotype.h
-      - src/include/access/ustore/undo/knl_uundoapi.h
-      - src/include/access/ustore/knl_upage.h
-      - src/include/access/ustore/knl_utils.h
-      - src/include/access/ustore/knl_uhio.h
-      - src/include/access/ustore/knl_undoworker.h
-      - src/include/access/ustore/knl_uverify.h
-      - src/include/access/ustore/knl_uheaptest.h
-      - src/include/access/ustore/knl_utuple.h
-      - src/include/access/ustore/knl_undorequest.h
-      - src/include/access/ustore/knl_uextremeredo.h
-      - src/include/access/ustore/knl_uxact.h
-      - src/include/access/ustore/knl_utuptoaster.h
-      - src/include/access/rmgr.h
-      - src/include/access/cbtree.h
-      - src/include/access/double_write.h
-      - src/include/access/cstore_rewrite.h
-      - src/include/access/csnlog.h
-      - src/include/access/heapam.h
-      - src/include/access/redo_common.h
-      - src/include/access/multi_redo_api.h
-      - src/include/access/xact.h
-      - src/include/access/printtup.h
-      - src/include/access/hbucket_am.h
-      - src/include/access/relscan.h
-    owner:
-      - gitee_id: nonolili527
-        gitcode_id: nonolili527
-        name: 王磊
-        organization: huawei
-        email: wanglei110@huawei.com
+        email: yanghao37@huawei.com
   - file:
       - src/include/pg_config_manual.h
       - src/include/gs_register
@@ -2845,22 +2273,6 @@ files:
         name: 杨皓
         organization: huawei
         email: yanghao37@huawei.com
-  - file:
-      - src/include/bulkload
-      - src/include/bulkload/roach_adpter.h
-      - src/include/bulkload/importerror.h
-      - src/include/bulkload/roach_api.h
-      - src/include/bulkload/vecforeignroutine.h
-      - src/include/bulkload/foreignroutine.h
-      - src/include/bulkload/utils.h
-      - src/include/bulkload/dist_fdw.h
-      - src/include/securectype.h
-    owner:
-      - gitee_id: nonolili527
-        gitcode_id: nonolili527
-        name: 王磊
-        organization: huawei
-        email: wanglei110@huawei.com
   - file:
       - src/common
       - src/common/CMakeLists.txt
@@ -3024,23 +2436,11 @@ files:
       - src/common/backend/pgxc_single/barrier/Makefile
       - src/common/backend/pgxc_single/Makefile
     owner:
-      - gitee_id: gentle_hu
-        gitcode_id: CarrotGo
-        name: 胡正超
+      - gitee_id: superblaker
+        gitcode_id: superlchf
+        name: 柳长沣
         organization: huawei
-        email: gentle_hu@qq.com
-  - file:
-      - src/common/backend/pgxc_single/copy
-      - src/common/backend/pgxc_single/copy/copyops.cpp
-      - src/common/backend/pgxc_single/copy/CMakeLists.txt
-      - src/common/backend/pgxc_single/copy/remotecopy.cpp
-      - src/common/backend/pgxc_single/copy/Makefile
-    owner:
-      - gitee_id: nonolili527
-        gitcode_id: nonolili527
-        name: 王磊
-        organization: huawei
-        email: wanglei110@huawei.com
+        email: superlchf@qq.com
   - file:
       - src/common/backend/snowball
       - src/common/backend/snowball/snowball_func.sql.in
@@ -3168,12 +2568,11 @@ files:
       - src/common/backend/utils/cache/attoptcache.cpp
       - src/common/backend/utils/cache/knl_localsysdbcache.cpp
     owner:
-      - gitee_id: chenhao7253886
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: chenhao
+      - gitee_id: dodders
+        gitcode_id: dodders
+        name: 赖盛好
         organization: huawei
-        email: chenhao220@huawei.com
+        email: laishenghao1@huawei.com
   - file:
       - src/common/backend/utils/adt
       - src/common/backend/utils/adt/clientlogicsettings.cpp
@@ -3275,11 +2674,11 @@ files:
       - src/common/backend/utils/adt/jsonb_util.cpp
       - src/common/backend/utils/Gen_dummy_probes.sed
     owner:
-      - gitee_id: gentle_hu
-        gitcode_id: CarrotGo
-        name: 胡正超
+      - gitee_id: dodders
+        gitcode_id: dodders
+        name: 赖盛好
         organization: huawei
-        email: gentle_hu@qq.com
+        email: laishenghao1@huawei.com
   - file:
       - src/common/backend/utils/mb
       - src/common/backend/utils/mb/mbutils.cpp
@@ -3525,23 +2924,11 @@ files:
       - src/common/backend/utils/time/snapmgr.cpp
       - src/common/backend/utils/time/Makefile
     owner:
-      - gitee_id: ziki77
-        gitcode_id: ziki77
-        name: 周兆琦
+      - gitee_id: dodders
+        gitcode_id: dodders
+        name: 赖盛好
         organization: huawei
-        email: zhouzhaoqi1@huawei.com
-  - file:
-      - src/common/backend/utils/resowner
-      - src/common/backend/utils/resowner/resowner.cpp
-      - src/common/backend/utils/resowner/CMakeLists.txt
-      - src/common/backend/utils/resowner/README
-      - src/common/backend/utils/resowner/Makefile
-    owner:
-      - gitee_id: nonolili527
-        gitcode_id: nonolili527
-        name: 王磊
-        organization: huawei
-        email: wanglei110@huawei.com
+        email: laishenghao1@huawei.com
   - file:
       - src/common/backend/utils/misc
       - src/common/backend/utils/misc/rbtree.cpp
@@ -3602,35 +2989,6 @@ files:
       - src/common/backend/lib/Makefile
       - src/common/backend/lib/dllist.cpp
       - src/common/backend/lib/stringinfo.cpp
-      - src/common/backend/client_logic
-      - src/common/backend/client_logic/CMakeLists.txt
-      - src/common/backend/client_logic/client_logic.cpp
-      - src/common/backend/client_logic/client_logic_proc.cpp
-      - src/common/backend/client_logic/cache.cpp
-      - src/common/backend/client_logic/cstrings_map.cpp
-      - src/common/backend/client_logic/Makefile
-      - src/common/backend/libpq
-      - src/common/backend/libpq/be-secure.cpp
-      - src/common/backend/libpq/sha2.cpp
-      - src/common/backend/libpq/pqcomm.cpp
-      - src/common/backend/libpq/auth.cpp
-      - src/common/backend/libpq/CMakeLists.txt
-      - src/common/backend/libpq/pg_hba.conf.sample
-      - src/common/backend/libpq/pqsignal.cpp
-      - src/common/backend/libpq/md5.cpp
-      - src/common/backend/libpq/crypt.cpp
-      - src/common/backend/libpq/kerberos
-      - src/common/backend/libpq/kerberos/kadm5.acl
-      - src/common/backend/libpq/kerberos/krb5.conf
-      - src/common/backend/libpq/kerberos/kdc.conf
-      - src/common/backend/libpq/kerberos/mppdb-site.xml
-      - src/common/backend/libpq/Makefile
-      - src/common/backend/libpq/pqformat.cpp
-      - src/common/backend/libpq/pg_ident.conf.sample
-      - src/common/backend/libpq/be-fsstubs.cpp
-      - src/common/backend/libpq/ip.cpp
-      - src/common/backend/libpq/hba.cpp
-      - src/common/backend/libpq/README.SSL
       - src/common/backend/tsearch
       - src/common/backend/tsearch/wparser_def.cpp
       - src/common/backend/tsearch/ts_zh_pound.cpp
@@ -3663,11 +3021,11 @@ files:
       - src/common/backend/tsearch/dict_simple.cpp
       - src/common/backend/tsearch/ts_locale.cpp
     owner:
-      - gitee_id: yanghaos
-        gitcode_id: yanghaos
-        name: 杨皓
+      - gitee_id: superblaker
+        gitcode_id: superlchf
+        name: 柳长沣
         organization: huawei
-        email: yanghao37@huawei.com
+        email: superlchf@qq.com
   - file:
       - src/common/backend/catalog
       - src/common/backend/catalog/objectaddress.cpp
@@ -3773,11 +3131,11 @@ files:
       - src/common/backend/parser/parse_type.cpp
       - src/common/backend/parser/analyze.cpp
     owner:
-      - gitee_id: totaj
-        gitcode_id: totaj
-        name: 彭炯
+      - gitee_id: superblaker
+        gitcode_id: superlchf
+        name: 柳长沣
         organization: huawei
-        email: pengjiong1@huawei.com
+        email: superlchf@qq.com
   - file:
       - src/common/backend/nodes
       - src/common/backend/nodes/readfuncs.cpp
@@ -4077,330 +3435,11 @@ files:
       - src/common/pl/plpython/plpy_subxactobject.cpp
       - src/common/pl/Makefile
     owner:
-      - gitee_id: chenhao7253886
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: chenhao
+      - gitee_id: superblaker
+        gitcode_id: superlchf
+        name: 柳长沣
         organization: huawei
-        email: chenhao220@huawei.com
-  - file:
-      - src/common/interfaces
-      - src/common/interfaces/CMakeLists.txt
-      - src/common/interfaces/libpq
-      - src/common/interfaces/libpq/fe-protocol3.cpp
-      - src/common/interfaces/libpq/inet_net_ntop.cpp
-      - src/common/interfaces/libpq/gs_env_r.cpp
-      - src/common/interfaces/libpq/fe-secure.cpp
-      - src/common/interfaces/libpq/pg_service.conf.sample
-      - src/common/interfaces/libpq/fe-auth.cpp
-      - src/common/interfaces/libpq/sha2.cpp
-      - src/common/interfaces/libpq/cipher.cpp
-      - src/common/interfaces/libpq/frontend_parser
-      - src/common/interfaces/libpq/frontend_parser/gram.hpp
-      - src/common/interfaces/libpq/frontend_parser/fe-value.cpp
-      - src/common/interfaces/libpq/frontend_parser/parser_compatibility.cpp
-      - src/common/interfaces/libpq/frontend_parser/gram.cpp
-      - src/common/interfaces/libpq/frontend_parser/Parser.h
-      - src/common/interfaces/libpq/frontend_parser/fe-parse_merge.cpp
-      - src/common/interfaces/libpq/frontend_parser/feparser_memutils.cpp
-      - src/common/interfaces/libpq/frontend_parser/parser.cpp
-      - src/common/interfaces/libpq/frontend_parser/frontend_mbutils.cpp
-      - src/common/interfaces/libpq/frontend_parser/scan.cpp
-      - src/common/interfaces/libpq/frontend_parser/gram.y
-      - src/common/interfaces/libpq/frontend_parser/fe-makefuncs.cpp
-      - src/common/interfaces/libpq/frontend_parser/fe-define.cpp
-      - src/common/interfaces/libpq/frontend_parser/kwlookup.cpp
-      - src/common/interfaces/libpq/frontend_parser/scansup.cpp
-      - src/common/interfaces/libpq/frontend_parser/list.cpp
-      - src/common/interfaces/libpq/frontend_parser/wstrncmp.cpp
-      - src/common/interfaces/libpq/frontend_parser/fe-copyfuncs.cpp
-      - src/common/interfaces/libpq/frontend_parser/Makefile
-      - src/common/interfaces/libpq/frontend_parser/fe-wchar.cpp
-      - src/common/interfaces/libpq/frontend_parser/lex.backup
-      - src/common/interfaces/libpq/frontend_parser/scan.l
-      - src/common/interfaces/libpq/frontend_parser/datatypes.h
-      - src/common/interfaces/libpq/test
-      - src/common/interfaces/libpq/test/expected.out
-      - src/common/interfaces/libpq/test/README
-      - src/common/interfaces/libpq/test/regress.sh
-      - src/common/interfaces/libpq/test/regress.in
-      - src/common/interfaces/libpq/test/Makefile
-      - src/common/interfaces/libpq/test/uri-regress.cpp
-      - src/common/interfaces/libpq/pqexpbuffer.cpp
-      - src/common/interfaces/libpq/client_logic_fmt
-      - src/common/interfaces/libpq/client_logic_fmt/numeric.h
-      - src/common/interfaces/libpq/client_logic_fmt/gs_fmt.h
-      - src/common/interfaces/libpq/client_logic_fmt/gs_copy.cpp
-      - src/common/interfaces/libpq/client_logic_fmt/gs_fmt.cpp
-      - src/common/interfaces/libpq/client_logic_fmt/varlena.h
-      - src/common/interfaces/libpq/client_logic_fmt/encode.cpp
-      - src/common/interfaces/libpq/client_logic_fmt/gs_copy.h
-      - src/common/interfaces/libpq/client_logic_fmt/gs_bool.cpp
-      - src/common/interfaces/libpq/client_logic_fmt/gs_float.h
-      - src/common/interfaces/libpq/client_logic_fmt/int8.h
-      - src/common/interfaces/libpq/client_logic_fmt/gs_char.h
-      - src/common/interfaces/libpq/client_logic_fmt/numutils.cpp
-      - src/common/interfaces/libpq/client_logic_fmt/copy_state_data.h
-      - src/common/interfaces/libpq/client_logic_fmt/float.cpp
-      - src/common/interfaces/libpq/client_logic_fmt/numutils.h
-      - src/common/interfaces/libpq/client_logic_fmt/gs_num.h
-      - src/common/interfaces/libpq/client_logic_fmt/gs_char.cpp
-      - src/common/interfaces/libpq/client_logic_fmt/numeric.cpp
-      - src/common/interfaces/libpq/client_logic_fmt/encode.h
-      - src/common/interfaces/libpq/client_logic_fmt/varlena.cpp
-      - src/common/interfaces/libpq/client_logic_fmt/gs_num.cpp
-      - src/common/interfaces/libpq/client_logic_fmt/Makefile
-      - src/common/interfaces/libpq/client_logic_fmt/gs_bool.h
-      - src/common/interfaces/libpq/client_logic_fmt/int8.cpp
-      - src/common/interfaces/libpq/gs_strerror.cpp
-      - src/common/interfaces/libpq/client_logic_hooks
-      - src/common/interfaces/libpq/client_logic_hooks/column_hook_executor.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/column_hook_executor.h
-      - src/common/interfaces/libpq/client_logic_hooks/hooks_manager.h
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/reg_hook_frame.h
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/register_huawei_kms.h
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/register_gram_check.h
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/reg_cmkem_manager_main.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/cmkem_comm_algorithm.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/cmkem_version_control.h
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/register_gs_ktool.h
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/cmkem_comm_algorithm.h
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/register_gram_check.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/register_local_kms.h
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/cmkem_comm_http.h
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/cmkem_comm.h
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/kms_restful_temp.ini
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/register_local_kms.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/register_huawei_kms.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/Makefile
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/register_gs_ktool.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/cmkem_comm_http.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/reg_hook_frame.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/cmkem_comm.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/cmk_entity_manager_hooks/reg_cmkem_manager_main.h
-      - src/common/interfaces/libpq/client_logic_hooks/global_hook_executor.h
-      - src/common/interfaces/libpq/client_logic_hooks/encryption_hooks
-      - src/common/interfaces/libpq/client_logic_hooks/encryption_hooks/encryption_column_hook_executor.h
-      - src/common/interfaces/libpq/client_logic_hooks/encryption_hooks/aead_aes_hamc_enc_key.h
-      - src/common/interfaces/libpq/client_logic_hooks/encryption_hooks/encryption_column_hook_executor.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/encryption_hooks/aead_aes_hamc_enc_key.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/encryption_hooks/encryption_global_hook_executor.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/encryption_hooks/encrypt_decrypt.h
-      - src/common/interfaces/libpq/client_logic_hooks/encryption_hooks/encryption_global_hook_executor.h
-      - src/common/interfaces/libpq/client_logic_hooks/encryption_hooks/encrypt_decrypt.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/encryption_hooks/abstract_encryption_hook.h
-      - src/common/interfaces/libpq/client_logic_hooks/encryption_hooks/sm2_enc_key.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/encryption_hooks/Makefile
-      - src/common/interfaces/libpq/client_logic_hooks/encryption_hooks/sm2_enc_key.h
-      - src/common/interfaces/libpq/client_logic_hooks/global_hook_executor.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/hook_resource.h
-      - src/common/interfaces/libpq/client_logic_hooks/abstract_hook_executor.h
-      - src/common/interfaces/libpq/client_logic_hooks/Makefile
-      - src/common/interfaces/libpq/client_logic_hooks/hooks_factory.h
-      - src/common/interfaces/libpq/client_logic_hooks/hooks_manager.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/hooks_factory.cpp
-      - src/common/interfaces/libpq/client_logic_hooks/abstract_hook_executor.cpp
-      - src/common/interfaces/libpq/CMakeLists.txt
-      - src/common/interfaces/libpq/fe-connect.cpp
-      - src/common/interfaces/libpq/libpq-events.cpp
-      - src/common/interfaces/libpq/client_logic_common
-      - src/common/interfaces/libpq/client_logic_common/pg_client_logic_params.h
-      - src/common/interfaces/libpq/client_logic_common/client_logic_utils.h
-      - src/common/interfaces/libpq/client_logic_common/cstring_oid_map.h
-      - src/common/interfaces/libpq/client_logic_common/pg_client_logic_params.cpp
-      - src/common/interfaces/libpq/client_logic_common/client_logic_utils.cpp
-      - src/common/interfaces/libpq/client_logic_common/statement_data.h
-      - src/common/interfaces/libpq/client_logic_common/statement_data.cpp
-      - src/common/interfaces/libpq/client_logic_common/cstring_oid_map.cpp
-      - src/common/interfaces/libpq/client_logic_common/table_full_name.h
-      - src/common/interfaces/libpq/client_logic_common/col_full_name.h
-      - src/common/interfaces/libpq/client_logic_common/cstrings_map.cpp
-      - src/common/interfaces/libpq/client_logic_common/Makefile
-      - src/common/interfaces/libpq/client_logic_common/col_full_name.cpp
-      - src/common/interfaces/libpq/client_logic_common/table_full_name.cpp
-      - src/common/interfaces/libpq/fe-exec.cpp
-      - src/common/interfaces/libpq/make_solaris_libpq.sh
-      - src/common/interfaces/libpq/bcc32.mak
-      - src/common/interfaces/libpq/client_logic_cache
-      - src/common/interfaces/libpq/client_logic_cache/cached_setting.h
-      - src/common/interfaces/libpq/client_logic_cache/proc_list.h
-      - src/common/interfaces/libpq/client_logic_cache/schemas_list.h
-      - src/common/interfaces/libpq/client_logic_cache/cached_global_setting.cpp
-      - src/common/interfaces/libpq/client_logic_cache/global_settings_list.h
-      - src/common/interfaces/libpq/client_logic_cache/icached_rec.h
-      - src/common/interfaces/libpq/client_logic_cache/columns_list.cpp
-      - src/common/interfaces/libpq/client_logic_cache/cached_column.cpp
-      - src/common/interfaces/libpq/client_logic_cache/cached_type.cpp
-      - src/common/interfaces/libpq/client_logic_cache/cached_column.h
-      - src/common/interfaces/libpq/client_logic_cache/schemas_list.cpp
-      - src/common/interfaces/libpq/client_logic_cache/column_hook_executors_list.h
-      - src/common/interfaces/libpq/client_logic_cache/createTypesMap.sh
-      - src/common/interfaces/libpq/client_logic_cache/search_path_list.h
-      - src/common/interfaces/libpq/client_logic_cache/column_hook_executors_list.cpp
-      - src/common/interfaces/libpq/client_logic_cache/types_to_oid.cpp
-      - src/common/interfaces/libpq/client_logic_cache/cached_type_list.h
-      - src/common/interfaces/libpq/client_logic_cache/proc_list.cpp
-      - src/common/interfaces/libpq/client_logic_cache/cached_column_manager.h
-      - src/common/interfaces/libpq/client_logic_cache/cache_id.cpp
-      - src/common/interfaces/libpq/client_logic_cache/column_settings_list.h
-      - src/common/interfaces/libpq/client_logic_cache/types_to_oid.h
-      - src/common/interfaces/libpq/client_logic_cache/cached_columns.h
-      - src/common/interfaces/libpq/client_logic_cache/cached_proc.cpp
-      - src/common/interfaces/libpq/client_logic_cache/icached_column.h
-      - src/common/interfaces/libpq/client_logic_cache/search_path_list.cpp
-      - src/common/interfaces/libpq/client_logic_cache/cached_column_setting.cpp
-      - src/common/interfaces/libpq/client_logic_cache/cache_refresh_type.h
-      - src/common/interfaces/libpq/client_logic_cache/icached_column_manager.h
-      - src/common/interfaces/libpq/client_logic_cache/cached_type.h
-      - src/common/interfaces/libpq/client_logic_cache/cached_columns.cpp
-      - src/common/interfaces/libpq/client_logic_cache/Makefile
-      - src/common/interfaces/libpq/client_logic_cache/columns_list.h
-      - src/common/interfaces/libpq/client_logic_cache/dataTypes.def
-      - src/common/interfaces/libpq/client_logic_cache/cached_column_setting.h
-      - src/common/interfaces/libpq/client_logic_cache/cache_loader.cpp
-      - src/common/interfaces/libpq/client_logic_cache/cache_loader.h
-      - src/common/interfaces/libpq/client_logic_cache/cached_type_list.cpp
-      - src/common/interfaces/libpq/client_logic_cache/icached_columns.h
-      - src/common/interfaces/libpq/client_logic_cache/cached_proc.h
-      - src/common/interfaces/libpq/client_logic_cache/global_settings_list.cpp
-      - src/common/interfaces/libpq/client_logic_cache/cache_id.h
-      - src/common/interfaces/libpq/client_logic_cache/cached_global_setting.h
-      - src/common/interfaces/libpq/client_logic_cache/cached_setting.cpp
-      - src/common/interfaces/libpq/client_logic_cache/column_settings_list.cpp
-      - src/common/interfaces/libpq/client_logic_cache/cached_column_manager.cpp
-      - src/common/interfaces/libpq/gs_syscall_lock.cpp
-      - src/common/interfaces/libpq/thread.cpp
-      - src/common/interfaces/libpq/win32.cpp
-      - src/common/interfaces/libpq/client_logic_processor
-      - src/common/interfaces/libpq/client_logic_processor/create_stmt_processor.cpp
-      - src/common/interfaces/libpq/client_logic_processor/post_stmt_processor.cpp
-      - src/common/interfaces/libpq/client_logic_processor/stmt_processor.cpp
-      - src/common/interfaces/libpq/client_logic_processor/stmt_processor.h
-      - src/common/interfaces/libpq/client_logic_processor/func_hardcoded_values.cpp
-      - src/common/interfaces/libpq/client_logic_processor/where_clause_processor.cpp
-      - src/common/interfaces/libpq/client_logic_processor/raw_value.cpp
-      - src/common/interfaces/libpq/client_logic_processor/record_processor.cpp
-      - src/common/interfaces/libpq/client_logic_processor/raw_values_list.h
-      - src/common/interfaces/libpq/client_logic_processor/func_processor.h
-      - src/common/interfaces/libpq/client_logic_processor/encryption_pre_process.h
-      - src/common/interfaces/libpq/client_logic_processor/processor_utils.h
-      - src/common/interfaces/libpq/client_logic_processor/prepared_statement.cpp
-      - src/common/interfaces/libpq/client_logic_processor/processor_utils.cpp
-      - src/common/interfaces/libpq/client_logic_processor/prepared_statements_list.cpp
-      - src/common/interfaces/libpq/client_logic_processor/raw_values_cont.cpp
-      - src/common/interfaces/libpq/client_logic_processor/raw_value.h
-      - src/common/interfaces/libpq/client_logic_processor/encryption_pre_process.cpp
-      - src/common/interfaces/libpq/client_logic_processor/create_stmt_processor.h
-      - src/common/interfaces/libpq/client_logic_processor/values_processor.cpp
-      - src/common/interfaces/libpq/client_logic_processor/where_clause_processor.h
-      - src/common/interfaces/libpq/client_logic_processor/raw_values_list.cpp
-      - src/common/interfaces/libpq/client_logic_processor/Makefile
-      - src/common/interfaces/libpq/client_logic_processor/raw_values_cont.h
-      - src/common/interfaces/libpq/client_logic_processor/func_processor.cpp
-      - src/common/interfaces/libpq/client_logic_processor/values_processor.h
-      - src/common/interfaces/libpq/client_logic_processor/func_hardcoded_values.h
-      - src/common/interfaces/libpq/client_logic_processor/prepared_statements_list.h
-      - src/common/interfaces/libpq/client_logic_processor/record_processor.h
-      - src/common/interfaces/libpq/client_logic_processor/prepared_statement.h
-      - src/common/interfaces/libpq/pthread-win32.cpp
-      - src/common/interfaces/libpq/noblock.cpp
-      - src/common/interfaces/libpq/nls.mk
-      - src/common/interfaces/libpq/fe-lobj.cpp
-      - src/common/interfaces/libpq/cl_state.cpp
-      - src/common/interfaces/libpq/pqsignal.cpp
-      - src/common/interfaces/libpq/fe-misc.cpp
-      - src/common/interfaces/libpq/fe-print.cpp
-      - src/common/interfaces/libpq/path.cpp
-      - src/common/interfaces/libpq/pgstrcasecmp.cpp
-      - src/common/interfaces/libpq/md5.cpp
-      - src/common/interfaces/libpq/getpeereid.cpp
-      - src/common/interfaces/libpq/fe-protocol2.cpp
-      - src/common/interfaces/libpq/win32.mak
-      - src/common/interfaces/libpq/gs_readdir.cpp
-      - src/common/interfaces/libpq/encnames.cpp
-      - src/common/interfaces/libpq/README
-      - src/common/interfaces/libpq/libpq_ce
-      - src/common/interfaces/libpq/libpq_ce/fe-protocol3.cpp
-      - src/common/interfaces/libpq/libpq_ce/fe-secure.cpp
-      - src/common/interfaces/libpq/libpq_ce/fe-auth.cpp
-      - src/common/interfaces/libpq/libpq_ce/fe-connect.cpp
-      - src/common/interfaces/libpq/libpq_ce/fe-exec.cpp
-      - src/common/interfaces/libpq/libpq_ce/fe-lobj.cpp
-      - src/common/interfaces/libpq/libpq_ce/fe-misc.cpp
-      - src/common/interfaces/libpq/libpq_ce/fe-print.cpp
-      - src/common/interfaces/libpq/libpq_ce/fe-protocol2.cpp
-      - src/common/interfaces/libpq/pqsignal.h
-      - src/common/interfaces/libpq/pgsleep.cpp
-      - src/common/interfaces/libpq/fe-auth.h
-      - src/common/interfaces/libpq/po
-      - src/common/interfaces/libpq/po/es.po
-      - src/common/interfaces/libpq/po/zh_TW.po
-      - src/common/interfaces/libpq/po/de.po
-      - src/common/interfaces/libpq/po/cs.po
-      - src/common/interfaces/libpq/po/ru.po
-      - src/common/interfaces/libpq/po/zh_CN.po
-      - src/common/interfaces/libpq/po/fr.po
-      - src/common/interfaces/libpq/po/tr.po
-      - src/common/interfaces/libpq/po/ja.po
-      - src/common/interfaces/libpq/po/pl.po
-      - src/common/interfaces/libpq/po/pt_BR.po
-      - src/common/interfaces/libpq/po/it.po
-      - src/common/interfaces/libpq/Makefile
-      - src/common/interfaces/libpq/win32.h
-      - src/common/interfaces/libpq/client_logic_data_fetcher
-      - src/common/interfaces/libpq/client_logic_data_fetcher/lib_pq_cursor.cpp
-      - src/common/interfaces/libpq/client_logic_data_fetcher/lib_pq_cursor.h
-      - src/common/interfaces/libpq/client_logic_data_fetcher/cursor_interface.h
-      - src/common/interfaces/libpq/client_logic_data_fetcher/data_fetcher_manager.cpp
-      - src/common/interfaces/libpq/client_logic_data_fetcher/data_fetcher_manager.h
-      - src/common/interfaces/libpq/client_logic_data_fetcher/jni_conn_cursor.h
-      - src/common/interfaces/libpq/client_logic_data_fetcher/data_fetcher.h
-      - src/common/interfaces/libpq/client_logic_data_fetcher/data_fetcher.cpp
-      - src/common/interfaces/libpq/client_logic_data_fetcher/Makefile
-      - src/common/interfaces/libpq/client_logic_data_fetcher/jni_conn_cursor.cpp
-      - src/common/interfaces/libpq/libpq.rc.in
-      - src/common/interfaces/libpq/ip.cpp
-      - src/common/interfaces/libpq/strlcpy.cpp
-      - src/common/interfaces/libpq/client_logic_expressions
-      - src/common/interfaces/libpq/client_logic_expressions/expr_parts_list.cpp
-      - src/common/interfaces/libpq/client_logic_expressions/func_name_data.cpp
-      - src/common/interfaces/libpq/client_logic_expressions/expr_processor.cpp
-      - src/common/interfaces/libpq/client_logic_expressions/func_name_data.h
-      - src/common/interfaces/libpq/client_logic_expressions/expr_parts.h
-      - src/common/interfaces/libpq/client_logic_expressions/column_ref_data.cpp
-      - src/common/interfaces/libpq/client_logic_expressions/expr_parts_list.h
-      - src/common/interfaces/libpq/client_logic_expressions/column_ref_data.h
-      - src/common/interfaces/libpq/client_logic_expressions/Makefile
-      - src/common/interfaces/libpq/client_logic_expressions/pg_functions_support.cpp
-      - src/common/interfaces/libpq/client_logic_expressions/pg_functions_support.h
-      - src/common/interfaces/libpq/client_logic_expressions/expr_processor.h
-      - src/common/interfaces/libpq/exports.txt
-      - src/common/interfaces/libpq/jdbc
-      - src/common/interfaces/libpq/jdbc/CMakeLists.txt
-      - src/common/interfaces/libpq/jdbc/client_logic_jni
-      - src/common/interfaces/libpq/jdbc/client_logic_jni/driver_error.cpp
-      - src/common/interfaces/libpq/jdbc/client_logic_jni/jni_string_convertor.cpp
-      - src/common/interfaces/libpq/jdbc/client_logic_jni/jni_util.cpp
-      - src/common/interfaces/libpq/jdbc/client_logic_jni/jni_logger.h
-      - src/common/interfaces/libpq/jdbc/client_logic_jni/jni_logger.cpp
-      - src/common/interfaces/libpq/jdbc/client_logic_jni/driver_error.h
-      - src/common/interfaces/libpq/jdbc/client_logic_jni/jni_string_convertor.h
-      - src/common/interfaces/libpq/jdbc/client_logic_jni/org_postgresql_jdbc_ClientLogicImpl.h
-      - src/common/interfaces/libpq/jdbc/client_logic_jni/client_logic_jni.cpp
-      - src/common/interfaces/libpq/jdbc/client_logic_jni/jni_util.h
-      - src/common/interfaces/libpq/jdbc/client_logic_jni/Makefile
-      - src/common/interfaces/libpq/jdbc/client_logic_jni/client_logic_jni.h
-      - src/common/interfaces/libpq/jdbc/client_logic_jni/org_postgresql_jdbc_ClientLogicImpl.cpp
-      - src/common/interfaces/libpq/jdbc/Makefile
-      - src/common/interfaces/libpq/chklocale.cpp
-      - src/common/interfaces/Makefile
-    owner:
-      - gitee_id: gentle_hu
-        gitcode_id: CarrotGo
-        name: 胡正超
-        organization: huawei
-        email: gentle_hu@qq.com
+        email: superlchf@qq.com
   - file:
       - src/common/interfaces/ecpg
       - src/common/interfaces/ecpg/ecpglib

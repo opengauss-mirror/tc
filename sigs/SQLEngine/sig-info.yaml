@@ -49,23 +49,11 @@ repositories:
         name: 王碧华
         organization: huawei
         email: wangbihua1@huawei.com
-      - gitee_id: wuyujun3
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 吴禹均
-        organization: huawei
-        email: wuyujun2@huawei.com
       - gitee_id: zhangjiahao_hw
         gitcode_id: zjh_hw
         name: 章佳豪
         organization: huawei
         email: zhangjiahao65@huawei.com
-      - gitee_id: jc-zhang
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 张静昌
-        organization: huawei
-        email: zhangjingchang1@huawei.com
       - gitee_id: dodders
         gitcode_id: dodders
         name: 赖盛好
