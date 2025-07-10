@@ -10,24 +10,22 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 
 ### Maintainer列表
 
-- 彭炯[@totaj](https://gitee.com/totaj)，*pengjiong1@huawei.com*
-- 杨皓[@yangahos](https://gitee.com/yanghaos)，*yanghao37@huawei.com*
-- 岳行之[@gaussyuexz](https://gitee.com/gaussyuexz)，*yuexingzhi2@huawei.com*
-- 周兆琦[@ziki77](https://gitee.com/ziki77)，*zhouzhaoqi1@huawei.com*
+- 彭炯[@totaj](https://gitcode.com/totaj)，*pengjiong1@huawei.com*
+- 杨皓[@yangahos](https://gitcode.com/yanghaos)，*yanghao37@huawei.com*
+- 岳行之[@gaussyuexz](https://gitcode.com/gaussyuexz)，*yuexingzhi2@huawei.com*
+- 周兆琦[@ziki77](https://gitcode.com/ziki77)，*zhouzhaoqi1@huawei.com*
 
 ### Committer列表
 
-- 蔡磊[@cailei19](https://gitee.com/蔡磊19)，*cailei19@huawei.com*
-- 胡正超[@gentle_hu](https://gitee.com/gentle_hu), *huzhengchao4@huawei.com*
-- 李海啸[@tsunamis-li](https://gitee.com/tsunamis-li)，*lihaixiao3@huawei.com*
-- 王碧华[@bihua111](https://gitee.com/bihua111)，*wangbihua1@huawei.com*
-- 吴禹均[@wuyujun3](https://gitee.com/wuyujun3)，*wuyujun2@huawei.com*
-- 章佳豪[@zhangjiahao_hw](https://gitee.com/zhangjiahao_hw)，*zhangjiahao65@huawei.com*
-- 张静昌[@jc-zhang](https://gitee.com/jc-zhang)，*zhangjingchang1@huawei.com*
-- 赖盛好[@dodders](https://gitee.com/dodders)，*laishenghao1@huawei.com*
-- 杨志铮[@yangzhizheng94](https://gitee.com/yangzhizheng94)，*yangzhizheng@chinamobile.com*
-- 赵立伟[@levy5307](https://gitee.com/levy5307)，*zhaoliwei@chinamobile.com*
-- 柳长沣[@superblaker](https://gitee.com/superblaker)，*liuchangfeng2@huawei.com*
+- 蔡磊[@cailei19](https://gitcode.com/cailei19)，*cailei19@huawei.com*
+- 胡正超[@gentle_hu](https://gitcode.com/CarrotGo), *huzhengchao4@huawei.com*
+- 李海啸[@tsunamis-li](https://gitcode.com/lihaixiao)，*lihaixiao3@huawei.com*
+- 王碧华[@bihua111](https://gitcode.com/bihua111)，*wangbihua1@huawei.com*
+- 章佳豪[@zhangjiahao_hw](https://gitcode.com/zjh_hw)，*zhangjiahao65@huawei.com*
+- 赖盛好[@dodders](https://gitcode.com/dodders)，*laishenghao1@huawei.com*
+- 杨志铮[@yangzhizheng94](https://gitcode.com/yangzhizheng94)，*yangzhizheng@chinamobile.com*
+- 赵立伟[@levy5307](https://gitcode.com/levy5307)，*zhaoliwei@chinamobile.com*
+- 柳长沣[@superblaker](https://gitcode.com/superlchf)，*liuchangfeng2@huawei.com*
 
 # 联系方式
 
@@ -37,6 +35,6 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 
 仓库地址：
 
-- https://gitee.com/opengauss/openGauss-server
+- https://gitcode.com/opengauss/openGauss-server
 
-- https://gitee.com/opengauss/openGauss-third_party
+- https://gitcode.com/opengauss/openGauss-third_party
