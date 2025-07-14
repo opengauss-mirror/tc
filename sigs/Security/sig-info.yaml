@@ -4,11 +4,16 @@ sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/Security
 description: ""
 mailing_list: securities@opengauss.org
 maintainers:
-  - gitee_id: zhu_jinwei
-    gitcode_id: zhu_jinwei
-    name: 朱金伟
+  - gitee_id: 
+    gitcode_id: Endfromhere
+    name: 陈启军
     organization: huawei
-    email: zhujinwei@huawei.com
+    email: Royi.chenqijun@huawei.com
+  - gitee_id: hwhbj
+    gitcode_id: hw_hbj
+    name: 蒋宏博
+    organization: huawei
+    email: xdhbj0022@163.com
 repositories:
   - repo:
       - opengauss/openGauss-server
@@ -17,11 +22,6 @@ repositories:
   - repo:
       - opengauss/security
     committers:
-      - gitee_id: hwhbj
-        gitcode_id: hw_hbj
-        name: 蒋宏博
-        organization: huawei
-        email: xdhbj0022@163.com
       - gitee_id: jianfenglee
         # 需要补充 GitCode 用户ID
         gitcode_id: ""
