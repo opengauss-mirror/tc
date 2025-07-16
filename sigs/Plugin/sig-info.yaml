@@ -25,8 +25,7 @@ repositories:
         organization: huawei
         email: huangkaiyao@huawei.com
       - gitee_id: husan1024
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
+        gitcode_id: "huyinghao"
         name: 胡英豪
         organization: ""
         email: huyinghao@shentongdata.com
@@ -52,8 +51,7 @@ repositories:
         organization: huawei
         email: xiong_xiaojun@yeah.net
       - gitee_id: wumingyuan
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
+        gitcode_id: "wmy_ld"
         name: ""
         organization: ""
         email: ""
@@ -64,8 +62,7 @@ repositories:
         organization: ""
         email: wei.liu@enmotech.com
       - gitee_id: dreamalloc
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
+        gitcode_id: "dreamalloc"
         name: 赵思骑
         organization: ""
         email: zhaosq76@chinaunicom.cn
@@ -76,8 +73,7 @@ repositories:
         organization: ""
         email: 287095649@qq.com
       - gitee_id: kelayzhao
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
+        gitcode_id: "zhaojunv3z810"
         name: 赵俊
         organization: ""
         email: zhaoj296@chinaunicom.cn
