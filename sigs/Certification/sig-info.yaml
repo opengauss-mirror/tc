@@ -9,12 +9,6 @@ maintainers:
     name: 黄贤儒
     organization: huawei
     email: huangxianru@huawei.com
-  - gitee_id: chuqifang
-    # 需要补充 GitCode 用户ID
-    gitcode_id: ""
-    name: 储其方
-    organization: huawei
-    email: chuqifang@huawei.com
   - gitee_id: xuxiaoqin19
     gitcode_id: xuxiaoqin19
     name: 许小钦
@@ -29,46 +23,29 @@ maintainers:
 repositories:
   - repo:
       - opengauss/distribution-certification
-      - opengauss/service-partner-certification
-    committers:
-      - gitee_id: wu-wenliang
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        organization: huawei
-        name: ""
-        email: ""
-      - gitee_id: jiexiao1413
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: ""
-        organization: ""
-        email: ""
-
-  - repo:
+      - opengauss/distribution-evaluation
       - opengauss/compatible-certification
     committers:
+      - gitee_id: sungang14
+        gitcode_id: sungang14
+        name: 孙刚
+        organization: huawei
+        email: sungang14@huawei.com
+      - gitee_id: zhang_xubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: huawei
+        email: zhangxubo1@huawei.com
       - gitee_id: tantanyj
         gitcode_id: tantanyj
+        organization: ""
         name: 谭宇杰
-        organization: ""
         email: tanyujie3@huawei-partners.com
-      - gitee_id: jiexiao1413
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: ""
-        organization: ""
-        email: ""
 
   - repo:
       - opengauss/service-partner-certification
       - opengauss/training-partner-certification
     committers:
-      - gitee_id: heyuchun325
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: ""
-        organization: ""
-        email: ""
       - gitee_id: sandy-xuxu
         gitcode_id: sandy-xuxu
         name: 徐徐
@@ -79,33 +56,37 @@ repositories:
         name: 张旭博
         organization: huawei
         email: zhangxubo1@huawei.com
-      - gitee_id: pu-qi
+      - gitee_id: huang-xianru
+        gitcode_id: huang-xianru
+        name: 黄贤儒
+        organization: huawei
+        email: huangxianru@huawei.com
+      - gitee_id: tantanyj
+        gitcode_id: tantanyj
+        organization: ""
+        name: 谭宇杰
+        email: tanyujie3@huawei-partners.com
+      - gitee_id: kateeleven
         # 需要补充 GitCode 用户ID
         gitcode_id: ""
-        name: ""
         organization: ""
-        email: tanyujie3@huawei-partners.com
+        name: 李雷君
+        email: kateeleven@163.co
       - gitee_id: Lgrape
         # 需要补充 GitCode 用户ID
         gitcode_id: ""
         name: 武祥
         organization: ""
         email: 1197913499@qq.com
-      - gitee_id: Wenger_Lee
+      - gitee_id: weijjcc
+        gitcode_id: weijjcc
+        name: 魏江江
+        organization: ""
+        email: 303125916@qq.com
+      - gitee_id: ivanwu123
         # 需要补充 GitCode 用户ID
         gitcode_id: ""
-        name: ""
+        name: 吴振伟
         organization: ""
-        email: ""
-      - gitee_id: wu-wenliang
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        organization: huawei
-        name: ""
-        email: ""
-      - gitee_id: tantanyj
-        gitcode_id: tantanyj
-        name: 谭宇杰
-        organization: ""
-        email: tanyujie3@huawei-partners.com
+        email: 149348600@qq.com
 

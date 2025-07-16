@@ -1,48 +1,51 @@
 maintainers:
-  - chuqifang
   - huang-xianru
   - xuxiaoqin19
   - zhaolichao1234
 committers:
-  - wu-wenliang
-  - jiexiao1413
   - tantanyj
-  - Heyuchun325
+  - sungang14
   - sandy-xuxu
   - zhang_xubo
-  - pu-qi
+  - kateeleven
   - Lgrape
-  - Wenger_Lee
+  - weijjcc
+  - ivanwu123
 repositories:
   - repo:
       - opengauss/distribution-evaluation
       - opengauss/distribution-certification
-    maintainers:
-      - chuqifang
-    committers:
-      - wu-wenliang
-      - huang-xianru
-      - jiexiao1413
-  - repo:
       - opengauss/compatible-certification
     maintainers:
       - huang-xianru
     committers:
+      - sungang14
       - tantanyj
-      - jiexiao1413
+      - zhang_xubo
   - repo:
       - opengauss/service-partner-certification
     maintainers:
       - xuxiaoqin19
       - zhaolichao1234
     committers:
-      - heyuchun325
       - sandy-xuxu
       - zhang_xubo
-      - pu-qi
-      - LGrape
-      - Wenger_Lee
       - huang-xianru
-      - wu-wenliang
-      - chuqifang
       - tantanyj
+      - kateeleven
+      - Lgrape
+      - weijjcc
+      - ivanwu123
+  - repo:
+      - training-partner-certification
+    maintainers:
+      - xuxiaoqin19
+    committers:
+      - sandy-xuxu
+      - zhang_xubo
+      - huang-xianru
+      - tantanyj
+      - kateeleven
+      - Lgrape
+      - weijjcc
+      - ivanwu123
