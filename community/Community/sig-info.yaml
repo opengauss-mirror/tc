@@ -572,7 +572,7 @@ repositories:
           gitcode_id: lijieac
           name: 李杰
           organization: ""
-          email: lijie34@huawei.com  
+          email: lijie34@huawei.com
     - repo:
         - opengauss/DMS
         - opengauss/DSS
@@ -619,3 +619,16 @@ repositories:
           organization: ""
           email: ""
 
+    - repo:
+        - opengauss/yukon
+      committers:
+        - gitee_id: xiong_xjun
+          gitcode_id: xiong_xjun
+          name: 熊小军
+          organization: huawei
+          email: xiong_xiaojun@yeah.net
+        - gitee_id: gentle_hu
+          gitcode_id: CarrotGo
+          name: 胡正超
+          organization: huawei
+          email: huzhengchao4@huawei.com
