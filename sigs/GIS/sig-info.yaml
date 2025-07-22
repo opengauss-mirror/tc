@@ -5,8 +5,7 @@ description: ""
 mailing_list: gis@opengauss.org
 maintainers:
   - gitee_id: zhouqinsm
-    # 需要补充 GitCode 用户ID
-    gitcode_id: ""
+    gitcode_id: zhouqinsm
     name: 周芹
     organization: supermap
     email: zhouqin@supermap.com
@@ -42,3 +41,8 @@ repositories:
         name: 宋清怡
         organization: ""
         email: Qingyi.song@outlook.com
+      - gitee_id: huangning2
+        gitcode_id: huangning21
+        name: 黄宁
+        organization: ""
+        email: huangning2@supermap.com
