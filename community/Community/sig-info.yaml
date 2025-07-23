@@ -632,3 +632,13 @@ repositories:
           name: 胡正超
           organization: huawei
           email: huzhengchao4@huawei.com
+        - gitee_id: zhouqinsm
+          gitcode_id: zhouqinsm
+          name: 周芹
+          organization: supermap
+          email: zhouqin@supermap.com
+        - gitee_id: huangning2
+          gitcode_id: huangning21
+          name: 黄宁
+          organization: ""
+          email: huangning2@supermap.com
