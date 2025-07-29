@@ -60,14 +60,12 @@ repositories:
         organization: huawei
         email: laishenghao1@huawei.com
       - gitee_id: yangzhizheng94
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
+        gitcode_id: mrzack
         name: 杨志铮
         organization: ""
         email: yangzhizheng@chinamobile.com
       - gitee_id: levy5307
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
+        gitcode_id: levy53071
         name: 赵立伟
         organization: ""
         email: zhaoliwei@chinamobile.com
