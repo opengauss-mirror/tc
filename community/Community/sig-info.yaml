@@ -386,6 +386,32 @@ repositories:
           email: luomeng@ncti-gba.cn
 
     - repo:
+      - opengauss/security
+      committers:
+          - gitee_id: ""
+            gitcode_id: Endfromhere
+            name: 陈启军
+            organization: huawei
+            email: Royi.chenqijun@huawei.com
+          - gitee_id: hwhbj
+            gitcode_id: hw_hbj
+            name: 蒋宏博
+            organization: huawei
+            email: xdhbj0022@163.com
+          - gitee_id: jianfenglee
+            # 需要补充 GitCode 用户ID
+            gitcode_id: ""
+            name: 李建峰
+            organization: ""
+            email: bigtimer@qq.com
+          - gitee_id: blueloveki
+            # 需要补充 GitCode 用户ID
+            gitcode_id: ""
+            name: 郭亮
+            organization: ""
+            email: blue.guo@huawei.com
+
+    - repo:
         - opengauss/openGauss-tools-monitor
         - opengauss/ogx
         - opengauss/openGauss-migration-portal
@@ -439,29 +465,6 @@ repositories:
         - opengauss/openGauss-tools-datachecker-performance
         - opengauss/openGauss-connector-rust
         - opengauss/security
-        committers:
-          - gitee_id: 
-            gitcode_id: Endfromhere
-            name: 陈启军
-            organization: huawei
-            email: Royi.chenqijun@huawei.com
-          - gitee_id: hwhbj
-            gitcode_id: hw_hbj
-            name: 蒋宏博
-            organization: huawei
-            email: xdhbj0022@163.com
-          - gitee_id: jianfenglee
-            # 需要补充 GitCode 用户ID
-            gitcode_id: ""
-            name: 李建峰
-            organization: ""
-            email: bigtimer@qq.com
-          - gitee_id: blueloveki
-            # 需要补充 GitCode 用户ID
-            gitcode_id: ""
-            name: 郭亮
-            organization: ""
-            email: blue.guo@huawei.com
         - opengauss/openGauss-connector-nodejs
         - opengauss/CM
         - opengauss/openGauss-batman
