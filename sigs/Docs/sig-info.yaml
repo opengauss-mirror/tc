@@ -4,22 +4,11 @@ sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/Docs
 description: ""
 mailing_list: docs@opengauss.org
 maintainers:
-  - gitee_id: ylfan96
-    # 需要补充 GitCode 用户ID
-    gitcode_id: ""
-    name: 康阳
-    organization: huawei
-    email: kangyang@huawei.com
   - gitee_id: zijianli16
     gitcode_id: zijianli16
     name: 李子健
     organization: ""
     email: zijianli16@gmail.com
-  - gitee_id: hujunjune
-    gitcode_id: hujunjune
-    name: 胡君
-    organization: huawei
-    email: hujun33@huawei.com
   - gitee_id: wu-donger
     gitcode_id: Evawudonger
     name: 吴冬儿
@@ -30,12 +19,36 @@ repositories:
       - opengauss/docs
       - opengauss/blog
     committers:
-      - gitee_id: freyaqqianjin
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: Freyaqqianjin
+      - gitee_id: tongdabao
+        gitcode_id: tongdabao
+        name: 童美霞
         organization: huawei
-        email: jinqianqian1@huawei.com
+        email: 870020620@qq.com
+      - gitee_id: hemiao11
+        gitcode_id: hemiao3787
+        name: 何苗
+        organization: ""
+        email: hemiao45@h-partners.com
+      - gitee_id: hujunjune
+        gitcode_id: hujunjune
+        name: 胡君
+        organization: huawei
+        email: hujun33@huawei.com
+      - gitee_id: mentoswang
+        gitcode_id: mentoswang
+        name: 王珊珊
+        organization: ""
+        email: 13811014702@139.com
+      - gitee_id: lestertt
+        gitcode_id: lestertt
+        name: 李童
+        organization: ""
+        email: litong@vastdata.com.cn
+      - gitee_id: fyqlpl
+        gitcode_id: fyq_lpl
+        name: ""
+        organization: ""
+        email: ""
       - gitee_id: vipl
         # 需要补充 GitCode 用户ID
         gitcode_id: ""
@@ -48,16 +61,6 @@ repositories:
         name: 李杨
         organization: ""
         email: 554903772@qq.com
-      - gitee_id: tongdabao
-        gitcode_id: tongdabao
-        name: 童美霞
-        organization: huawei
-        email: 870020620@qq.com
-      - gitee_id: fyqlpl
-        gitcode_id: fyq_lpl
-        name: ""
-        organization: ""
-        email: ""
       - gitee_id: spaceoddity91719
         # 需要补充 GitCode 用户ID
         gitcode_id: ""
@@ -100,19 +103,6 @@ repositories:
         name: 齐小丰
         organization: ""
         email: 813304690@qq.com
-      - gitee_id: mentoswang
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 王珊珊
-        organization: ""
-        email: 13811014702@139.com
-      - gitee_id: lestertt
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 李童
-        organization: ""
-        email: litong@vastdata.com.cn
-
   - repo:
       - opengauss/docs
     committers:
@@ -124,10 +114,5 @@ repositories:
       - gitee_id: ""
         gitcode_id: wangfeihuo
         name: 王飞活
-        organization: ""
-        email: ""
-      - gitee_id: hemiao11
-        gitcode_id: hemiao3787
-        name: 何苗
         organization: ""
         email: ""
