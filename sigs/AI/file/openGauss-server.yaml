@@ -405,3 +405,56 @@ files:
         name: 王天庆
         organization: huawei
         email: wangtianqing2@huawei.com
+  - file:
+      - src/gausskernel/storage/access/datavec
+      - src/gausskernel/storage/access/datavec/bitutils.cpp
+      - src/gausskernel/storage/access/datavec/bm25build.cpp
+      - src/gausskernel/storage/access/datavec/bm25.cpp
+      - src/gausskernel/storage/access/datavec/bm25scan.cpp
+      - src/gausskernel/storage/access/datavec/bm25utils.cpp
+      - src/gausskernel/storage/access/datavec/bm25vacuum.cpp
+      - src/gausskernel/storage/access/datavec/diskannbuild.cpp
+      - src/gausskernel/storage/access/datavec/diskann.cpp
+      - src/gausskernel/storage/access/datavec/diskannutils.cpp
+      - src/gausskernel/storage/access/datavec/hnswadaptor.cpp
+      - src/gausskernel/storage/access/datavec/hnswbuild.cpp
+      - src/gausskernel/storage/access/datavec/hnsw.cpp
+      - src/gausskernel/storage/access/datavec/hnswdelete.cpp
+      - src/gausskernel/storage/access/datavec/hnswinsert.cpp
+      - src/gausskernel/storage/access/datavec/hnswscan.cpp
+      - src/gausskernel/storage/access/datavec/hnswutils.cpp
+      - src/gausskernel/storage/access/datavec/hnswvacuum.cpp
+      - src/gausskernel/storage/access/datavec/ivfadaptor.cpp
+      - src/gausskernel/storage/access/datavec/ivfbuild.cpp
+      - src/gausskernel/storage/access/datavec/ivfflat.cpp
+      - src/gausskernel/storage/access/datavec/ivfinsert.cpp
+      - src/gausskernel/storage/access/datavec/ivfkmeans.cpp
+      - src/gausskernel/storage/access/datavec/ivfnpuadaptor.cpp
+      - src/gausskernel/storage/access/datavec/ivfscan.cpp
+      - src/gausskernel/storage/access/datavec/ivfutils.cpp
+      - src/gausskernel/storage/access/datavec/ivfvacuum.cpp
+      - src/gausskernel/storage/access/datavec/pg_prng.cpp
+      - src/gausskernel/storage/access/datavec/utils.cpp
+      - src/gausskernel/storage/access/datavec/vecindex.cpp
+      - src/include/access/datavec
+      - src/include/access/datavec/bitvec.h
+      - src/include/access/datavec/bm25.h
+      - src/include/access/datavec/bm25heap.h
+      - src/include/access/datavec/diskann.h
+      - src/include/access/datavec/halfutils.h
+      - src/include/access/datavec/halfvec.h
+      - src/include/access/datavec/hnsw.h
+      - src/include/access/datavec/ivfflat.h
+      - src/include/access/datavec/ivfnpuadaptor.h
+      - src/include/access/datavec/pg_prng.h
+      - src/include/access/datavec/sampling.h
+      - src/include/access/datavec/sparsevec.h
+      - src/include/access/datavec/utils.h
+      - src/include/access/datavec/vecindex.h
+      - src/include/access/datavec/vector.h
+    onwer:
+      - gitee_id: jemappellehc
+        gitcode_id: jemappellehc
+        name: 陈欢
+        organization: Huawei
+        email: 386956049@qq.com
