@@ -16,6 +16,9 @@ maintainers:
     email: wangwei5@huawei.com
 repositories:
   - repo:
+      - opengauss/openGauss-server
+
+  - repo:
       - opengauss/CM
       - opengauss/DCC
       - opengauss/CBB
