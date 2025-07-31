@@ -106,3 +106,24 @@ repositories:
         name: 王幸苗
         organization: ""
         email: ""
+      - gitee_id: ""
+        gitcode_id: wang4721
+        name: 王超
+        organization: ""
+        email: zilan1986@163.com
+
+  - repo:
+      - opengauss/openGauss-migration-portal
+      - opengauss/openGauss-tools-chameleon
+      - opengauss/openGauss-workbench
+    committers:
+      - gitee_id: Louisyzh
+        gitcode_id: Louisyzh
+        name: 杨子浩
+        organization: ""
+        email: yangzihao@ncti-gba.cn
+      - gitee_id: zengseliang
+        gitcode_id: zengseliang
+        name: 曾色亮
+        organization: ""
+        email: zengseliang@ncti-gba.cn

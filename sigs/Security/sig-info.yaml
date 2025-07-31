@@ -4,7 +4,7 @@ sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/Security
 description: ""
 mailing_list: securities@opengauss.org
 maintainers:
-  - gitee_id: 
+  - gitee_id: ""
     gitcode_id: Endfromhere
     name: 陈启军
     organization: huawei
@@ -23,8 +23,7 @@ repositories:
       - opengauss/security
     committers:
       - gitee_id: jianfenglee
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
+        gitcode_id: jianfenglee
         name: 李建峰
         organization: ""
         email: bigtimer@qq.com
