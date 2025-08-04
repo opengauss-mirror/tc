@@ -17,13 +17,13 @@ Security SIG负责接受和响应openGauss产品安全问题报告，提供社�
 
 ### Maintainer列表
 
-- 朱金伟[@zhu_jinwei](https://gitee.com/zhu_jinwei)，*zhujinwei@huawei.com*
+- 陈启军[@Endfromhere](https://gitcode.com/Endfromhere)，*276437280@qq.com*
+- 蒋宏博[@hwhbj](https://gitee.com/hwhbj), *xdhbj0022@163.com*
 
 
 ### Committer列表
 
-- 蒋宏博[@hwhbj](https://gitee.com/hwhbj), *xdhbj0022@163.com*
-- 李建峰[@jianfenglee](https://gitee.com/jianfenglee), *bigtimer@qq.com*
+- 李建峰[@jianfenglee](https://gitcode.com/jianfenglee), *bigtimer@qq.com*
 - 郭亮[@blueloveki](https://gitee.com/blueloveki), *liang4358@163.com*
 - 刘哲理[@liuzheli](https://gitee.com/liuzheli), *liuzheli@nankai.edu.cn*
 - shay.akirav[@shay-akirav](https://gitee.com/shay-akirav), *shay.akirav@huawei.com*
