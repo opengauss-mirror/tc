@@ -590,6 +590,11 @@ repositories:
           name: 郑雪
           organization: ""
           email: zhengxue6@huawei.com
+        - gitee_id: zhangxubo
+          gitcode_id: zhangxubo
+          name: 张旭博
+          organization: ""
+          email: zhangxubo1@huawei.com
     - repo:
         - opengauss/cantian
       committers:
