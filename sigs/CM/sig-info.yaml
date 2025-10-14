@@ -16,6 +16,9 @@ maintainers:
     email: wangwei5@huawei.com
 repositories:
   - repo:
+      - opengauss/openGauss-server
+
+  - repo:
       - opengauss/CM
       - opengauss/DCC
       - opengauss/CBB
@@ -79,3 +82,34 @@ repositories:
         name: 薛蒙恩
         organization: huawei
         email: xuemengen@huawei.com
+
+  - repo:
+      - opengauss/DMS
+      - opengauss/DSS
+      - opengauss/CBB
+    committers:
+      - gitee_id: zhouzhiwei1992
+        gitcode_id: zhou-zhiwei
+        name: 周智伟
+        organization: ""
+        email: w929296793@qq.com
+      - gitee_id: git_for_andy
+        gitcode_id: andy_git
+        name: 廖美丰
+        organization: ""
+        email: andymind@126.com
+      - gitee_id: bowen9799
+        gitcode_id: bowen9799
+        name: 刘博文
+        organization: ""
+        email: bowen9799@noreply.gitcode.com
+      - gitee_id: xzyinyong2
+        gitcode_id: xzyinyong
+        name: 殷永
+        organization: ""
+        email: xzyinyong@163.com
+      - gitee_id: ""
+        gitcode_id: zkcarl
+        name: 陈志凯
+        organization: ""
+        email: ""

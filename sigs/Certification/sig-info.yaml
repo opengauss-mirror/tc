@@ -67,13 +67,11 @@ repositories:
         name: 谭宇杰
         email: tanyujie3@huawei-partners.com
       - gitee_id: kateeleven
-        # 需要补充 GitCode 用户ID
         gitcode_id: "ogpilot"
         organization: ""
         name: 李雷君
         email: kateeleven@163.co
       - gitee_id: Lgrape
-        # 需要补充 GitCode 用户ID
         gitcode_id: "Lgrape"
         name: 武祥
         organization: ""
@@ -84,7 +82,6 @@ repositories:
         organization: ""
         email: 303125916@qq.com
       - gitee_id: ivanwu123
-        # 需要补充 GitCode 用户ID
         gitcode_id: "Ivanwu"
         name: 吴振伟
         organization: ""

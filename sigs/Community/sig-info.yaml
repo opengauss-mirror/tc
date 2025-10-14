@@ -42,13 +42,13 @@ repositories:
       - opengauss/quick-issue-website
       - opengauss/tc
       - opengauss/uc
-      - opengauss/WR
+      - opengauss/oGRecorder
       - opengauss/yukon
     committers:
       - gitee_id: shenzheng4
         gitcode_id: shenzheng4
         name: 申正
-        organization: ""
+        organization: huawei
         email: shenzheng4@huawei.com
       - gitee_id: jemappellehc
         gitcode_id: jemappellehc
@@ -58,7 +58,7 @@ repositories:
       - gitee_id: quemingjian
         gitcode_id: quemingjian
         name: 阙鸣健
-        organization: ""
+        organization: huawei
         email: quemingjian2@huawei.com
       - gitee_id: superblaker
         gitcode_id: superlchf
@@ -68,7 +68,7 @@ repositories:
       - gitee_id: chendong76
         gitcode_id: chendong76
         name: 陈栋
-        organization: ""
+        organization: huawei
         email: chendong76@huawei.com
       - gitee_id: totaj
         gitcode_id: totaj
@@ -78,12 +78,12 @@ repositories:
       - gitee_id: gentle_hu
         gitcode_id: CarrotGo
         name: 胡正超
-        organization: ""
+        organization: huawei
         email: huzhengchao4@huawei.com
       - gitee_id: congzhou2603
         gitcode_id: congzhou2603
         name: 周聪
-        organization: ""
+        organization: huawei
         email: zhoucong42@huawei.com
       - gitee_id: struggle_hw
         gitcode_id: hwworkholic
@@ -93,24 +93,33 @@ repositories:
       - gitee_id: dodders
         gitcode_id: dodders
         name: 赖盛好
-        organization: ""
+        organization: huawei
         email: laishenghao1@huawei.com
       - gitee_id: ""
         gitcode_id: muyulinzhong
         name: 宋世轩
-        organization: ""
+        organization: huawei
         email: ""
       - gitee_id: chenxiaobin19
         gitcode_id: chenxiaobin19
         name: 陈晓滨
-        organization: ""
+        organization: huawei
         email: chenxiaobin19@huawei.com
       - gitee_id: ywzq1161327784
         gitcode_id: ywzq1161327784
         name: 窦欣
-        organization: ""
+        organization: huawei
         email: douxin5@huawei.com
-
+      - gitee_id: shirley_zhengx
+        gitcode_id: shirley_zhengx
+        name: 郑雪
+        organization: huawei
+        email: zhengxue6@huawei.com
+      - gitee_id: wlff123
+        gitcode_id: wlff234
+        name: 吴龙飞
+        organization: huawei
+        email: wulf234@163.com
 
   - repo:
       - opengauss/compatibility-assessment
@@ -125,9 +134,24 @@ repositories:
         name: 王幸苗
         organization: ""
         email: ""
+      - gitee_id: ""
+        gitcode_id: wang4721
+        name: 王超
+        organization: ""
+        email: zilan1986@163.com
+      - gitee_id: Louisyzh
+        gitcode_id: Louisyzh
+        name: 杨子浩
+        organization: ""
+        email: yangzihao@ncti-gba.cn
+      - gitee_id: zengseliang
+        gitcode_id: zengseliang
+        name: 曾色亮
+        organization: ""
+        email: zengseliang@ncti-gba.cn
 
   - repo:
-      - opengauss/WR
+      - opengauss/oGRecorder
     committers:
       - gitee_id: ""
         gitcode_id: zkcarl
@@ -149,3 +173,12 @@ repositories:
         name: 姜岩
         organization: ""
         email: ""
+
+  - repo:
+      - opengauss/cantian
+    committers:
+      - gitee_id: ""
+        gitcode_id: lijieac
+        name: 李杰
+        organization: ""
+        email: lijie34@huawei.com

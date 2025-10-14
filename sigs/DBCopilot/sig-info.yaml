@@ -17,14 +17,6 @@ maintainers:
 repositories:
   - repo:
       - opengauss/openGauss-GaussMaster
-    owners:
-      - gitee_id: hwvv
-        gitcode_id: hwvv
-        name: 吴昊
-        organization: ""
-        email: wuhao401@huawei.com
-  - repo:
-      - opengauss/openGauss-GaussMaster
     committers:
       - gitee_id: shenzheng4
         gitcode_id: shenzheng4

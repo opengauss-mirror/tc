@@ -595,6 +595,11 @@ repositories:
           name: 张旭博
           organization: ""
           email: zhangxubo1@huawei.com
+        - gitee_id: wlff123
+          gitcode_id: wlff234
+          name: 吴龙飞
+          organization: ""
+          email: wulf234@163.com
     - repo:
         - opengauss/cantian
       committers:
@@ -603,6 +608,11 @@ repositories:
           name: 李杰
           organization: ""
           email: lijie34@huawei.com
+        - gitee_id: ""
+          gitcode_id: yuanyazhi
+          name: yuanyazhi
+          organization: ""
+          email: yuanyazhi@huawei.com
     - repo:
         - opengauss/DMS
         - opengauss/DSS
