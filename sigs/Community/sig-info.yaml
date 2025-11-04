@@ -182,3 +182,13 @@ repositories:
         name: 李杰
         organization: ""
         email: lijie34@huawei.com
+      - gitee_id: ""
+        gitcode_id: yuanyazhi
+        name: yuanyazhi
+        organization: ""
+        email: yuanyazhi@huawei.com
+      - gitee_id: ""
+        gitcode_id: wang_bowen
+        name: 王博文
+        organization: huawei
+        email: wangbowen69@huawei.com
