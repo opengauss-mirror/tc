@@ -1,0 +1,6 @@
+name: oGRAC
+description: openGauss multi-master database
+type: public
+branches:
+  - name: master
+    type: protected
