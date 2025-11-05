@@ -44,6 +44,7 @@ repositories:
       - opengauss/uc
       - opengauss/oGRecorder
       - opengauss/yukon
+      - opengauss/oGRAC
     committers:
       - gitee_id: shenzheng4
         gitcode_id: shenzheng4
@@ -192,3 +193,17 @@ repositories:
         name: 王博文
         organization: huawei
         email: wangbowen69@huawei.com
+
+  - repo:
+      - opengauss/oGRAC
+    committers:
+      - gitee_id: struggle_hw
+        gitcode_id: hwworkholic
+        name: 陈琛
+        organization: ""
+        email: arcoalien@qq.com
+      - gitee_id: ""
+        gitcode_id: muyulinzhong
+        name: 宋世轩
+        organization: huawei
+        email: ""

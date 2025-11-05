@@ -16,6 +16,21 @@ maintainers:
     organization: ""
     email: arcoalien@qq.com
 repositories:
+  
+  - repo:
+    - opengauss/oGRAC
+    committers:
+      - gitee_id: struggle_hw
+        gitcode_id: hwworkholic
+        name: 陈琛
+        organization: ""
+        email: arcoalien@qq.com
+      - gitee_id: ""
+        gitcode_id: muyulinzhong
+        name: 宋世轩
+        organization: huawei
+        email: ""
+
   - repo:
       - opengauss/openGauss-server
       - opengauss/openGauss-third_party
