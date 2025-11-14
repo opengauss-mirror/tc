@@ -45,6 +45,7 @@ repositories:
       - opengauss/oGRecorder
       - opengauss/yukon
       - opengauss/oGRAC
+      - opengauss/spq_plugin_v2
     committers:
       - gitee_id: shenzheng4
         gitcode_id: shenzheng4
