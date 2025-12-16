@@ -760,3 +760,36 @@ repositories:
           name: 习楚天
           organization: huawei
           email: xichutian@huawei.com
+    - repo:
+        - opengauss/oGRAC_DOC
+      committers:
+        - gitee_id: struggle_hw
+          gitcode_id: hwworkholic
+          name: 陈琛
+          organization: ""
+          email: arcoalien@qq.com
+        - gitee_id: ""
+          gitcode_id: muyulinzhong
+          name: 宋世轩
+          organization: huawei
+          email: ""
+        - gitee_id: ""
+          gitcode_id: yuanyazhi
+          name: 原雅芝
+          organization: huawei
+          email: yuanyazhi@huawei.com 
+        - gitee_id: ""
+          gitcode_id: wang_bowen
+          name: 王博文
+          organization: huawei
+          email: wangbowen69@huawei.com
+        - gitee_id: xiong_xjun
+          gitcode_id: xiong_xjun
+          name: 熊小军
+          organization: huawei
+          email: xiong_xiaojun@yeah.net
+        - gitee_id: liangyuansheng
+          gitcode_id: theothersideofsea
+          name: 梁远胜
+          organization: huawei
+          email: liangyuansheng@huawei.com
