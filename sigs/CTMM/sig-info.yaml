@@ -102,3 +102,8 @@ repositories:
         name: 阳灿
         organization: huawei
         email: volcano.yangcan@huawei.com
+      - gitee_id: shirley_zhengx
+        gitcode_id: shirley_zhengx
+        name: zhengxue
+        organization: huawei
+        email: zhengxue6@huawei.com
