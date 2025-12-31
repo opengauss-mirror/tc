@@ -107,3 +107,11 @@ repositories:
         name: zhengxue
         organization: huawei
         email: zhengxue6@huawei.com
+      - gitee_id: struggle_hw
+        gitcode_id: hwworkholic
+        name: 陈琛
+        organization: ""
+        email: arcoalien@qq.com
+      - gitee_id: ""
+        gitcode_id: muyulinzhong
+        name: 宋世轩
