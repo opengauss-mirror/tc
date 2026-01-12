@@ -24,21 +24,26 @@ The Technical Committee is the technical leading body of the community. Its main
 The chair and members of the TC of the openGauss open source community are appointed by the openGauss community. All these TC members have made significant contributions to the openGauss community and are committed to intensifying their efforts for a better community. The TC consists of the following the members:
 
 * liguoliang[[@guoliang_li](https://gitee.com/guoliang_li)]    # Chair
-* tianwengang[[@pikeTWG](https://gitee.com/pikeTWG)]
+* chaipeng[[@chaip3](https://gitee.com/chaip3)]
+* chendong[[@chendong76](https://gitcode.com/chendong76)]
+* guangang[[@guangang1981](https://gitee.com/guangang1981)]
+* herui[[@he_ray](https://gitcode.com/he_ray)]
 * lishifu[[@lishifu_db](https://gitee.com/lishifu_db)]
-* caiyajie[[@cyj10727](https://gitee.com/cyj10727)]
-* renyang[[@stanleyren](https://gitee.com/stanleyren)]
-* zhubin[[@Yoota_zhu](https://gitee.com/Yoota_zhu)]
-* zhoupinggao[[@zankyfun4](https://gitee.com/zankyfun4)]
-* wangjiang[[@wang-jingle](https://gitee.com/wang-jingle)]
-* sunji[[@greatjigreatji](https://gitee.com/greatjigreatji)]
-* wangwei[[@wangwei5](https://gitee.com/wangwei5)]
-* xieweiping[[@junhangis](https://gitee.com/junhangis)]
-* zhangchengwei[[@jarekzhang](https://gitee.com/jarekzhang)]
 * liuyongsheng[[@lys6676](https://gitee.com/lys6676)]
-* zhouqin[[@zhouqinsm](https://gitee.com/zhouqinsm)]
-* zhubin[[@zzzzzdb](https://gitee.com/zzzzzdb)]
+* pengjiong[[@totaj](https://gitcode.com/totaj)]
+* quemingjian[[@quemingjian](https://gitcode.com/quemingjian)]
+* wanglei[[@nonolili527](https://gitee.com/nonolili527)]
+* wangwei[[@wangwei5](https://gitee.com/wangwei5)]
+* wumingyuan[[@wmy_ld](https://gitee.com/wmy_ld)]
+* xiongqin[[@xiongqin3](https://gitcode.com/xiongqin3)]
+* xiongxiaojun[[@xiong_xjun](https://gitcode.com/xiong_xjun)]
+* yanghao[[@yanghaos](https://gitcode.com/yanghaos)]
 * yangweiqiang[[@yangweiqiang](https://gitee.com/yangweiqiang)]
+* zhangchenwei[[@jarekzhang](https://gitee.com/jarekzhang)]
+* zhouqin[[@zhouqinsm](https://gitee.com/zhouqinsm)]
+* zhouzhaoqi[[@ziki77](https://gitcode.com/ziki77)]
+* zhubin[[@zzzzzdb](https://gitee.com/zzzzzdb)]
+* zhujinwei[[@zhu_jinwei](https://gitee.com/zhu_jinwei)]
 
 In order to ensure the operation of the Technical Committee, the members who do not attend the TC meeting for two consecutive times may be forcibly removed after the decision of the TC regular meeting; If a TC member applies for leaving office for personal reasons, all TC members shall be notified.
 
