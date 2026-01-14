@@ -112,6 +112,11 @@ repositories:
         name: 陈琛
         organization: ""
         email: arcoalien@qq.com
+      - gitee_id: shirley_zhengx
+        gitcode_id: shirley_zhengx
+        name: 郑雪
+        organization: huawei
+        email: zhengxue6@huawei.com
       - gitee_id: ""
         gitcode_id: muyulinzhong
         name: 宋世轩

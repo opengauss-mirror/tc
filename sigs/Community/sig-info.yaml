@@ -177,6 +177,11 @@ repositories:
         name: 姜岩
         organization: ""
         email: ""
+      - gitee_id: shirley_zhengx
+        gitcode_id: shirley_zhengx
+        name: 郑雪
+        organization: huawei
+        email: zhengxue6@huawei.com
 
   - repo:
       - opengauss/cantian
@@ -225,6 +230,11 @@ repositories:
         name: 熊小军
         organization: huawei
         email: xiong_xiaojun@yeah.net
+      - gitee_id: shirley_zhengx
+        gitcode_id: shirley_zhengx
+        name: 郑雪
+        organization: huawei
+        email: zhengxue6@huawei.com
 
   - repo:
       - opengauss/oGRAC_dev
@@ -254,6 +264,11 @@ repositories:
         name: 熊小军
         organization: huawei
         email: xiong_xiaojun@yeah.net
+      - gitee_id: shirley_zhengx
+        gitcode_id: shirley_zhengx
+        name: 郑雪
+        organization: huawei
+        email: zhengxue6@huawei.com
 
   - repo:
       - opengauss/oGRAC_DOC
@@ -288,3 +303,8 @@ repositories:
         name: 梁远胜
         organization: huawei
         email: liangyuansheng@huawei.com
+      - gitee_id: shirley_zhengx
+        gitcode_id: shirley_zhengx
+        name: 郑雪
+        organization: huawei
+        email: zhengxue6@huawei.com
