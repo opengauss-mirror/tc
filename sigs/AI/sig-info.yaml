@@ -4,17 +4,23 @@ sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/AI
 description: ""
 mailing_list: ai@opengauss.org
 maintainers:
-  - gitee_id: lishifu_db
-    gitcode_id: lishifu_hw_db
-    name: 李士福
-    organization: huawei
-    email: lishifu@huawei.com
+  - gitee_id: jackchenchenchen
+    gitcode_id: jackchenchenchen
+    name: 李坤
+    organization: ""
+    email: likun_dlut@163.com
   - gitee_id: zhangce_6184
     # 需要补充 GitCode 用户ID
     gitcode_id: ""
     name: Ce Zhang
     organization: ""
     email: ce.zhang@inf.ethz.ch
+  - gitee_id: libiao2024
+    gitcode_id: libiao2024
+    name: 李标
+    organization: ""
+    email: 1102510224@qq.com
+
 repositories:
   - repo:
       - opengauss/openGauss-server
@@ -24,29 +30,6 @@ repositories:
       - opengauss/openGauss-AI
       - opengauss/openGauss-DBMind
     committers:
-      - gitee_id: wang-tq
-        gitcode_id: tqwang
-        name: 王天庆
-        organization: ""
-        email: wangtianqing2@huawei.com
-      - gitee_id: greatji
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 孙佶
-        organization: ""
-        email: sun-j16@mails.tsinghua.edu.cn
-      - gitee_id: xuanhe
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 周煊赫
-        organization: ""
-        email: zhouxuan19@mails.tsinghua.edu.cn
-      - gitee_id: yxfish13
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 余翔
-        organization: ""
-        email: yxfish13@mails.tsinghua.edu.cn
       - gitee_id: excaliburxk
         # 需要补充 GitCode 用户ID
         gitcode_id: ""
@@ -59,14 +42,18 @@ repositories:
         name: 许利杰
         organization: ""
         email: lijie.xu@inf.ethz.ch
-      - gitee_id: jackchenchenchen
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 李坤
-        organization: ""
-        email: likun_dlut@163.com
       - gitee_id: wangtianyuan1994
         gitcode_id: wangtianyuan1994
         name: 王天元
         organization: ""
         email: wangtianyuan5@huawei.com
+      - gitee_id: wlff123
+        gitcode_id: wlff234
+        name: 吴龙飞
+        organization: ""
+        email: wulf234@163.com
+      - gitee_id: Igali
+        gitcode_id: Igali
+        name: 吉文克
+        organization: ""
+        email: jwkchn@163.com
