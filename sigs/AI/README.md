@@ -9,20 +9,18 @@ AI SIG 致力于openGauss的能力的开发和维护，包括AI4DB数据库智�
 
 ### Maintainer列表
 
-- 李士福[@lishifu_db](https://gitee.com/lishifu_db), *lishifu@huawei.com*
+- 李坤[@jackchenchenchen](https://gitcode.com/jackchenchenchen), *likun_dlut@163.com*
 - Ce Zhang[@zhangce_6184](https://gitee.com/zhangce_6184), *ce.zhang@inf.ethz.ch*
+- 李标[@libiao2024](https://gitcode.com/libiao2024), *1102510224@qq.com*
 
 
 ### Committer列表
 
-- 王天庆[@wang-tq](https://gitee.com/wang-tq), *wangtianqing2@huawei.com*
-- 孙佶[@greatji](https://gitee.com/greatji), *sun-j16@mails.tsinghua.edu.cn*
-- 周煊赫[@xuanhe](https://gitee.com/xuanhe), *zhouxuan19@mails.tsinghua.edu.cn*
-- 余翔[@yxfish13](https://gitee.com/yxfish13), *yxfish13@mails.tsinghua.edu.cn*
 - 夏康[@excaliburxk](https://gitee.com/excaliburxk), *excaliburxk@qq.com*
 - 许利杰[@xulijie09](https://gitee.com/xulijie09), *lijie.xu@inf.ethz.ch*
 - 王天元[@wangtianyuan1994](https://gitee.com/wangtianyuan1994), *wangtianyuan5@huawei.com*
-- 李坤[@jackchenchenchen](https://gitee.com/jackchenchenchen), *likun_dlut@163.com*
+- 吴龙飞[@wlff234](https://gitcode.com/wlff234), *wulf234@163.com*
+- 吉文克[@Igali](https://gitcode.com/Igali), *jwkchn@163.com*
 
 # 联系方式
 
