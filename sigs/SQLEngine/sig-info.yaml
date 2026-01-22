@@ -72,5 +72,10 @@ repositories:
       - gitee_id: superblaker
         gitcode_id: superlchf
         name: 柳长沣
-        organization: ""
+        organization: huawei
         email: superlchf@qq.com
+      - gitee_id: chenxiaobin19
+        gitcode_id: chenxiaobin19
+        name: 陈晓滨
+        organization: huawei
+        email: chenxiaobin19@huawei.com
