@@ -600,6 +600,12 @@ repositories:
           name: 吴龙飞
           organization: ""
           email: wulf234@163.com
+        - gitee_id: libiao2024
+          gitcode_id: libiao2024
+          name: 李标
+          organization: ""
+          email: 1102510224@qq.com
+
     - repo:
         - opengauss/cantian
       committers:

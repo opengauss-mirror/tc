@@ -82,6 +82,11 @@ repositories:
         name: 薛蒙恩
         organization: huawei
         email: xuemengen@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: huawei
+        email: 1102510224@qq.com
 
   - repo:
       - opengauss/DMS
