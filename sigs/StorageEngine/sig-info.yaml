@@ -216,3 +216,18 @@ repositories:
         name: 张凤治
         organization: ""
         email: 364064048@qq.com
+      - gitee_id: shirley_zhengx
+        gitcode_id: shirley_zhengx
+        name: 郑雪
+        organization: huawei
+        email: zhengxue6@huawei.com
+      - gitee_id: ""
+        gitcode_id: muyulinzhong
+        name: 宋世轩
+        organization: huawei
+        email: ""
+      - gitee_id: Igali
+        gitcode_id: Igali
+        name: 吉文克
+        organization: ""
+        email: jwkchn@163.com
