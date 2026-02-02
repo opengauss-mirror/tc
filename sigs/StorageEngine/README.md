@@ -15,12 +15,10 @@
 - 王磊[@nonolili527](https://gitee.com/nonolili527)，*wanglei110@huawei.com*
 - 张金玉[@jinyu_opengauss](https://gitee.com/jinyu_opengauss)，*Jinyu_gaussdb@163.com*
 - 蒋将军[@general-jiang](https://gitee.com/general-jiang)，*jiangjiangjun@huawei.com*
-- 古强[@guqiang_opengauss](https://gitee.com/guqiang_opengauss)，*guqiang9@huawei.com*
 - 陈琛[@struggle_hw](https://gitee.com/struggle_hw), *arcoalien@qq.com*
+- 周聪[@congzhou2603](https://gitcode.com/congzhou2603), *zhoucong42@huawei.com*
 
 ### Committer列表
-- Vinoth[@vinothv](https://gitee.com/vinothv),*vinoth.veeraraghavan@hotmail.com*
-- 李帅团[@lishuaituan](https://gitee.com/lishuaituan),*hw.lishuaituan@huawei.com*
 - 熊小军[@xiong_xjun](https://gitee.com/xiong_xjun),*xiong_xiaojun@yeah.net*
 - 徐春阳[@garyxu2014](https://gitee.com/garyxu2014),*springsun.xu@126.com*
 - 张乐奕[@kamusis](https://gitee.com/kamusis), *kamusis@gmail.com*
@@ -32,14 +30,15 @@
 - 马向[@Xiao__ma](https://gitee.com/Xiao__ma), *maxiang21@huawei.com*
 - 陈晓滨[@chenxiaobin19](https://gitee.com/chenxiaobin19), *chenxiaobin19@huawei.com*
 - 陈晓雨[@rain-666](https://gitee.com/rain-666), *chenxiaoyu12@huawei.com*
-- 周聪[@congzhou2603](https://gitee.com/congzhou2603), *zhoucong42@huawei.com*
 - 张仲良[@julian_zl_zhang](https://gitee.com/julian_zl_zhang), *zhangzhongliangit@chinamobile.com*
 - 阙鸣健[@quemingjian](https://gitee.com/quemingjian), *quemingjian2@huawei.com*
 - 陈栋[@chendong76](https://gitee.com/chendong76), *1209756284@qq.com*
 - 陈欢[@jemappellehc](https://gitee.com/jemappellehc), *386956049@qq.com*
 - 柳长沣[@superblaker](https://gitee.com/superblaker), *superlchf@qq.com*
 - 李标[@libiao2024](https://gitee.com/libiao2024), *1102510224@qq.com*
-- 张凤治[@zhangfengzhi123](https://gitee.com/zhangfengzhi123), *364064048@qq.com*
+- 郑雪[@shirley_zhengx](https://gitee.com/shirley_zhengx), *zhengxue6@huawei.com*
+- 吉文克[@Igali](https://gitcode.com/Igali), *jwkchn@163.com*
+- 宋世轩[@muyulinzhong](https://gitcode.com/muyulinzhong), *realitylinxuan@163.com*
 
 # 联系方式
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/storageengine.opengauss.org/)
