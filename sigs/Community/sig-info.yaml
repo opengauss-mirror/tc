@@ -48,6 +48,7 @@ repositories:
       - opengauss/oGRAC_dev
       - opengauss/oGRAC_DOC
       - opengauss/spq_plugin_v2
+      - opengauss/mcp-opengauss
     committers:
       - gitee_id: shenzheng4
         gitcode_id: shenzheng4
