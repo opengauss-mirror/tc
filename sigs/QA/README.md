@@ -10,7 +10,7 @@
 
 # 组织会议
 
-- 公开的会议时间：北京时间 每双周五15:00-17:00
+- 公开的会议时间：北京时间 周周三15:00-17:00
 
 
 # 成员
@@ -18,21 +18,20 @@
 
 ### Maintainer列表
 
-- 张长军[@dbowner_zhang](https://gitee.com/dbowner_zhang)，*zhangchangjun2@huawei.com*
-- 周斌[@justbk](https://gitee.com/justbk), *249396768@qq.com*
+- 孙刚[@sungang14](https://gitcode.com/sungang14)，*sungang14@huawei.com*
 
 ### Committer列表
 
-- 附雄道[@xiongdaofu](https://gitee.com/xiongdaofu)，*fuxiongdao@huawei.com*
+- 张长军[@dbowner_zhang](https://gitee.com/dbowner_zhang)，*zhangchangjun2@huawei.com*
+- 宋菲[@songfei_sz](https://gitcode.com/songfei_sz)，*songfei@shentongdata.com*
+- 李建桂[@cloudsbreak](https://gitcode.com/cloudsbreak)，*lijg@vastdata.com.cn*
+- 王建达[@yc-jianda](https://gitcode.com/yc-jianda)，*rjyf_wjd@163.com*
+- 胡梦遥[@xiaobai181](https://gitcode.com/xiaobai-181)，*humengyao@gbase.cn*
+- 罗宇明[@luoyuming](htttps://gitcode.com/luoyuming)，*luoyuming@ncti-gba.cn*
 - 陈栋[@chendong76](https://gitee.com/chendong76)，*1209756284@qq.com*
-- 张志靖[@zhangzhijing](https://gitee.com/zhangzhijing)，*2235036288@qq.com*
-- 张翱[@zhangao_za](https://gitee.com/zhangao_za)，*zhangao23@huawei.com*
 - 廖诗婷[@liao-shiting](https://gitee.com/liao-shiting)，*liaost@vastdata.com.cn*
 - 梁燕[@roxanne315](https://gitee.com/roxanne315)，*liangyan@vastdata.com.cn*
 - 孙敏[@min-sun](https://gitee.com/min-sun)，*min.sun@enmotech.com*
-- 孙静元[@sun-jingyuan](https://gitee.com/sun-jingyuan)，*sunjingyuan@shentongdata.com*
-- 宋菲[@szoscar55](https://gitee.com/szoscar55)，*songfei@shentongdata.com*
-- 王默[@wangmo](https://gitee.com/wangmo)，*wangmo@xfusion.com*
 - 樊书娟[@stella_fan](https://gitee.com/stella_fan)，*fanshujuan@xfusion.com*
 - 明沛[@dolphin-m](https://gitee.com/dolphin-m)，*mingpei@huawei.com*
 
@@ -44,6 +43,6 @@
 
 仓库地址：
 
-- https://gitee.com/opengauss/QA
+- https://gitcode.com/opengauss/QA
 
-- https://gitee.com/opengauss/Yat
+- https://gitcode.com/opengauss/Yat

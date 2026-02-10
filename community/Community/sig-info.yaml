@@ -251,36 +251,31 @@ repositories:
           name: 孙刚
           organization: ""
           email: sungang14@huawei.com
-        - gitee_id: ningyali
-          gitcode_id: ningyali
-          name: 宁雅黎
-          organization: ""
-          email: ningyali@h-partners.com
-        - gitee_id: wan005
-          gitcode_id: wan005
-          name: 万方
-          organization: ""
-          email: wanfang5@h-partners.com
         - gitee_id: chen-czywj
           gitcode_id: czywj
           name: 陈紫阳
           organization: ""
-          email: ""
-        - gitee_id: ""
+          email: czywj163@163.com
+        - gitee_id: lvlintao666
           gitcode_id: u012280419
           name: 吕林涛
           organization: ""
-          email: ""
-        - gitee_id: ""
-          gitcode_id: m0_52125670
-          name: 刘桐
+          email: 1558341679@qq.com
+        - gitee_id: l1azzzy
+          gitcode_id: l1azzzy
+          name: 李锦波
           organization: ""
-          email: ""
-        - gitee_id: ""
-          gitcode_id: haomeng802
-          name: 郝梦
+          email: 570157209@qq.com
+        - gitee_id: szoscar55
+          gitcode_id: songfei_sz
+          name: 宋菲
           organization: ""
-          email: "15229369638@163.com"
+          email: songfei@shentongdata.com
+        - gitee_id: cloudsbreak
+          gitcode_id: cloudsbreak
+          name: 李建桂
+          organization: ""
+          email: lijg@vastdata.com.cn
 
     - repo:
         - opengauss/openGauss-embedded
