@@ -28,6 +28,14 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 - 柳长沣[@superblaker](https://gitcode.com/superlchf)，*liuchangfeng2@huawei.com*
 - 陈晓滨[@chenxiaobin19](https://gitcode.com/chenxiaobin19)，*chenxiaobin19@huawei.com*
 
+### 荣誉殿堂
+
+感谢以下原maintainer对SQLEngine SIG及openGauss社区的贡献：
+- 李士福[@lishifu_db](https://gitee.com/lishifu_db)，*lishifu@huawei.com*
+- 周平高[@zankyfun4](https://gitee.com/zankyfun4)，*zhoupinggao@huawei.com*
+- 杨迪[@yangdi07](https://gitee.com/yangdi07)，*yangdi14@huawei.com*
+- 陈浩[@chenhao7253886](https://gitee.com/chenhao7253886)，*chenhao220@huawei.com*
+
 # 联系方式
 
 - [邮件列表](https://mailweb.opengauss.org/postorius/lists/sqlengine.opengauss.org/)
