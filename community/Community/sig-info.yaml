@@ -4,793 +4,1575 @@ sig_link: https://gitcode.com/opengauss/tc/tree/master/sigs/Community
 description: ""
 mailing_list: ""
 
+maintainers:
+  - gitee_id: shenzheng4
+    gitcode_id: shenzheng4
+    name: 申正
+    organization: huawei
+    email: shenzheng4@huawei.com
+  - gitee_id: jemappellehc
+    gitcode_id: jemappellehc
+    name: 陈欢
+    organization: ""
+    email: 386956049@qq.com
+  - gitee_id: quemingjian
+    gitcode_id: quemingjian
+    name: 阙鸣健
+    organization: huawei
+    email: quemingjian2@huawei.com
+  - gitee_id: superblaker
+    gitcode_id: superlchf
+    name: 柳长沣
+    organization: ""
+    email: superlchf@qq.com
+  - gitee_id: chendong76
+    gitcode_id: chendong76
+    name: 陈栋
+    organization: huawei
+    email: chendong76@huawei.com
+  - gitee_id: totaj
+    gitcode_id: totaj
+    name: 彭炯
+    organization: huawei
+    email: pengjiong1@huawei.com
+  - gitee_id: gentle_hu
+    gitcode_id: CarrotGo
+    name: 胡正超
+    organization: huawei
+    email: huzhengchao4@huawei.com
+  - gitee_id: congzhou2603
+    gitcode_id: congzhou2603
+    name: 周聪
+    organization: huawei
+    email: zhoucong42@huawei.com
+  - gitee_id: struggle_hw
+    gitcode_id: hwworkholic
+    name: 陈琛
+    organization: ""
+    email: arcoalien@qq.com
+  - gitee_id: dodders
+    gitcode_id: dodders
+    name: 赖盛好
+    organization: huawei
+    email: laishenghao1@huawei.com
+  - gitee_id: ""
+    gitcode_id: muyulinzhong
+    name: 宋世轩
+    organization: huawei
+    email: ""
+  - gitee_id: chenxiaobin19
+    gitcode_id: chenxiaobin19
+    name: 陈晓滨
+    organization: huawei
+    email: chenxiaobin19@huawei.com
+  - gitee_id: ywzq1161327784
+    gitcode_id: ywzq1161327784
+    name: 窦欣
+    organization: huawei
+    email: douxin5@huawei.com
+  - gitee_id: shirley_zhengx
+    gitcode_id: shirley_zhengx
+    name: 郑雪
+    organization: huawei
+    email: zhengxue6@huawei.com
+  - gitee_id: wlff123
+    gitcode_id: wlff234
+    name: 吴龙飞
+    organization: huawei
+    email: wulf234@163.com
+
 repositories:
-    - repo:
-        - opengauss/compatibility-assessment
-        - opengauss/openGauss-migration-portal
-        - opengauss/openGauss-tools-chameleon
-        - opengauss/openGauss-workbench
-      committers:
-        - gitee_id: hwhbj
-          gitcode_id: hw_hbj
-          name: 蒋宏博
-          organization: ""
-          email: xdhbj0022@163.com
-        - gitee_id: ""
-          gitcode_id: wang_xingmiao
-          name: 王幸苗
-          organization: ""
-          email: ""
-        - gitee_id: ""
-          gitcode_id: wang4721
-          name: 王超
-          organization: ""
-          email: zilan1986@163.com
-        - gitee_id: Louisyzh
-          gitcode_id: Louisyzh
-          name: 杨子浩
-          organization: ""
-          email: yangzihao@ncti-gba.cn
-        - gitee_id: zengseliang
-          gitcode_id: zengseliang
-          name: 曾色亮
-          organization: ""
-          email: zengseliang@ncti-gba.cn
-    - repo:
-        - opengauss/debezium
-      committers:
-        - gitee_id: ""
-          gitcode_id: wang_xingmiao
-          name: 王幸苗
-          organization: ""
-          email: ""
-        - gitee_id: hwhbj
-          gitcode_id: hw_hbj
-          name: 蒋宏博
-          organization: ""
-          email: xdhbj0022@163.com
-        - gitee_id: ""
-          gitcode_id: wang4721
-          name: 王超
-          organization: ""
-          email: zilan1986@163.com
-
-    - repo:
-        - opengauss/oGRecorder
-      committers:
-        - gitee_id: ""
-          gitcode_id: zkcarl
-          name: 陈志凯
-          organization: ""
-          email: ""
-        - gitee_id: ""
-          gitcode_id: liuzhanfeng
-          name: 刘展峰
-          organization: ""
-          email: ""
-        - gitee_id: ""
-          gitcode_id: zym_2025
-          name: 张悦萌
-          organization: ""
-          email: ""
-        - gitee_id: ""
-          gitcode_id: jiangyan_jack
-          name: 姜岩
-          organization: ""
-          email: ""
-
-    - repo:
-        - opengauss/docs
-      committers:
-        - gitee_id: hwhbj
-          gitcode_id: hw_hbj
-          name: 蒋宏博
-          organization: ""
-          email: xdhbj0022@163.com
-        - gitee_id: ""
-          gitcode_id: wangfeihuo
-          name: 王飞活
-          organization: ""
-          email: ""
-        - gitee_id: hemiao11
-          gitcode_id: hemiao3787
-          name: 何苗
-          organization: ""
-          email: ""
-        - gitee_id: tongdabao
-          gitcode_id: tongdabao
-          name: 童美霞
-          organization: huawei
-          email: 870020620@qq.com
-        - gitee_id: zijianli16
-          gitcode_id: zijianli16
-          name: 李子健
-          organization: ""
-          email: zijianli16@gmail.com
-        - gitee_id: wu-donger
-          gitcode_id: Evawudonger
-          name: 吴冬儿
-          organization: ""
-          email: wudonger@huawei.com
-
-    - repo:
-        - opengauss/website
-      committers:
-        - gitee_id: gzbang
-          gitcode_id: gzbang
-          name: 龚壮邦
-          organization: ""
-          email: 15622356989@163.com
-        - gitee_id: ailoooong
-          gitcode_id: ailoooong
-          name: 艾龙
-          organization: ""
-          email: ilong8@qq.com
-        - gitee_id: xiaoshiziya
-          gitcode_id: persimmonzzz
-          name: 黄世俊
-          organization: ""
-          email: 13070236448@163.com
-        - gitee_id: luckyasme
-          gitcode_id: cctvcat
-          name: 黄泽麟
-          organization: ""
-          email: 807254037@qq.com
-        - gitee_id: zjwmiao
-          gitcode_id: zjwmiao
-          name: 张峻玮
-          organization: ""
-          email: 1723168479@qq.com
-        - gitee_id: liuyong233
-          gitcode_id: liuyong2000139
-          name: 刘勇
-          organization: ""
-          email: 925339056@qq.com
-        - gitee_id: gz2024h
-          gitcode_id: amhani
-          name: 郭振
-          organization: ""
-          email: 1084235395@qq.com
-
-    - repo:
-        - opengauss/openGauss-connector-jdbc
-        - opengauss/openGauss-connector-odbc
-        - opengauss/openGauss-OM
-        - opengauss/openGauss-tools-sql-compatibility
-      committers:
-        - gitee_id: hwhbj
-          gitcode_id: hw_hbj
-          name: 蒋宏博
-          organization: ""
-          email: xdhbj0022@163.com
-
-    - repo:
-        - opengauss/openGauss-server
-      committers:
-        - gitee_id: libiao2024
-          gitcode_id: libiao2024
-          name: 李标
-          organization: ""
-          email: 1102510224@qq.com
-        - gitee_id: zhangfengzhi123
-          gitcode_id: zhangfengzhi123
-          name: 张凤治
-          organization: ""
-          email: 364064048@qq.com
-        - gitee_id: ""
-          gitcode_id: wangfeihuo
-          name: 王飞活
-          organization: ""
-          email: ""
-
-
-    - repo:
-        - opengauss/Plugin
-      committers:
-        - gitee_id: ""
-          gitcode_id: wangfeihuo
-          name: 王飞活
-          organization: ""
-          email: ""
-
-    - repo:
-        - opengauss/openGauss-GaussMaster
-      committers:
-        - gitee_id: hwvv
-          gitcode_id: hwvv
-          name: 吴昊
-          organization: ""
-          email: wuhao401@huawei.com
-        - gitee_id: wyhyhyhyh
-          gitcode_id: wyhyhyhyh
-          name: 王养浩
-          organization: ""
-          email: wangyanghao1@huawei.com
-        - gitee_id: shenzheng4
-          gitcode_id: shenzheng4
-          name: 申正
-          organization: ""
-          email: shenzheng4@huawei.com
-        - gitee_id: xiong_xjun
-          gitcode_id: xiong_xjun
-          name: 熊小军
-          organization: ""
-          email: xiongxiaojun2@huawei.com
-        - gitee_id: zff_unique
-          gitcode_id: zff_unique
-          name: 朱芳芳
-          organization: ""
-          email: zhufangfang3@huawei.com
-        - gitee_id: wangtianyuan1994
-          gitcode_id: wangtianyuan1994
-          name: 王天元
-          organization: ""
-          email: wangtianyuan5@huawei.com
-        - gitee_id: jackchenchenchen
-          gitcode_id: ""
-          name: 李坤
-          organization: ""
-          email: likun_dlut@163.com
-        - gitee_id: qq_33172735
-          gitcode_id: qq_33172735
-          name: 刘陆洋
-          organization: ""
-          email: liuluyang2@huawei.com
-        - gitee_id: xty739910hoa
-          gitcode_id: xty739910hoa
-          name: 徐天一
-          organization: ""
-          email: xutianyi5@huawei.com
-
-    - repo:
-        - opengauss/QA
-        - opengauss/Yat
-      committers:
-        - gitee_id: sungang14
-          gitcode_id: sungang14
-          name: 孙刚
-          organization: ""
-          email: sungang14@huawei.com
-        - gitee_id: chen-czywj
-          gitcode_id: czywj
-          name: 陈紫阳
-          organization: ""
-          email: czywj163@163.com
-        - gitee_id: lvlintao666
-          gitcode_id: u012280419
-          name: 吕林涛
-          organization: ""
-          email: 1558341679@qq.com
-        - gitee_id: l1azzzy
-          gitcode_id: l1azzzy
-          name: 李锦波
-          organization: ""
-          email: 570157209@qq.com
-        - gitee_id: szoscar55
-          gitcode_id: songfei_sz
-          name: 宋菲
-          organization: ""
-          email: songfei@shentongdata.com
-        - gitee_id: cloudsbreak
-          gitcode_id: cloudsbreak
-          name: 李建桂
-          organization: ""
-          email: lijg@vastdata.com.cn
-
-    - repo:
-        - opengauss/openGauss-embedded
-      committers:
-        - gitee_id: borisfly
-          gitcode_id: ""
-          name: 刘保玉
-          organization: ""
-          email: liubaoyu@ncti-gba.cn
-        - gitee_id: aiminralph
-          gitcode_id: wufeng0
-          name: 吴峰
-          organization: ""
-          email: wufeng@ncti-gba.cn
-        - gitee_id: quemingjian
-          gitcode_id: quemingjian
-          name: 阙鸣健
-          organization: ""
-          email: quemingjian2@huawei.com
-        - gitee_id: ywzq1161327784
-          gitcode_id: ywzq1161327784
-          name: 窦欣
-          organization: ""
-          email: douxin5@huawei.com
-        - gitee_id: shenzheng4
-          gitcode_id: shenzheng4
-          name: 申正
-          organization: ""
-          email: shenzheng4@huawei.com
-        - gitee_id: lizhen29
-          gitcode_id: lizhen29
-          name: 李振
-          organization: ""
-          email: lizhen@ncti-gba.cn
-        - gitee_id: telebby
-          gitcode_id: telebby
-          name: 孙天飞
-          organization: ""
-          email: suntianfei@ncti-gba.cn
-        - gitee_id: feihongtaxueni
-          gitcode_id: feihongtaxueni
-          name: 张若
-          organization: ""
-          email: zhangruo@ncti-gba.cn
-        - gitee_id: zxccxz
-          gitcode_id: guochuang_liyuxiang
-          name: 李玉祥
-          organization: ""
-          email: liyuxiang@ncti-gba.cn
-        - gitee_id: vanbars
-          gitcode_id: caiwy110
-          name: 蔡文艺
-          organization: ""
-          email: caiwenyi@ncti-gba.cn
-        - gitee_id: Louisyzh
-          gitcode_id: Louisyzh
-          name: 杨子浩
-          organization: ""
-          email: yangzihao@ncti-gba.cn
-        - gitee_id: zengseliang
-          gitcode_id: zengseliang
-          name: 曾色亮
-          organization: ""
-          email: zengseliang@ncti-gba.cn
-
-    - repo:
+  - repo:
+      - opengauss/compatibility-assessment
+    committers:
+      - gitee_id: hwhbj
+        gitcode_id: hw_hbj
+        name: 蒋宏博
+        organization: ''
+        email: xdhbj0022@163.com
+      - gitee_id: ''
+        gitcode_id: wang_xingmiao
+        name: 王幸苗
+        organization: ''
+        email: ''
+      - gitee_id: ''
+        gitcode_id: wang4721
+        name: 王超
+        organization: ''
+        email: zilan1986@163.com
+      - gitee_id: Louisyzh
+        gitcode_id: Louisyzh
+        name: 杨子浩
+        organization: ''
+        email: yangzihao@ncti-gba.cn
+      - gitee_id: zengseliang
+        gitcode_id: zengseliang
+        name: 曾色亮
+        organization: ''
+        email: zengseliang@ncti-gba.cn
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+  - repo:
+      - opengauss/openGauss-migration-portal
+      - opengauss/openGauss-tools-chameleon
+      - opengauss/openGauss-workbench
+    committers:
+      - gitee_id: hwhbj
+        gitcode_id: hw_hbj
+        name: 蒋宏博
+        organization: ''
+        email: xdhbj0022@163.com
+      - gitee_id: ''
+        gitcode_id: wang_xingmiao
+        name: 王幸苗
+        organization: ''
+        email: ''
+      - gitee_id: ''
+        gitcode_id: wang4721
+        name: 王超
+        organization: ''
+        email: zilan1986@163.com
+      - gitee_id: Louisyzh
+        gitcode_id: Louisyzh
+        name: 杨子浩
+        organization: ''
+        email: yangzihao@ncti-gba.cn
+      - gitee_id: zengseliang
+        gitcode_id: zengseliang
+        name: 曾色亮
+        organization: ''
+        email: zengseliang@ncti-gba.cn
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: justbk
+        gitcode_id: justbk
+        name: 周斌
+        organization: ''
+        email: 249396768@qq.com
+  - repo:
+      - opengauss/debezium
+    committers:
+      - gitee_id: ''
+        gitcode_id: wang_xingmiao
+        name: 王幸苗
+        organization: ''
+        email: ''
+      - gitee_id: hwhbj
+        gitcode_id: hw_hbj
+        name: 蒋宏博
+        organization: ''
+        email: xdhbj0022@163.com
+      - gitee_id: ''
+        gitcode_id: wang4721
+        name: 王超
+        organization: ''
+        email: zilan1986@163.com
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: justbk
+        gitcode_id: justbk
+        name: 周斌
+        organization: ''
+        email: 249396768@qq.com
+  - repo:
+      - opengauss/oGRecorder
+    committers:
+      - gitee_id: ''
+        gitcode_id: zkcarl
+        name: 陈志凯
+        organization: ''
+        email: ''
+      - gitee_id: ''
+        gitcode_id: liuzhanfeng
+        name: 刘展峰
+        organization: ''
+        email: ''
+      - gitee_id: ''
+        gitcode_id: zym_2025
+        name: 张悦萌
+        organization: ''
+        email: ''
+      - gitee_id: ''
+        gitcode_id: jiangyan_jack
+        name: 姜岩
+        organization: ''
+        email: ''
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: huawei
+        email: 1102510224@qq.com
+  - repo:
+      - opengauss/docs
+    committers:
+      - gitee_id: hwhbj
+        gitcode_id: hw_hbj
+        name: 蒋宏博
+        organization: ''
+        email: xdhbj0022@163.com
+      - gitee_id: ''
+        gitcode_id: wangfeihuo
+        name: 王飞活
+        organization: ''
+        email: ''
+      - gitee_id: hemiao11
+        gitcode_id: hemiao3787
+        name: 何苗
+        organization: ''
+        email: ''
+      - gitee_id: tongdabao
+        gitcode_id: tongdabao
+        name: 童美霞
+        organization: huawei
+        email: 870020620@qq.com
+      - gitee_id: zijianli16
+        gitcode_id: zijianli16
+        name: 李子健
+        organization: ''
+        email: zijianli16@gmail.com
+      - gitee_id: wu-donger
+        gitcode_id: Evawudonger
+        name: 吴冬儿
+        organization: ''
+        email: wudonger@huawei.com
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: hujunjune
+        gitcode_id: hujunjune
+        name: 胡君
+        organization: huawei
+        email: hujun33@huawei.com
+      - gitee_id: mentoswang
+        gitcode_id: mentoswang
+        name: 王珊珊
+        organization: ''
+        email: 13811014702@139.com
+      - gitee_id: lestertt
+        gitcode_id: lestertt
+        name: 李童
+        organization: ''
+        email: litong@vastdata.com.cn
+      - gitee_id: fyqlpl
+        gitcode_id: fyq_lpl
+        name: ''
+        organization: ''
+        email: ''
+  - repo:
+      - opengauss/website
+    committers:
+      - gitee_id: gzbang
+        gitcode_id: gzbang
+        name: 龚壮邦
+        organization: ''
+        email: 15622356989@163.com
+      - gitee_id: ailoooong
+        gitcode_id: ailoooong
+        name: 艾龙
+        organization: ''
+        email: ilong8@qq.com
+      - gitee_id: xiaoshiziya
+        gitcode_id: persimmonzzz
+        name: 黄世俊
+        organization: ''
+        email: 13070236448@163.com
+      - gitee_id: luckyasme
+        gitcode_id: cctvcat
+        name: 黄泽麟
+        organization: ''
+        email: 807254037@qq.com
+      - gitee_id: zjwmiao
+        gitcode_id: jwzmiao
+        name: 张峻玮
+        organization: ''
+        email: 1723168479@qq.com
+      - gitee_id: liuyong233
+        gitcode_id: liuyong2000139
+        name: 刘勇
+        organization: ''
+        email: 925339056@qq.com
+      - gitee_id: gz2024h
+        gitcode_id: amhani
+        name: 郭振
+        organization: ''
+        email: 1084235395@qq.com
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+  - repo:
+      - opengauss/openGauss-connector-jdbc
+      - opengauss/openGauss-connector-odbc
+    committers:
+      - gitee_id: hwhbj
+        gitcode_id: hw_hbj
+        name: 蒋宏博
+        organization: ''
+        email: xdhbj0022@163.com
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+  - repo:
+      - opengauss/openGauss-OM
+    committers:
+      - gitee_id: hwhbj
+        gitcode_id: hw_hbj
+        name: 蒋宏博
+        organization: ''
+        email: xdhbj0022@163.com
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: wang-zili
+        gitcode_id: wangzili1
+        name: 王自力
+        organization: ''
+        email: 446406177@qq.com
+      - gitee_id: miffyrcee
+        gitcode_id: miffycree
+        name: 刘航宇
+        organization: huawei
+        email: liuhangyu6@huawei.com
+  - repo:
+      - opengauss/openGauss-server
+    committers:
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: zhangfengzhi123
+        gitcode_id: zhangfengzhi123
+        name: 张凤治
+        organization: ''
+        email: 364064048@qq.com
+      - gitee_id: ''
+        gitcode_id: wangfeihuo
+        name: 王飞活
+        organization: ''
+        email: ''
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: he_ray
+        gitcode_id: h_ray
+        name: 何睿
+        organization: ''
+        email: he.ray@139.com
+      - gitee_id: cailei19
+        gitcode_id: cailei19
+        name: 蔡磊
+        organization: huawei
+        email: cailei19@huawei.com
+      - gitee_id: tsunamis-li
+        gitcode_id: lihaixiao
+        name: 李海啸
+        organization: huawei
+        email: lihaixiao3@huawei.com
+      - gitee_id: bihua111
+        gitcode_id: bihua111
+        name: 王碧华
+        organization: huawei
+        email: wangbihua1@huawei.com
+      - gitee_id: zhangjiahao_hw
+        gitcode_id: zjh_hw
+        name: 章佳豪
+        organization: huawei
+        email: zhangjiahao65@huawei.com
+      - gitee_id: yangzhizheng94
+        gitcode_id: mrzack
+        name: 杨志铮
+        organization: ''
+        email: yangzhizheng@chinamobile.com
+      - gitee_id: levy5307
+        gitcode_id: levy53071
+        name: 赵立伟
+        organization: ''
+        email: zhaoliwei@chinamobile.com
+      - gitee_id: xiong_xjun
+        gitcode_id: xiong_xjun
+        name: 熊小军
+        organization: huawei
+        email: xiong_xiaojun@yeah.net
+      - gitee_id: wuyuechuan
+        gitcode_id: wuyuechuan
+        name: 吴岳川
+        organization: ''
+        email: wuych9@mail2.sysu.edu.cn
+      - gitee_id: Igali
+        gitcode_id: Igali
+        name: 吉文克
+        organization: ''
+        email: jwkchn@163.com
+  - repo:
+      - opengauss/Plugin
+    committers:
+      - gitee_id: ''
+        gitcode_id: wangfeihuo
+        name: 王飞活
+        organization: ''
+        email: ''
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: husan1024
+        gitcode_id: huyinghao
+        name: 胡英豪
+        organization: ''
+        email: huyinghao@shentongdata.com
+      - gitee_id: wuyuechuan
+        gitcode_id: wuyuechuan
+        name: 吴岳川
+        organization: ''
+        email: wuych9@mail2.sysu.edu.cn
+      - gitee_id: xiong_xjun
+        gitcode_id: xiong_xjun
+        name: 熊小军
+        organization: huawei
+        email: xiong_xiaojun@yeah.net
+      - gitee_id: wumingyuan
+        gitcode_id: wmy_ld
+        name: ''
+        organization: ''
+        email: ''
+      - gitee_id: dreamalloc
+        gitcode_id: dreamalloc
+        name: 赵思骑
+        organization: ''
+        email: zhaosq76@chinaunicom.cn
+      - gitee_id: kelayzhao
+        gitcode_id: zhaojunv3z810
+        name: 赵俊
+        organization: ''
+        email: zhaoj296@chinaunicom.cn
+  - repo:
+      - opengauss/openGauss-GaussMaster
+    committers:
+      - gitee_id: hwvv
+        gitcode_id: hwvv
+        name: 吴昊
+        organization: ''
+        email: wuhao401@huawei.com
+      - gitee_id: wyhyhyhyh
+        gitcode_id: wyhyhyhyh
+        name: 王养浩
+        organization: ''
+        email: wangyanghao1@huawei.com
+      - gitee_id: xiong_xjun
+        gitcode_id: xiong_xjun
+        name: 熊小军
+        organization: ''
+        email: xiongxiaojun2@huawei.com
+      - gitee_id: zff_unique
+        gitcode_id: zff_unique
+        name: 朱芳芳
+        organization: ''
+        email: zhufangfang3@huawei.com
+      - gitee_id: wangtianyuan1994
+        gitcode_id: wangtianyuan1994
+        name: 王天元
+        organization: ''
+        email: wangtianyuan5@huawei.com
+      - gitee_id: qq_33172735
+        gitcode_id: qq_33172735
+        name: 刘陆洋
+        organization: ''
+        email: liuluyang2@huawei.com
+      - gitee_id: xty739910hoa
+        gitcode_id: xty739910hoa
+        name: 徐天一
+        organization: ''
+        email: xutianyi5@huawei.com
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+  - repo:
+      - opengauss/QA
+      - opengauss/Yat
+    committers:
+      - gitee_id: sungang14
+        gitcode_id: sungang14
+        name: 孙刚
+        organization: ''
+        email: sungang14@huawei.com
+      - gitee_id: ningyali
+        gitcode_id: ningyali
+        name: 宁雅黎
+        organization: ''
+        email: ningyali@h-partners.com
+      - gitee_id: wan005
+        gitcode_id: wan005
+        name: 万方
+        organization: ''
+        email: wanfang5@h-partners.com
+      - gitee_id: chen-czywj
+        gitcode_id: czywj
+        name: 陈紫阳
+        organization: ''
+        email: ''
+      - gitee_id: ''
+        gitcode_id: u012280419
+        name: 吕林涛
+        organization: ''
+        email: ''
+      - gitee_id: ''
+        gitcode_id: m0_52125670
+        name: 刘桐
+        organization: ''
+        email: ''
+      - gitee_id: ''
+        gitcode_id: haomeng802
+        name: 郝梦
+        organization: ''
+        email: 15229369638@163.com
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: dolphin-m
+        gitcode_id: dolphin-m
+        name: 明沛
+        organization: ''
+        email: mingpei@huawei.com
+  - repo:
+      - opengauss/openGauss-embedded
+    committers:
+      - gitee_id: aiminralph
+        gitcode_id: wufeng0
+        name: 吴峰
+        organization: ''
+        email: wufeng@ncti-gba.cn
+      - gitee_id: lizhen29
+        gitcode_id: lizhen29
+        name: 李振
+        organization: ''
+        email: lizhen@ncti-gba.cn
+      - gitee_id: telebby
+        gitcode_id: telebby
+        name: 孙天飞
+        organization: ''
+        email: suntianfei@ncti-gba.cn
+      - gitee_id: feihongtaxueni
+        gitcode_id: feihongtaxueni
+        name: 张若
+        organization: ''
+        email: zhangruo@ncti-gba.cn
+      - gitee_id: zxccxz
+        gitcode_id: guochuang_liyuxiang
+        name: 李玉祥
+        organization: ''
+        email: liyuxiang@ncti-gba.cn
+      - gitee_id: vanbars
+        gitcode_id: caiwy110
+        name: 蔡文艺
+        organization: ''
+        email: caiwenyi@ncti-gba.cn
+      - gitee_id: Louisyzh
+        gitcode_id: Louisyzh
+        name: 杨子浩
+        organization: ''
+        email: yangzihao@ncti-gba.cn
+      - gitee_id: zengseliang
+        gitcode_id: zengseliang
+        name: 曾色亮
+        organization: ''
+        email: zengseliang@ncti-gba.cn
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+  - repo:
       - opengauss/openGauss-embedded_property
-      committers:
-        - gitee_id: ywzq1161327784
-          gitcode_id: ywzq1161327784
-          name: 窦欣
-          organization: ""
-          email: douxin5@huawei.com
-        - gitee_id: lizhen29
-          gitcode_id: lizhen29
-          name: 李振
-          organization: ""
-          email: lizhen@ncti-gba.cn
-        - gitee_id: zxccxz
-          gitcode_id: guochuang_liyuxiang
-          name: 李玉祥
-          organization: ""
-          email: liyuxiang@ncti-gba.cn
-        - gitee_id: vanbars
-          gitcode_id: caiwy110
-          name: 蔡文艺
-          organization: ""
-          email: caiwenyi@ncti-gba.cn
-        - gitee_id: Louisyzh
-          gitcode_id: Louisyzh
-          name: 杨子浩
-          organization: ""
-          email: yangzihao@ncti-gba.cn
-        - gitee_id: zengseliang
-          gitcode_id: zengseliang
-          name: 曾色亮
-          organization: ""
-          email: zengseliang@ncti-gba.cn
-        - gitee_id: lmeng-dream
-          gitcode_id: lmeng-dream
-          name: 罗梦
-          organization: ""
-          email: luomeng@ncti-gba.cn
-
-    - repo:
+    committers:
+      - gitee_id: lizhen29
+        gitcode_id: lizhen29
+        name: 李振
+        organization: ''
+        email: lizhen@ncti-gba.cn
+      - gitee_id: zxccxz
+        gitcode_id: guochuang_liyuxiang
+        name: 李玉祥
+        organization: ''
+        email: liyuxiang@ncti-gba.cn
+      - gitee_id: vanbars
+        gitcode_id: caiwy110
+        name: 蔡文艺
+        organization: ''
+        email: caiwenyi@ncti-gba.cn
+      - gitee_id: Louisyzh
+        gitcode_id: Louisyzh
+        name: 杨子浩
+        organization: ''
+        email: yangzihao@ncti-gba.cn
+      - gitee_id: zengseliang
+        gitcode_id: zengseliang
+        name: 曾色亮
+        organization: ''
+        email: zengseliang@ncti-gba.cn
+      - gitee_id: lmeng-dream
+        gitcode_id: lmeng-dream
+        name: 罗梦
+        organization: ''
+        email: luomeng@ncti-gba.cn
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+  - repo:
       - opengauss/security
-      committers:
-          - gitee_id: ""
-            gitcode_id: Endfromhere
-            name: 陈启军
-            organization: huawei
-            email: Royi.chenqijun@huawei.com
-          - gitee_id: hwhbj
-            gitcode_id: hw_hbj
-            name: 蒋宏博
-            organization: huawei
-            email: xdhbj0022@163.com
-          - gitee_id: jianfenglee
-            gitcode_id: jianfenglee
-            name: 李建峰
-            organization: ""
-            email: bigtimer@qq.com
-          - gitee_id: blueloveki
-            # 需要补充 GitCode 用户ID
-            gitcode_id: ""
-            name: 郭亮
-            organization: ""
-            email: blue.guo@huawei.com
+    committers:
+      - gitee_id: ''
+        gitcode_id: Endfromhere
+        name: 陈启军
+        organization: huawei
+        email: Royi.chenqijun@huawei.com
+      - gitee_id: hwhbj
+        gitcode_id: hw_hbj
+        name: 蒋宏博
+        organization: huawei
+        email: xdhbj0022@163.com
+      - gitee_id: jianfenglee
+        gitcode_id: jianfenglee
+        name: 李建峰
+        organization: ''
+        email: bigtimer@qq.com
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+  - repo:
+      - opengauss/openGauss-tools-monitor
+      - opengauss/openGauss-tools-sql-translator
+      - opengauss/openGauss-jdbc-skywalking
+      - opengauss/openGauss-tools-migrationAssessmentReport
+      - opengauss/openGauss-tools-datachecker
+      - opengauss/openGauss-tools-sqlines
+      - opengauss/easyVisualization
+      - opengauss/openGauss-tools-loader
+      - opengauss/openGauss-tools-ora2og
+      - opengauss/shardingsphere
+      - opengauss/openGauss-tools-backup
+      - opengauss/openGauss-tools-onlineMigration-mysql
+      - opengauss/openGauss-tools-datachecker-performance
+      - opengauss/openGauss-tools-onlineMigration
+      - opengauss/ham4db
+      - opengauss/openGauss-housekeeper
+      - opengauss/openGauss-distributed-solutions
+      - opengauss/DataStudio
+      - opengauss/openGauss-tools-pg2og
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: justbk
+        gitcode_id: justbk
+        name: 周斌
+        organization: ''
+        email: 249396768@qq.com
+  - repo:
+      - opengauss/ogx
+      - opengauss/openGauss-connector-python-psycopg2
+      - opengauss/opengauss-prometheus-exporter
+      - opengauss/openGauss-CI
+      - opengauss/ansible-for-opengauss
+      - opengauss/open-gauss-finance
+      - opengauss/riscv
+      - opengauss/openGauss-operator
+      - opengauss/openGauss-connector-python-pyog
+      - opengauss/bc
+      - opengauss/openGauss-DBMind-3rd
+      - opengauss/hcom4db
+      - opengauss/open-gauss-cm-operator
+      - opengauss/ngxdb-for-opengauss
+      - opengauss/openGauss-connector-adonet
+      - opengauss/openGauss-connector-rust
+      - opengauss/openGauss-connector-nodejs
+      - opengauss/openGauss-batman
+      - opengauss/quick-issue-website
+      - opengauss/openGauss-sqlalchemy
+      - opengauss/openGauss-connector-go-pq
+      - opengauss/openGauss-User-Group
+      - opengauss/landscope
+      - opengauss/open-gauss-compile-opt-tools
+      - opengauss/open-gauss-server-multi-master
+      - opengauss/openGauss-sandbox
+      - opengauss/board
+      - opengauss/ora-migration-tool
+      - opengauss/migration-website
+      - opengauss/openGauss-test-toolset
+      - opengauss/dbms-fuzzing-scu
+      - opengauss/tc
+      - opengauss/practice-platform
+      - opengauss/openGauss-container
+      - opengauss/openGauss-tools-ogtop
+      - opengauss/uc
+      - opengauss/openGauss-wasm
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+  - repo:
+      - opengauss/DMS
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: zhouzhiwei1992
+        gitcode_id: zhou-zhiwei
+        name: 周智伟
+        organization: ''
+        email: w929296793@qq.com
+      - gitee_id: git_for_andy
+        gitcode_id: andy_git
+        name: 廖美丰
+        organization: ''
+        email: andymind@126.com
+      - gitee_id: bowen9799
+        gitcode_id: bowen9799
+        name: 刘博文
+        organization: ''
+        email: bowen9799@noreply.gitcode.com
+      - gitee_id: huxilin
+        gitcode_id: huxilin
+        name: huxilin
+        organization: ''
+        email: huxilin@huawei.com
+      - gitee_id: peibaoyi
+        gitcode_id: peibaoyi
+        name: 裴鲍义
+        organization: ''
+        email: 943490186@qq.com
+      - gitee_id: zhulixia
+        gitcode_id: zhulixia_hw
+        name: 朱丽霞
+        organization: ''
+        email: zhulixia3@huawei.com
+      - gitee_id: xzyinyong2
+        gitcode_id: xzyinyong
+        name: 殷永
+        organization: ''
+        email: xzyinyong@163.com
+      - gitee_id: ''
+        gitcode_id: zkcarl
+        name: 陈志凯
+        organization: ''
+        email: ''
+      - gitee_id: yz_db
+        gitcode_id: yz_db
+        name: 于正
+        organization: huawei
+        email: yuzheng3@huawei.com
+      - gitee_id: dengyong2
+        gitcode_id: deng_yong
+        name: 邓勇
+        organization: huawei
+        email: dean.dengyong@huawei.com
+      - gitee_id: wanghuanzhuo
+        gitcode_id: wanghuanzhuo
+        name: 王焕卓
+        organization: huawei
+        email: wanghuanzhuo@huawei.com
+      - gitee_id: yangwei129
+        gitcode_id: wwllwwll
+        name: 杨葳
+        organization: huawei
+        email: yangwei129@huawei.com
+  - repo:
+      - opengauss/compatible-certification
+      - opengauss/distribution-evaluation
+      - opengauss/distribution-certification
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: sungang14
+        gitcode_id: sungang14
+        name: 孙刚
+        organization: huawei
+        email: sungang14@huawei.com
+      - gitee_id: tantanyj
+        gitcode_id: tantanyj
+        name: 谭宇杰
+        organization: ''
+        email: tanyujie3@huawei-partners.com
+  - repo:
+      - opengauss/DCC
+      - opengauss/CM
+      - opengauss/CM-RestAPI
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: yz_db
+        gitcode_id: yz_db
+        name: 于正
+        organization: huawei
+        email: yuzheng3@huawei.com
+      - gitee_id: dengyong2
+        gitcode_id: deng_yong
+        name: 邓勇
+        organization: huawei
+        email: dean.dengyong@huawei.com
+      - gitee_id: wanghuanzhuo
+        gitcode_id: wanghuanzhuo
+        name: 王焕卓
+        organization: huawei
+        email: wanghuanzhuo@huawei.com
+      - gitee_id: hu-xilin
+        gitcode_id: huxilin
+        name: 胡习林
+        organization: huawei
+        email: huxilin@huawei.com
+      - gitee_id: peibaoyi
+        gitcode_id: peibaoyi
+        name: 裴鲍义
+        organization: huawei
+        email: peibaoyi@huawei.com
+      - gitee_id: zhulixia
+        gitcode_id: zhulixia_hw
+        name: 朱丽霞
+        organization: huawei
+        email: zhulixia3@huawei.com
+      - gitee_id: yangwei129
+        gitcode_id: wwllwwll
+        name: 杨葳
+        organization: huawei
+        email: yangwei129@huawei.com
+  - repo:
+      - opengauss/openGauss-third_party
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: he_ray
+        gitcode_id: h_ray
+        name: 何睿
+        organization: ''
+        email: he.ray@139.com
+      - gitee_id: cailei19
+        gitcode_id: cailei19
+        name: 蔡磊
+        organization: huawei
+        email: cailei19@huawei.com
+      - gitee_id: tsunamis-li
+        gitcode_id: lihaixiao
+        name: 李海啸
+        organization: huawei
+        email: lihaixiao3@huawei.com
+      - gitee_id: bihua111
+        gitcode_id: bihua111
+        name: 王碧华
+        organization: huawei
+        email: wangbihua1@huawei.com
+      - gitee_id: zhangjiahao_hw
+        gitcode_id: zjh_hw
+        name: 章佳豪
+        organization: huawei
+        email: zhangjiahao65@huawei.com
+      - gitee_id: yangzhizheng94
+        gitcode_id: mrzack
+        name: 杨志铮
+        organization: ''
+        email: yangzhizheng@chinamobile.com
+      - gitee_id: levy5307
+        gitcode_id: levy53071
+        name: 赵立伟
+        organization: ''
+        email: zhaoliwei@chinamobile.com
+      - gitee_id: xiong_xjun
+        gitcode_id: xiong_xjun
+        name: 熊小军
+        organization: huawei
+        email: xiong_xiaojun@yeah.net
+      - gitee_id: wuyuechuan
+        gitcode_id: wuyuechuan
+        name: 吴岳川
+        organization: ''
+        email: wuych9@mail2.sysu.edu.cn
+      - gitee_id: ''
+        gitcode_id: wangfeihuo
+        name: 王飞活
+        organization: ''
+        email: ''
+      - gitee_id: zhangfengzhi123
+        gitcode_id: zhangfengzhi123
+        name: 张凤治
+        organization: ''
+        email: 364064048@qq.com
+      - gitee_id: Igali
+        gitcode_id: Igali
+        name: 吉文克
+        organization: ''
+        email: jwkchn@163.com
+  - repo:
+      - opengauss/openGauss-webclient
+      - opengauss/practice-course
+      - opengauss/examples
+      - opengauss/community
+      - opengauss/openGauss-webclient-portal
+      - opengauss/opensource-intership
+      - opengauss/infra
+      - opengauss/playground-course
+      - opengauss/tryme
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: gzbang
+        gitcode_id: gzbang
+        name: 龚壮邦
+        organization: huawei
+        email: 15622356989@163.com
+      - gitee_id: ailoooong
+        gitcode_id: ailoooong
+        name: 艾龙
+        organization: huawei
+        email: ailong@outlook.com
+  - repo:
+      - opengauss/blog
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: tongdabao
+        gitcode_id: tongdabao
+        name: 童美霞
+        organization: huawei
+        email: 870020620@qq.com
+      - gitee_id: hemiao11
+        gitcode_id: hemiao3787
+        name: 何苗
+        organization: ''
+        email: hemiao45@h-partners.com
+      - gitee_id: hujunjune
+        gitcode_id: hujunjune
+        name: 胡君
+        organization: huawei
+        email: hujun33@huawei.com
+      - gitee_id: mentoswang
+        gitcode_id: mentoswang
+        name: 王珊珊
+        organization: ''
+        email: 13811014702@139.com
+      - gitee_id: lestertt
+        gitcode_id: lestertt
+        name: 李童
+        organization: ''
+        email: litong@vastdata.com.cn
+      - gitee_id: fyqlpl
+        gitcode_id: fyq_lpl
+        name: ''
+        organization: ''
+        email: ''
+  - repo:
+      - opengauss/Blockchain
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: he_ray
+        gitcode_id: h_ray
+        name: 何睿
+        organization: ''
+        email: he.ray@139.com
+      - gitee_id: zhu_jinwei
+        gitcode_id: zhu_jinwei
+        name: 朱金伟
+        organization: ''
+        email: zhujinwei@huawei.com
+  - repo:
+      - opengauss/release-management
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: dolphin-m
+        gitcode_id: dolphin-m
+        name: 明沛
+        organization: huawei
+        email: mingpei@huawei.com
+      - gitee_id: yangdi07
+        gitcode_id: yang-di
+        name: 杨迪
+        organization: huawei
+        email: yangdi14@huawei.com
+      - gitee_id: nonolili527
+        gitcode_id: nonolili527
+        name: 王磊
+        organization: huawei
+        email: wanglei110@huawei.com
+      - gitee_id: wangwei5
+        gitcode_id: wangwei5
+        name: 王炜
+        organization: huawei
+        email: wangwei5@huawei.com
+      - gitee_id: xiong_xjun
+        gitcode_id: xiong_xjun
+        name: 熊小军
+        organization: huawei
+        email: xiong_xiaojun@yeah.net
+      - gitee_id: zhongjun2
+        gitcode_id: zhongjun2
+        name: 钟君
+        organization: huawei
+        email: jun.zhongjun2@gmail.com
+  - repo:
+      - opengauss/openGauss-graph
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: he_ray
+        gitcode_id: h_ray
+        name: 何睿
+        organization: ''
+        email: he.ray@139.com
+      - gitee_id: tjuliubaozhu
+        gitcode_id: liubaozhu
+        name: 刘宝珠
+        organization: ''
+        email: liubaozhu@tju.edu.cn
+  - repo:
+      - opengauss/ops
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: windxd
+        gitcode_id: windxd
+        name: 刁现峰
+        organization: ''
+        email: diaoxianfeng@huawei.com
+  - repo:
+      - opengauss/openGauss-AI
+      - opengauss/openGauss-DBMind
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: wangtianyuan1994
+        gitcode_id: wangtianyuan1994
+        name: 王天元
+        organization: ''
+        email: wangtianyuan5@huawei.com
+      - gitee_id: Igali
+        gitcode_id: Igali
+        name: 吉文克
+        organization: ''
+        email: jwkchn@163.com
+  - repo:
+      - opengauss/cantian
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: ''
+        gitcode_id: lijieac
+        name: 李杰
+        organization: ''
+        email: lijie34@huawei.com
+      - gitee_id: ''
+        gitcode_id: yuanyazhi
+        name: yuanyazhi
+        organization: ''
+        email: yuanyazhi@huawei.com
+      - gitee_id: ''
+        gitcode_id: wang_bowen
+        name: 王博文
+        organization: huawei
+        email: wangbowen69@huawei.com
+  - repo:
+      - opengauss/knowledgeGraph
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: wuyuechuan
+        gitcode_id: wuyuechuan
+        name: 吴岳川
+        organization: ''
+        email: wuych9@mail2.sysu.edu.cn
+  - repo:
+      - opengauss/DSS
+      - opengauss/CBB
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: zhouzhiwei1992
+        gitcode_id: zhou-zhiwei
+        name: 周智伟
+        organization: ''
+        email: w929296793@qq.com
+      - gitee_id: git_for_andy
+        gitcode_id: andy_git
+        name: 廖美丰
+        organization: ''
+        email: andymind@126.com
+      - gitee_id: bowen9799
+        gitcode_id: bowen9799
+        name: 刘博文
+        organization: ''
+        email: bowen9799@noreply.gitcode.com
+      - gitee_id: huxilin
+        gitcode_id: huxilin
+        name: huxilin
+        organization: ''
+        email: huxilin@huawei.com
+      - gitee_id: peibaoyi
+        gitcode_id: peibaoyi
+        name: 裴鲍义
+        organization: ''
+        email: 943490186@qq.com
+      - gitee_id: zhulixia
+        gitcode_id: zhulixia_hw
+        name: 朱丽霞
+        organization: ''
+        email: zhulixia3@huawei.com
+      - gitee_id: xzyinyong2
+        gitcode_id: xzyinyong
+        name: 殷永
+        organization: ''
+        email: xzyinyong@163.com
+      - gitee_id: ''
+        gitcode_id: zkcarl
+        name: 陈志凯
+        organization: ''
+        email: ''
+      - gitee_id: yz_db
+        gitcode_id: yz_db
+        name: 于正
+        organization: huawei
+        email: yuzheng3@huawei.com
+      - gitee_id: dengyong2
+        gitcode_id: deng_yong
+        name: 邓勇
+        organization: huawei
+        email: dean.dengyong@huawei.com
+      - gitee_id: wanghuanzhuo
+        gitcode_id: wanghuanzhuo
+        name: 王焕卓
+        organization: huawei
+        email: wanghuanzhuo@huawei.com
+      - gitee_id: yangwei129
+        gitcode_id: wwllwwll
+        name: 杨葳
+        organization: huawei
+        email: yangwei129@huawei.com
+  - repo:
+      - opengauss/DCF
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: hu-xilin
+        gitcode_id: huxilin
+        name: 胡习林
+        organization: huawei
+        email: huxilin@huawei.com
+  - repo:
+      - opengauss/service-partner-certification
+      - opengauss/training-partner-certification
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: sandy-xuxu
+        gitcode_id: sandy-xuxu
+        name: 徐徐
+        organization: huawei
+        email: sandy.xuxu@huawei.com
+      - gitee_id: huang-xianru
+        gitcode_id: huang-xianru
+        name: 黄贤儒
+        organization: huawei
+        email: huangxianru@huawei.com
+      - gitee_id: tantanyj
+        gitcode_id: tantanyj
+        name: 谭宇杰
+        organization: ''
+        email: tanyujie3@huawei-partners.com
+      - gitee_id: kateeleven
+        gitcode_id: ogpilot
+        name: 李雷君
+        organization: ''
+        email: kateeleven@163.co
+      - gitee_id: Lgrape
+        gitcode_id: Lgrape
+        name: 武祥
+        organization: ''
+        email: 1197913499@qq.com
+      - gitee_id: weijjcc
+        gitcode_id: weijjcc
+        name: 魏江江
+        organization: ''
+        email: 303125916@qq.com
+      - gitee_id: ivanwu123
+        gitcode_id: Ivanwu
+        name: 吴振伟
+        organization: ''
+        email: 149348600@qq.com
+  - repo:
+      - opengauss/yukon
+    committers:
+      - gitee_id: zhangxubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: ''
+        email: zhangxubo1@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: ''
+        email: 1102510224@qq.com
+      - gitee_id: xiong_xjun
+        gitcode_id: xiong_xjun
+        name: 熊小军
+        organization: huawei
+        email: xiong_xiaojun@yeah.net
+      - gitee_id: huangning2
+        gitcode_id: huangning21
+        name: 黄宁
+        organization: ''
+        email: huangning2@supermap.com
+  - repo:
+      - opengauss/oGRAC
+      - opengauss/oGRAC_dev
+    committers:
+      - gitee_id: ''
+        gitcode_id: lijieac
+        name: 李杰
+        organization: huawei
+        email: lijie34@huawei.com
+      - gitee_id: ''
+        gitcode_id: yuanyazhi
+        name: 原雅芝
+        organization: huawei
+        email: yuanyazhi@huawei.com
+      - gitee_id: ''
+        gitcode_id: wang_bowen
+        name: 王博文
+        organization: huawei
+        email: wangbowen69@huawei.com
+      - gitee_id: caoy
+        gitcode_id: CityYard
+        name: 曹宇
+        organization: huawei
+        email: caoyu09@huawei.com
+      - gitee_id: weithu
+        gitcode_id: weithu
+        name: 王伟
+        organization: huawei
+        email: wangwei321@huawei.com
+      - gitee_id: liangyuansheng
+        gitcode_id: theothersideofsea
+        name: 梁远胜
+        organization: huawei
+        email: liangyuansheng@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: huawei
+        email: 1102510224@qq.com
+      - gitee_id: xiong_xjun
+        gitcode_id: xiong_xjun
+        name: 熊小军
+        organization: huawei
+        email: xiong_xiaojun@yeah.net
+  - repo:
+      - opengauss/oGRAC_DOC
+    committers:
+      - gitee_id: ''
+        gitcode_id: yuanyazhi
+        name: 原雅芝
+        organization: huawei
+        email: yuanyazhi@huawei.com
+      - gitee_id: ''
+        gitcode_id: wang_bowen
+        name: 王博文
+        organization: huawei
+        email: wangbowen69@huawei.com
+      - gitee_id: xiong_xjun
+        gitcode_id: xiong_xjun
+        name: 熊小军
+        organization: huawei
+        email: xiong_xiaojun@yeah.net
+      - gitee_id: liangyuansheng
+        gitcode_id: theothersideofsea
+        name: 梁远胜
+        organization: huawei
+        email: liangyuansheng@huawei.com
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: huawei
+        email: 1102510224@qq.com
+  - repo:
+      - opengauss/oG-Memory
+    committers:
+      - gitee_id: wangtianyuan1994
+        gitcode_id: wangtianyuan1994
+        name: 王天元
+        organization: ''
+        email: wangtianyuan5@huawei.com
+      - gitee_id: Igali
+        gitcode_id: Igali
+        name: 吉文克
+        organization: ''
+        email: jwkchn@163.com
+  - repo:
+      - opengauss/openGauss-server-RackServer
+      - opengauss/org-issue
+      - opengauss/spq_plugin_v2
+      - opengauss/mcp-opengauss
+    committers:
+      - gitee_id: libiao2024
+        gitcode_id: libiao2024
+        name: 李标
+        organization: huawei
+        email: 1102510224@qq.com
+  - repo:
+      - opengauss/docs-website
+    committers:
+      - gitee_id: zhang_xubo
+        gitcode_id: zhangxubo
+        name: 张旭博
+        organization: huawei
+        email: zhangxubo1@huawei.com
+      - gitee_id: gzbang
+        gitcode_id: gzbang
+        name: 龚壮邦
+        organization: huawei
+        email: 15622356989@163.com
+      - gitee_id: ailoooong
+        gitcode_id: ailoooong
+        name: 艾龙
+        organization: huawei
+        email: ailong@outlook.com
+      - gitee_id: xiaoshiziya
+        gitcode_id: persimmonzzz
+        name: 黄世俊
+        organization: ''
+        email: 13070236448@163.com
 
-    - repo:
-        - opengauss/openGauss-tools-monitor
-        - opengauss/ogx
-        - opengauss/openGauss-migration-portal
-        - opengauss/openGauss-tools-chameleon
-        - opengauss/openGauss-connector-python-psycopg2
-        - opengauss/openGauss-tools-sql-translator
-        - opengauss/DMS
-        - opengauss/openGauss-jdbc-skywalking
-        - opengauss/openGauss-tools-migrationAssessmentReport
-        - opengauss/opengauss-prometheus-exporter
-        - opengauss/openGauss-CI
-        - opengauss/ansible-for-opengauss
-        - opengauss/compatible-certification
-        - opengauss/openGauss-tools-guidence
-        - opengauss/DCC
-        - opengauss/openGauss-third_party
-        - opengauss/open-gauss-finance
-        - opengauss/openGauss-webclient
-        - opengauss/blog
-        - opengauss/debezium
-        - opengauss/openGauss-workbench
-        - opengauss/QA
-        - opengauss/riscv
-        - opengauss/openGauss-tools-datachecker
-        - opengauss/openGauss-tools-sqlines
-        - opengauss/docs
-        - opengauss/openGauss-operator
-        - opengauss/compatibility-assessment
-        - opengauss/openGauss-connector-python-pyog
-        - opengauss/easyVisualization
-        - opengauss/distribution-evaluation
-        - opengauss/openGauss-tools-loader
-        - opengauss/Blockchain
-        - opengauss/bc
-        - opengauss/openGauss-tools-ora2og
-        - opengauss/practice-course
-        - opengauss/shardingsphere
-        - opengauss/openGauss-tools-backup
-        - opengauss/openGauss-DBMind-3rd
-        - opengauss/openGauss-tools-onlineMigration-mysql
-        - opengauss/release-management
-        - opengauss/openGauss-graph
-        - opengauss/openGauss-server
-        - opengauss/openGauss-connector-odbc
-        - opengauss/Plugin
-        - opengauss/hcom4db
-        - opengauss/open-gauss-cm-operator
-        - opengauss/examples
-        - opengauss/ngxdb-for-opengauss
-        - opengauss/openGauss-connector-adonet
-        - opengauss/openGauss-tools-datachecker-performance
-        - opengauss/openGauss-connector-rust
-        - opengauss/security
-        - opengauss/openGauss-connector-nodejs
-        - opengauss/CM
-        - opengauss/openGauss-batman
-        - opengauss/quick-issue-website
-        - opengauss/openGauss-sqlalchemy
-        - opengauss/website
-        - opengauss/openGauss-connector-go-pq
-        - opengauss/ops
-        - opengauss/openGauss-tools-onlineMigration
-        - opengauss/community
-        - opengauss/openGauss-User-Group
-        - opengauss/openGauss-embedded
-        - opengauss/openGauss-embedded_property
-        - opengauss/landscope
-        - opengauss/distribution-certification
-        - opengauss/open-gauss-compile-opt-tools
-        - opengauss/open-gauss-server-multi-master
-        - opengauss/openGauss-AI
-        - opengauss/openGauss-sandbox
-        - opengauss/cantian
-        - opengauss/ham4db
-        - opengauss/knowledgeGraph
-        - opengauss/board
-        - opengauss/DSS
-        - opengauss/DCF
-        - opengauss/openGauss-tools-pg2og
-        - opengauss/ora-migration-tool
-        - opengauss/migration-website
-        - opengauss/openGauss-housekeeper
-        - opengauss/openGauss-test-toolset
-        - opengauss/WR
-        - opengauss/CM-RestAPI
-        - opengauss/openGauss-distributed-solutions
-        - opengauss/DataStudio
-        - opengauss/dbms-fuzzing-scu
-        - opengauss/tc
-        - opengauss/openGauss-connector-jdbc
-        - opengauss/Yat
-        - opengauss/practice-platform
-        - opengauss/openGauss-DBMind
-        - opengauss/openGauss-container
-        - opengauss/openGauss-tools-ogtop
-        - opengauss/uc
-        - opengauss/service-partner-certification
-        - opengauss/training-partner-certification
-        - opengauss/openGauss-wasm
-        - opengauss/yukon
-        - opengauss/openGauss-OM
-        - opengauss/CBB
-        - opengauss/openGauss-webclient-portal
-        - opengauss/opensource-intership
-        - opengauss/infra
-        - opengauss/playground-course
-        - opengauss/tryme
-        - opengauss/openGauss-GaussMaster
-      committers:
-        - gitee_id: shenzheng4
-          gitcode_id: shenzheng4
-          name: 申正
-          organization: ""
-          email: shenzheng4@huawei.com
-        - gitee_id: jemappellehc
-          gitcode_id: jemappellehc
-          name: 陈欢
-          organization: ""
-          email: 386956049@qq.com
-        - gitee_id: quemingjian
-          gitcode_id: quemingjian
-          name: 阙鸣健
-          organization: ""
-          email: quemingjian2@huawei.com
-        - gitee_id: superblaker
-          gitcode_id: superlchf
-          name: 柳长沣
-          organization: ""
-          email: superlchf@qq.com
-        - gitee_id: chendong76
-          gitcode_id: chendong76
-          name: 陈栋
-          organization: ""
-          email: chendong76@huawei.com
-        - gitee_id: totaj
-          gitcode_id: totaj
-          name: 彭炯
-          organization: huawei
-          email: pengjiong1@huawei.com
-        - gitee_id: gentle_hu
-          gitcode_id: CarrotGo
-          name: 胡正超
-          organization: ""
-          email: huzhengchao4@huawei.com
-        - gitee_id: congzhou2603
-          gitcode_id: congzhou2603
-          name: 周聪
-          organization: ""
-          email: zhoucong42@huawei.com
-        - gitee_id: struggle_hw
-          gitcode_id: hwworkholic
-          name: 陈琛
-          organization: ""
-          email: arcoalien@qq.com
-        - gitee_id: dodders
-          gitcode_id: dodders
-          name: 赖盛好
-          organization: ""
-          email: laishenghao1@huawei.com
-        - gitee_id: ""
-          gitcode_id: muyulinzhong
-          name: 宋世轩
-          organization: ""
-          email: ""
-        - gitee_id: chenxiaobin19
-          gitcode_id: chenxiaobin19
-          name: 陈晓滨
-          organization: ""
-          email: chenxiaobin19@huawei.com
-        - gitee_id: ywzq1161327784
-          gitcode_id: ywzq1161327784
-          name: 窦欣
-          organization: ""
-          email: douxin5@huawei.com
-        - gitee_id: shirley_zhengx
-          gitcode_id: shirley_zhengx
-          name: 郑雪
-          organization: ""
-          email: zhengxue6@huawei.com
-        - gitee_id: zhangxubo
-          gitcode_id: zhangxubo
-          name: 张旭博
-          organization: ""
-          email: zhangxubo1@huawei.com
-        - gitee_id: wlff123
-          gitcode_id: wlff234
-          name: 吴龙飞
-          organization: ""
-          email: wulf234@163.com
-        - gitee_id: libiao2024
-          gitcode_id: libiao2024
-          name: 李标
-          organization: ""
-          email: 1102510224@qq.com
-
-    - repo:
-        - opengauss/cantian
-      committers:
-        - gitee_id: ""
-          gitcode_id: lijieac
-          name: 李杰
-          organization: ""
-          email: lijie34@huawei.com
-        - gitee_id: ""
-          gitcode_id: yuanyazhi
-          name: yuanyazhi
-          organization: ""
-          email: yuanyazhi@huawei.com
-    - repo:
-        - opengauss/DMS
-        - opengauss/DSS
-        - opengauss/CBB
-      committers:
-        - gitee_id: zhouzhiwei1992
-          gitcode_id: zhou-zhiwei
-          name: 周智伟
-          organization: ""
-          email: w929296793@qq.com
-        - gitee_id: git_for_andy
-          gitcode_id: andy_git
-          name: 廖美丰
-          organization: ""
-          email: andymind@126.com
-        - gitee_id: bowen9799
-          gitcode_id: bowen9799
-          name: 刘博文
-          organization: ""
-          email: bowen9799@noreply.gitcode.com
-        - gitee_id: huxilin
-          gitcode_id: huxilin
-          name: huxilin
-          organization: ""
-          email: huxilin@huawei.com
-        - gitee_id: peibaoyi
-          gitcode_id: peibaoyi
-          name: 裴鲍义
-          organization: ""
-          email: 943490186@qq.com
-        - gitee_id: zhulixia
-          gitcode_id: zhulixia_hw
-          name: 朱丽霞
-          organization: ""
-          email: zhulixia3@huawei.com
-        - gitee_id: xzyinyong2
-          gitcode_id: xzyinyong
-          name: 殷永
-          organization: ""
-          email: xzyinyong@163.com
-        - gitee_id: ""
-          gitcode_id: zkcarl
-          name: 陈志凯
-          organization: ""
-          email: ""
-
-    - repo:
-        - opengauss/yukon
-      committers:
-        - gitee_id: xiong_xjun
-          gitcode_id: xiong_xjun
-          name: 熊小军
-          organization: huawei
-          email: xiong_xiaojun@yeah.net
-        - gitee_id: gentle_hu
-          gitcode_id: CarrotGo
-          name: 胡正超
-          organization: huawei
-          email: huzhengchao4@huawei.com
-        - gitee_id: zhouqinsm
-          gitcode_id: zhouqinsm
-          name: 周芹
-          organization: supermap
-          email: zhouqin@supermap.com
-        - gitee_id: huangning2
-          gitcode_id: huangning21
-          name: 黄宁
-          organization: ""
-          email: huangning2@supermap.com
-
-    - repo:
-        - opengauss/oGRAC
-      committers:
-        - gitee_id: ""
-          gitcode_id: lijieac
-          name: 李杰
-          organization: huawei
-          email: lijie34@huawei.com
-        - gitee_id: ""
-          gitcode_id: yuanyazhi
-          name: 原雅芝
-          organization: huawei
-          email: yuanyazhi@huawei.com 
-        - gitee_id: ""
-          gitcode_id: wang_bowen
-          name: 王博文
-          organization: huawei
-          email: wangbowen69@huawei.com
-        - gitee_id: caoy
-          gitcode_id: CityYard
-          name: 曹宇
-          organization: huawei
-          email: caoyu09@huawei.com
-        - gitee_id: weithu
-          gitcode_id: weithu
-          name: 王伟
-          organization: huawei
-          email: wangwei321@huawei.com
-        - gitee_id: liangyuansheng
-          gitcode_id: theothersideofsea
-          name: 梁远胜
-          organization: huawei
-          email: liangyuansheng@huawei.com
-        - gitee_id: xicoding
-          gitcode_id: ""
-          name: 习楚天
-          organization: huawei
-          email: xichutian@huawei.com
-
-    - repo:
-        - opengauss/oGRAC_dev
-      committers:
-        - gitee_id: ""
-          gitcode_id: lijieac
-          name: 李杰
-          organization: huawei
-          email: lijie34@huawei.com
-        - gitee_id: ""
-          gitcode_id: yuanyazhi
-          name: 原雅芝
-          organization: huawei
-          email: yuanyazhi@huawei.com 
-        - gitee_id: ""
-          gitcode_id: wang_bowen
-          name: 王博文
-          organization: huawei
-          email: wangbowen69@huawei.com
-        - gitee_id: caoy
-          gitcode_id: CityYard
-          name: 曹宇
-          organization: huawei
-          email: caoyu09@huawei.com
-        - gitee_id: weithu
-          gitcode_id: weithu
-          name: 王伟
-          organization: huawei
-          email: wangwei321@huawei.com
-        - gitee_id: liangyuansheng
-          gitcode_id: theothersideofsea
-          name: 梁远胜
-          organization: huawei
-          email: liangyuansheng@huawei.com
-        - gitee_id: xicoding
-          gitcode_id: ""
-          name: 习楚天
-          organization: huawei
-          email: xichutian@huawei.com
-    - repo:
-        - opengauss/oGRAC_DOC
-      committers:
-        - gitee_id: struggle_hw
-          gitcode_id: hwworkholic
-          name: 陈琛
-          organization: ""
-          email: arcoalien@qq.com
-        - gitee_id: ""
-          gitcode_id: muyulinzhong
-          name: 宋世轩
-          organization: huawei
-          email: ""
-        - gitee_id: ""
-          gitcode_id: yuanyazhi
-          name: 原雅芝
-          organization: huawei
-          email: yuanyazhi@huawei.com 
-        - gitee_id: ""
-          gitcode_id: wang_bowen
-          name: 王博文
-          organization: huawei
-          email: wangbowen69@huawei.com
-        - gitee_id: xiong_xjun
-          gitcode_id: xiong_xjun
-          name: 熊小军
-          organization: huawei
-          email: xiong_xiaojun@yeah.net
-        - gitee_id: liangyuansheng
-          gitcode_id: theothersideofsea
-          name: 梁远胜
-          organization: huawei
-          email: liangyuansheng@huawei.com
+  - repo:
+      - opengauss/neon
+      - opengauss/ogpilot
+      - opengauss/Presentations
