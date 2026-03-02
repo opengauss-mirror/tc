@@ -82,6 +82,7 @@ sigs:
   - openGauss-third_party
   - openGauss-AI
   - openGauss-DBMind
+  - oG-Memory
 - name: GIS
   repositories:
   - Yukon
