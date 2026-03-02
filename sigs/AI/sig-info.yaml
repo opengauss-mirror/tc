@@ -29,6 +29,7 @@ repositories:
   - repo:
       - opengauss/openGauss-AI
       - opengauss/openGauss-DBMind
+      - opengauss/oG-Memory
     committers:
       - gitee_id: excaliburxk
         # 需要补充 GitCode 用户ID
