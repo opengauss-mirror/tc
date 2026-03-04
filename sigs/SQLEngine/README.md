@@ -18,7 +18,6 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 ### Committer列表
 
 - 蔡磊[@cailei19](https://gitcode.com/cailei19)，*cailei19@huawei.com*
-- 胡正超[@gentle_hu](https://gitcode.com/CarrotGo), *huzhengchao4@huawei.com*
 - 李海啸[@tsunamis-li](https://gitcode.com/lihaixiao)，*lihaixiao3@huawei.com*
 - 王碧华[@bihua111](https://gitcode.com/bihua111)，*wangbihua1@huawei.com*
 - 章佳豪[@zhangjiahao_hw](https://gitcode.com/zjh_hw)，*zhangjiahao65@huawei.com*

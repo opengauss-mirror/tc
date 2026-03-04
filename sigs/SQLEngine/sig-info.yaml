@@ -34,11 +34,6 @@ repositories:
         name: 蔡磊
         organization: huawei
         email: cailei19@huawei.com
-      - gitee_id: gentle_hu
-        gitcode_id: CarrotGo
-        name: 胡正超
-        organization: huawei
-        email: huzhengchao4@huawei.com
       - gitee_id: tsunamis-li
         gitcode_id: lihaixiao
         name: 李海啸
