@@ -918,6 +918,7 @@ repositories:
       - opengauss/DCC
       - opengauss/CM
       - opengauss/CM-RestAPI
+      - opengauss/MDCE
     committers:
       - gitee_id: zhangxubo
         gitcode_id: zhangxubo
