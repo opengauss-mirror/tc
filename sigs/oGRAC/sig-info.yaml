@@ -1,0 +1,148 @@
+name: oGRAC
+description: ""
+mailing_list: connectors@opengauss.org
+maintainers:
+  - gitee_id: liangyuansheng
+    gitcode_id: theothersideofsea
+    name: 梁远胜
+    organization: huawei
+    email: liangyuansheng@huawei.com
+  - gitee_id: ""
+    gitcode_id: muyulinzhong
+    name: 宋世轩
+    organization: huawei
+    email: songshixaun@huawei.com
+  - gitee_id: weithu
+    gitcode_id: weithu
+    name: 王伟
+    organization: huawei
+    email: wangwei321@huawei.com
+  - gitee_id: xicoding
+    gitcode_id: xicoding
+    name: 习楚天
+    organization: huawei
+    email: xichutian@huawei.com
+  - gitee_id: xiong_xjun
+    gitcode_id: xiong_xjun
+    name: 熊小军
+    organization: huawei
+    email: xiongxiaojun2@huawei.com
+  - gitee_id: ""
+    gitcode_id: congzhou2603
+    name: 周聪
+    organization: huawei
+    email: zhoucong42@huawei.com
+  - gitee_id: struggle_hw
+    gitcode_id: hwworkholic
+    name: 陈琛
+    organization: huawei
+    email: joshua.chen@huawei.com
+  - gitee_id: ""
+    gitcode_id: chenxiaobin19
+    name: 陈晓滨
+    organization: huawei
+    email: chenxiaobin19@huawei.com
+  - gitee_id: he-chenghan
+    gitcode_id: ""
+    name: 贺承汉
+    organization: huawei
+    email: hechenghan@huawei.com
+  - gitee_id: ""
+    gitcode_id: totaj
+    name: 彭炯
+    organization: huawei
+    email: pengjiong1@huawei.com
+  - gitee_id: ""
+    gitcode_id: qinyudongfang
+    name: 秦昱东方
+    organization: h-partners
+    email: qinyudongfang@h-partners.com
+  - gitee_id: ""
+    gitcode_id: shiyingzhe
+    name: 史英哲
+    organization: h-partners
+    email: shiyingzhe1@h-partners.com
+  - gitee_id: ""
+    gitcode_id: wang_bowen
+    name: 王博文
+    organization: huawei
+    email: wangbowen69@huawei.com
+  - gitee_id: shirley_zhengx
+    gitcode_id: shirley_zhengx
+    name: 郑雪
+    organization: huawei
+    email: zhengxue6@huawei.com
+repositories:
+  - repo:
+      - opengauss/oGRAC
+    committers:
+      - gitee_id: liangyuansheng
+        gitcode_id: theothersideofsea
+        name: 梁远胜
+        organization: huawei
+        email: liangyuansheng@huawei.com
+      - gitee_id: ""
+        gitcode_id: muyulinzhong
+        name: 宋世轩
+        organization: huawei
+        email: songshixaun@huawei.com
+      - gitee_id: weithu
+        gitcode_id: weithu
+        name: 王伟
+        organization: huawei
+        email: wangwei321@huawei.com
+      - gitee_id: xicoding
+        gitcode_id: xicoding
+        name: 习楚天
+        organization: huawei
+        email: xichutian@huawei.com
+      - gitee_id: xiong_xjun
+        gitcode_id: xiong_xjun
+        name: 熊小军
+        organization: huawei
+        email: xiongxiaojun2@huawei.com
+      - gitee_id: ""
+        gitcode_id: congzhou2603
+        name: 周聪
+        organization: huawei
+        email: zhoucong42@huawei.com
+      - gitee_id: struggle_hw
+        gitcode_id: hwworkholic
+        name: 陈琛
+        organization: huawei
+        email: joshua.chen@huawei.com
+      - gitee_id: ""
+        gitcode_id: chenxiaobin19
+        name: 陈晓滨
+        organization: huawei
+        email: chenxiaobin19@huawei.com
+      - gitee_id: he-chenghan
+        gitcode_id: he-chenghan
+        name: 贺承汉
+        organization: huawei
+        email: hechenghan@huawei.com
+      - gitee_id: ""
+        gitcode_id: totaj
+        name: 彭炯
+        organization: huawei
+        email: pengjiong1@huawei.com
+      - gitee_id: ""
+        gitcode_id: qinyudongfang
+        name: 秦昱东方
+        organization: h-partners
+        email: qinyudongfang@h-partners.com
+      - gitee_id: ""
+        gitcode_id: shiyingzhe
+        name: 史英哲
+        organization: h-partners
+        email: shiyingzhe1@h-partners.com
+      - gitee_id: ""
+        gitcode_id: wang_bowen
+        name: 王博文
+        organization: huawei
+        email: wangbowen69@huawei.com
+      - gitee_id: shirley_zhengx
+        gitcode_id: shirley_zhengx
+        name: 郑雪
+        organization: huawei
+        email: zhengxue6@huawei.com
