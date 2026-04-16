@@ -9,11 +9,11 @@ maintainers:
     name: 陈启军
     organization: huawei
     email: Royi.chenqijun@huawei.com
-  - gitee_id: hwhbj
-    gitcode_id: hw_hbj
-    name: 蒋宏博
+  - gitee_id: congzhou2603
+    gitcode_id: congzhou2603
+    name: 周聪
     organization: huawei
-    email: xdhbj0022@163.com
+    email: zhoucong42@huawei.com
 repositories:
   - repo:
       - opengauss/openGauss-server
@@ -45,3 +45,13 @@ repositories:
         name: shay.akirav
         organization: ""
         email: shay.akirav@huawei.com
+      - gitee_id: shirley_zhengx
+        gitcode_id: shirley_zhengx
+        name: 郑雪
+        organization: huawei
+        email: zhengxue6@huawei.com
+      - gitee_id: ""
+        gitcode_id: muyulinzhong
+        name: 宋世轩
+        organization: huawei
+        email: ""
