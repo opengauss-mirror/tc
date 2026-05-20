@@ -1526,7 +1526,7 @@ repositories:
         organization: huawei
         email: 1102510224@qq.com
   - repo:
-      - opengauss/oG-Memory
+      - opengauss/oGMemory
     committers:
       - gitee_id: wangtianyuan1994
         gitcode_id: wangtianyuan1994
