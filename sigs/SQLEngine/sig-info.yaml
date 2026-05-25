@@ -49,11 +49,6 @@ repositories:
         name: 章佳豪
         organization: huawei
         email: zhangjiahao65@huawei.com
-      - gitee_id: dodders
-        gitcode_id: dodders
-        name: 赖盛好
-        organization: huawei
-        email: laishenghao1@huawei.com
       - gitee_id: yangzhizheng94
         gitcode_id: mrzack
         name: 杨志铮
@@ -69,8 +64,13 @@ repositories:
         name: 柳长沣
         organization: huawei
         email: superlchf@qq.com
-      - gitee_id: chenxiaobin19
-        gitcode_id: chenxiaobin19
-        name: 陈晓滨
+      - gitee_id: ywzq1161327784 
+        gitcode_id: ywzq1161327784 
+        name: 窦欣
         organization: huawei
-        email: chenxiaobin19@huawei.com
+        email: douxin5@huawei.com
+      - gitee_id: wofanzheng 
+        gitcode_id: wofanzheng 
+        name: 韩立柱
+        organization: huawei
+        email: hanlizhu@huawei.com
