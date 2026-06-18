@@ -14,6 +14,11 @@ maintainers:
     name: 吴冬儿
     organization: huawei
     email: wudonger@huawei.com
+  - gitee_id: sunyunyu
+    gitcode_id: sunyunyu
+    name: 孙云玉
+    organization: huawei
+    email: sunyunyu@huawei.com
 repositories:
   - repo:
       - opengauss/docs
