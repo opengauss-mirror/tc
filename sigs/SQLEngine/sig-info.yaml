@@ -14,41 +14,11 @@ maintainers:
     name: 杨皓
     organization: huawei
     email: yanghao37@huawei.com
-  - gitee_id: gaussyuexz
-    gitcode_id: gaussyuexz
-    name: 岳行之
-    organization: huawei
-    email: yuexingzhi2@huawei.com
-  - gitee_id: ziki77
-    gitcode_id: ziki77
-    name: 周兆琦
-    organization: huawei
-    email: zhouzhaoqi1@huawei.com
 repositories:
   - repo:
       - opengauss/openGauss-server
       - opengauss/openGauss-third_party
     committers:
-      - gitee_id: cailei19
-        gitcode_id: cailei19
-        name: 蔡磊
-        organization: huawei
-        email: cailei19@huawei.com
-      - gitee_id: tsunamis-li
-        gitcode_id: lihaixiao
-        name: 李海啸
-        organization: huawei
-        email: lihaixiao3@huawei.com
-      - gitee_id: bihua111
-        gitcode_id: bihua111
-        name: 王碧华
-        organization: huawei
-        email: wangbihua1@huawei.com
-      - gitee_id: zhangjiahao_hw
-        gitcode_id: zjh_hw
-        name: 章佳豪
-        organization: huawei
-        email: zhangjiahao65@huawei.com
       - gitee_id: yangzhizheng94
         gitcode_id: mrzack
         name: 杨志铮
