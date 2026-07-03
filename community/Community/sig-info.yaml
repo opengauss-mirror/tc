@@ -259,6 +259,11 @@ repositories:
         name: 吴冬儿
         organization: ''
         email: wudonger@huawei.com
+      - gitee_id: sunyunyu
+        gitcode_id: sunyunyu
+        name: 孙云玉
+        organization: ''
+        email: sunyunyu@huawei.com
       - gitee_id: zhangxubo
         gitcode_id: zhangxubo
         name: 张旭博
