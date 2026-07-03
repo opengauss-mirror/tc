@@ -12,15 +12,9 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 
 - 彭炯[@totaj](https://gitcode.com/totaj)，*pengjiong1@huawei.com*
 - 杨皓[@yangahos](https://gitcode.com/yanghaos)，*yanghao37@huawei.com*
-- 岳行之[@gaussyuexz](https://gitcode.com/gaussyuexz)，*yuexingzhi2@huawei.com*
-- 周兆琦[@ziki77](https://gitcode.com/ziki77)，*zhouzhaoqi1@huawei.com*
 
 ### Committer列表
 
-- 蔡磊[@cailei19](https://gitcode.com/cailei19)，*cailei19@huawei.com*
-- 李海啸[@tsunamis-li](https://gitcode.com/lihaixiao)，*lihaixiao3@huawei.com*
-- 王碧华[@bihua111](https://gitcode.com/bihua111)，*wangbihua1@huawei.com*
-- 章佳豪[@zhangjiahao_hw](https://gitcode.com/zjh_hw)，*zhangjiahao65@huawei.com*
 - 杨志铮[@mrzack](https://gitcode.com/mrzack)，*yangzhizheng@chinamobile.com*
 - 赵立伟[@levy53071](https://gitcode.com/levy53071)，*zhaoliwei@chinamobile.com*
 - 柳长沣[@superblaker](https://gitcode.com/superlchf)，*liuchangfeng2@huawei.com*
@@ -34,6 +28,8 @@ SQLEngine SIG 致力于提升openGauss的SQL支持能力、执行效率，为用
 - 周平高[@zankyfun4](https://gitee.com/zankyfun4)，*zhoupinggao@huawei.com*
 - 杨迪[@yangdi07](https://gitee.com/yangdi07)，*yangdi14@huawei.com*
 - 陈浩[@chenhao7253886](https://gitee.com/chenhao7253886)，*chenhao220@huawei.com*
+- 岳行之[@gaussyuexz](https://gitcode.com/gaussyuexz)，*yuexingzhi2@huawei.com*
+- 周兆琦[@ziki77](https://gitcode.com/ziki77)，*zhouzhaoqi1@huawei.com*
 
 # 联系方式
 
