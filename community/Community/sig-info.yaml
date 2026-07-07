@@ -1641,6 +1641,44 @@ repositories:
         organization: huawei
         email: zhengxue6@huawei.com
   - repo:
+    - opengauss/openGauss-server
+    - opengauss/oGRAC
+    - opengauss/oGRAC-docs
+    - opengauss/oGRAC-common-tools
+    committers:
+      - gitee_id: ""
+        gitcode_id: zhangzq131
+        name: 张志强
+        organization: huawei
+        email: zhangzq131@gmail.com
+  - repo:
+    - opengauss/oGRAC-docs
+    - opengauss/oGRAC-common-tools
+    committers: 
+      - gitee_id: ""
+        gitcode_id: luodongxu
+        name: 罗东旭
+        organization: huawei
+        email: luodongxu77@163.com
+  - repo:
+    - opengauss/oGRAC-common-tools
+    committers:
+      - gitee_id: shirley_zhengx
+        gitcode_id: shirley_zhengx
+        name: 郑雪
+        organization: huawei
+        email: zhengxue6@huawei.com
+      - gitee_id: congzhou2603
+        gitcode_id: congzhou2603
+        name: 周聪
+        organization: huawei
+        email: zhoucong42@huawei.com
+      - gitee_id: ""
+        gitcode_id: muyulinzhong
+        name: 宋世轩
+        organization: huawei
+        email: songshixaun@huawei.com
+  - repo:
       - opengauss/neon
       - opengauss/ogpilot
       - opengauss/Presentations
