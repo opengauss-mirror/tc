@@ -130,6 +130,11 @@ repositories:
         name: 李标
         organization: huawei
         email: 1102510224@qq.com
+      - gitee_id: wofanzheng
+        gitcode_id: wofanzheng
+        name: 韩立柱
+        organization: huawei
+        email: 2399541971@qq.com
 
   - repo:
       - opengauss/compatibility-assessment
