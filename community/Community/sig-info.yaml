@@ -80,6 +80,11 @@ maintainers:
     name: 吴龙飞
     organization: huawei
     email: wulf234@163.com
+  - gitee_id: wofanzheng
+    gitcode_id: wofanzheng
+    name: 韩立柱
+    organization: huawei
+    email: 2399541971@qq.com
 
 repositories:
   - repo:
