@@ -16,6 +16,7 @@ Plugin SIG 致力于打造多层级、多方法的插件化架构，使能社区
 ### Maintainer列表
 
 - 陈晓滨[@chenxiaobin19](https://gitee.com/chenxiaobin19), *chenxiaobin19@huawei.com*
+- 窦欣[@ywzq1161327784](https://gitee.com/ywzq1161327784), *douxin5@huawei.com*
 - 周平高[@zankyfun4](https://gitee.com/zankyfun4)，*zhoupinggao@huawei.com*
 
 
