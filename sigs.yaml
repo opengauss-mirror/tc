@@ -83,6 +83,7 @@ sigs:
   - openGauss-AI
   - openGauss-DBMind
   - oG-Memory
+  - openGauss-MemoryWorkload
 - name: GIS
   repositories:
   - Yukon

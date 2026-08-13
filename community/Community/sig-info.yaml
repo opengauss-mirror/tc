@@ -1684,6 +1684,29 @@ repositories:
         organization: huawei
         email: songshixaun@huawei.com
   - repo:
+      - opengauss/openGauss-MemoryWorkload
+    committers:
+      - gitee_id: wlff123
+        gitcode_id: wlff234
+        name: 吴龙飞
+        organization: huawei
+        email: wulf234@163.com
+      - gitee_id: Igali
+        gitcode_id: Igali
+        name: 吉文克
+        organization: ''
+        email: jwkchn@163.com
+      - gitee_id: jcp0578
+        gitcode_id: jcp0578
+        name: 季晨鹏
+        organization: ''
+        email: jcp0578@gmail.com
+      - gitee_id: chrisfang
+        gitcode_id: chrisfang
+        name: 方托
+        organization: ''
+        email: 1031194702@qq.com
+  - repo:
       - opengauss/neon
       - opengauss/ogpilot
       - opengauss/Presentations

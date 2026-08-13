@@ -1,0 +1,6 @@
+name: openGauss-MemoryWorkload
+description: openGauss memory workload
+type: public
+branches:
+  - name: master
+    type: ""
