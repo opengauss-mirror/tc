@@ -70,6 +70,10 @@ repositories:
   protected_branches:
     - master
   type: public
+- name: openGauss-MemoryWorkload
+  description: "openGauss memory workload"
+  protected_branches: []
+  type: public
 - name: openGauss-connector-go-pq
   description: "openGauss go pq connector"
   protected_branches:
