@@ -9,11 +9,6 @@ maintainers:
     name: 张长军
     organization: huawei
     email: zhangchangjun2@huawei.com
-  - gitee_id: justbk
-    gitcode_id: justbk
-    name: 周斌
-    organization: huawei
-    email: 249396768@qq.com
   - gitee_id: sungang14
     gitcode_id: sungang14
     name: 孙刚
@@ -27,127 +22,33 @@ repositories:
       - opengauss/QA
       - opengauss/Yat
     committers:
-      - gitee_id: chendong76
-        gitcode_id: chendong76
-        name: 陈栋
-        organization: huawei
-        email: 1209756284@qq.com
-      - gitee_id: szoscar55
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 宋菲
+      - gitee_id: ""
+        gitcode_id: liuzhen001
+        name: 刘珍
         organization: ""
-        email: songfei@shentongdata.com
-      - gitee_id: JusticeArbiter
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: ""
-        organization: ""
-        email: ""
-      - gitee_id: cloudsbreak
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: ""
-        organization: ""
-        email: ""
-      - gitee_id: liao-shiting
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 廖诗婷
-        organization: ""
-        email: liaost@vastdata.com.cn
-      - gitee_id: zengseliang
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 曾色亮
-        organization: ""
-        email: zengseliang@ncti-gba.cn
-      - gitee_id: zcg001
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: ""
-        organization: ""
-        email: ""
-      - gitee_id: roxanne315
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 梁燕
-        organization: ""
-        email: liangyan@vastdata.com.cn
-      - gitee_id: dreamalloc
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 赵思骑
-        organization: ""
-        email: zhaosq76@chinaunicom.cn
-      - gitee_id: min-sun
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 孙敏
-        organization: ""
-        email: min.sun@enmotech.com
-      - gitee_id: wan005
-        gitcode_id: wan005
-        name: 万方
-        organization: ""
-        email: wanfang5@h-partners.com
-      - gitee_id: stella_fan
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: 樊书娟
-        organization: ""
-        email: fanshujuan@xfusion.com
-      - gitee_id: lvzhaofei
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: ""
-        organization: ""
-        email: ""
-      - gitee_id: dolphin-m
-        gitcode_id: dolphin-m
-        name: 明沛
-        organization: ""
-        email: mingpei@huawei.com
-      - gitee_id: munan
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: ""
-        organization: ""
-        email: ""
-      - gitee_id: zhonglixuntaqianba
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: ""
-        organization: ""
-        email: ""
+        email: 347365147@qq.com
       - gitee_id: chen-czywj
         gitcode_id: czywj
         name: 陈紫阳
         organization: ""
-        email: ""
-      - gitee_id: sweet365
-        # 需要补充 GitCode 用户ID
-        gitcode_id: ""
-        name: ""
-        organization: ""
-        email: ""
-      - gitee_id: ningyali
-        gitcode_id: ningyali
-        name: 宁雅黎
-        organization: ""
-        email: ningyali@h-partners.com
-      - gitee_id: ""
+        email: czywj163@163.com
+      - gitee_id: lvlintao666
         gitcode_id: u012280419
         name: 吕林涛
         organization: ""
-        email: ""
-      - gitee_id: ""
-        gitcode_id: m0_52125670
-        name: 刘桐
+        email: 1558341679@qq.com
+      - gitee_id: l1azzzy
+        gitcode_id: l1azzzy
+        name: 李锦波
         organization: ""
-        email: ""
-      - gitee_id: ""
-        gitcode_id: haomeng802
-        name: 郝梦
+        email: 570157209@qq.com
+      - gitee_id: szoscar55
+        gitcode_id: songfei_sz
+        name: 宋菲
         organization: ""
-        email: "15229369638@163.com"
+        email: songfei@shentongdata.com
+      - gitee_id: cloudsbreak
+        gitcode_id: cloudsbreak
+        name: 李建桂
+        organization: ""
+        email: lijg@vastdata.com.cn
