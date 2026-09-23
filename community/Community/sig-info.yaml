@@ -1548,6 +1548,11 @@ repositories:
         name: 彭雅伦
         organization: ""
         email: akushonkamen@163.com
+      - gitee_id: chrisfang
+        gitcode_id: chrisfang
+        name: 方托
+        organization: ""
+        email: 1031194702@qq.com
   - repo:
       - opengauss/openGauss-server-RackServer
       - opengauss/org-issue
