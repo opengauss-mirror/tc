@@ -135,6 +135,11 @@ repositories:
         name: 韩立柱
         organization: huawei
         email: 2399541971@qq.com
+      - gitee_id: zff_unique
+        gitcode_id: zff_unique
+        name: 朱芳芳
+        organization: huawei
+        email: xingxingzffone@163.com
 
   - repo:
       - opengauss/compatibility-assessment
