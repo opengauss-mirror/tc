@@ -39,8 +39,3 @@ repositories:
         name: 窦欣
         organization: huawei
         email: douxin5@huawei.com
-      - gitee_id: wofanzheng 
-        gitcode_id: wofanzheng 
-        name: 韩立柱
-        organization: huawei
-        email: hanlizhu@huawei.com
