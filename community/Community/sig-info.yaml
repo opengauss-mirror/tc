@@ -90,6 +90,11 @@ maintainers:
     name: 李标
     organization: huawei
     email: 1102510224@qq.com
+  - gitee_id: zff_unique
+    gitcode_id: zff_unique
+    name: 朱芳芳
+    organization: huawei
+    email: xingxingzffone@163.com
 
 repositories:
   - repo:
