@@ -612,6 +612,11 @@ repositories:
         name: 李建桂
         organization: ""
         email: lijg@vastdata.com.cn
+      - gitee_id: ""
+        gitcode_id: wuchenlong
+        name: 吴辰龙
+        organization: ""
+        email: wuchendragon@outlook.com
   - repo:
       - opengauss/openGauss-embedded
     committers:
