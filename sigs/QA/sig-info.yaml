@@ -9,11 +9,11 @@ maintainers:
     name: 张长军
     organization: huawei
     email: zhangchangjun2@huawei.com
-  - gitee_id: sungang14
-    gitcode_id: sungang14
-    name: 孙刚
-    organization: huawei
-    email: sungang14@huawei.com
+  - gitee_id: ""
+    gitcode_id: liuzhen001
+    name: 刘珍
+    organization: ""
+    email: 347365147@qq.com
 repositories:
   - repo:
       - opengauss/openGauss-server
@@ -52,3 +52,8 @@ repositories:
         name: 李建桂
         organization: ""
         email: lijg@vastdata.com.cn
+      - gitee_id: ""
+        gitcode_id: wuchenlong
+        name: 吴辰龙
+        organization: ""
+        email: wuchendragon@outlook.com

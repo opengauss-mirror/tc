@@ -18,11 +18,13 @@
 
 ### Maintainer列表
 
-- 孙刚[@sungang14](https://gitcode.com/sungang14)，*sungang14@huawei.com*
+- 刘珍[@liuzhen001](https://gitcode.com/liuzhen001)，*347365147@qq.com*
 
 ### Committer列表
 
 - 张长军[@dbowner_zhang](https://gitee.com/dbowner_zhang)，*zhangchangjun2@huawei.com*
+- 吴辰龙[@wuchenlong](https://gitcode.com/wuchenlong)，*wuchendragon@outlook.com*
+
 - 宋菲[@songfei_sz](https://gitcode.com/songfei_sz)，*songfei@shentongdata.com*
 - 李建桂[@cloudsbreak](https://gitcode.com/cloudsbreak)，*lijg@vastdata.com.cn*
 - 王建达[@yc-jianda](https://gitcode.com/yc-jianda)，*rjyf_wjd@163.com*
